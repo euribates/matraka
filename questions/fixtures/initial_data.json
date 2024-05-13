@@ -260,6 +260,796 @@
     }
 },
 {
+    "model": "questions.question",
+    "pk": 27,
+    "fields": {
+        "text": "Los diputados tienen derecho:",
+        "source": "",
+        "created_at": "2024-05-13T19:21:44.421Z",
+        "updated_at": "2024-05-13T19:21:44.421Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 28,
+    "fields": {
+        "text": "Los diputados tiene el deber:",
+        "source": "",
+        "created_at": "2024-05-13T20:25:00.847Z",
+        "updated_at": "2024-05-13T20:25:00.847Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 29,
+    "fields": {
+        "text": "Se adquiere la condición plena de Diputado:",
+        "source": "",
+        "created_at": "2024-05-13T20:26:44.742Z",
+        "updated_at": "2024-05-13T20:26:44.742Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 30,
+    "fields": {
+        "text": "Según el Reglamento del Parlamento, la Diputación Permanente tiene un mínimo de:",
+        "source": "",
+        "created_at": "2024-05-13T20:40:44.140Z",
+        "updated_at": "2024-05-13T20:40:44.140Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 31,
+    "fields": {
+        "text": "¿Cuál de los siguientes NO forma parte del sistema Cl@ve de Identificación, Autenticación y Firma Electrónica para los ciudadanos común a todo el Sector Público Administrativo Estatal?",
+        "source": "",
+        "created_at": "2024-05-13T20:45:15.028Z",
+        "updated_at": "2024-05-13T20:45:15.028Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 32,
+    "fields": {
+        "text": "¿Cuál de los siguientes niveles de interoperabilidad según el Marco Europeo de Interoperabilidad se refiere a que las organizaciones puedan procesar de manera inteligible la información procedente de fuentes exteriores?",
+        "source": "",
+        "created_at": "2024-05-13T20:48:14.147Z",
+        "updated_at": "2024-05-13T20:48:14.148Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 33,
+    "fields": {
+        "text": "Las resoluciones de la Agencia Española de Protección de Datos se harán públicas una vez que sean notificadas a los:",
+        "source": "",
+        "created_at": "2024-05-13T20:49:23.703Z",
+        "updated_at": "2024-05-13T20:49:23.703Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 34,
+    "fields": {
+        "text": "Según la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿cuál de los siguientes puntos es incorrecto en relación a un expediente administrativo?",
+        "source": "Ley 39/2015, del Procedimiento Administrativo, artículo 70.3",
+        "created_at": "2024-05-13T20:53:16.171Z",
+        "updated_at": "2024-05-13T21:07:03.243Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 35,
+    "fields": {
+        "text": "El portal que es el punto general para la entrada de facturas electrónicas de la Administración General del Estado se denomina:",
+        "source": "",
+        "created_at": "2024-05-13T21:07:52.665Z",
+        "updated_at": "2024-05-13T21:07:52.665Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 36,
+    "fields": {
+        "text": "Señale la respuesta incorrecta relativa a una arquitectura basada en servicios web:",
+        "source": "",
+        "created_at": "2024-05-13T21:09:25.633Z",
+        "updated_at": "2024-05-13T21:09:25.633Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 37,
+    "fields": {
+        "text": "El Esquema Nacional de Seguridad, Real Decreto 3/2010, de 8 de enero, en su artículo 34, indica que los sistemas de información de nivel medio serán objeto de una auditoría regular ordinaria que verifique el cumplimiento de los requerimientos en él definidos. ¿Cuál es la periodicidad obligatoria para la realización de la misma?",
+        "source": "",
+        "created_at": "2024-05-13T21:11:10.404Z",
+        "updated_at": "2024-05-13T21:11:10.404Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 38,
+    "fields": {
+        "text": "Según la resolución de 19 de julio de 2011, de la Secretaría de Estado para la Función Pública, por la que se aprueba la Norma Técnica de Interoperabilidad de Digitalización de Documentos, el nivel de resolución mínimo para las imágenes electrónicas será de:",
+        "source": "",
+        "created_at": "2024-05-13T21:13:42.881Z",
+        "updated_at": "2024-05-13T21:13:42.881Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 39,
+    "fields": {
+        "text": "¿Qué es la WAI?",
+        "source": "",
+        "created_at": "2024-05-13T21:15:46.258Z",
+        "updated_at": "2024-05-13T21:15:46.259Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 40,
+    "fields": {
+        "text": "¿Cuál de los siguientes no es un formato de firma electrónica?",
+        "source": "",
+        "created_at": "2024-05-13T21:17:56.348Z",
+        "updated_at": "2024-05-13T21:17:56.348Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 41,
+    "fields": {
+        "text": "¿Cuál de las siguientes es una de las funciones obligatorias para el Delegado de Protección de Datos (DPD) establecidas por el artículo 39 del RGPD?",
+        "source": "",
+        "created_at": "2024-05-13T21:19:57.604Z",
+        "updated_at": "2024-05-13T21:19:57.604Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 42,
+    "fields": {
+        "text": "En el Punto General de Entrada de Facturas de la Administración General del Estado, de acuerdo a la Ley 25/2013 de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público. ¿Qué afirmación es falsa?",
+        "source": "",
+        "created_at": "2024-05-13T21:22:21.251Z",
+        "updated_at": "2024-05-13T21:22:21.251Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 43,
+    "fields": {
+        "text": "De los siguientes, es un rasgo biométrico de identificación utilizado en sistemas automáticos de reconocimiento:",
+        "source": "",
+        "created_at": "2024-05-13T21:24:05.458Z",
+        "updated_at": "2024-05-13T21:24:05.458Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 44,
+    "fields": {
+        "text": "¿Se puede publicar la información que es proporcionada en respuesta a una solicitud de acceso a la información?",
+        "source": "",
+        "created_at": "2024-05-13T21:26:11.414Z",
+        "updated_at": "2024-05-13T21:26:11.415Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 45,
+    "fields": {
+        "text": "¿Cuál de los siguientes objetivos es el más fácil de conseguir en el modelo de ciclo de vida en cascada?",
+        "source": "",
+        "created_at": "2024-05-13T21:28:15.198Z",
+        "updated_at": "2024-05-13T21:28:15.198Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 46,
+    "fields": {
+        "text": "¿Qué es el CSV de un documento?",
+        "source": "",
+        "created_at": "2024-05-13T21:29:57.797Z",
+        "updated_at": "2024-05-13T21:29:57.797Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 47,
+    "fields": {
+        "text": "¿Para qué se utiliza el servicio SMB de Windows?",
+        "source": "",
+        "created_at": "2024-05-13T21:35:09.241Z",
+        "updated_at": "2024-05-13T21:35:09.241Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 48,
+    "fields": {
+        "text": "En el contexto de un sistema operativo multiproceso, el módulo del kernel que realiza los cambios de contexto necesarios y da control de la CPU a un proceso de usuario para su ejecución inmediata es:",
+        "source": "",
+        "created_at": "2024-05-13T21:37:13.996Z",
+        "updated_at": "2024-05-13T21:37:13.996Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 49,
+    "fields": {
+        "text": "En las Bases de Datos Relacionales, ¿Qué relación existe entre tabla, registro y campo?",
+        "source": "",
+        "created_at": "2024-05-13T21:40:09.906Z",
+        "updated_at": "2024-05-13T21:40:09.906Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 50,
+    "fields": {
+        "text": "Entre las métricas que miden la complejidad tenemos:",
+        "source": "",
+        "created_at": "2024-05-13T21:41:16.184Z",
+        "updated_at": "2024-05-13T21:41:16.184Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 51,
+    "fields": {
+        "text": "Según el artículo 17 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los documentos electrónicos deberán conservarse en un formato que permita garantizar:",
+        "source": "",
+        "created_at": "2024-05-13T21:44:02.546Z",
+        "updated_at": "2024-05-13T21:44:02.546Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 52,
+    "fields": {
+        "text": "KVM Linux es",
+        "source": "",
+        "created_at": "2024-05-13T21:44:58.483Z",
+        "updated_at": "2024-05-13T21:44:58.483Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 53,
+    "fields": {
+        "text": "En la ingeniería de sistemas y la ingeniería de software, el propósito de la ingeniería de requisitos es hacer que los mismos alcancen un estado óptimo antes de alcanzar la fase de diseño en el proyecto. Los buenos requisitos deben ser:",
+        "source": "",
+        "created_at": "2024-05-13T21:46:32.743Z",
+        "updated_at": "2024-05-13T21:46:32.743Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 54,
+    "fields": {
+        "text": "En el modelado entidad-relación, utilizando la notación de Chen:",
+        "source": "",
+        "created_at": "2024-05-13T21:47:22.218Z",
+        "updated_at": "2024-05-13T21:47:22.218Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 55,
+    "fields": {
+        "text": "¿Puede un extranjero o extranjera presentar una solicitud de información?",
+        "source": "",
+        "created_at": "2024-05-13T21:48:49.730Z",
+        "updated_at": "2024-05-13T21:48:49.730Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 56,
+    "fields": {
+        "text": "La Auditoría Informática es el proceso de revisión y evaluación de los controles y medidas de seguridad que se aplican a los recursos:",
+        "source": "",
+        "created_at": "2024-05-13T21:49:55.797Z",
+        "updated_at": "2024-05-13T21:49:55.797Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 57,
+    "fields": {
+        "text": "_Apache Hadoop_ es un software libre que consiste en:",
+        "source": "",
+        "created_at": "2024-05-13T21:51:34.532Z",
+        "updated_at": "2024-05-13T21:51:34.532Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 58,
+    "fields": {
+        "text": "A diferencia de los modelos de datos lógicos y físicos, los modelos de datos conceptuales:",
+        "source": "",
+        "created_at": "2024-05-13T21:54:43.879Z",
+        "updated_at": "2024-05-13T21:54:43.879Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 59,
+    "fields": {
+        "text": "En el modelo lógico relacional, ¿qué afirmación es cierta?",
+        "source": "",
+        "created_at": "2024-05-13T21:56:08.747Z",
+        "updated_at": "2024-05-13T21:56:08.747Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 60,
+    "fields": {
+        "text": "Sobre _GNU_ se puede decir:",
+        "source": "",
+        "created_at": "2024-05-13T22:01:02.590Z",
+        "updated_at": "2024-05-13T22:01:02.590Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 61,
+    "fields": {
+        "text": "En cumplimiento del Esquema Nacional de Seguridad, antes de pasar a producción una aplicación de categoría media no es obligatorio realizar:",
+        "source": "",
+        "created_at": "2024-05-13T22:02:01.730Z",
+        "updated_at": "2024-05-13T22:03:13.045Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 62,
+    "fields": {
+        "text": "Podremos almacenar un fichero de 6 GB en un dispositivo, si el sistema de ficheros con el que está formateado es:",
+        "source": "",
+        "created_at": "2024-05-13T22:03:26.457Z",
+        "updated_at": "2024-05-13T22:03:26.457Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 63,
+    "fields": {
+        "text": "El conjunto de infraestructuras de comunicaciones y servicios básicos que interconecta a las AAPP españolas entre sí y con instituciones europeas es:",
+        "source": "",
+        "created_at": "2024-05-13T22:09:31.819Z",
+        "updated_at": "2024-05-13T22:09:31.820Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 64,
+    "fields": {
+        "text": "Se define una Red Semántica como:",
+        "source": "",
+        "created_at": "2024-05-13T22:12:17.199Z",
+        "updated_at": "2024-05-13T22:12:17.199Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 65,
+    "fields": {
+        "text": "De los siguientes, indique el que no es un lenguaje de etiquetas",
+        "source": "",
+        "created_at": "2024-05-13T22:13:33.211Z",
+        "updated_at": "2024-05-13T22:13:33.211Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 66,
+    "fields": {
+        "text": "Cuál de los siguientes productos no es un sistema _eXtended Detection and Response_",
+        "source": "https://www.paloaltonetworks.com/cyberpedia/what-is-extended-detection-response-XDR",
+        "created_at": "2024-05-13T22:16:43.147Z",
+        "updated_at": "2024-05-13T22:19:10.370Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 67,
+    "fields": {
+        "text": "En el análisis y diseño estructurado, el análisis de transacciones y transformaciones:",
+        "source": "",
+        "created_at": "2024-05-13T22:19:55.116Z",
+        "updated_at": "2024-05-13T22:19:55.116Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 68,
+    "fields": {
+        "text": "Los programadores buscan la optimización de su trabajo, independientemente del lenguaje que empleen. Señale la respuesta incorrecta sobre las ventajas que ofrece usar _Frameworks_:",
+        "source": "",
+        "created_at": "2024-05-13T22:20:54.483Z",
+        "updated_at": "2024-05-13T22:20:54.483Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 69,
+    "fields": {
+        "text": "La Tercera Parte de Confianza (TPC) de un entorno de clave pública, que se encarga de legitimar la relación de una clave pública con la identidad de un usuario o servicio es:",
+        "source": "",
+        "created_at": "2024-05-13T22:21:51.862Z",
+        "updated_at": "2024-05-13T22:21:51.862Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 70,
+    "fields": {
+        "text": "Señale la respuesta falsa. Un manual técnico de un determinado sistema va dirigido:",
+        "source": "",
+        "created_at": "2024-05-13T22:22:34.093Z",
+        "updated_at": "2024-05-13T22:22:34.093Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 71,
+    "fields": {
+        "text": "¿Qué es UML?",
+        "source": "",
+        "created_at": "2024-05-13T22:24:18.465Z",
+        "updated_at": "2024-05-13T22:24:18.465Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 72,
+    "fields": {
+        "text": "Señale la herramienta que no es una herramienta de automatización de pruebas:",
+        "source": "",
+        "created_at": "2024-05-13T22:27:27.108Z",
+        "updated_at": "2024-05-13T22:27:27.108Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 73,
+    "fields": {
+        "text": "Según el Esquema Nacional de Seguridad (ENS) ¿deben renovarse los sellos de tiempo en la información susceptible de utilizarse como evidencia electrónica futura?",
+        "source": "",
+        "created_at": "2024-05-13T22:28:31.564Z",
+        "updated_at": "2024-05-13T22:28:31.564Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 74,
+    "fields": {
+        "text": "La etiqueta HTML `&lt;iframe&gt;`:",
+        "source": "",
+        "created_at": "2024-05-13T22:30:22.239Z",
+        "updated_at": "2024-05-13T22:30:22.239Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 75,
+    "fields": {
+        "text": "En MÉTRICA V3, ¿cuál de las siguientes es una técnica o práctica asociada a las actividades de mantenimiento de sistemas de información?",
+        "source": "",
+        "created_at": "2024-05-13T22:32:26.590Z",
+        "updated_at": "2024-05-13T22:32:26.590Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 76,
+    "fields": {
+        "text": "_Solr_ es un motor de búsqueda de código abierto basado en la biblioteca Java de búsqueda del proyecto _Lucene_, y ofrece resaltado de resultados, búsqueda por facetas, caché, y una interfaz web para su administración. ¿Cuál de las siguientes afirmaciones es cierta?",
+        "source": "",
+        "created_at": "2024-05-13T22:33:46.536Z",
+        "updated_at": "2024-05-13T22:33:46.536Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 77,
+    "fields": {
+        "text": "¿Cuál de las siguientes no es una Norma Técnica de Interoperabilidad derivada del Esquema Nacional de Interoperabilidad?",
+        "source": "",
+        "created_at": "2024-05-13T22:35:09.282Z",
+        "updated_at": "2024-05-13T22:35:09.282Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 78,
+    "fields": {
+        "text": "En un árbol AVL:",
+        "source": "",
+        "created_at": "2024-05-13T22:36:29.439Z",
+        "updated_at": "2024-05-13T22:36:29.439Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 79,
+    "fields": {
+        "text": "La plataforma de desafíos de ciberseguridad del CCN-CERT, en la que cualquier persona puede demostrar su conocimiento y destreza ante diferentes desafíos en la materia (criptografía, esteganografía, exploiting, forense, networking y reversing, entre otros), se denomina:",
+        "source": "",
+        "created_at": "2024-05-13T22:38:55.449Z",
+        "updated_at": "2024-05-13T22:38:55.449Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 80,
+    "fields": {
+        "text": "El comisionado o comisionada de Transparencia y Acceso a la Información Pública, de conformidad con el artículo 65 de la Ley 12/2014, de transparencia y de acceso a la información pública, elaborará anualmente un informe que presentará al Parlamento de Canarias, en el que deberá recoger:",
+        "source": "",
+        "created_at": "2024-05-13T22:40:48.001Z",
+        "updated_at": "2024-05-13T22:40:48.001Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 81,
+    "fields": {
+        "text": "Durante cuánto tiempo se pueden conservar las imágenes captadas por sistemas de videovigilancia, de conformidad con la normativa vigente sobre Protección de Datos:",
+        "source": "",
+        "created_at": "2024-05-13T22:42:45.805Z",
+        "updated_at": "2024-05-13T22:42:45.805Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 82,
+    "fields": {
+        "text": "El objetivo del diagrama de flujo de datos es:",
+        "source": "",
+        "created_at": "2024-05-13T22:45:12.084Z",
+        "updated_at": "2024-05-13T22:45:12.084Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 83,
+    "fields": {
+        "text": "Las actuaciones contrarias a lo dispuesto en la Ley Orgánica de Protección de Datos, conforme su artículo 18, pueden ser objeto de reclamación:",
+        "source": "",
+        "created_at": "2024-05-13T22:46:20.928Z",
+        "updated_at": "2024-05-13T22:46:20.928Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 84,
+    "fields": {
+        "text": "De conformidad con la normativa vigente en materia de protección de datos, ¿tendría el Parlamento de Canarias la obligación de designar un Delegado de Protección de datos?",
+        "source": "",
+        "created_at": "2024-05-13T22:48:13.959Z",
+        "updated_at": "2024-05-13T22:48:13.960Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 85,
+    "fields": {
+        "text": "El Encargado de Tratamiento de Protección de Datos, según la normativa de protección de datos, es",
+        "source": "",
+        "created_at": "2024-05-13T22:49:02.339Z",
+        "updated_at": "2024-05-13T22:49:02.339Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 86,
+    "fields": {
+        "text": "El enfoque de género en los Presupuestos de la Comunidad Autónoma de Canarias es un mandato:",
+        "source": "",
+        "created_at": "2024-05-13T22:50:52.678Z",
+        "updated_at": "2024-05-13T22:50:52.678Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 87,
+    "fields": {
+        "text": "Los planes de igualdad, según el artículo 46 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, contendrán al menos las siguientes materias:",
+        "source": "",
+        "created_at": "2024-05-13T22:51:42.557Z",
+        "updated_at": "2024-05-13T22:51:42.557Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 88,
+    "fields": {
+        "text": "El Parlamento de Canarias se reúne anualmente en dos periodos ordinarios de sesiones:",
+        "source": "No son hábiles ni enero ni agosto",
+        "created_at": "2024-05-13T22:52:31.534Z",
+        "updated_at": "2024-05-13T22:54:20.608Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 89,
+    "fields": {
+        "text": "El orden de intervención de los Grupos Parlamentarios es:",
+        "source": "",
+        "created_at": "2024-05-13T22:54:31.393Z",
+        "updated_at": "2024-05-13T22:54:31.393Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 90,
+    "fields": {
+        "text": "Indique cual de las siguientes no es una función de la Mesa de la Cámara.",
+        "source": "Corresponde a la presidencia, articulo 34.2",
+        "created_at": "2024-05-13T22:56:15.340Z",
+        "updated_at": "2024-05-13T22:58:55.848Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 91,
+    "fields": {
+        "text": "Según el artículo 20 de las Normas de Gobierno Interior del Parlamento de Canarias, las reclamaciones previas al ejercicio de las acciones judiciales, serán planteadas:",
+        "source": "",
+        "created_at": "2024-05-13T22:59:42.625Z",
+        "updated_at": "2024-05-13T22:59:42.625Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 92,
+    "fields": {
+        "text": "El órgano de contratación en el Parlamento de Canarias, según el artículo 23 de las Normas de Gobierno Interior, es:",
+        "source": "",
+        "created_at": "2024-05-13T23:00:56.098Z",
+        "updated_at": "2024-05-13T23:00:56.098Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 93,
+    "fields": {
+        "text": "En relación con el Personal Laboral de la Cámara, según el Convenio Colectivo del Parlamento de Canarias, no es competencia de la Mesa:",
+        "source": "",
+        "created_at": "2024-05-13T23:02:38.756Z",
+        "updated_at": "2024-05-13T23:02:38.756Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 94,
+    "fields": {
+        "text": "Según el Convenio Colectivo del Parlamento, el personal laboral podrá disfrutar de un permiso, por fallecimiento, accidente o enfermedad grave de un familiar dentro del primer grado de consanguinidad o afinidad, de:",
+        "source": "",
+        "created_at": "2024-05-13T23:03:36.353Z",
+        "updated_at": "2024-05-13T23:03:36.353Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 95,
+    "fields": {
+        "text": "El artículo 20 del Convenio Colectivo del Parlamento estipula un periodo de prueba para el personal de nuevo ingreso del Grupo I y II de:",
+        "source": "",
+        "created_at": "2024-05-13T23:04:58.340Z",
+        "updated_at": "2024-05-13T23:04:58.340Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 96,
+    "fields": {
+        "text": "Los actos administrativos que pongan fin a la vía administrativa:",
+        "source": "",
+        "created_at": "2024-05-13T23:06:08.419Z",
+        "updated_at": "2024-05-13T23:06:08.419Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 97,
+    "fields": {
+        "text": "La suspensión de un plazo máximo legal para resolver un procedimiento y notificar la resolución cuando se soliciten informes preceptivos a un órgano de la misma o distinta Administración, no podrá exceder, en ningún caso, de:",
+        "source": "",
+        "created_at": "2024-05-13T23:08:44.958Z",
+        "updated_at": "2024-05-13T23:08:44.958Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 98,
+    "fields": {
+        "text": "Cuando el interesado o representante rechace la notificación de una actuación administrativa:",
+        "source": "",
+        "created_at": "2024-05-13T23:10:11.831Z",
+        "updated_at": "2024-05-13T23:10:11.831Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 99,
+    "fields": {
+        "text": "El nombramiento del Comisionado o Comisionada de Transparencia y Acceso a la Información Pública tendrá una duración de:",
+        "source": "",
+        "created_at": "2024-05-13T23:11:36.735Z",
+        "updated_at": "2024-05-13T23:11:36.735Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 100,
+    "fields": {
+        "text": "La Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública, dispone su aplicación, como sujetos obligados a:",
+        "source": "",
+        "created_at": "2024-05-13T23:12:56.097Z",
+        "updated_at": "2024-05-13T23:12:56.097Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 101,
+    "fields": {
+        "text": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, cuando el trabajador considere que la actividad entraña un riesgo grave e inminente para su vida o su salud, tendrá derecho a:",
+        "source": "",
+        "created_at": "2024-05-13T23:14:26.943Z",
+        "updated_at": "2024-05-13T23:14:26.943Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 102,
+    "fields": {
+        "text": "De conformidad con la normativa de prevención de riesgos laborales, los Delegados de Prevención serán designados, por y entre los representantes del personal, con arreglo a la siguiente escala:",
+        "source": "",
+        "created_at": "2024-05-13T23:16:33.938Z",
+        "updated_at": "2024-05-13T23:16:33.938Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 103,
+    "fields": {
+        "text": "En relación con los prestadores de servicios de confianza cualificados, la Autoridad de Validación:",
+        "source": "",
+        "created_at": "2024-05-13T23:20:27.346Z",
+        "updated_at": "2024-05-13T23:20:27.346Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 104,
+    "fields": {
+        "text": "A partir del 15-1-15, conforme a la Ley 25/2013, de 27 de diciembre, de impulso de la factura electrónica y creación del registro contable de facturas en el Sector Público, las facturas que se remitan a las Administraciones Públicas serán electrónicas y se ajustarán al formato estructurado de factura electrónica.",
+        "source": "",
+        "created_at": "2024-05-13T23:21:38.702Z",
+        "updated_at": "2024-05-13T23:21:38.702Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 105,
+    "fields": {
+        "text": "_SQL*Loader_ es una herramienta utilizada ¿para qué servidor de bases de datos?",
+        "source": "",
+        "created_at": "2024-05-13T23:23:23.294Z",
+        "updated_at": "2024-05-13T23:23:23.295Z"
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -1434,6 +2224,3889 @@
         "is_correct": false,
         "created_at": "2024-05-13T14:16:45.965Z",
         "updated_at": "2024-05-13T14:16:45.965Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 109,
+    "fields": {
+        "question": 27,
+        "text": "Asistir con voz y voto a las sesiones del Pleno y comisiones de los que forman parte o como sustituto de un miembro de su mismo grupo",
+        "is_correct": false,
+        "created_at": "2024-05-13T19:57:08.329Z",
+        "updated_at": "2024-05-13T20:24:33.971Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 110,
+    "fields": {
+        "question": 27,
+        "text": "Derecho a formar parte de al menos una comisión",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:23:50.495Z",
+        "updated_at": "2024-05-13T20:23:50.495Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 111,
+    "fields": {
+        "question": 27,
+        "text": "Recabar datos de las administraciones públicas",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:24:04.711Z",
+        "updated_at": "2024-05-13T20:24:04.711Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 112,
+    "fields": {
+        "question": 27,
+        "text": "Todas son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:24:20.690Z",
+        "updated_at": "2024-05-13T20:24:20.690Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 113,
+    "fields": {
+        "question": 28,
+        "text": "Asistir al pleno y comisiones aunque no formen parte",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:25:49.814Z",
+        "updated_at": "2024-05-13T20:25:49.814Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 114,
+    "fields": {
+        "question": 28,
+        "text": "Asistir al pleno y camisones de las que formen parte",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:25:58.820Z",
+        "updated_at": "2024-05-13T20:25:58.820Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 115,
+    "fields": {
+        "question": 28,
+        "text": "Asistir al pleno y comisiones que formen parte sin perjuicio de los supuestos de participación por medios telemáticos",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:26:08.944Z",
+        "updated_at": "2024-05-13T20:26:08.944Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 116,
+    "fields": {
+        "question": 28,
+        "text": "Asistir a los plenos y comisiones siempre de forma presencial",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:26:17.857Z",
+        "updated_at": "2024-05-13T20:26:17.857Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 117,
+    "fields": {
+        "question": 29,
+        "text": "Al presentar en el pleno la credencial expedida por la Junta Electoral",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:27:04.826Z",
+        "updated_at": "2024-05-13T20:27:04.826Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 118,
+    "fields": {
+        "question": 29,
+        "text": "Al cumplimentar la declaración de compatibilidad",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:27:28.925Z",
+        "updated_at": "2024-05-13T20:27:33.679Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 119,
+    "fields": {
+        "question": 29,
+        "text": "Al cumplimentar la declaración de los modelos aprobados por la Secretaría General",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:38:47.539Z",
+        "updated_at": "2024-05-13T20:38:47.539Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 120,
+    "fields": {
+        "question": 29,
+        "text": "Presentando en la Secretaría General la credencial expedida por la Junta Electoral de Canarias.",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:39:03.723Z",
+        "updated_at": "2024-05-13T20:39:03.723Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 121,
+    "fields": {
+        "question": 30,
+        "text": "13 miembros",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:40:58.197Z",
+        "updated_at": "2024-05-13T20:40:58.197Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 122,
+    "fields": {
+        "question": 30,
+        "text": "11 miembros",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:41:07.977Z",
+        "updated_at": "2024-05-13T20:41:07.977Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 123,
+    "fields": {
+        "question": 30,
+        "text": "8 miembros, uno por cada isla",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:41:26.622Z",
+        "updated_at": "2024-05-13T20:41:26.622Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 124,
+    "fields": {
+        "question": 30,
+        "text": "7 miembros, uno por cada isla (exceptuando La Graciosa)",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:43:26.885Z",
+        "updated_at": "2024-05-13T20:43:26.885Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 125,
+    "fields": {
+        "question": 30,
+        "text": "17 Miembros",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:43:41.715Z",
+        "updated_at": "2024-05-13T20:43:41.715Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 126,
+    "fields": {
+        "question": 30,
+        "text": "32 miembros",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:43:50.182Z",
+        "updated_at": "2024-05-13T20:43:50.182Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 127,
+    "fields": {
+        "question": 31,
+        "text": "Cl@ve PIN",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:45:37.941Z",
+        "updated_at": "2024-05-13T20:45:37.941Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 128,
+    "fields": {
+        "question": 31,
+        "text": "Cl@ve Permanente",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:45:45.563Z",
+        "updated_at": "2024-05-13T20:45:45.563Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 129,
+    "fields": {
+        "question": 31,
+        "text": "Cl@ve Firma",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:46:10.068Z",
+        "updated_at": "2024-05-13T20:46:10.068Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 130,
+    "fields": {
+        "question": 31,
+        "text": "Cl@ve Biométrica",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:46:38.086Z",
+        "updated_at": "2024-05-13T20:46:38.086Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 131,
+    "fields": {
+        "question": 32,
+        "text": "Semántica",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:48:25.810Z",
+        "updated_at": "2024-05-13T20:48:25.810Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 132,
+    "fields": {
+        "question": 32,
+        "text": "Organizativa",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:48:33.221Z",
+        "updated_at": "2024-05-13T20:48:33.221Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 133,
+    "fields": {
+        "question": 32,
+        "text": "Jurídica",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:48:39.133Z",
+        "updated_at": "2024-05-13T20:48:39.133Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 134,
+    "fields": {
+        "question": 32,
+        "text": "Técnica",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:48:44.360Z",
+        "updated_at": "2024-05-13T20:48:44.360Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 135,
+    "fields": {
+        "question": 32,
+        "text": "Neumática",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:48:57.318Z",
+        "updated_at": "2024-05-13T20:48:57.318Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 136,
+    "fields": {
+        "question": 33,
+        "text": "Órganos competentes",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:49:32.989Z",
+        "updated_at": "2024-05-13T20:49:32.989Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 137,
+    "fields": {
+        "question": 33,
+        "text": "Medios de comunicación social",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:49:40.038Z",
+        "updated_at": "2024-05-13T20:49:40.038Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 138,
+    "fields": {
+        "question": 33,
+        "text": "Órganos de transparencia",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:49:47.356Z",
+        "updated_at": "2024-05-13T20:49:47.356Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 139,
+    "fields": {
+        "question": 33,
+        "text": "Interesados",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:49:54.260Z",
+        "updated_at": "2024-05-13T20:50:01.133Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 140,
+    "fields": {
+        "question": 34,
+        "text": "Los expedientes administrativos tendrán formato electrónico y se formarán mediante la agregación ordenada de cuantos documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias deban integrarlos, así como un índice numerado de todos los documentos que contenga cuando se remita.",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:53:28.976Z",
+        "updated_at": "2024-05-13T20:53:28.976Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 141,
+    "fields": {
+        "question": 34,
+        "text": "En los expedientes administrativos electrónicos deberá constar copia electrónica certificada de la resolución adoptada.",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:53:35.986Z",
+        "updated_at": "2024-05-13T20:53:35.986Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 142,
+    "fields": {
+        "question": 34,
+        "text": "Cuando en virtud de una norma sea preciso remitir el expediente electrónico, se hará de acuerdo con lo previsto en el Esquema Nacional de Interoperabilidad y en las correspondientes Normas Técnicas de Interoperabilidad, y se enviará completo, foliado, autentificado y acompañado de un índice, asimismo autentificado, de los documentos que contenga.",
+        "is_correct": false,
+        "created_at": "2024-05-13T20:53:44.262Z",
+        "updated_at": "2024-05-13T20:53:44.262Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 143,
+    "fields": {
+        "question": 34,
+        "text": "La autenticación del citado índice garantizará la integridad e inmutabilidad del expediente electrónico generado desde el momento de su firma y permitirá su recuperación siempre que sea preciso, no siendo admisible que un mismo documento forme parte de distintos expedientes electrónicos.",
+        "is_correct": true,
+        "created_at": "2024-05-13T20:54:00.183Z",
+        "updated_at": "2024-05-13T20:54:00.183Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 144,
+    "fields": {
+        "question": 35,
+        "text": "FACe",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:07:59.422Z",
+        "updated_at": "2024-05-13T21:07:59.422Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 145,
+    "fields": {
+        "question": 35,
+        "text": "AGEFact",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:08:05.292Z",
+        "updated_at": "2024-05-13T21:08:05.292Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 146,
+    "fields": {
+        "question": 35,
+        "text": "PortalFact",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:08:11.593Z",
+        "updated_at": "2024-05-13T21:08:11.593Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 147,
+    "fields": {
+        "question": 35,
+        "text": "Factbook",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:08:16.928Z",
+        "updated_at": "2024-05-13T21:08:16.928Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 148,
+    "fields": {
+        "question": 35,
+        "text": "Facebook",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:08:22.256Z",
+        "updated_at": "2024-05-13T21:08:22.256Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 149,
+    "fields": {
+        "question": 36,
+        "text": "WS-Security permite crear servicios web seguros",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:09:34.337Z",
+        "updated_at": "2024-05-13T21:09:34.337Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 150,
+    "fields": {
+        "question": 36,
+        "text": "SOAP es un protocolo usado para el intercambio de información en un entorno descentralizado y distribuido basado en XML a través de servicios web",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:09:43.625Z",
+        "updated_at": "2024-05-13T21:09:43.625Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 151,
+    "fields": {
+        "question": 36,
+        "text": "AXIS2 es un motor de servicios web desarrollado por Apache",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:09:51.973Z",
+        "updated_at": "2024-05-13T21:09:51.973Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 152,
+    "fields": {
+        "question": 36,
+        "text": "Al invocar un servicio web hay que asegurarse del lenguaje de programación en el que este está implementado",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:10:07.322Z",
+        "updated_at": "2024-05-13T21:10:07.322Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 153,
+    "fields": {
+        "question": 37,
+        "text": "Al menos una vez cada año",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:11:28.590Z",
+        "updated_at": "2024-05-13T21:11:28.590Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 154,
+    "fields": {
+        "question": 37,
+        "text": "Al menos una vez cada dos años",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:11:45.654Z",
+        "updated_at": "2024-05-13T21:11:45.654Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 155,
+    "fields": {
+        "question": 37,
+        "text": "Cuando se produzcan modificaciones en el sistema de información",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:11:55.586Z",
+        "updated_at": "2024-05-13T21:11:55.586Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 156,
+    "fields": {
+        "question": 37,
+        "text": "Al menos una vez cada cuatro años",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:12:05.923Z",
+        "updated_at": "2024-05-13T21:12:56.415Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 157,
+    "fields": {
+        "question": 37,
+        "text": "Ninguna de las anteriores",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:12:10.326Z",
+        "updated_at": "2024-05-13T21:12:10.326Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 158,
+    "fields": {
+        "question": 38,
+        "text": "200 ppp para blanco y negro y 300 ppp para color",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:13:52.974Z",
+        "updated_at": "2024-05-13T21:13:52.974Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 159,
+    "fields": {
+        "question": 38,
+        "text": "300 ppp para blanco y negro y 300 ppp para color",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:14:02.810Z",
+        "updated_at": "2024-05-13T21:14:02.810Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 160,
+    "fields": {
+        "question": 38,
+        "text": "200 ppp para blanco y negro y 200 ppp para color",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:14:12.364Z",
+        "updated_at": "2024-05-13T21:14:12.364Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 161,
+    "fields": {
+        "question": 38,
+        "text": "300 ppp para blanco y negro y 200 ppp para color",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:14:20.611Z",
+        "updated_at": "2024-05-13T21:14:20.611Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 162,
+    "fields": {
+        "question": 39,
+        "text": "Una asociación mundial de defensa de los internautas",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:15:54.069Z",
+        "updated_at": "2024-05-13T21:15:54.069Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 163,
+    "fields": {
+        "question": 39,
+        "text": "Una iniciativa del W3C para la automatización de las tareas de organización web",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:16:01.646Z",
+        "updated_at": "2024-05-13T21:16:01.646Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 164,
+    "fields": {
+        "question": 39,
+        "text": "Una iniciativa del W3C para facilitar el acceso a la web de personas con discapacidades",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:16:13.186Z",
+        "updated_at": "2024-05-13T21:17:03.475Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 165,
+    "fields": {
+        "question": 39,
+        "text": "Una iniciativa del W3C para el desarrollo de aplicaciones inalámbricas",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:16:22.561Z",
+        "updated_at": "2024-05-13T21:16:22.561Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 166,
+    "fields": {
+        "question": 39,
+        "text": "Un motor de tramitación electrónica",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:16:56.001Z",
+        "updated_at": "2024-05-13T21:16:56.001Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 167,
+    "fields": {
+        "question": 40,
+        "text": "CAdES",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:18:02.147Z",
+        "updated_at": "2024-05-13T21:18:02.147Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 168,
+    "fields": {
+        "question": 40,
+        "text": "HAdES",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:18:10.425Z",
+        "updated_at": "2024-05-13T21:18:10.425Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 169,
+    "fields": {
+        "question": 40,
+        "text": "PAdES",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:18:16.657Z",
+        "updated_at": "2024-05-13T21:18:16.657Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 170,
+    "fields": {
+        "question": 40,
+        "text": "XAdES",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:18:21.194Z",
+        "updated_at": "2024-05-13T21:18:21.194Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 171,
+    "fields": {
+        "question": 40,
+        "text": "Artajerjes",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:18:48.481Z",
+        "updated_at": "2024-05-13T21:18:48.481Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 172,
+    "fields": {
+        "question": 41,
+        "text": "Crear un registro de operaciones de tratamiento de datos personale",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:20:04.368Z",
+        "updated_at": "2024-05-13T21:20:04.368Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 173,
+    "fields": {
+        "question": 41,
+        "text": "Evaluar los riesgos que implican las operaciones de tratamiento de datos personales",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:20:11.166Z",
+        "updated_at": "2024-05-13T21:20:11.166Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 174,
+    "fields": {
+        "question": 41,
+        "text": "Revisar las operaciones de tratamiento de datos personales",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:20:18.332Z",
+        "updated_at": "2024-05-13T21:20:18.333Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 175,
+    "fields": {
+        "question": 41,
+        "text": "Todas las anteriores son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:20:24.920Z",
+        "updated_at": "2024-05-13T21:20:29.215Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 176,
+    "fields": {
+        "question": 42,
+        "text": "Permite exclusivamente la remisión de facturas en formato electrónico a organismos de la Administración General del Estado",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:22:40.420Z",
+        "updated_at": "2024-05-13T21:22:40.420Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 177,
+    "fields": {
+        "question": 42,
+        "text": "Permite la remisión de facturas en formato electrónico a Comunidades Autónomas que estén dadas de alta en el sistema",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:22:50.399Z",
+        "updated_at": "2024-05-13T21:22:50.400Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 178,
+    "fields": {
+        "question": 42,
+        "text": "Permite la remisión de facturas en formato electrónico a Universidades que estén dadas de alta en el sistema",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:22:59.704Z",
+        "updated_at": "2024-05-13T21:22:59.705Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 179,
+    "fields": {
+        "question": 42,
+        "text": "Permite la remisión de facturas en formato electrónico a Entidades locales que estén dadas de alta en el sistema",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:23:09.262Z",
+        "updated_at": "2024-05-13T21:23:09.262Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 180,
+    "fields": {
+        "question": 43,
+        "text": "La geometría de la oreja",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:24:13.319Z",
+        "updated_at": "2024-05-13T21:24:13.319Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 181,
+    "fields": {
+        "question": 43,
+        "text": "La firma manuscrita",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:24:18.746Z",
+        "updated_at": "2024-05-13T21:24:18.746Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 182,
+    "fields": {
+        "question": 43,
+        "text": "El patrón de escritura de teclado",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:24:25.102Z",
+        "updated_at": "2024-05-13T21:24:25.102Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 183,
+    "fields": {
+        "question": 43,
+        "text": "El patrón de movimiento de los ojos en la pantalla",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:24:36.612Z",
+        "updated_at": "2024-05-13T21:24:36.612Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 184,
+    "fields": {
+        "question": 44,
+        "text": "Sí, se puede publicar, aunque se deben salvaguardar los datos personales obtenidos como consecuencia de ese acceso a la información preferiblemente de forma anónima",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:26:23.280Z",
+        "updated_at": "2024-05-13T21:26:23.280Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 185,
+    "fields": {
+        "question": 44,
+        "text": "Sí, se puede publicar, y no es necesario salvaguardar los datos personales obtenidos como consecuencia de ese acceso a la información",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:26:35.204Z",
+        "updated_at": "2024-05-13T21:26:35.204Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 186,
+    "fields": {
+        "question": 44,
+        "text": "Sí, se puede publicar, y no se deben salvaguardar los datos personales obtenidos como consecuencia de ese acceso a la información",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:27:06.515Z",
+        "updated_at": "2024-05-13T21:27:06.515Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 187,
+    "fields": {
+        "question": 44,
+        "text": "No se puede publicar en ningún caso",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:27:14.360Z",
+        "updated_at": "2024-05-13T21:27:14.360Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 188,
+    "fields": {
+        "question": 45,
+        "text": "Tener una versión del programa funcionando en etapas tempranas del proyecto",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:28:19.873Z",
+        "updated_at": "2024-05-13T21:28:19.873Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 189,
+    "fields": {
+        "question": 45,
+        "text": "Hacer que el proyecto real siga el camino secuencial que propone el modelo",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:28:29.348Z",
+        "updated_at": "2024-05-13T21:28:29.348Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 190,
+    "fields": {
+        "question": 45,
+        "text": "Establecer correcta y totalmente todos los requisitos al principio del proyecto",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:28:37.525Z",
+        "updated_at": "2024-05-13T21:28:37.525Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 191,
+    "fields": {
+        "question": 45,
+        "text": "Identificar y nombrar al principio las fases de las que consta",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:28:49.215Z",
+        "updated_at": "2024-05-13T21:28:49.215Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 192,
+    "fields": {
+        "question": 46,
+        "text": "Es una función _hash_",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:30:04.948Z",
+        "updated_at": "2024-05-13T21:30:04.948Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 193,
+    "fields": {
+        "question": 46,
+        "text": "No es una medida de comprobación de la integridad de un documento",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:30:12.568Z",
+        "updated_at": "2024-05-13T21:30:12.568Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 194,
+    "fields": {
+        "question": 46,
+        "text": "No es un código seguro de verificación",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:30:19.610Z",
+        "updated_at": "2024-05-13T21:30:19.610Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 195,
+    "fields": {
+        "question": 46,
+        "text": "Es un sistema de firma electrónica",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:30:25.879Z",
+        "updated_at": "2024-05-13T21:30:32.222Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 196,
+    "fields": {
+        "question": 47,
+        "text": "Para configurar un proxy-inverso en la salida a Internet",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:35:41.712Z",
+        "updated_at": "2024-05-13T21:35:41.713Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 197,
+    "fields": {
+        "question": 47,
+        "text": "Para realizar backups remotos y cronificados",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:35:48.836Z",
+        "updated_at": "2024-05-13T21:35:48.836Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 198,
+    "fields": {
+        "question": 47,
+        "text": "Para compartir archivos e impresoras",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:35:55.031Z",
+        "updated_at": "2024-05-13T21:35:55.031Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 199,
+    "fields": {
+        "question": 47,
+        "text": "Para configurar redes wifi",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:36:03.830Z",
+        "updated_at": "2024-05-13T21:36:03.830Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 200,
+    "fields": {
+        "question": 47,
+        "text": "Pare realizar funciones de cortafuego (_firewall_)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:36:28.081Z",
+        "updated_at": "2024-05-13T21:36:28.081Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 201,
+    "fields": {
+        "question": 48,
+        "text": "_Dispatcher_ (expedidor)",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:37:40.454Z",
+        "updated_at": "2024-05-13T21:37:40.454Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 202,
+    "fields": {
+        "question": 48,
+        "text": "_Short-term scheduler_ (planificador a corto plazo)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:37:55.489Z",
+        "updated_at": "2024-05-13T21:37:55.489Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 203,
+    "fields": {
+        "question": 48,
+        "text": "_Preemptive scheduler_ (planificador con derecho preferente)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:38:10.583Z",
+        "updated_at": "2024-05-13T21:38:10.583Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 204,
+    "fields": {
+        "question": 48,
+        "text": "_Long-term scheduler_ (planificador a largo plazo)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:38:35.884Z",
+        "updated_at": "2024-05-13T21:38:35.884Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 205,
+    "fields": {
+        "question": 48,
+        "text": "_CPU scheduler_ (planificador de CPU)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:38:55.512Z",
+        "updated_at": "2024-05-13T21:38:55.512Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 206,
+    "fields": {
+        "question": 49,
+        "text": "La tabla está formada por varios campos y a cada conjunto de campos con un significado relevante se le conoce como registro",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:40:26.140Z",
+        "updated_at": "2024-05-13T21:40:26.140Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 207,
+    "fields": {
+        "question": 49,
+        "text": "Los registros están compuestos por campos, pero no tienen ninguna relación con la tabla",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:40:34.781Z",
+        "updated_at": "2024-05-13T21:40:34.782Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 208,
+    "fields": {
+        "question": 49,
+        "text": "Las tablas contienen registros y los registros están formados por una serie de campos cada uno de los cuales contiene parte de la información de dicho registro",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:40:46.150Z",
+        "updated_at": "2024-05-13T21:40:46.150Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 209,
+    "fields": {
+        "question": 49,
+        "text": "Ninguna de las anteriores es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:40:57.091Z",
+        "updated_at": "2024-05-13T21:40:57.091Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 210,
+    "fields": {
+        "question": 50,
+        "text": "Técnica de McCabe y técnica de Halstead",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:41:26.983Z",
+        "updated_at": "2024-05-13T21:41:26.983Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 211,
+    "fields": {
+        "question": 50,
+        "text": "Método de los puntos de función de Albrecht",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:41:35.412Z",
+        "updated_at": "2024-05-13T21:41:35.412Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 212,
+    "fields": {
+        "question": 50,
+        "text": "Técnicas de McCall sobre la estructura de la calidad del software",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:41:44.390Z",
+        "updated_at": "2024-05-13T21:41:44.390Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 213,
+    "fields": {
+        "question": 50,
+        "text": "Todas las respuestas anteriores son ciertas",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:41:51.584Z",
+        "updated_at": "2024-05-13T21:41:51.584Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 214,
+    "fields": {
+        "question": 51,
+        "text": "Su consulta y conservación durante al menos 5 años desde su emisión",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:44:18.109Z",
+        "updated_at": "2024-05-13T21:44:18.109Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 215,
+    "fields": {
+        "question": 51,
+        "text": "Su confidencialidad, integridad y conservación",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:44:25.779Z",
+        "updated_at": "2024-05-13T21:44:25.779Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 216,
+    "fields": {
+        "question": 51,
+        "text": "Su autenticidad, integridad y conservación",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:44:36.191Z",
+        "updated_at": "2024-05-13T21:44:36.191Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 217,
+    "fields": {
+        "question": 51,
+        "text": "Su consulta y conservación durante el periodo de tiempo dispuesto en la normativa aplicable",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:44:49.434Z",
+        "updated_at": "2024-05-13T21:44:49.434Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 218,
+    "fields": {
+        "question": 52,
+        "text": "Un gestor de volúmenes lógicos de almacenamiento (_Kernel Volume Management_)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:45:44.241Z",
+        "updated_at": "2024-05-13T21:45:44.242Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 219,
+    "fields": {
+        "question": 52,
+        "text": "Una solución de virtualización de software libre (_Kernel Virtual Machine_)",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:45:56.489Z",
+        "updated_at": "2024-05-13T21:45:56.489Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 220,
+    "fields": {
+        "question": 52,
+        "text": "Un gestor de cámaras y streaming de vídeo (_KDE Video Management_)",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:46:03.627Z",
+        "updated_at": "2024-05-13T21:46:03.627Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 221,
+    "fields": {
+        "question": 52,
+        "text": "Todas las anteriores son falsas",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:46:10.505Z",
+        "updated_at": "2024-05-13T21:46:10.505Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 222,
+    "fields": {
+        "question": 53,
+        "text": "Concisos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:46:43.731Z",
+        "updated_at": "2024-05-13T21:46:43.731Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 223,
+    "fields": {
+        "question": 53,
+        "text": "Consistentes",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:46:49.218Z",
+        "updated_at": "2024-05-13T21:46:49.218Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 224,
+    "fields": {
+        "question": 53,
+        "text": "Completos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:46:55.782Z",
+        "updated_at": "2024-05-13T21:46:55.782Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 225,
+    "fields": {
+        "question": 53,
+        "text": "Todas las respuestas anteriores son ciertas",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:47:02.867Z",
+        "updated_at": "2024-05-13T21:47:06.609Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 226,
+    "fields": {
+        "question": 54,
+        "text": "Las entidades se representan con un rectángulo y las propiedades con rombos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:47:36.831Z",
+        "updated_at": "2024-05-13T21:47:36.831Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 227,
+    "fields": {
+        "question": 54,
+        "text": "Las entidades se representan con un óvalo y las propiedades con rombos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:47:45.744Z",
+        "updated_at": "2024-05-13T21:47:45.744Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 228,
+    "fields": {
+        "question": 54,
+        "text": "Las interrelaciones se representan con óvalos y las propiedades con rombos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:47:53.545Z",
+        "updated_at": "2024-05-13T21:47:53.545Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 229,
+    "fields": {
+        "question": 54,
+        "text": "Las interrelaciones se representan con rombos y las entidades con rectángulos",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:48:02.897Z",
+        "updated_at": "2024-05-13T21:48:07.576Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 230,
+    "fields": {
+        "question": 55,
+        "text": "Sí. La ley de transparencia reconoce el ejercicio del derecho de acceso a todas las personas",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:49:05.860Z",
+        "updated_at": "2024-05-13T21:49:05.860Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 231,
+    "fields": {
+        "question": 55,
+        "text": "Sí. La ley de transparencia reconoce el ejercicio del derecho de acceso a todas las personas extranjeras cuyo tiempo de residencia en España en el momento de presentar la solicitud sea superior a 2 años",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:49:21.573Z",
+        "updated_at": "2024-05-13T21:49:21.573Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 232,
+    "fields": {
+        "question": 55,
+        "text": "Sí. La ley de transparencia reconoce el ejercicio del derecho de acceso a todas las personas extranjeras cuyo tiempo de residencia en España en el momento de presentar la solicitud sea superior a 3 años",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:49:32.107Z",
+        "updated_at": "2024-05-13T21:49:32.107Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 233,
+    "fields": {
+        "question": 55,
+        "text": "No. La ley de transparencia no reconoce el ejercicio del derecho de acceso a las personas extranjeras",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:49:46.171Z",
+        "updated_at": "2024-05-13T21:49:46.171Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 234,
+    "fields": {
+        "question": 56,
+        "text": "Tecnológicos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:50:01.713Z",
+        "updated_at": "2024-05-13T21:50:01.713Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 235,
+    "fields": {
+        "question": 56,
+        "text": "Personal",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:50:08.369Z",
+        "updated_at": "2024-05-13T21:50:08.369Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 236,
+    "fields": {
+        "question": 56,
+        "text": "Software",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:50:22.805Z",
+        "updated_at": "2024-05-13T21:50:22.805Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 237,
+    "fields": {
+        "question": 56,
+        "text": "Todas las anteriores son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:50:31.471Z",
+        "updated_at": "2024-05-13T21:50:31.471Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 238,
+    "fields": {
+        "question": 57,
+        "text": "Un servidor de correo electrónico de código abierto",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:53:53.493Z",
+        "updated_at": "2024-05-13T21:53:53.493Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 239,
+    "fields": {
+        "question": 57,
+        "text": "Un gestor de contenido propietario diseñado para crear portales corporativos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:54:09.163Z",
+        "updated_at": "2024-05-13T21:54:09.163Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 240,
+    "fields": {
+        "question": 57,
+        "text": "Un entorno de trabajo para programar aplicaciones distribuidas que manejen grandes volúmenes de datos (_Big data_)",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:54:18.477Z",
+        "updated_at": "2024-05-13T21:54:18.477Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 241,
+    "fields": {
+        "question": 57,
+        "text": "Un _framework_ para sistemas Windows desarrollado por la _Apache Software Foundation_",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:54:27.415Z",
+        "updated_at": "2024-05-13T21:54:27.415Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 242,
+    "fields": {
+        "question": 58,
+        "text": "No son independientes de la tecnología y la aplicación",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:55:04.829Z",
+        "updated_at": "2024-05-13T21:55:04.829Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 243,
+    "fields": {
+        "question": 58,
+        "text": "Están vinculados a la realidad y el contexto de los sistemas y procesos actualmente en vigor",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:55:13.584Z",
+        "updated_at": "2024-05-13T21:55:13.584Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 244,
+    "fields": {
+        "question": 58,
+        "text": "No demuestran el estado actual y futuro, lo que significa que incluyen cambios en el negocio que están ocurriendo o que son muy probables",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:55:23.680Z",
+        "updated_at": "2024-05-13T21:55:23.681Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 245,
+    "fields": {
+        "question": 58,
+        "text": "Se construyen en la primera etapa del proceso de modelado de datos",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:55:34.467Z",
+        "updated_at": "2024-05-13T21:55:34.468Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 246,
+    "fields": {
+        "question": 59,
+        "text": "La clave alternativa es la clave que el analista escoge entre todas las claves primarias y a las que no escoge se las denomina claves candidatas",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:56:19.428Z",
+        "updated_at": "2024-05-13T21:56:19.428Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 247,
+    "fields": {
+        "question": 59,
+        "text": "La clave alternativa es la clave primaria pero que puede tomar valores nulos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:56:31.253Z",
+        "updated_at": "2024-05-13T21:56:31.253Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 248,
+    "fields": {
+        "question": 59,
+        "text": "La clave primaria tiene menos atributos que la clave candidata",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:56:39.873Z",
+        "updated_at": "2024-05-13T21:56:39.873Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 249,
+    "fields": {
+        "question": 59,
+        "text": "La clave primaria es la clave que el analista escoge entre todas las claves candidatas y no puede adoptar bajo ninguna circunstancia el valor nulo",
+        "is_correct": true,
+        "created_at": "2024-05-13T21:56:58.751Z",
+        "updated_at": "2024-05-13T21:56:58.751Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 250,
+    "fields": {
+        "question": 59,
+        "text": "La clave primaria es la más grande de todas las claves candidatas posibles",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:57:41.352Z",
+        "updated_at": "2024-05-13T21:57:41.352Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 251,
+    "fields": {
+        "question": 59,
+        "text": "La clave primaria no puede ser a la vez clave candidata",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:58:15.683Z",
+        "updated_at": "2024-05-13T21:58:15.683Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 252,
+    "fields": {
+        "question": 59,
+        "text": "La clave primaria solo puede estar formada por un único atributo, es decir, no se pueden crear claves primarias compuestas de dos o más atributos",
+        "is_correct": false,
+        "created_at": "2024-05-13T21:59:29.166Z",
+        "updated_at": "2024-05-13T22:00:28.299Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 253,
+    "fields": {
+        "question": 60,
+        "text": "Es un acrónimo recursivo de 'GNU is Not Unix'",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:01:13.823Z",
+        "updated_at": "2024-05-13T22:01:13.823Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 254,
+    "fields": {
+        "question": 60,
+        "text": "Fue fundado por Richard M. Stallman para crear un sistema operativo completo basado en software libre",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:01:22.502Z",
+        "updated_at": "2024-05-13T22:01:22.502Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 255,
+    "fields": {
+        "question": 60,
+        "text": "Las licencias GPL y LGPL son las principales licencias del proyecto GNU",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:01:37.882Z",
+        "updated_at": "2024-05-13T22:01:37.882Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 256,
+    "fields": {
+        "question": 60,
+        "text": "Todas las afirmaciones son ciertas",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:01:45.216Z",
+        "updated_at": "2024-05-13T22:01:45.216Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 257,
+    "fields": {
+        "question": 61,
+        "text": "Análisis de vulnerabilidades",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:02:09.762Z",
+        "updated_at": "2024-05-13T22:02:09.762Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 258,
+    "fields": {
+        "question": 61,
+        "text": "Pruebas de penetración",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:02:24.724Z",
+        "updated_at": "2024-05-13T22:02:45.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 259,
+    "fields": {
+        "question": 61,
+        "text": "Auditoría de código fuente",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:02:30.959Z",
+        "updated_at": "2024-05-13T22:02:48.731Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 260,
+    "fields": {
+        "question": 61,
+        "text": "Pruebas en un entorno aislado.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:02:38.711Z",
+        "updated_at": "2024-05-13T22:02:38.711Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 261,
+    "fields": {
+        "question": 62,
+        "text": "FAT32",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:03:32.790Z",
+        "updated_at": "2024-05-13T22:03:32.790Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 262,
+    "fields": {
+        "question": 62,
+        "text": "NTFS",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:03:38.493Z",
+        "updated_at": "2024-05-13T22:03:42.548Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 263,
+    "fields": {
+        "question": 62,
+        "text": "HPFS",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:03:49.157Z",
+        "updated_at": "2024-05-13T22:03:49.157Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 264,
+    "fields": {
+        "question": 62,
+        "text": "ISO 9660:1988 Level 2",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:03:55.925Z",
+        "updated_at": "2024-05-13T22:03:55.925Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 265,
+    "fields": {
+        "question": 62,
+        "text": "ext2",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:06:02.303Z",
+        "updated_at": "2024-05-13T22:06:02.303Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 266,
+    "fields": {
+        "question": 62,
+        "text": "ext3",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:06:11.817Z",
+        "updated_at": "2024-05-13T22:06:11.817Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 267,
+    "fields": {
+        "question": 62,
+        "text": "ext4",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:06:21.760Z",
+        "updated_at": "2024-05-13T22:06:21.760Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 268,
+    "fields": {
+        "question": 62,
+        "text": "FAT16",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:08:44.120Z",
+        "updated_at": "2024-05-13T22:08:44.120Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 269,
+    "fields": {
+        "question": 63,
+        "text": "Red IRIS",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:09:37.389Z",
+        "updated_at": "2024-05-13T22:09:37.389Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 270,
+    "fields": {
+        "question": 63,
+        "text": "ESPANIX",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:09:42.559Z",
+        "updated_at": "2024-05-13T22:09:42.559Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 271,
+    "fields": {
+        "question": 63,
+        "text": "COGENT",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:09:49.937Z",
+        "updated_at": "2024-05-13T22:09:49.937Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 272,
+    "fields": {
+        "question": 63,
+        "text": "Red SARA",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:10:04.016Z",
+        "updated_at": "2024-05-13T22:10:04.016Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 273,
+    "fields": {
+        "question": 63,
+        "text": "Eric RED",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:12:03.156Z",
+        "updated_at": "2024-05-13T22:12:03.156Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 274,
+    "fields": {
+        "question": 64,
+        "text": "Una estructura que cuenta con un patrón característico que hace referencia a la interconexión de dispositivos que comparten recursos basados en el conocimiento",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:12:32.104Z",
+        "updated_at": "2024-05-13T22:12:32.104Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 275,
+    "fields": {
+        "question": 64,
+        "text": "Un esquema de representación en forma de red del conocimiento lingüístico en la que los conceptos y sus interrelaciones se muestran mediante un grafo",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:12:44.237Z",
+        "updated_at": "2024-05-13T22:12:44.237Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 276,
+    "fields": {
+        "question": 64,
+        "text": "Un tipo de red artificial caracterizada por la introducción de variaciones aleatorias en la red basada en el conocimiento y asignando un peso estocástico a cada neurona",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:12:55.457Z",
+        "updated_at": "2024-05-13T22:12:55.457Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 277,
+    "fields": {
+        "question": 64,
+        "text": "Una red de base de datos conformada por una colección o set de registros semánticos, los cuales están conectados entre sí por medio de enlaces en una red",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:13:11.923Z",
+        "updated_at": "2024-05-13T22:13:11.923Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 278,
+    "fields": {
+        "question": 65,
+        "text": "XML",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:13:39.861Z",
+        "updated_at": "2024-05-13T22:13:39.861Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 279,
+    "fields": {
+        "question": 65,
+        "text": "JSON",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:13:45.297Z",
+        "updated_at": "2024-05-13T22:13:45.297Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 280,
+    "fields": {
+        "question": 65,
+        "text": "HTML",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:13:50.359Z",
+        "updated_at": "2024-05-13T22:13:50.359Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 281,
+    "fields": {
+        "question": 65,
+        "text": "C#",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:13:59.484Z",
+        "updated_at": "2024-05-13T22:13:59.484Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 282,
+    "fields": {
+        "question": 65,
+        "text": "SGML",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:14:24.060Z",
+        "updated_at": "2024-05-13T22:14:24.060Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 283,
+    "fields": {
+        "question": 66,
+        "text": "_CrowdStrike_",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:16:51.130Z",
+        "updated_at": "2024-05-13T22:17:36.632Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 284,
+    "fields": {
+        "question": 66,
+        "text": "_VMware Carbon Black Endpoint_",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:16:57.540Z",
+        "updated_at": "2024-05-13T22:17:29.054Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 285,
+    "fields": {
+        "question": 66,
+        "text": "_Sophos Intercept X Endpoint_",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:17:07.911Z",
+        "updated_at": "2024-05-13T22:17:07.911Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 286,
+    "fields": {
+        "question": 66,
+        "text": "_McAfee VirusScan_",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:17:19.966Z",
+        "updated_at": "2024-05-13T22:17:19.966Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 287,
+    "fields": {
+        "question": 67,
+        "text": "Permite identificar las transacciones que se van a efectuar en la base de datos o bien las transformaciones que no requieren control de concurrencia",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:20:09.345Z",
+        "updated_at": "2024-05-13T22:20:09.345Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 288,
+    "fields": {
+        "question": 67,
+        "text": "Permite pasar de forma casi automática de un diagrama de flujo de datos a un diagrama de estructura",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:20:17.425Z",
+        "updated_at": "2024-05-13T22:20:17.425Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 289,
+    "fields": {
+        "question": 67,
+        "text": "Permite realizar una métrica de la complejidad de la solución propuesta",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:20:24.806Z",
+        "updated_at": "2024-05-13T22:20:24.806Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 290,
+    "fields": {
+        "question": 67,
+        "text": "Permite realizar diversas transformaciones sobre el modelo para obtener una versión más simple que realiza las mismas funciones",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:20:32.478Z",
+        "updated_at": "2024-05-13T22:20:32.478Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 291,
+    "fields": {
+        "question": 68,
+        "text": "No favorecen el trabajo colaborativo",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:21:10.937Z",
+        "updated_at": "2024-05-13T22:21:10.937Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 292,
+    "fields": {
+        "question": 68,
+        "text": "Minimizan la posibilidad de riesgos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:21:17.212Z",
+        "updated_at": "2024-05-13T22:21:17.212Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 293,
+    "fields": {
+        "question": 68,
+        "text": "Facilitan el acceso a recursos e información útil",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:21:26.717Z",
+        "updated_at": "2024-05-13T22:21:26.717Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 294,
+    "fields": {
+        "question": 68,
+        "text": "Permiten la automatización de procesos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:21:34.435Z",
+        "updated_at": "2024-05-13T22:21:34.435Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 295,
+    "fields": {
+        "question": 69,
+        "text": "Autoridad de Certificación (AC)",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:21:59.645Z",
+        "updated_at": "2024-05-13T22:21:59.645Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 296,
+    "fields": {
+        "question": 69,
+        "text": "Autoridad de Validación (AV)",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:22:06.029Z",
+        "updated_at": "2024-05-13T22:22:06.029Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 297,
+    "fields": {
+        "question": 69,
+        "text": "Autoridad de Registro (AR)",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:22:11.677Z",
+        "updated_at": "2024-05-13T22:22:11.677Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 298,
+    "fields": {
+        "question": 69,
+        "text": "Autoridad de Revocación (AR)",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:22:17.638Z",
+        "updated_at": "2024-05-13T22:22:17.638Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 299,
+    "fields": {
+        "question": 70,
+        "text": "A la dirección de _IT_",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:22:48.579Z",
+        "updated_at": "2024-05-13T22:22:48.579Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 300,
+    "fields": {
+        "question": 70,
+        "text": "Al administrador del sistema",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:22:59.587Z",
+        "updated_at": "2024-05-13T22:23:20.517Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 301,
+    "fields": {
+        "question": 70,
+        "text": "A los desarrolladores de software para que puedan realizar el mantenimiento del mismo",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:23:07.083Z",
+        "updated_at": "2024-05-13T22:23:07.083Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 302,
+    "fields": {
+        "question": 70,
+        "text": "A los usuarios finales",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:23:13.824Z",
+        "updated_at": "2024-05-13T22:23:24.025Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 303,
+    "fields": {
+        "question": 71,
+        "text": "Un lenguaje gráfico diseñado para especificar y representar un sistema.",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:24:25.687Z",
+        "updated_at": "2024-05-13T22:24:25.687Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 304,
+    "fields": {
+        "question": 71,
+        "text": "Una característica compartida por los sistemas gestores de base de datos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:24:34.400Z",
+        "updated_at": "2024-05-13T22:24:34.400Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 305,
+    "fields": {
+        "question": 71,
+        "text": "Un lenguaje unificado de programación en XML",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:24:44.203Z",
+        "updated_at": "2024-05-13T22:24:44.203Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 306,
+    "fields": {
+        "question": 71,
+        "text": "Ninguna de las anteriores",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:25:10.936Z",
+        "updated_at": "2024-05-13T22:25:10.936Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 307,
+    "fields": {
+        "question": 71,
+        "text": "Un nucleo de sistema operativo para multiprocesadores",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:26:03.971Z",
+        "updated_at": "2024-05-13T22:26:03.971Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 308,
+    "fields": {
+        "question": 72,
+        "text": "Selenium",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:27:32.535Z",
+        "updated_at": "2024-05-13T22:27:32.535Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 309,
+    "fields": {
+        "question": 72,
+        "text": "JUnit",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:27:39.139Z",
+        "updated_at": "2024-05-13T22:27:39.139Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 310,
+    "fields": {
+        "question": 72,
+        "text": "Jenkins",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:27:46.971Z",
+        "updated_at": "2024-05-13T22:27:46.971Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 311,
+    "fields": {
+        "question": 72,
+        "text": "Apache JMeter",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:27:57.330Z",
+        "updated_at": "2024-05-13T22:28:16.108Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 312,
+    "fields": {
+        "question": 73,
+        "text": "Sí, en todos los casos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:28:44.630Z",
+        "updated_at": "2024-05-13T22:28:44.630Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 313,
+    "fields": {
+        "question": 73,
+        "text": "Sí, en entornos categorizados como de NIVEL MEDIO y NIVEL ALTO",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:28:54.669Z",
+        "updated_at": "2024-05-13T22:28:54.669Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 314,
+    "fields": {
+        "question": 73,
+        "text": "Sí, en entornos categorizados como de NIVEL ALTO",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:29:07.965Z",
+        "updated_at": "2024-05-13T22:29:07.965Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 315,
+    "fields": {
+        "question": 73,
+        "text": "Nunca",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:29:19.236Z",
+        "updated_at": "2024-05-13T22:29:19.236Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 316,
+    "fields": {
+        "question": 74,
+        "text": "Representa un contexto de navegación anidado, el cual permite incrustar otra página HTML en la página actual.",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:30:35.356Z",
+        "updated_at": "2024-05-13T22:30:35.356Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 317,
+    "fields": {
+        "question": 74,
+        "text": "Representa un punto de integración para una aplicación externa o de contenido interactivo (en otras palabras, un _plug-in_)",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:30:50.781Z",
+        "updated_at": "2024-05-13T22:30:50.781Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 318,
+    "fields": {
+        "question": 74,
+        "text": "Representa un recurso externo, que puede ser tratado como una imagen, un contexto de navegación anidado, o como un recurso que debe ser manejado por un _plugin_",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:31:08.998Z",
+        "updated_at": "2024-05-13T22:31:08.998Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 319,
+    "fields": {
+        "question": 74,
+        "text": "Solo se puede usar desde _Wordpress_",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:31:30.647Z",
+        "updated_at": "2024-05-13T22:31:30.647Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 320,
+    "fields": {
+        "question": 74,
+        "text": "Representa un área de mapa de bits para renderizar gráficos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:31:41.705Z",
+        "updated_at": "2024-05-13T22:31:41.705Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 321,
+    "fields": {
+        "question": 74,
+        "text": "Permite programar directamente en código máquina o ensamblador",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:32:13.924Z",
+        "updated_at": "2024-05-13T22:32:13.924Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 322,
+    "fields": {
+        "question": 75,
+        "text": "Análisis coste/beneficio",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:32:49.418Z",
+        "updated_at": "2024-05-13T22:32:49.419Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 323,
+    "fields": {
+        "question": 75,
+        "text": "Cálculo de accesos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:32:54.732Z",
+        "updated_at": "2024-05-13T22:32:54.732Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 324,
+    "fields": {
+        "question": 75,
+        "text": "Prototipado",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:32:59.820Z",
+        "updated_at": "2024-05-13T22:32:59.820Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 325,
+    "fields": {
+        "question": 75,
+        "text": "Pruebas de regresión.",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:33:05.382Z",
+        "updated_at": "2024-05-13T22:33:13.701Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 326,
+    "fields": {
+        "question": 76,
+        "text": "Corre sobre un contenedor de servlets Java como Apache Tomcat en versiones anteriores a la 5.0, a partir de esta corre como servidor independiente.",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:34:08.389Z",
+        "updated_at": "2024-05-13T22:34:08.389Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 327,
+    "fields": {
+        "question": 76,
+        "text": "Corre exclusivamente sobre un contenedor de servlets Java como Apache Tomcat",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:34:17.676Z",
+        "updated_at": "2024-05-13T22:34:17.676Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 328,
+    "fields": {
+        "question": 76,
+        "text": "Desde su primera versión funcionó como servidor independiente",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:34:30.320Z",
+        "updated_at": "2024-05-13T22:34:30.320Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 329,
+    "fields": {
+        "question": 76,
+        "text": "No está desarrollado en Java",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:34:48.860Z",
+        "updated_at": "2024-05-13T22:34:48.860Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 330,
+    "fields": {
+        "question": 77,
+        "text": "Política de gestión de documentos electrónicos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:35:22.188Z",
+        "updated_at": "2024-05-13T22:35:22.188Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 331,
+    "fields": {
+        "question": 77,
+        "text": "Digitalización de documentos.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:35:28.367Z",
+        "updated_at": "2024-05-13T22:35:28.367Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 332,
+    "fields": {
+        "question": 77,
+        "text": "Clasificación semántica",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:35:34.693Z",
+        "updated_at": "2024-05-13T22:35:34.693Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 333,
+    "fields": {
+        "question": 77,
+        "text": "Reutilización de recursos de información",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:35:41.426Z",
+        "updated_at": "2024-05-13T22:35:41.426Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 334,
+    "fields": {
+        "question": 78,
+        "text": "Los respectivos números de nodos de los dos subárboles de un nodo dado difieren como mucho en 1",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:36:44.104Z",
+        "updated_at": "2024-05-13T22:36:44.104Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 335,
+    "fields": {
+        "question": 78,
+        "text": "Las respectivas alturas de los dos subárboles de un nodo dado difieren como mucho en 1",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:36:52.221Z",
+        "updated_at": "2024-05-13T22:36:52.221Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 336,
+    "fields": {
+        "question": 78,
+        "text": "Los respectivos números de nodos internos de los dos subárboles de un nodo dado son iguales",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:36:59.755Z",
+        "updated_at": "2024-05-13T22:36:59.755Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 337,
+    "fields": {
+        "question": 78,
+        "text": "Los respectivos números de nodos terminales de los dos subárboles de un nodo dado difieren como mucho en 1",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:37:07.576Z",
+        "updated_at": "2024-05-13T22:37:07.576Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 338,
+    "fields": {
+        "question": 78,
+        "text": "la complejidad de una búsqueda en uno de estos árboles se mantiene siempre en orden de complejidad O(n)",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:38:00.041Z",
+        "updated_at": "2024-05-13T22:38:00.041Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 339,
+    "fields": {
+        "question": 79,
+        "text": "Ana",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:39:02.155Z",
+        "updated_at": "2024-05-13T22:39:02.155Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 340,
+    "fields": {
+        "question": 79,
+        "text": "Atenea",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:39:10.187Z",
+        "updated_at": "2024-05-13T22:40:24.646Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 341,
+    "fields": {
+        "question": 79,
+        "text": "Minerva",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:39:22.872Z",
+        "updated_at": "2024-05-13T22:39:22.872Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 342,
+    "fields": {
+        "question": 79,
+        "text": "Palas",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:39:28.915Z",
+        "updated_at": "2024-05-13T22:39:28.915Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 343,
+    "fields": {
+        "question": 79,
+        "text": "CCNDroid",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:39:41.357Z",
+        "updated_at": "2024-05-13T22:40:20.464Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 344,
+    "fields": {
+        "question": 79,
+        "text": "Ultrón",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:39:53.632Z",
+        "updated_at": "2024-05-13T22:39:53.632Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 345,
+    "fields": {
+        "question": 79,
+        "text": "Marta",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:40:04.511Z",
+        "updated_at": "2024-05-13T22:40:04.511Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 346,
+    "fields": {
+        "question": 80,
+        "text": "Las denegaciones de solicitudes de acceso a la información acordadas por las entidades y organismos incluidos en el ámbito de aplicación.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:40:57.763Z",
+        "updated_at": "2024-05-13T22:40:57.763Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 347,
+    "fields": {
+        "question": 80,
+        "text": "La actividad de asesoramiento realizada en materia de transparencia administrativa",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:41:04.581Z",
+        "updated_at": "2024-05-13T22:41:04.582Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 348,
+    "fields": {
+        "question": 80,
+        "text": "La designación de los órganos y autoridades que no han dado cumplimiento a las obligaciones en esta materia.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:41:16.049Z",
+        "updated_at": "2024-05-13T22:41:16.049Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 349,
+    "fields": {
+        "question": 80,
+        "text": "Todas las respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:41:52.814Z",
+        "updated_at": "2024-05-13T22:42:11.761Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 350,
+    "fields": {
+        "question": 81,
+        "text": "Serán suprimidos en el plazo máximo de tres meses",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:42:57.418Z",
+        "updated_at": "2024-05-13T22:42:57.418Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 351,
+    "fields": {
+        "question": 81,
+        "text": "Serán suprimidos en el plazo máximo de un mes desde su captación, salvo que hubieran de ser conservados para acreditar la comisión de actos contra la integridad de personas o bienes",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:43:06.738Z",
+        "updated_at": "2024-05-13T22:43:14.345Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 352,
+    "fields": {
+        "question": 81,
+        "text": "Serán suprimidos en el plazo máximo de un año, en todo caso",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:43:28.051Z",
+        "updated_at": "2024-05-13T22:43:28.051Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 353,
+    "fields": {
+        "question": 81,
+        "text": "Ninguna respuesta es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:43:37.140Z",
+        "updated_at": "2024-05-13T22:43:37.141Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 354,
+    "fields": {
+        "question": 81,
+        "text": "Se mantendrán como mínimo durante cuatro años",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:44:16.696Z",
+        "updated_at": "2024-05-13T22:44:16.696Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 355,
+    "fields": {
+        "question": 82,
+        "text": "La obtención de un modelo lógico de procesos que represente el sistema",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:45:23.962Z",
+        "updated_at": "2024-05-13T22:46:05.815Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 356,
+    "fields": {
+        "question": 82,
+        "text": "La representación de los aspectos estáticos del sistema utilizando diversos mecanismos de abstracción",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:45:34.344Z",
+        "updated_at": "2024-05-13T22:45:34.344Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 357,
+    "fields": {
+        "question": 82,
+        "text": "La representación y definición de todos los datos que se introducen, almacenan, transforman y producen dentro de un sistema de información",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:45:44.185Z",
+        "updated_at": "2024-05-13T22:45:44.185Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 358,
+    "fields": {
+        "question": 82,
+        "text": "Describir el comportamiento dinámico del sistema de información mediante el paso de mensajes entre los objetos de mismo",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:45:53.693Z",
+        "updated_at": "2024-05-13T22:45:53.693Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 359,
+    "fields": {
+        "question": 83,
+        "text": "Por cualquier persona, ante el Registro General de Protección de Datos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:46:34.057Z",
+        "updated_at": "2024-05-13T22:46:34.057Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 360,
+    "fields": {
+        "question": 83,
+        "text": "Por el responsable del tratamiento de datos que tengan constancia de la falsedad de la información, ante el Registro General de Protección de Datos",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:46:42.554Z",
+        "updated_at": "2024-05-13T22:46:42.554Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 361,
+    "fields": {
+        "question": 83,
+        "text": "Por los interesados, ante la Agencia de Protección de Datos, en la forma que reglamentariamente se determine",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:46:53.258Z",
+        "updated_at": "2024-05-13T22:46:53.258Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 362,
+    "fields": {
+        "question": 83,
+        "text": "Por cualquier persona que tengan constancia de la falsedad de la información, ante el Defensor del Pueblo",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:47:02.580Z",
+        "updated_at": "2024-05-13T22:47:02.580Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 363,
+    "fields": {
+        "question": 83,
+        "text": "Por el Diputado del Común",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:47:13.990Z",
+        "updated_at": "2024-05-13T22:47:13.990Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 364,
+    "fields": {
+        "question": 84,
+        "text": "Solo en el supuesto de tener más de 100 trabajadores y trabajadoras",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:48:23.307Z",
+        "updated_at": "2024-05-13T22:48:23.307Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 365,
+    "fields": {
+        "question": 84,
+        "text": "Sí, en todo caso",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:48:29.873Z",
+        "updated_at": "2024-05-13T22:48:52.754Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 366,
+    "fields": {
+        "question": 84,
+        "text": "No es obligatorio, pero sí recomendable",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:48:36.190Z",
+        "updated_at": "2024-05-13T22:48:36.190Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 367,
+    "fields": {
+        "question": 84,
+        "text": "Ninguna de las respuestas es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:48:48.774Z",
+        "updated_at": "2024-05-13T22:48:48.774Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 368,
+    "fields": {
+        "question": 85,
+        "text": "Es la persona física o jurídica, pública o privada u órgano administrativo a los que se revelen los datos. Podrá serlo también los entes sin personalidad jurídica que actúen en el tráfico como sujetos diferenciados",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:49:20.702Z",
+        "updated_at": "2024-05-13T22:49:20.702Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 369,
+    "fields": {
+        "question": 85,
+        "text": "La autoridad pública independiente establecida por un Estado miembro",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:49:31.382Z",
+        "updated_at": "2024-05-13T22:49:31.382Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 370,
+    "fields": {
+        "question": 85,
+        "text": "Es la persona física o jurídica, autoridad pública, servicio u otro organismo que trate datos personales por cuenta del responsable del tratamiento",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:49:42.271Z",
+        "updated_at": "2024-05-13T22:49:49.157Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 371,
+    "fields": {
+        "question": 85,
+        "text": "Es la persona física o jurídica, autoridad pública, servicio u otro organismo al que se comuniquen datos personales, se trate o no de un tercero",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:49:57.348Z",
+        "updated_at": "2024-05-13T22:49:57.348Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 372,
+    "fields": {
+        "question": 86,
+        "text": "De la Ley 1/2010, de 26 de febrero, canaria de igualdad entre mujeres y hombres.",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:51:01.169Z",
+        "updated_at": "2024-05-13T22:51:01.169Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 373,
+    "fields": {
+        "question": 86,
+        "text": "De la Ley 47/2003, de 26 de noviembre, General Presupuestaria",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:51:09.722Z",
+        "updated_at": "2024-05-13T22:51:09.722Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 374,
+    "fields": {
+        "question": 86,
+        "text": "De la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:51:17.394Z",
+        "updated_at": "2024-05-13T22:51:17.394Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 375,
+    "fields": {
+        "question": 86,
+        "text": "De la Ley anual de Presupuestos para la Comunidad Autónoma de Canarias.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:51:27.295Z",
+        "updated_at": "2024-05-13T22:51:27.295Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 376,
+    "fields": {
+        "question": 87,
+        "text": "Clasificación profesional y formación",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:51:55.553Z",
+        "updated_at": "2024-05-13T22:51:55.553Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 377,
+    "fields": {
+        "question": 87,
+        "text": "Retribuciones",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:51:59.812Z",
+        "updated_at": "2024-05-13T22:51:59.812Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 378,
+    "fields": {
+        "question": 87,
+        "text": "Ejercicio corresponsable de los derechos de la vida personal, familiar y laboral",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:52:04.998Z",
+        "updated_at": "2024-05-13T22:52:04.998Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 379,
+    "fields": {
+        "question": 87,
+        "text": "Todas  son ciertas",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:52:18.592Z",
+        "updated_at": "2024-05-13T22:52:18.592Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 380,
+    "fields": {
+        "question": 88,
+        "text": "De septiembre a diciembre y de febrero a junio, ambos inclusive",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:52:54.756Z",
+        "updated_at": "2024-05-13T22:52:54.756Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 381,
+    "fields": {
+        "question": 88,
+        "text": "De septiembre a diciembre y de febrero a julio, ambos inclusive",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:53:02.106Z",
+        "updated_at": "2024-05-13T22:53:02.106Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 382,
+    "fields": {
+        "question": 88,
+        "text": "De septiembre a diciembre y de febrero a mayo, ambos inclusive.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:53:15.079Z",
+        "updated_at": "2024-05-13T22:53:15.079Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 383,
+    "fields": {
+        "question": 88,
+        "text": "Ninguna es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:53:24.493Z",
+        "updated_at": "2024-05-13T22:53:24.493Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 384,
+    "fields": {
+        "question": 89,
+        "text": "En orden inverso a su importancia numérica.",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:54:44.123Z",
+        "updated_at": "2024-05-13T22:54:44.123Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 385,
+    "fields": {
+        "question": 89,
+        "text": "De mayor a menor, según el número de diputados y diputadas que conformen el Grupo Parlamentario.",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:55:00.107Z",
+        "updated_at": "2024-05-13T22:55:00.107Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 386,
+    "fields": {
+        "question": 89,
+        "text": "Se establece al inicio de cada Legislatura",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:55:11.484Z",
+        "updated_at": "2024-05-13T22:55:11.484Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 387,
+    "fields": {
+        "question": 89,
+        "text": "Por orden alfabético",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:55:25.891Z",
+        "updated_at": "2024-05-13T22:55:25.891Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 388,
+    "fields": {
+        "question": 89,
+        "text": "Rotatorio por periodos de sesiones",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:55:36.559Z",
+        "updated_at": "2024-05-13T22:55:36.559Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 389,
+    "fields": {
+        "question": 90,
+        "text": "Cumplir y hacer cumplir el Reglamento, interpretándolo en los casos de duda en los debates parlamentarios",
+        "is_correct": true,
+        "created_at": "2024-05-13T22:56:24.240Z",
+        "updated_at": "2024-05-13T22:56:32.493Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 390,
+    "fields": {
+        "question": 90,
+        "text": "Elaborar el proyecto de presupuestos del Parlamento, dirigir y controlar su ejecución",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:56:42.466Z",
+        "updated_at": "2024-05-13T22:56:42.466Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 391,
+    "fields": {
+        "question": 90,
+        "text": "Ordenar los gastos de la Cámara, sin perjuicio de las delegaciones que pueda acordar",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:56:49.498Z",
+        "updated_at": "2024-05-13T22:56:49.498Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 392,
+    "fields": {
+        "question": 90,
+        "text": "Fijar el calendario de actividades del Pleno y de las Comisiones para cada periodo de sesiones",
+        "is_correct": false,
+        "created_at": "2024-05-13T22:56:55.907Z",
+        "updated_at": "2024-05-13T22:56:55.907Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 393,
+    "fields": {
+        "question": 91,
+        "text": "Ante la Mesa de la Cámara",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:00:08.923Z",
+        "updated_at": "2024-05-13T23:00:08.923Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 394,
+    "fields": {
+        "question": 91,
+        "text": "Ante el Letrado-Secretario General",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:00:14.545Z",
+        "updated_at": "2024-05-13T23:00:14.545Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 395,
+    "fields": {
+        "question": 91,
+        "text": "Ante el Servicio de Personal",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:00:20.607Z",
+        "updated_at": "2024-05-13T23:00:20.607Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 396,
+    "fields": {
+        "question": 91,
+        "text": "No procede la reclamación previa al ejercicio de las acciones judiciales en la Administración del Parlamento, por lo que se presentan directamente ante el orden jurisdiccional competente.",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:00:33.645Z",
+        "updated_at": "2024-05-13T23:00:33.645Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 397,
+    "fields": {
+        "question": 92,
+        "text": "El Servicio de Contratación y Seguridad",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:01:03.981Z",
+        "updated_at": "2024-05-13T23:01:03.981Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 398,
+    "fields": {
+        "question": 92,
+        "text": "La Mesa",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:01:14.326Z",
+        "updated_at": "2024-05-13T23:01:14.326Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 399,
+    "fields": {
+        "question": 92,
+        "text": "La Secretaría General",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:01:24.590Z",
+        "updated_at": "2024-05-13T23:01:24.590Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 400,
+    "fields": {
+        "question": 92,
+        "text": "La Presidencia en representación de la Mesa",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:01:31.661Z",
+        "updated_at": "2024-05-13T23:01:31.661Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 401,
+    "fields": {
+        "question": 92,
+        "text": "El interventor",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:01:48.634Z",
+        "updated_at": "2024-05-13T23:01:48.634Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 402,
+    "fields": {
+        "question": 93,
+        "text": "Resolver el régimen de provisión de vacantes y selección de dicho personal",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:02:49.797Z",
+        "updated_at": "2024-05-13T23:02:49.798Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 403,
+    "fields": {
+        "question": 93,
+        "text": "Determinar la estructura y cuantías de las retribuciones",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:03:00.978Z",
+        "updated_at": "2024-05-13T23:03:00.978Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 404,
+    "fields": {
+        "question": 93,
+        "text": "Solicitar la contratación temporal de personal laboral en supuestos de urgente necesidad",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:03:07.787Z",
+        "updated_at": "2024-05-13T23:03:07.787Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 405,
+    "fields": {
+        "question": 93,
+        "text": "Adoptar las medidas necesarias para garantizar los servicios mínimos en caso de huelga",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:03:14.819Z",
+        "updated_at": "2024-05-13T23:03:14.819Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 406,
+    "fields": {
+        "question": 94,
+        "text": "Tres días hábiles cuando el suceso se produzca en el mismo municipio, y cinco días hábiles cuando sea en municipio distinto al lugar de trabajo.",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:04:00.246Z",
+        "updated_at": "2024-05-13T23:04:00.246Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 407,
+    "fields": {
+        "question": 94,
+        "text": "Tres días hábiles cuando el suceso se produzca en la misma isla, y cinco días hábiles cuando sea en otra isla o fuera del archipiélago.",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:04:07.702Z",
+        "updated_at": "2024-05-13T23:04:41.538Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 408,
+    "fields": {
+        "question": 94,
+        "text": "Dos días hábiles cuando el suceso se produzca en el mismo municipio, y cuatro días hábiles cuando sea en municipio distinto al lugar de trabajo",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:04:17.213Z",
+        "updated_at": "2024-05-13T23:04:17.213Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 409,
+    "fields": {
+        "question": 94,
+        "text": "Ninguna es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:04:34.524Z",
+        "updated_at": "2024-05-13T23:04:34.524Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 410,
+    "fields": {
+        "question": 95,
+        "text": "15 días naturales",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:05:05.730Z",
+        "updated_at": "2024-05-13T23:05:05.730Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 411,
+    "fields": {
+        "question": 95,
+        "text": "90 días naturales",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:05:13.048Z",
+        "updated_at": "2024-05-13T23:05:13.048Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 412,
+    "fields": {
+        "question": 95,
+        "text": "45 días naturales",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:05:19.434Z",
+        "updated_at": "2024-05-13T23:05:19.434Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 413,
+    "fields": {
+        "question": 95,
+        "text": "1 mes",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:05:25.640Z",
+        "updated_at": "2024-05-13T23:05:25.640Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 414,
+    "fields": {
+        "question": 96,
+        "text": "Tienen que ser recurridos necesariamente en reposición",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:06:17.291Z",
+        "updated_at": "2024-05-13T23:06:17.291Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 415,
+    "fields": {
+        "question": 96,
+        "text": "Solo pueden ser impugnados directamente ante el orden jurisdiccional contencioso administrativo",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:06:30.701Z",
+        "updated_at": "2024-05-13T23:06:30.701Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 416,
+    "fields": {
+        "question": 96,
+        "text": "No podrán ser recurridos porque ya ha finalizado la vía administrativa",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:06:40.776Z",
+        "updated_at": "2024-05-13T23:06:40.776Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 417,
+    "fields": {
+        "question": 96,
+        "text": "Podrán ser recurridos potestativamente en reposición ante el mismo órgano que los hubiera dictado o ser impugnados directamente ante el orden jurisdiccional contencioso administrativo",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:06:50.174Z",
+        "updated_at": "2024-05-13T23:06:50.174Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 418,
+    "fields": {
+        "question": 96,
+        "text": "Se podrán impugnar en un plazo máximo de 21 días naturales",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:07:14.931Z",
+        "updated_at": "2024-05-13T23:08:24.686Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 419,
+    "fields": {
+        "question": 97,
+        "text": "Quince días",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:08:52.555Z",
+        "updated_at": "2024-05-13T23:08:52.556Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 420,
+    "fields": {
+        "question": 97,
+        "text": "Un mes",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:09:04.270Z",
+        "updated_at": "2024-05-13T23:09:04.270Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 421,
+    "fields": {
+        "question": 97,
+        "text": "Dos meses",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:09:16.436Z",
+        "updated_at": "2024-05-13T23:09:34.120Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 422,
+    "fields": {
+        "question": 97,
+        "text": "Tres meses",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:09:26.525Z",
+        "updated_at": "2024-05-13T23:09:37.094Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 423,
+    "fields": {
+        "question": 97,
+        "text": "Un año",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:10:01.780Z",
+        "updated_at": "2024-05-13T23:10:01.780Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 424,
+    "fields": {
+        "question": 98,
+        "text": "Se procederá a la publicación del acto",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:10:34.233Z",
+        "updated_at": "2024-05-13T23:10:34.233Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 425,
+    "fields": {
+        "question": 98,
+        "text": "Se repetirá el intento de notificación por una sola vez dentro de los tres días siguientes",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:10:43.105Z",
+        "updated_at": "2024-05-13T23:10:43.106Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 426,
+    "fields": {
+        "question": 98,
+        "text": "Se practicará la notificación en la dirección electrónica del interesado, entendiéndose practicada desde el mismo momento de su emisión",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:10:51.761Z",
+        "updated_at": "2024-05-13T23:10:51.762Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 427,
+    "fields": {
+        "question": 98,
+        "text": "Se hará constar en el expediente, especificándose las circunstancias del intento de notificación y el medio, dando por efectuado el trámite y siguiéndose el procedimiento",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:10:59.423Z",
+        "updated_at": "2024-05-13T23:10:59.423Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 428,
+    "fields": {
+        "question": 99,
+        "text": "Cinco años, no renovables, entre personas de reconocido prestigio y competencia profesional.",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:11:45.243Z",
+        "updated_at": "2024-05-13T23:11:45.243Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 429,
+    "fields": {
+        "question": 99,
+        "text": "Cinco años, renovables por una sola vez, entre personas de reconocido prestigio y competencia profesional.",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:11:55.111Z",
+        "updated_at": "2024-05-13T23:11:55.111Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 430,
+    "fields": {
+        "question": 99,
+        "text": "Cuatro años, coincidiendo con la duración de la Legislatura.",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:12:04.297Z",
+        "updated_at": "2024-05-13T23:12:04.297Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 431,
+    "fields": {
+        "question": 99,
+        "text": "Cuatro años, renovables, hasta un máximo de 12 años",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:12:11.804Z",
+        "updated_at": "2024-05-13T23:12:11.804Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 432,
+    "fields": {
+        "question": 99,
+        "text": "Tres años como máximo",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:12:40.829Z",
+        "updated_at": "2024-05-13T23:12:40.829Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 433,
+    "fields": {
+        "question": 100,
+        "text": "La Administración púbica de la Comunidad Autónoma de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:13:03.215Z",
+        "updated_at": "2024-05-13T23:13:03.215Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 434,
+    "fields": {
+        "question": 100,
+        "text": "El Parlamento de Canarias, en los términos de la disposición adicional cuarta",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:13:09.781Z",
+        "updated_at": "2024-05-13T23:13:09.781Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 435,
+    "fields": {
+        "question": 100,
+        "text": "Las universidades públicas canarias",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:13:16.492Z",
+        "updated_at": "2024-05-13T23:13:16.492Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 436,
+    "fields": {
+        "question": 100,
+        "text": "Todas las respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:13:23.733Z",
+        "updated_at": "2024-05-13T23:13:23.733Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 437,
+    "fields": {
+        "question": 101,
+        "text": "Interrumpir su actividad, siempre y cuando se lo autorice la autoridad laboral competente",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:14:47.551Z",
+        "updated_at": "2024-05-13T23:14:47.551Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 438,
+    "fields": {
+        "question": 101,
+        "text": "Interrumpir su actividad, siempre y cuando lo autorice el empresario",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:15:03.090Z",
+        "updated_at": "2024-05-13T23:15:03.090Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 439,
+    "fields": {
+        "question": 101,
+        "text": "Interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:15:10.719Z",
+        "updated_at": "2024-05-13T23:15:15.057Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 440,
+    "fields": {
+        "question": 101,
+        "text": "Interrumpir su actividad, siempre y cuando se adopte un acuerdo en este sentido por los delegados de prevención",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:15:23.199Z",
+        "updated_at": "2024-05-13T23:15:23.199Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 441,
+    "fields": {
+        "question": 101,
+        "text": "Informar por escrito a sus superiores",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:15:41.755Z",
+        "updated_at": "2024-05-13T23:15:41.755Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 442,
+    "fields": {
+        "question": 102,
+        "text": "De 50 a 100 trabajadores: 2 Delegados de Prevención",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:16:47.484Z",
+        "updated_at": "2024-05-13T23:16:54.315Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 443,
+    "fields": {
+        "question": 102,
+        "text": "De 101 a 500 trabajadores: 4 Delegados de Prevención",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:17:02.380Z",
+        "updated_at": "2024-05-13T23:17:02.380Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 444,
+    "fields": {
+        "question": 102,
+        "text": "De 1001 a 2000 trabajadores: 6 Delegados de Prevención",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:17:13.433Z",
+        "updated_at": "2024-05-13T23:17:13.433Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 445,
+    "fields": {
+        "question": 102,
+        "text": "De 4001 en adelante: 10 Delegados de Prevención",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:17:21.799Z",
+        "updated_at": "2024-05-13T23:17:21.800Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 446,
+    "fields": {
+        "question": 103,
+        "text": "Presta un servicio de comprobación de la vigencia de un determinado certificado",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:20:42.483Z",
+        "updated_at": "2024-05-13T23:21:19.135Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 447,
+    "fields": {
+        "question": 103,
+        "text": "Es exactamente lo mismo que la Autoridad de Certificación",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:20:50.527Z",
+        "updated_at": "2024-05-13T23:20:50.527Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 448,
+    "fields": {
+        "question": 103,
+        "text": "Es la encargada de revocar el certificado antes de su caducidad cuando deja de tener validez",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:21:00.081Z",
+        "updated_at": "2024-05-13T23:21:22.011Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 449,
+    "fields": {
+        "question": 103,
+        "text": "Es la encargada de verificar la identidad del titular de forma previa a la expedición del certificado",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:21:08.907Z",
+        "updated_at": "2024-05-13T23:21:08.907Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 450,
+    "fields": {
+        "question": 104,
+        "text": "GS2-XML",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:21:53.731Z",
+        "updated_at": "2024-05-13T23:21:53.731Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 451,
+    "fields": {
+        "question": 104,
+        "text": "UBL",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:22:04.179Z",
+        "updated_at": "2024-05-13T23:22:04.179Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 452,
+    "fields": {
+        "question": 104,
+        "text": "Facturae versión 3.2.x con firma electrónica XAdES",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:22:12.439Z",
+        "updated_at": "2024-05-13T23:22:12.439Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 453,
+    "fields": {
+        "question": 104,
+        "text": "Eb-XML",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:22:18.588Z",
+        "updated_at": "2024-05-13T23:22:18.588Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 454,
+    "fields": {
+        "question": 105,
+        "text": "MySQL",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:23:30.382Z",
+        "updated_at": "2024-05-13T23:23:30.382Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 455,
+    "fields": {
+        "question": 105,
+        "text": "Oracle",
+        "is_correct": true,
+        "created_at": "2024-05-13T23:23:34.851Z",
+        "updated_at": "2024-05-13T23:23:49.986Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 456,
+    "fields": {
+        "question": 105,
+        "text": "SQL Server",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:23:41.584Z",
+        "updated_at": "2024-05-13T23:23:41.584Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 457,
+    "fields": {
+        "question": 105,
+        "text": "DB2",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:23:47.094Z",
+        "updated_at": "2024-05-13T23:23:47.095Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 458,
+    "fields": {
+        "question": 105,
+        "text": "PostgresSQL",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:24:04.797Z",
+        "updated_at": "2024-05-13T23:24:04.797Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 459,
+    "fields": {
+        "question": 105,
+        "text": "SyBase",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:24:11.506Z",
+        "updated_at": "2024-05-13T23:24:11.506Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 460,
+    "fields": {
+        "question": 105,
+        "text": "Cassandra",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:25:31.749Z",
+        "updated_at": "2024-05-13T23:25:31.749Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 461,
+    "fields": {
+        "question": 105,
+        "text": "MongoDB",
+        "is_correct": false,
+        "created_at": "2024-05-13T23:25:41.119Z",
+        "updated_at": "2024-05-13T23:25:41.119Z"
     }
 }
 ]

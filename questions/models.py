@@ -35,7 +35,7 @@ class Answer(models.Model):
     @classmethod
     def load_answer(cls, pk):
         try:
-            return cls.objects.get(pk=pk)
+            return cls.objects.select_related('question').get(pk=pk)
         except cls.DoesNotExist:
             return None
 

@@ -42,8 +42,14 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     "django_extensions",
+    "crispy_forms",
+    "crispy_bulma",
+    "markdownify.apps.MarkdownifyConfig",
     "questions",
 ]
+
+CRISPY_ALLOWED_TEMPLATE_PACKS = ("bulma",)
+CRISPY_TEMPLATE_PACK = "bulma"
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
