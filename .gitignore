@@ -29,3 +29,4 @@ coverage.xml
 # Vim
 *.swp
 Session.vim
+db.sqlite3
