@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+    
+<h2>Preguntas</h2>
+
+<h3 class="h3">{{ question.text }}</h3>
+
+<ul>{% for answer in answers %}
+    <li>{{ answer.text }}
+    </li>
+    
+    {% endfor %}</ol>
+
+<h2>Preguntas: <a href="/questions/">{{ num_questions }}</a></h2>
+
+{% endblock content %}

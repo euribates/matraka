@@ -17,6 +17,17 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import path
 
+import main.views
+import questions.views
+
+
+def tie(ruta, vista, name=None):
+    return path(ruta, vista, name=name or vista.__name__)
+
+
 urlpatterns = [
+    tie('', main.views.index),
+    tie('questions/', questions.views.all_questions),
+    tie('questions/<int:pk>/', questions.views.question_detail),
     path("admin/", admin.site.urls),
-]
+    ]

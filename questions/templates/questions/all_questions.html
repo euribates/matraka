@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+    <table class="table">
+        {% for question in questions %}
+            <tr>
+                <th>
+                    <a class="btn" href="/questions/{{ question.pk }}/">
+                    {{ question.pk }}
+                    </a>
+                </th>
+                <td>{{ question.text }}</td>
+                <td>{{ question.num_answers }}</td>
+            </tr>
+        {% endfor %}
+    </table>
+
+{% endblock content %}
