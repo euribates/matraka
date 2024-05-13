@@ -1,0 +1,1439 @@
+[
+{
+    "model": "questions.question",
+    "pk": 1,
+    "fields": {
+        "text": "Indique cuál es la forma política del Estado español:",
+        "source": "Cosntitución Española, artículo 1, punto 3",
+        "created_at": "2024-05-13T11:59:40.142Z",
+        "updated_at": "2024-05-13T12:31:36.307Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 2,
+    "fields": {
+        "text": "Según el Artículo 69.1 de la Constitución Española, el Senado:",
+        "source": "Constitución Española, Artículo 69.1",
+        "created_at": "2024-05-13T12:32:22.798Z",
+        "updated_at": "2024-05-13T12:32:22.798Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 3,
+    "fields": {
+        "text": "Indique cuál es el Título de las Constitución Española relativo a las Cortes Generales:",
+        "source": "Constitución Española, Título III",
+        "created_at": "2024-05-13T12:35:08.092Z",
+        "updated_at": "2024-05-13T12:35:08.092Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 4,
+    "fields": {
+        "text": "Según el Esquema Nacional de Seguridad, la categoría de un sistema de información se dice que es ALTA, cuando:",
+        "source": "",
+        "created_at": "2024-05-13T12:50:49.107Z",
+        "updated_at": "2024-05-13T12:50:49.107Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 5,
+    "fields": {
+        "text": "¿Qué implica la interoperabilidad en la administración electrónica?",
+        "source": "",
+        "created_at": "2024-05-13T12:56:11.220Z",
+        "updated_at": "2024-05-13T12:56:11.220Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 6,
+    "fields": {
+        "text": "¿Cuál es el propósito principal de los servicios SCSP en la interoperabilidad?",
+        "source": "Ofrecer servicios de carpeta sanitaria a la ciudadanía",
+        "created_at": "2024-05-13T12:58:35.151Z",
+        "updated_at": "2024-05-13T12:58:35.151Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 7,
+    "fields": {
+        "text": "¿Qué es un sistema de control de versiones en el desarrollo de software?",
+        "source": "",
+        "created_at": "2024-05-13T13:01:02.293Z",
+        "updated_at": "2024-05-13T13:01:02.293Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 8,
+    "fields": {
+        "text": "El mantenimiento actualizado del software y de los sistemas operativos con las últimas versiones, parches de seguridad y actualizaciones disponibles para asegurar el rendimiento óptimo y proteger el sistema contra vulnerabilidades, se define como mantenimiento:",
+        "source": "",
+        "created_at": "2024-05-13T13:03:04.833Z",
+        "updated_at": "2024-05-13T13:03:04.833Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 9,
+    "fields": {
+        "text": "¿Qué caracteriza al diseño web adaptativo (Responsive Web Design)?",
+        "source": "",
+        "created_at": "2024-05-13T13:07:52.882Z",
+        "updated_at": "2024-05-13T13:07:52.882Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 10,
+    "fields": {
+        "text": "¿Cuál de las siguientes afirmaciones es verdadera con respecto a un gráfico GANTT?",
+        "source": "https://www.wrike.com/es/blog/como-no-usar-diagramas-de-gantt-gestion-proyectos/",
+        "created_at": "2024-05-13T13:13:03.277Z",
+        "updated_at": "2024-05-13T13:14:45.048Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 11,
+    "fields": {
+        "text": "En comparación con las BBDD relacionales, MongoDB es la solución ideal para almacenar:",
+        "source": "",
+        "created_at": "2024-05-13T13:16:02.982Z",
+        "updated_at": "2024-05-13T13:16:16.080Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 12,
+    "fields": {
+        "text": "Si a la hora de realizar varios cambios en una base de datos relacional queremos garantizar que se aplican todos los cambios o ninguno, usaremos...",
+        "source": "",
+        "created_at": "2024-05-13T13:20:30.755Z",
+        "updated_at": "2024-05-13T13:20:30.755Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 13,
+    "fields": {
+        "text": "¿Cuál es uno de los enfoques más comunes para lograr diseño adaptativo en CSS?",
+        "source": "",
+        "created_at": "2024-05-13T13:42:05.119Z",
+        "updated_at": "2024-05-13T13:42:05.119Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 14,
+    "fields": {
+        "text": "¿Cuál es la diferencia clave entre una base de datos operativa y un almacén de datos (data warehouse)?",
+        "source": "",
+        "created_at": "2024-05-13T13:43:32.513Z",
+        "updated_at": "2024-05-13T13:43:32.514Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 15,
+    "fields": {
+        "text": "¿Cuál es el propósito principal del patrón de diseño Singleton en el desarrollo de software?",
+        "source": "",
+        "created_at": "2024-05-13T13:45:22.076Z",
+        "updated_at": "2024-05-13T13:45:22.076Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 16,
+    "fields": {
+        "text": "En el ámbito de la disponibilidad de la información ¿qué es el RPO?",
+        "source": "https://ciberseguridad.blog/conceptos-basicos-de-plan-de-continuidad-de-negocio-rpo-rto-wrt-mtd/",
+        "created_at": "2024-05-13T13:46:47.840Z",
+        "updated_at": "2024-05-13T13:54:41.290Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 17,
+    "fields": {
+        "text": "¿Cuál de las siguientes afirmaciones describe mejor el propósito principal de SVG en desarrollo web?",
+        "source": "",
+        "created_at": "2024-05-13T13:56:52.436Z",
+        "updated_at": "2024-05-13T13:56:52.437Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 18,
+    "fields": {
+        "text": "Indica la respuesta que NO es correcta:",
+        "source": "",
+        "created_at": "2024-05-13T13:59:01.065Z",
+        "updated_at": "2024-05-13T13:59:01.065Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 19,
+    "fields": {
+        "text": "Ventajas de la versión SNMPv3 sobre SNMPv2",
+        "source": "",
+        "created_at": "2024-05-13T14:01:08.286Z",
+        "updated_at": "2024-05-13T14:01:08.286Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 20,
+    "fields": {
+        "text": "La Red SARA",
+        "source": "https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=redsara",
+        "created_at": "2024-05-13T14:03:39.339Z",
+        "updated_at": "2024-05-13T14:03:39.339Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 21,
+    "fields": {
+        "text": "¿Qué herramienta del CCN-Cert permite una gestión de ciberincidentes?",
+        "source": "https://administracionelectronica.gob.es/ctt/lucia",
+        "created_at": "2024-05-13T14:05:06.672Z",
+        "updated_at": "2024-05-13T14:05:06.672Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 22,
+    "fields": {
+        "text": "En una red inalámbrica el SSID (Service Set Identifier) podemos afirmar que:",
+        "source": "",
+        "created_at": "2024-05-13T14:06:27.644Z",
+        "updated_at": "2024-05-13T14:06:27.644Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 23,
+    "fields": {
+        "text": "En el contexto de un WAF (Web Application Firewall), podemos afirmar que:",
+        "source": "",
+        "created_at": "2024-05-13T14:07:57.674Z",
+        "updated_at": "2024-05-13T14:07:57.674Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 24,
+    "fields": {
+        "text": "En un ataque Zero-day podemos afirmar que:",
+        "source": "",
+        "created_at": "2024-05-13T14:09:10.884Z",
+        "updated_at": "2024-05-13T14:09:10.884Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 25,
+    "fields": {
+        "text": "Dada la máscara de red 255.255.240.0, ¿a qué red pertenece la dirección IP 192.228.17.15?",
+        "source": "",
+        "created_at": "2024-05-13T14:14:22.812Z",
+        "updated_at": "2024-05-13T14:14:22.812Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 26,
+    "fields": {
+        "text": "¿Cuáles son los puertos estándar TCP que usan los protocolos de correo IMAP/IMAPS (respectivamente)?",
+        "source": "",
+        "created_at": "2024-05-13T14:16:05.175Z",
+        "updated_at": "2024-05-13T14:16:05.175Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1,
+    "fields": {
+        "question": 1,
+        "text": "El parlamentarismo",
+        "is_correct": false,
+        "created_at": "2024-05-13T11:59:56.261Z",
+        "updated_at": "2024-05-13T11:59:56.261Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2,
+    "fields": {
+        "question": 1,
+        "text": "La democracia",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:00:04.536Z",
+        "updated_at": "2024-05-13T12:00:04.536Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3,
+    "fields": {
+        "question": 1,
+        "text": "La monarquía parlamentaria",
+        "is_correct": true,
+        "created_at": "2024-05-13T12:00:12.835Z",
+        "updated_at": "2024-05-13T12:00:23.653Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 4,
+    "fields": {
+        "question": 1,
+        "text": "La monarquía constitucional",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:00:34.510Z",
+        "updated_at": "2024-05-13T12:00:34.510Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 5,
+    "fields": {
+        "question": 2,
+        "text": "Es la Cámara de representación territorial",
+        "is_correct": true,
+        "created_at": "2024-05-13T12:33:13.402Z",
+        "updated_at": "2024-05-13T12:33:13.402Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 6,
+    "fields": {
+        "question": 2,
+        "text": "Es la Cámara de representación de las Comunidades Autónomas",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:33:21.825Z",
+        "updated_at": "2024-05-13T12:33:21.825Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 7,
+    "fields": {
+        "question": 2,
+        "text": "Es la Cámara de representación de la población",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:33:36.350Z",
+        "updated_at": "2024-05-13T12:33:36.350Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 8,
+    "fields": {
+        "question": 2,
+        "text": "Es la Cámara de representación de Municipios, Provincias, y las Comunidades Autónomas que se constituyan",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:33:51.572Z",
+        "updated_at": "2024-05-13T12:33:51.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 9,
+    "fields": {
+        "question": 3,
+        "text": "Título I",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:35:29.807Z",
+        "updated_at": "2024-05-13T12:35:29.807Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 10,
+    "fields": {
+        "question": 3,
+        "text": "Título II",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:35:42.251Z",
+        "updated_at": "2024-05-13T12:35:42.251Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 11,
+    "fields": {
+        "question": 3,
+        "text": "Título III",
+        "is_correct": true,
+        "created_at": "2024-05-13T12:36:17.705Z",
+        "updated_at": "2024-05-13T12:36:17.705Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 12,
+    "fields": {
+        "question": 3,
+        "text": "Titulo V",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:45:37.079Z",
+        "updated_at": "2024-05-13T12:45:37.079Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 13,
+    "fields": {
+        "question": 3,
+        "text": "Título VII",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:46:30.143Z",
+        "updated_at": "2024-05-13T12:46:30.143Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 14,
+    "fields": {
+        "question": 3,
+        "text": "Título XIX",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:46:47.026Z",
+        "updated_at": "2024-05-13T12:46:47.027Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 15,
+    "fields": {
+        "question": 4,
+        "text": "Las consecuencias de un incidente de seguridad puedan suponer un perjuicio a la organización.",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:55:14.838Z",
+        "updated_at": "2024-05-13T12:55:14.838Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 16,
+    "fields": {
+        "question": 4,
+        "text": "Todas sus dimensiones de seguridad llegan al nivel ALTO.",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:55:25.551Z",
+        "updated_at": "2024-05-13T12:55:25.551Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 17,
+    "fields": {
+        "question": 4,
+        "text": "Alguna de sus dimensiones de seguridad alcanza el nivel ALTO",
+        "is_correct": true,
+        "created_at": "2024-05-13T12:55:38.471Z",
+        "updated_at": "2024-05-13T12:55:38.471Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 18,
+    "fields": {
+        "question": 4,
+        "text": "No han existido durante dos años incidentes de seguridad",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:55:54.176Z",
+        "updated_at": "2024-05-13T12:55:54.176Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 19,
+    "fields": {
+        "question": 5,
+        "text": "La exclusión de la tecnología en la administración pública",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:56:26.064Z",
+        "updated_at": "2024-05-13T12:56:26.064Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 20,
+    "fields": {
+        "question": 5,
+        "text": "La incompatibilidad de sistemas y documentos electrónicos",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:56:38.040Z",
+        "updated_at": "2024-05-13T12:56:38.040Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 21,
+    "fields": {
+        "question": 5,
+        "text": "La capacidad de los sistemas de información y de los procedimientos a los que éstos dan soporte, de compartir datos y posibilitar el intercambio de información y conocimiento entre ellos",
+        "is_correct": true,
+        "created_at": "2024-05-13T12:56:51.985Z",
+        "updated_at": "2024-05-13T12:56:51.985Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 22,
+    "fields": {
+        "question": 5,
+        "text": "La restricción del acceso a documentos públicos",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:57:04.859Z",
+        "updated_at": "2024-05-13T12:57:04.859Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 23,
+    "fields": {
+        "question": 6,
+        "text": "Ofrecer servicios de carpeta sanitaria a la ciudadanía",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:59:12.183Z",
+        "updated_at": "2024-05-13T12:59:12.183Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 24,
+    "fields": {
+        "question": 6,
+        "text": "Proporcionar servicios de intercambio de certificados entre Administraciones Públicas",
+        "is_correct": true,
+        "created_at": "2024-05-13T12:59:27.600Z",
+        "updated_at": "2024-05-13T12:59:27.600Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 25,
+    "fields": {
+        "question": 6,
+        "text": "Gestionar el tráfico de paquetes de datos a nivel gubernamental",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:59:40.832Z",
+        "updated_at": "2024-05-13T12:59:40.832Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 26,
+    "fields": {
+        "question": 6,
+        "text": "Administrar una plataforma de registro y consulta de servicios",
+        "is_correct": false,
+        "created_at": "2024-05-13T12:59:52.210Z",
+        "updated_at": "2024-05-13T12:59:52.210Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 27,
+    "fields": {
+        "question": 7,
+        "text": "Un sistema que protege el código fuente contra cualquier modificación",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:01:14.748Z",
+        "updated_at": "2024-05-13T13:01:14.748Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 28,
+    "fields": {
+        "question": 7,
+        "text": "Una herramienta para gestionar cambios sobre un producto software a lo largo del tiempo",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:01:29.603Z",
+        "updated_at": "2024-05-13T13:01:29.603Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 29,
+    "fields": {
+        "question": 7,
+        "text": "Un sistema que impide la distribución de software",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:01:42.098Z",
+        "updated_at": "2024-05-13T13:01:42.098Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 30,
+    "fields": {
+        "question": 7,
+        "text": "Un sistema que verifica la calidad del software",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:01:53.781Z",
+        "updated_at": "2024-05-13T13:01:53.781Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 31,
+    "fields": {
+        "question": 7,
+        "text": "Un sistema de contabilidad adecuado para estimar el coste de un proyecto",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:02:45.343Z",
+        "updated_at": "2024-05-13T13:02:45.343Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 32,
+    "fields": {
+        "question": 8,
+        "text": "Correctivo",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:07:04.043Z",
+        "updated_at": "2024-05-13T13:07:04.043Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 33,
+    "fields": {
+        "question": 8,
+        "text": "Adaptativo",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:07:13.169Z",
+        "updated_at": "2024-05-13T13:07:13.169Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 34,
+    "fields": {
+        "question": 8,
+        "text": "Perfectivo",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:07:20.831Z",
+        "updated_at": "2024-05-13T13:07:20.831Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 35,
+    "fields": {
+        "question": 8,
+        "text": "Preventivo",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:07:29.661Z",
+        "updated_at": "2024-05-13T13:07:29.661Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 36,
+    "fields": {
+        "question": 9,
+        "text": "Se adapta automáticamente a las preferencias del usuario sin intervención del diseñador.",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:08:16.424Z",
+        "updated_at": "2024-05-13T13:08:16.425Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 37,
+    "fields": {
+        "question": 9,
+        "text": "Implica utilizar colores y fuentes llamativas para captar la atención del usuario",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:08:28.199Z",
+        "updated_at": "2024-05-13T13:08:28.199Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 38,
+    "fields": {
+        "question": 9,
+        "text": "Está limitado a dispositivos específicos, como teléfonos inteligentes",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:08:41.607Z",
+        "updated_at": "2024-05-13T13:08:41.607Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 39,
+    "fields": {
+        "question": 9,
+        "text": "Ajusta el contenido y la presentación de una página web según las características del dispositivo y el tamaño de la pantalla",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:08:58.770Z",
+        "updated_at": "2024-05-13T13:08:58.770Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 40,
+    "fields": {
+        "question": 10,
+        "text": "Muestra solo las tareas principales en un proyecto",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:13:32.550Z",
+        "updated_at": "2024-05-13T13:13:32.550Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 41,
+    "fields": {
+        "question": 10,
+        "text": "No es útil para programar y dar seguimiento a las tareas en un proyecto",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:13:47.895Z",
+        "updated_at": "2024-05-13T13:13:47.895Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 42,
+    "fields": {
+        "question": 10,
+        "text": "Permite visualizar las fechas de inicio y finalización de las tareas",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:14:05.764Z",
+        "updated_at": "2024-05-13T13:50:52.580Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 43,
+    "fields": {
+        "question": 10,
+        "text": "No es adecuado para proyectos que involucran múltiples recursos",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:14:21.260Z",
+        "updated_at": "2024-05-13T13:50:29.776Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 44,
+    "fields": {
+        "question": 11,
+        "text": "Datos no estructurados con potencial de un crecimiento rápido",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:16:44.628Z",
+        "updated_at": "2024-05-13T13:16:44.628Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 45,
+    "fields": {
+        "question": 11,
+        "text": "Datos no estructurados con un crecimiento lento",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:16:56.073Z",
+        "updated_at": "2024-05-13T13:16:56.073Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 46,
+    "fields": {
+        "question": 11,
+        "text": "Datos no estructurados con muchas relaciones entre sí",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:17:13.910Z",
+        "updated_at": "2024-05-13T13:17:13.910Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 47,
+    "fields": {
+        "question": 11,
+        "text": "Datos estructurados y no estructurados con un potencial de crecimiento rápido",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:17:30.066Z",
+        "updated_at": "2024-05-13T13:19:44.210Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 48,
+    "fields": {
+        "question": 12,
+        "text": "Sesiones",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:20:50.705Z",
+        "updated_at": "2024-05-13T13:20:50.705Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 49,
+    "fields": {
+        "question": 12,
+        "text": "Transacciones",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:21:00.179Z",
+        "updated_at": "2024-05-13T13:21:00.179Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 50,
+    "fields": {
+        "question": 12,
+        "text": "Restricciones",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:21:10.299Z",
+        "updated_at": "2024-05-13T13:21:10.299Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 51,
+    "fields": {
+        "question": 12,
+        "text": "Disparadores (_triggers_)",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:21:32.812Z",
+        "updated_at": "2024-05-13T13:21:32.812Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 52,
+    "fields": {
+        "question": 13,
+        "text": "Utilizar solo unidades fijas para garantizar consistencia",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:42:17.663Z",
+        "updated_at": "2024-05-13T13:42:17.663Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 53,
+    "fields": {
+        "question": 13,
+        "text": "Media queries, que permiten aplicar estilos diferentes según las características del dispositivo",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:42:28.519Z",
+        "updated_at": "2024-05-13T13:42:28.520Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 54,
+    "fields": {
+        "question": 13,
+        "text": "Ignorar completamente las diferencias de dispositivos y pantallas",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:42:40.900Z",
+        "updated_at": "2024-05-13T13:42:40.900Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 55,
+    "fields": {
+        "question": 13,
+        "text": "Utilizar únicamente imágenes de alta resolución",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:42:50.352Z",
+        "updated_at": "2024-05-13T13:42:50.352Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 56,
+    "fields": {
+        "question": 14,
+        "text": "Las bases de datos operativas son para transacciones diarias, mientras que los almacenes de datos almacenan datos optimizados para análisis",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:43:59.251Z",
+        "updated_at": "2024-05-13T13:43:59.251Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 57,
+    "fields": {
+        "question": 14,
+        "text": "Las bases de datos operativas son solo para datos históricos, mientras que los almacenes de datos se centran en datos en tiempo real",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:44:10.745Z",
+        "updated_at": "2024-05-13T13:44:10.745Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 58,
+    "fields": {
+        "question": 14,
+        "text": "Los almacenes de datos son más pequeños en tamaño en comparación con las bases de datos operativas",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:44:21.210Z",
+        "updated_at": "2024-05-13T13:44:21.210Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 59,
+    "fields": {
+        "question": 14,
+        "text": "Las bases de datos operativas no requieren mantenimiento regular",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:44:31.734Z",
+        "updated_at": "2024-05-13T13:44:31.734Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 60,
+    "fields": {
+        "question": 15,
+        "text": "Facilitar la creación de instancias múltiples de una clase",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:45:35.169Z",
+        "updated_at": "2024-05-13T13:45:35.169Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 61,
+    "fields": {
+        "question": 15,
+        "text": "Garantizar que una clase tenga solo una instancia y proporcionar un punto de acceso global a ella",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:45:44.116Z",
+        "updated_at": "2024-05-13T13:45:44.116Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 62,
+    "fields": {
+        "question": 15,
+        "text": "Permitir la herencia múltiple en las clases",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:45:57.195Z",
+        "updated_at": "2024-05-13T13:45:57.195Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 63,
+    "fields": {
+        "question": 15,
+        "text": "Mejorar la legibilidad del código fuente",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:46:08.678Z",
+        "updated_at": "2024-05-13T13:46:08.678Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 64,
+    "fields": {
+        "question": 16,
+        "text": "Establece el punto anterior en el tiempo al que una empresa está dispuesta a volver para recuperar sus datos y funcionalidades en caso de un incidente o desastre, es decir, define cuánta pérdida de datos puede tolerar una organización",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:53:07.178Z",
+        "updated_at": "2024-05-13T13:53:07.178Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 65,
+    "fields": {
+        "question": 16,
+        "text": "Establece el tiempo máximo que una empresa puede permitirse estar inactiva antes de que se restablezcan sus sistemas y servicios después de un incidente, es decir, se centra en la restauración de la funcionalidad y la continuidad operativa de la organización",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:53:28.157Z",
+        "updated_at": "2024-05-13T13:53:28.157Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 66,
+    "fields": {
+        "question": 16,
+        "text": "Establece la cantidad máxima de tiempo tolerable que se necesita para verificar el sistema y/o la integridad de los datos después de que se haya iniciado el proceso de recuperación, es decir, se concentra en el período necesario para asegurarse de que estos sistemas y datos estén funcionando correctamente y sin errores.",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:53:37.695Z",
+        "updated_at": "2024-05-13T13:53:37.695Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 67,
+    "fields": {
+        "question": 16,
+        "text": "Es una métrica para definir la cantidad total de tiempo que un proceso de negocio puede interrumpirse sin causar consecuencias inaceptables para la organización, es decir, representa el límite máximo de tiempo durante el cual una empresa puede estar inactiva y aún mantener su funcionamiento sin sufrir daños graves",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:53:46.367Z",
+        "updated_at": "2024-05-13T13:53:46.367Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 68,
+    "fields": {
+        "question": 17,
+        "text": "SVG se utiliza exclusivamente para la manipulación de datos en la capa del servidor",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:57:06.854Z",
+        "updated_at": "2024-05-13T13:57:06.854Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 69,
+    "fields": {
+        "question": 17,
+        "text": "SVG proporciona una forma de definir gráficos vectoriales escalables en formato XML",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:57:19.180Z",
+        "updated_at": "2024-05-13T13:57:19.180Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 70,
+    "fields": {
+        "question": 17,
+        "text": "SVG usa el mismo formato de compresión que jpg para ser escalable",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:57:29.315Z",
+        "updated_at": "2024-05-13T13:57:29.315Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 71,
+    "fields": {
+        "question": 17,
+        "text": "SVG es una técnica de encriptación para proteger la privacidad de los usuarios en línea",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:57:38.811Z",
+        "updated_at": "2024-05-13T13:57:38.811Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 72,
+    "fields": {
+        "question": 18,
+        "text": "HTTPS es la versión segura del protocolo HTTP",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:59:12.197Z",
+        "updated_at": "2024-05-13T13:59:12.197Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 73,
+    "fields": {
+        "question": 18,
+        "text": "Utiliza cifrado basado en SSL/TLS",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:59:19.163Z",
+        "updated_at": "2024-05-13T13:59:19.163Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 74,
+    "fields": {
+        "question": 18,
+        "text": "El puerto estándar de HTTPS es el 443",
+        "is_correct": false,
+        "created_at": "2024-05-13T13:59:34.728Z",
+        "updated_at": "2024-05-13T13:59:34.728Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 75,
+    "fields": {
+        "question": 18,
+        "text": "Basta con que la dirección web empiece por HTTPS para que sea una página segura",
+        "is_correct": true,
+        "created_at": "2024-05-13T13:59:47.744Z",
+        "updated_at": "2024-05-13T13:59:47.744Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 77,
+    "fields": {
+        "question": 19,
+        "text": "SNMPv2 presentaba debilidades en la recuperación de grandes cantidades de información",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:01:36.195Z",
+        "updated_at": "2024-05-13T14:01:36.195Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 78,
+    "fields": {
+        "question": 19,
+        "text": "Introduce mecanismos de autentificación, privacidad y control de accesos más sólidos",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:01:46.572Z",
+        "updated_at": "2024-05-13T14:01:46.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 79,
+    "fields": {
+        "question": 19,
+        "text": "SNMPv3 introdujo nuevas operaciones: GetBulk, Inform, Report",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:01:56.516Z",
+        "updated_at": "2024-05-13T14:01:56.516Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 80,
+    "fields": {
+        "question": 19,
+        "text": "No aporta ninguna ventaja",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:02:05.084Z",
+        "updated_at": "2024-05-13T14:02:05.084Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 81,
+    "fields": {
+        "question": 20,
+        "text": "Sólo interconecta las Administraciones Públicas Españolas",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:03:52.595Z",
+        "updated_at": "2024-05-13T14:03:52.595Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 82,
+    "fields": {
+        "question": 20,
+        "text": "Sólo interconecta la Administración General del Estado",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:04:00.424Z",
+        "updated_at": "2024-05-13T14:04:00.424Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 83,
+    "fields": {
+        "question": 20,
+        "text": "Sólo interconecta las Comunidades Autónomas entre sí",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:04:10.818Z",
+        "updated_at": "2024-05-13T14:04:10.818Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 84,
+    "fields": {
+        "question": 20,
+        "text": "Interconecta las Administraciones Públicas Españolas e instituciones europeas.",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:04:22.539Z",
+        "updated_at": "2024-05-13T14:04:22.539Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 85,
+    "fields": {
+        "question": 21,
+        "text": "LUCIA",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:05:17.888Z",
+        "updated_at": "2024-05-13T14:05:17.888Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 86,
+    "fields": {
+        "question": 21,
+        "text": "CORINTO",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:05:26.997Z",
+        "updated_at": "2024-05-13T14:05:26.997Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 87,
+    "fields": {
+        "question": 21,
+        "text": "CARMEN",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:05:34.931Z",
+        "updated_at": "2024-05-13T14:05:34.931Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 88,
+    "fields": {
+        "question": 21,
+        "text": "PLATA",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:05:41.465Z",
+        "updated_at": "2024-05-13T14:05:41.465Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 89,
+    "fields": {
+        "question": 22,
+        "text": "Es una secuencia de un máximo de 32 caracteres",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:06:37.724Z",
+        "updated_at": "2024-05-13T14:06:37.724Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 90,
+    "fields": {
+        "question": 22,
+        "text": "No puede contener caracteres numéricos",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:06:48.051Z",
+        "updated_at": "2024-05-13T14:06:48.051Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 91,
+    "fields": {
+        "question": 22,
+        "text": "No es sensible a mayúsculas y minúsculas",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:06:56.641Z",
+        "updated_at": "2024-05-13T14:06:56.641Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 92,
+    "fields": {
+        "question": 22,
+        "text": "Es el nombre con el que se identifica a cada uno de los dispositivos que se conectan a dicha red",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:07:08.460Z",
+        "updated_at": "2024-05-13T14:07:08.460Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 93,
+    "fields": {
+        "question": 23,
+        "text": "Las soluciones WAF nunca realizan inspección de tráfico HTTP",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:08:07.790Z",
+        "updated_at": "2024-05-13T14:08:07.790Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 94,
+    "fields": {
+        "question": 23,
+        "text": "Existen soluciones WAF basadas en la nube",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:08:18.199Z",
+        "updated_at": "2024-05-13T14:08:55.711Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 95,
+    "fields": {
+        "question": 23,
+        "text": "Un WAF siempre se instala en la intranet, detrás de las aplicaciones web",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:08:31.332Z",
+        "updated_at": "2024-05-13T14:08:31.332Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 96,
+    "fields": {
+        "question": 23,
+        "text": "El objetivo de un WAF es proteger el tráfico entre servidores.",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:08:42.492Z",
+        "updated_at": "2024-05-13T14:08:42.492Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 97,
+    "fields": {
+        "question": 24,
+        "text": "Aprovecha una vulnerabilidad de un software antes de que se publiquen y apliquen los parches que la corrigen",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:09:24.753Z",
+        "updated_at": "2024-05-13T14:09:24.753Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 98,
+    "fields": {
+        "question": 24,
+        "text": "Intercepta mensajes entre dos víctimas poniéndose el atacante en medio de la comunicación",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:09:41.415Z",
+        "updated_at": "2024-05-13T14:09:41.415Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 99,
+    "fields": {
+        "question": 24,
+        "text": "Es el uso de la línea telefónica convencional y de la ingeniería social para engañar personas y obtener información delicada como puede ser información financiera o información útil para el robo de identidad",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:09:53.937Z",
+        "updated_at": "2024-05-13T14:09:53.937Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 100,
+    "fields": {
+        "question": 24,
+        "text": "Aprovecha vulnerabilidades conocidas en el caso de que aún no se haya aplicado el parche existente",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:10:04.854Z",
+        "updated_at": "2024-05-13T14:10:04.854Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 101,
+    "fields": {
+        "question": 25,
+        "text": "192.228.0.0",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:14:34.150Z",
+        "updated_at": "2024-05-13T14:14:34.150Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 102,
+    "fields": {
+        "question": 25,
+        "text": "192.228.8.0",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:14:44.255Z",
+        "updated_at": "2024-05-13T14:14:44.255Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 103,
+    "fields": {
+        "question": 25,
+        "text": "192.228.16.0",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:14:52.173Z",
+        "updated_at": "2024-05-13T14:15:12.168Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 104,
+    "fields": {
+        "question": 25,
+        "text": "192.228.17.0",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:15:02.686Z",
+        "updated_at": "2024-05-13T14:15:02.686Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 105,
+    "fields": {
+        "question": 26,
+        "text": "25/465",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:16:17.069Z",
+        "updated_at": "2024-05-13T14:16:17.069Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 106,
+    "fields": {
+        "question": 26,
+        "text": "110/995",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:16:26.032Z",
+        "updated_at": "2024-05-13T14:16:26.032Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 107,
+    "fields": {
+        "question": 26,
+        "text": "143/993",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:16:36.845Z",
+        "updated_at": "2024-05-13T14:16:36.845Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 108,
+    "fields": {
+        "question": 26,
+        "text": "121/963",
+        "is_correct": false,
+        "created_at": "2024-05-13T14:16:45.965Z",
+        "updated_at": "2024-05-13T14:16:45.965Z"
+    }
+}
+]
