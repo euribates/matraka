@@ -1220,6 +1220,436 @@
     }
 },
 {
+    "model": "questions.question",
+    "pk": 123,
+    "fields": {
+        "text": "¿Qué define el acrónimo DevOps?",
+        "source": "",
+        "created_at": "2024-05-14T19:54:47.510Z",
+        "updated_at": "2024-05-14T20:14:32.547Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 124,
+    "fields": {
+        "text": "La Ley Orgánica 3/2027 dispone que cualquier comportamiento realizado en función del sexo de una persona con el propósito o el efecto de atentar contra su dignidad y de crear un entorno intimidatorio, degradate u ofensivo es:",
+        "source": "Artículo 7.2",
+        "created_at": "2024-05-14T20:29:44.405Z",
+        "updated_at": "2024-05-14T20:54:17.321Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 125,
+    "fields": {
+        "text": "En aplicación de la Constitución, indique cual de las siguientes afirmaciones es falsa en relación con el ejercicio de la potestad legislativa",
+        "source": "Artículos 81.2, 82.3, 86.2, 87.3",
+        "created_at": "2024-05-14T20:32:19.176Z",
+        "updated_at": "2024-05-14T20:48:55.421Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 126,
+    "fields": {
+        "text": "El Consejo consultivo actúa en:",
+        "source": "",
+        "created_at": "2024-05-14T20:58:44.814Z",
+        "updated_at": "2024-05-14T20:58:44.814Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 127,
+    "fields": {
+        "text": "La Audiencia de Cuentas está integrada por los siguientes órganos:",
+        "source": "",
+        "created_at": "2024-05-14T20:59:50.469Z",
+        "updated_at": "2024-05-14T20:59:50.469Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 128,
+    "fields": {
+        "text": "El Presidente del Consejo Consultivo será elegido entre sus miembros mediante votación secreta:",
+        "source": "",
+        "created_at": "2024-05-14T21:00:47.119Z",
+        "updated_at": "2024-05-14T21:00:47.119Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 129,
+    "fields": {
+        "text": "El Diputado del Común en cumplimiento de lo previsto en el Estatuto de Autonomía no realizará una de las siguientes funciones:",
+        "source": "",
+        "created_at": "2024-05-14T21:01:42.488Z",
+        "updated_at": "2024-05-14T21:01:42.488Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 130,
+    "fields": {
+        "text": "En materia de transparencia, la actividad de la cámara no sujeta a derecho administrativo se someterá a lo previsto en:",
+        "source": "Título 24 del Reglamento del Parlamento",
+        "created_at": "2024-05-14T21:02:42.387Z",
+        "updated_at": "2024-05-14T21:04:11.258Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 131,
+    "fields": {
+        "text": "Si un diputado o diputada no pudiese prestar juramento o promesa de acatar la Constitución y el Estatuto de Autonomía en la sesión constitutiva de la cámara:",
+        "source": "Artículo 10.4 del Reglamento",
+        "created_at": "2024-05-14T21:15:51.626Z",
+        "updated_at": "2024-05-14T21:15:51.626Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 132,
+    "fields": {
+        "text": "¿Cuál de las siguientes opciones es una medida común para prevenir un ataque por inyección de SQL?",
+        "source": "",
+        "created_at": "2024-05-14T21:19:07.525Z",
+        "updated_at": "2024-05-14T21:19:07.525Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 133,
+    "fields": {
+        "text": "¿Cuál de las siguientes medidas es recomendable para conseguir una autenticación segura?",
+        "source": "",
+        "created_at": "2024-05-14T21:21:28.113Z",
+        "updated_at": "2024-05-14T21:21:43.744Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 134,
+    "fields": {
+        "text": "¿Cuál de los siguientes módulos de  Python es comúnmente utilizado para comprimir información?",
+        "source": "",
+        "created_at": "2024-05-14T21:23:31.076Z",
+        "updated_at": "2024-05-14T21:28:01.830Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 135,
+    "fields": {
+        "text": "¿En qué año fue aprobada la última modificación del Estatuto de Autonomía de Canarias?",
+        "source": "",
+        "created_at": "2024-05-14T21:31:18.188Z",
+        "updated_at": "2024-05-14T21:31:18.188Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 136,
+    "fields": {
+        "text": "Atendiendo a la última modificación del Estatuto de Autonomía, ¿cuál es la denominación completa de la Comunidad Autónoma de Canarias?",
+        "source": "",
+        "created_at": "2024-05-14T21:33:04.443Z",
+        "updated_at": "2024-05-14T21:33:04.443Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 137,
+    "fields": {
+        "text": "¿Qué organismo es el encargado de velar por el cumplimiento del Estatuto de Autonomía de Canarias?",
+        "source": "",
+        "created_at": "2024-05-14T21:34:23.179Z",
+        "updated_at": "2024-05-14T21:34:23.179Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 138,
+    "fields": {
+        "text": "¿Cuál de las siguientes competencias no es exclusiva de la Comunidad Autónoma de Canarias según el Estatuto de Autonomía?",
+        "source": "",
+        "created_at": "2024-05-14T21:35:40.052Z",
+        "updated_at": "2024-05-14T21:35:40.052Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 139,
+    "fields": {
+        "text": "En virtud de la modificación de 2018, ¿cuál es la capital de la Comunidad Autónoma de Canarias?",
+        "source": "",
+        "created_at": "2024-05-14T21:36:35.611Z",
+        "updated_at": "2024-05-14T21:36:35.611Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 140,
+    "fields": {
+        "text": "¿Cuál de las siguientes afirmaciones del lenguaje de programación Python es cierta?",
+        "source": "https://ellibrodepython.com/numeros-complejos",
+        "created_at": "2024-05-14T21:39:53.433Z",
+        "updated_at": "2024-05-14T21:44:46.592Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 141,
+    "fields": {
+        "text": "Las decisiones de la Junta de Portavoces se adoptarán siempre en función del criterio de:",
+        "source": "Artículo 42.4 del Reglamento",
+        "created_at": "2024-05-14T21:51:04.617Z",
+        "updated_at": "2024-05-14T21:51:04.617Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 142,
+    "fields": {
+        "text": "Una vez conocida la detención de un miembro de la cámara la presidencia adoptará:",
+        "source": "",
+        "created_at": "2024-05-14T21:52:47.214Z",
+        "updated_at": "2024-05-14T21:52:47.214Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 143,
+    "fields": {
+        "text": "¿Pueden los diputados participar por medios telemáticos?",
+        "source": "Artículo 93.6 del Reglamento",
+        "created_at": "2024-05-14T21:54:37.391Z",
+        "updated_at": "2024-05-14T21:56:52.268Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 144,
+    "fields": {
+        "text": "Una resolución judicial firme que anule la elección de un diputado supone:",
+        "source": "",
+        "created_at": "2024-05-14T21:58:32.337Z",
+        "updated_at": "2024-05-14T21:58:32.337Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 145,
+    "fields": {
+        "text": "¿Puede un diputado formar parte de varios Grupos Parlamentarios a la vez?",
+        "source": "",
+        "created_at": "2024-05-14T22:01:52.043Z",
+        "updated_at": "2024-05-14T22:01:52.043Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 146,
+    "fields": {
+        "text": "La Disposición Adicional Primera de la LO 3/2007 determina que se entenderá por composición equilibrada la presencia de mujeres y hombres de forma que, en el conjunto al que se refiera, las personas de cada sexo:",
+        "source": "",
+        "created_at": "2024-05-14T22:08:43.487Z",
+        "updated_at": "2024-05-14T22:08:43.487Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 147,
+    "fields": {
+        "text": "¿Quién resuelve definitivamente el reparo del Interventor?",
+        "source": "",
+        "created_at": "2024-05-14T22:09:28.787Z",
+        "updated_at": "2024-05-14T22:09:28.787Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 148,
+    "fields": {
+        "text": "Respecto de las consultas formuladas al Parlamento de Canarias sobre un proyecto legislativo europeo que pueda, eventualmente, incumplir los principios de subsidiariedad y proporcionalidad que establece el Derecho comunitario europeo, el dictamen resultante, una vez emitido:",
+        "source": "",
+        "created_at": "2024-05-14T22:10:20.628Z",
+        "updated_at": "2024-05-14T22:10:20.628Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 149,
+    "fields": {
+        "text": "Según el artículo 20, del Convenio Colectivo de personal laboral del Parlamento de Canarias, el personal de nuevo ingreso quedará sometido a un Período de prueba:",
+        "source": "",
+        "created_at": "2024-05-14T22:11:03.732Z",
+        "updated_at": "2024-05-14T22:11:03.732Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 150,
+    "fields": {
+        "text": "¿Cuál de las siguientes expresiones no es válida en Python?",
+        "source": "",
+        "created_at": "2024-05-14T22:15:06.729Z",
+        "updated_at": "2024-05-14T22:15:11.575Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 151,
+    "fields": {
+        "text": "De acuerdo con el artículo 12 del Reglamento del Parlamento de Canarias, no es causa de la pérdida de la condición de diputado o diputada:",
+        "source": "",
+        "created_at": "2024-05-14T22:16:44.538Z",
+        "updated_at": "2024-05-14T22:16:44.538Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 152,
+    "fields": {
+        "text": "Según el artículo 4.2 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral Contra la Violencia de Género, la Educación Infantil contribuirá a desarrollar en la infancia:",
+        "source": "",
+        "created_at": "2024-05-14T22:17:58.963Z",
+        "updated_at": "2024-05-14T22:17:58.963Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 153,
+    "fields": {
+        "text": "Señale la respuesta correcta. El Reglamento del Parlamento:",
+        "source": "",
+        "created_at": "2024-05-14T22:19:59.865Z",
+        "updated_at": "2024-05-14T22:19:59.865Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 154,
+    "fields": {
+        "text": "Respecto de la composición de la Junta Electoral de Zona, señale la opción incorrecta:",
+        "source": "",
+        "created_at": "2024-05-14T22:21:02.989Z",
+        "updated_at": "2024-05-14T22:21:02.989Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 155,
+    "fields": {
+        "text": "Señale la respuesta correcta. El diputado que solicite la palabra por alusiones que impliquen juicios de valor o inexactitudes sobre la persona o conducta de un miembro de la Cámara:",
+        "source": "",
+        "created_at": "2024-05-14T22:22:58.664Z",
+        "updated_at": "2024-05-14T22:22:58.664Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 156,
+    "fields": {
+        "text": "Según las Normas de Gobierno Interior del Parlamento de Canarias, representa al Parlamento en toda clase de contratos y negocios:",
+        "source": "",
+        "created_at": "2024-05-14T22:23:46.758Z",
+        "updated_at": "2024-05-14T22:23:46.758Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 157,
+    "fields": {
+        "text": "Según el artículo 41 del Real Decreto Legislativo 2/2015, de 23 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto de los Trabajadores, tendrán la consideración de modificaciones sustanciales de las condiciones de trabajo, entre otras, las que afecten a las siguientes materias:",
+        "source": "",
+        "created_at": "2024-05-14T22:25:08.243Z",
+        "updated_at": "2024-05-14T22:25:08.243Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 158,
+    "fields": {
+        "text": "La Mesa del Parlamento canario, en la primera reunión de cada legislatura, estará constituida por:",
+        "source": "",
+        "created_at": "2024-05-14T22:25:58.987Z",
+        "updated_at": "2024-05-14T22:25:58.987Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 159,
+    "fields": {
+        "text": "No es una retribución complementaria:",
+        "source": "",
+        "created_at": "2024-05-14T22:26:38.497Z",
+        "updated_at": "2024-05-14T22:26:38.497Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 160,
+    "fields": {
+        "text": "Según la Ley 39/2015, de 1 de octubre ¿en qué plazo debe notificarse la resolución expresa si el procedimiento tiene norma reguladora pero no fija el plazo?",
+        "source": "",
+        "created_at": "2024-05-14T22:27:26.770Z",
+        "updated_at": "2024-05-14T22:27:26.770Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 161,
+    "fields": {
+        "text": "¿Quién podrá acordar excepcionalmente dar audiencia especial a la persona que haya ejercido el derecho de petición en el Parlamento de Canarias?",
+        "source": "",
+        "created_at": "2024-05-14T22:28:17.642Z",
+        "updated_at": "2024-05-14T22:28:17.642Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 162,
+    "fields": {
+        "text": "Las Comisiones no permanentes del Parlamento Canario podrán ser:",
+        "source": "",
+        "created_at": "2024-05-14T22:29:05.359Z",
+        "updated_at": "2024-05-14T22:29:05.359Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 163,
+    "fields": {
+        "text": "Según el artículo 52.3 de la Ley 39/2015, de 1 de octubre, si un acto administrativo estuviera incurso en un vicio consistente en la falta de competencia, ¿podría convalidarse?",
+        "source": "",
+        "created_at": "2024-05-14T22:30:07.506Z",
+        "updated_at": "2024-05-14T22:30:07.506Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 164,
+    "fields": {
+        "text": "Señale la opción correcta, según el artículo 44, bis, de la Ley Orgánica 5/1985, de 19 de junio, del Régimen Electoral General:",
+        "source": "",
+        "created_at": "2024-05-14T22:31:10.950Z",
+        "updated_at": "2024-05-14T22:31:10.950Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 165,
+    "fields": {
+        "text": "El número de miembros de una Comisión Parlamentaria del Parlamento Canario no podrá ser superior a:",
+        "source": "",
+        "created_at": "2024-05-14T22:33:23.167Z",
+        "updated_at": "2024-05-14T22:33:23.167Z"
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -7157,6 +7587,2140 @@
         "is_correct": false,
         "created_at": "2024-05-14T13:38:09.509Z",
         "updated_at": "2024-05-14T13:38:09.509Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 542,
+    "fields": {
+        "question": 123,
+        "text": "Es un modelo de ciclo de vida del software que sigue las fases de Desarrollo (Dev) y Operación (Ops)",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:15:27.335Z",
+        "updated_at": "2024-05-14T20:15:27.335Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 543,
+    "fields": {
+        "question": 123,
+        "text": "Es una herramienta para la gestión de proyetos ágiles",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:15:55.534Z",
+        "updated_at": "2024-05-14T20:15:55.534Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 544,
+    "fields": {
+        "question": 123,
+        "text": "Es una práctica de ingeniería del software que tiene como objetivo unificar el desarrollo de _software_ (Dev) y las operaciones de producción (Ops) en el ciclo de vida del producto",
+        "is_correct": true,
+        "created_at": "2024-05-14T20:17:53.206Z",
+        "updated_at": "2024-05-14T20:17:53.206Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 545,
+    "fields": {
+        "question": 123,
+        "text": "Es una metodología de desarrollo en la que equipos aislados compiten entre sí por lograr el desarrollo más eficiente",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:19:04.401Z",
+        "updated_at": "2024-05-14T20:19:04.401Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 546,
+    "fields": {
+        "question": 124,
+        "text": "Discriminación directa",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:30:13.956Z",
+        "updated_at": "2024-05-14T20:51:48.050Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 547,
+    "fields": {
+        "question": 124,
+        "text": "Discriminación indirecta",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:30:20.803Z",
+        "updated_at": "2024-05-14T20:30:20.803Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 548,
+    "fields": {
+        "question": 124,
+        "text": "Acoso sexual",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:30:35.023Z",
+        "updated_at": "2024-05-14T20:30:59.344Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 549,
+    "fields": {
+        "question": 124,
+        "text": "Acoso por razón de sexo",
+        "is_correct": true,
+        "created_at": "2024-05-14T20:30:54.709Z",
+        "updated_at": "2024-05-14T20:51:53.201Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 550,
+    "fields": {
+        "question": 125,
+        "text": "La iniciativa popular no cabe plantearla en materias tributarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:33:02.728Z",
+        "updated_at": "2024-05-14T20:33:02.728Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 551,
+    "fields": {
+        "question": 125,
+        "text": "Los Decretos-Leyes no podrán afectar a los derechos, deberes y libertades de los ciudadanos regulados en el Título I",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:40:57.452Z",
+        "updated_at": "2024-05-14T20:40:57.452Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 552,
+    "fields": {
+        "question": 125,
+        "text": "La delegación legislativa habrá de otorgarse al Gobierno de forma expresa para materia concreta y con fijación del plazo para su ejercicio",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:44:40.607Z",
+        "updated_at": "2024-05-14T20:44:40.607Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 553,
+    "fields": {
+        "question": 125,
+        "text": "Las Leyes Orgánicas exigen para su aprobación mayoría absoluta de las Cortes Generales",
+        "is_correct": true,
+        "created_at": "2024-05-14T20:45:27.591Z",
+        "updated_at": "2024-05-14T20:45:27.592Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 554,
+    "fields": {
+        "question": 125,
+        "text": "Las Leyes Orgánicas exigen para su aprobación mayoría absoluta del Senado",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:49:19.813Z",
+        "updated_at": "2024-05-14T20:49:19.813Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 555,
+    "fields": {
+        "question": 126,
+        "text": "Pleno y comisiones",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:58:53.497Z",
+        "updated_at": "2024-05-14T20:58:53.497Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 556,
+    "fields": {
+        "question": 126,
+        "text": "Pleno, salas y secciones",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:59:13.135Z",
+        "updated_at": "2024-05-14T20:59:13.135Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 557,
+    "fields": {
+        "question": 126,
+        "text": "Pleno o en secciones",
+        "is_correct": true,
+        "created_at": "2024-05-14T20:59:29.581Z",
+        "updated_at": "2024-05-14T20:59:29.581Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 558,
+    "fields": {
+        "question": 126,
+        "text": "Pleno, salas o secciones",
+        "is_correct": false,
+        "created_at": "2024-05-14T20:59:38.413Z",
+        "updated_at": "2024-05-14T20:59:38.413Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 559,
+    "fields": {
+        "question": 127,
+        "text": "Pleno, presidente, consejeros auditores y secretario general",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:00:08.065Z",
+        "updated_at": "2024-05-14T21:00:08.065Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 560,
+    "fields": {
+        "question": 127,
+        "text": "Presidente, vicepresidente, consejeros auditores y secretario general",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:00:16.450Z",
+        "updated_at": "2024-05-14T21:00:16.450Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 561,
+    "fields": {
+        "question": 127,
+        "text": "Presidente, vicepresidente, pleno y secretario general",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:00:23.570Z",
+        "updated_at": "2024-05-14T21:00:23.570Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 562,
+    "fields": {
+        "question": 127,
+        "text": "Presidente, pleno, consejeros auditores y junta de gobierno",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:00:30.958Z",
+        "updated_at": "2024-05-14T21:00:30.958Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 563,
+    "fields": {
+        "question": 128,
+        "text": "Por mayoría simple",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:01:01.444Z",
+        "updated_at": "2024-05-14T21:01:01.444Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 564,
+    "fields": {
+        "question": 128,
+        "text": "Por mayoría de 2/3",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:01:08.670Z",
+        "updated_at": "2024-05-14T21:01:08.670Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 565,
+    "fields": {
+        "question": 128,
+        "text": "Por mayoría de 3/5",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:01:14.560Z",
+        "updated_at": "2024-05-14T21:01:14.560Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 566,
+    "fields": {
+        "question": 128,
+        "text": "Por mayoría absoluta",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:01:29.025Z",
+        "updated_at": "2024-05-14T21:01:29.025Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 567,
+    "fields": {
+        "question": 129,
+        "text": "Defensa de los derechos y libertades de los ciudadanos reconocidos en la constitución frente a la vulneración producida por acciones y omisiones de las administraciones públicas Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:01:57.992Z",
+        "updated_at": "2024-05-14T21:01:57.992Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 568,
+    "fields": {
+        "question": 129,
+        "text": "Fiscalización de las cuentas públicas canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:02:04.732Z",
+        "updated_at": "2024-05-14T21:02:04.732Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 569,
+    "fields": {
+        "question": 129,
+        "text": "Protección de los sectores de población más desprotegidos, con relación a la actividad de las administraciones públicas canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:02:10.617Z",
+        "updated_at": "2024-05-14T21:02:10.617Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 570,
+    "fields": {
+        "question": 129,
+        "text": "Defensa de los derechos y libertades de los ciudadanos reconocidos en la constitución",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:02:24.722Z",
+        "updated_at": "2024-05-14T21:02:24.722Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 571,
+    "fields": {
+        "question": 130,
+        "text": "Ley 30/1992 de 26 de noviembre de Régimen Jurídico de las Administraciones Públicas y Procedimiento Administrativo Común",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:02:52.222Z",
+        "updated_at": "2024-05-14T21:03:14.167Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 572,
+    "fields": {
+        "question": 130,
+        "text": "Ley Estatal 19/2013, de Transparencia, Acceso a la Información Pública y buen Gobierno",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:03:03.592Z",
+        "updated_at": "2024-05-14T21:03:03.592Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 573,
+    "fields": {
+        "question": 130,
+        "text": "Ley Canaria 12/14, de Transparencia y Acceso a la Información Pública",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:03:22.806Z",
+        "updated_at": "2024-05-14T21:03:22.806Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 574,
+    "fields": {
+        "question": 130,
+        "text": "El Reglamento del Parlamento de Canarias y las normas que lo desarrollen",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:03:30.850Z",
+        "updated_at": "2024-05-14T21:03:30.850Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 575,
+    "fields": {
+        "question": 131,
+        "text": "No puede acceder a la condición de diputado",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:16:20.314Z",
+        "updated_at": "2024-05-14T21:16:20.314Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 576,
+    "fields": {
+        "question": 131,
+        "text": "Nunca será diputado",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:16:31.150Z",
+        "updated_at": "2024-05-14T21:16:31.150Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 577,
+    "fields": {
+        "question": 131,
+        "text": "Podrá hacerlo ante la presidencia del Parlamento y será ratificada en la primera sesión plenaria que asista",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:16:41.506Z",
+        "updated_at": "2024-05-14T21:17:25.900Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 578,
+    "fields": {
+        "question": 131,
+        "text": "Podrá hacerlo ante la Secretaría General del parlamento y será ratificada en la primera sesión plenaria que asista",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:16:49.208Z",
+        "updated_at": "2024-05-14T21:16:49.208Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 579,
+    "fields": {
+        "question": 131,
+        "text": "Lo podrá realizar ante la presidencia del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:17:13.766Z",
+        "updated_at": "2024-05-14T21:17:13.766Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 580,
+    "fields": {
+        "question": 132,
+        "text": "Utilizar funciones _hash_ débiles",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:19:25.000Z",
+        "updated_at": "2024-05-14T21:19:25.000Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 581,
+    "fields": {
+        "question": 132,
+        "text": "Usar consultas SQL dinámicas sin parámetros",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:19:33.019Z",
+        "updated_at": "2024-05-14T21:19:33.019Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 582,
+    "fields": {
+        "question": 132,
+        "text": "Validar y escapar adecuadamente las entradas del usuario",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:19:40.742Z",
+        "updated_at": "2024-05-14T21:19:40.742Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 583,
+    "fields": {
+        "question": 132,
+        "text": "Desactivar por completo la protección contra inyecciones de SQL",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:19:47.930Z",
+        "updated_at": "2024-05-14T21:19:47.930Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 584,
+    "fields": {
+        "question": 133,
+        "text": "Almacenar contraseñas en texto plano en la base de datos",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:21:52.047Z",
+        "updated_at": "2024-05-14T21:21:52.047Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 585,
+    "fields": {
+        "question": 133,
+        "text": "Utilizar algoritmos de hash débiles para almacenar contraseñas",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:21:59.583Z",
+        "updated_at": "2024-05-14T21:21:59.583Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 586,
+    "fields": {
+        "question": 133,
+        "text": "Aplicar el principio de _salting_ a las contraseñas antes de almacenarlas",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:22:13.506Z",
+        "updated_at": "2024-05-14T21:23:06.076Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 587,
+    "fields": {
+        "question": 133,
+        "text": "Utilizar siempre la misma clave secreta en todos los proyectos",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:22:28.370Z",
+        "updated_at": "2024-05-14T21:22:28.370Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 588,
+    "fields": {
+        "question": 133,
+        "text": "Usar contraseñas fáciles de recordar, como por ejemplo, la fecha de cumpleaños",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:22:54.610Z",
+        "updated_at": "2024-05-14T21:22:54.610Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 589,
+    "fields": {
+        "question": 134,
+        "text": "pickle",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:23:36.000Z",
+        "updated_at": "2024-05-14T21:23:36.000Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 590,
+    "fields": {
+        "question": 134,
+        "text": "base64",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:23:40.359Z",
+        "updated_at": "2024-05-14T21:23:40.359Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 591,
+    "fields": {
+        "question": 134,
+        "text": "json",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:23:47.113Z",
+        "updated_at": "2024-05-14T21:23:47.113Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 592,
+    "fields": {
+        "question": 134,
+        "text": "xml.dom",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:24:17.580Z",
+        "updated_at": "2024-05-14T21:24:17.580Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 593,
+    "fields": {
+        "question": 134,
+        "text": "zlib",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:27:05.308Z",
+        "updated_at": "2024-05-14T21:28:10.022Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 594,
+    "fields": {
+        "question": 134,
+        "text": "gzip",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:28:17.427Z",
+        "updated_at": "2024-05-14T21:28:17.427Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 595,
+    "fields": {
+        "question": 134,
+        "text": "bz2",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:28:23.677Z",
+        "updated_at": "2024-05-14T21:28:27.411Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 596,
+    "fields": {
+        "question": 134,
+        "text": "lzma",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:28:35.275Z",
+        "updated_at": "2024-05-14T21:28:35.275Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 597,
+    "fields": {
+        "question": 134,
+        "text": "zipfile",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:28:41.922Z",
+        "updated_at": "2024-05-14T21:28:41.922Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 598,
+    "fields": {
+        "question": 134,
+        "text": "collections",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:29:07.170Z",
+        "updated_at": "2024-05-14T21:29:07.170Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 599,
+    "fields": {
+        "question": 135,
+        "text": "2008",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:31:24.339Z",
+        "updated_at": "2024-05-14T21:31:24.339Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 600,
+    "fields": {
+        "question": 135,
+        "text": "2010",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:31:29.051Z",
+        "updated_at": "2024-05-14T21:31:29.051Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 601,
+    "fields": {
+        "question": 135,
+        "text": "2018",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:31:36.321Z",
+        "updated_at": "2024-05-14T21:31:36.321Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 602,
+    "fields": {
+        "question": 135,
+        "text": "2024",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:31:40.813Z",
+        "updated_at": "2024-05-14T21:31:40.813Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 603,
+    "fields": {
+        "question": 135,
+        "text": "1999",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:31:52.748Z",
+        "updated_at": "2024-05-14T21:31:52.748Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 604,
+    "fields": {
+        "question": 136,
+        "text": "República Autónoma de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:33:12.731Z",
+        "updated_at": "2024-05-14T21:33:12.731Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 605,
+    "fields": {
+        "question": 136,
+        "text": "Región Autónoma de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:33:19.070Z",
+        "updated_at": "2024-05-14T21:33:19.070Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 606,
+    "fields": {
+        "question": 136,
+        "text": "Comunidad Autónoma de Canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:33:29.148Z",
+        "updated_at": "2024-05-14T21:33:29.148Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 607,
+    "fields": {
+        "question": 136,
+        "text": "Estado Libre Asociado de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:33:39.675Z",
+        "updated_at": "2024-05-14T21:33:39.675Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 608,
+    "fields": {
+        "question": 136,
+        "text": "Comunidad Autónoma Macaronésica",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:34:06.900Z",
+        "updated_at": "2024-05-14T21:34:06.900Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 609,
+    "fields": {
+        "question": 137,
+        "text": "Congreso de los Diputados",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:34:29.379Z",
+        "updated_at": "2024-05-14T21:34:29.379Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 610,
+    "fields": {
+        "question": 137,
+        "text": "Tribunal Constitucional",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:34:35.429Z",
+        "updated_at": "2024-05-14T21:34:35.429Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 611,
+    "fields": {
+        "question": 137,
+        "text": "Parlamento de Canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:34:44.344Z",
+        "updated_at": "2024-05-14T21:34:44.344Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 612,
+    "fields": {
+        "question": 137,
+        "text": "Gobierno de España",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:34:52.047Z",
+        "updated_at": "2024-05-14T21:34:52.047Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 613,
+    "fields": {
+        "question": 137,
+        "text": "Comunidad Económica Europea",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:35:07.008Z",
+        "updated_at": "2024-05-14T21:35:07.008Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 614,
+    "fields": {
+        "question": 137,
+        "text": "Las Cortes Generales",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:35:17.762Z",
+        "updated_at": "2024-05-14T21:35:17.762Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 615,
+    "fields": {
+        "question": 138,
+        "text": "Sanidad",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:35:46.303Z",
+        "updated_at": "2024-05-14T21:35:46.303Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 616,
+    "fields": {
+        "question": 138,
+        "text": "Educación",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:35:51.519Z",
+        "updated_at": "2024-05-14T21:35:51.519Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 617,
+    "fields": {
+        "question": 138,
+        "text": "Justicia",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:35:57.753Z",
+        "updated_at": "2024-05-14T21:36:01.455Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 618,
+    "fields": {
+        "question": 138,
+        "text": "Transportes",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:36:11.219Z",
+        "updated_at": "2024-05-14T21:36:11.219Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 619,
+    "fields": {
+        "question": 139,
+        "text": "Las Palmas de Gran Canaria",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:36:44.568Z",
+        "updated_at": "2024-05-14T21:36:44.569Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 620,
+    "fields": {
+        "question": 139,
+        "text": "Santa Cruz de Tenerife",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:37:25.940Z",
+        "updated_at": "2024-05-14T21:37:25.940Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 621,
+    "fields": {
+        "question": 139,
+        "text": "Compartida entre las ciudades de Santa Cruz de Tenerife y Las Palmas de Gran Canaria",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:37:44.516Z",
+        "updated_at": "2024-05-14T21:37:49.745Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 622,
+    "fields": {
+        "question": 139,
+        "text": "Santa Cruz de La Palma",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:38:20.469Z",
+        "updated_at": "2024-05-14T21:38:20.469Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 623,
+    "fields": {
+        "question": 140,
+        "text": "Solo funciona en procesadores RISC",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:40:01.141Z",
+        "updated_at": "2024-05-14T21:40:01.141Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 624,
+    "fields": {
+        "question": 140,
+        "text": "Tiene la ventaja de no ser turing-completo",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:40:08.445Z",
+        "updated_at": "2024-05-14T21:40:08.445Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 625,
+    "fields": {
+        "question": 140,
+        "text": "Los nombres de las variables están limitados a 64 caracteres como máximo",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:40:18.130Z",
+        "updated_at": "2024-05-14T21:40:18.131Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 626,
+    "fields": {
+        "question": 140,
+        "text": "El tamaño de un número entero solo está limitado por el tamaño de la memoria disponible",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:40:31.046Z",
+        "updated_at": "2024-05-14T21:40:31.046Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 627,
+    "fields": {
+        "question": 140,
+        "text": "Podemos indentar el código de la manera que prefiramos, ya que no afecta al resultado",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:41:45.175Z",
+        "updated_at": "2024-05-14T21:41:45.175Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 628,
+    "fields": {
+        "question": 140,
+        "text": "Solo funciona en procesadores CISC",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:41:55.476Z",
+        "updated_at": "2024-05-14T21:41:55.476Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 629,
+    "fields": {
+        "question": 140,
+        "text": "Los números complejos en Python pueden ser creados sin tener que importar ninguna librería",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:44:25.762Z",
+        "updated_at": "2024-05-14T21:44:25.762Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 630,
+    "fields": {
+        "question": 141,
+        "text": "Voto simple",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:51:17.812Z",
+        "updated_at": "2024-05-14T21:51:17.812Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 631,
+    "fields": {
+        "question": 141,
+        "text": "Voto ponderado",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:51:25.716Z",
+        "updated_at": "2024-05-14T21:51:25.716Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 632,
+    "fields": {
+        "question": 141,
+        "text": "Voto por mayoría cualificada",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:51:43.867Z",
+        "updated_at": "2024-05-14T21:51:43.867Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 633,
+    "fields": {
+        "question": 141,
+        "text": "Mayoría absoluta",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:51:57.454Z",
+        "updated_at": "2024-05-14T21:51:57.454Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 634,
+    "fields": {
+        "question": 141,
+        "text": "Unanimidad",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:52:03.157Z",
+        "updated_at": "2024-05-14T21:52:03.157Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 635,
+    "fields": {
+        "question": 142,
+        "text": "Cuantas medidas sean necesarias para salvaguardar el Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:53:00.856Z",
+        "updated_at": "2024-05-14T21:53:00.856Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 636,
+    "fields": {
+        "question": 142,
+        "text": "Cuantas medidas sean necesarias para salvaguardar los derechos y prerrogativas de la Cámara y sus miembros",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:53:12.358Z",
+        "updated_at": "2024-05-14T21:53:12.358Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 637,
+    "fields": {
+        "question": 142,
+        "text": "La Presidencia no podrá actuar en ningún caso",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:53:20.221Z",
+        "updated_at": "2024-05-14T21:53:20.221Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 638,
+    "fields": {
+        "question": 142,
+        "text": "Los diputados no pueden ser detenidos nunca",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:53:30.368Z",
+        "updated_at": "2024-05-14T21:53:30.368Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 639,
+    "fields": {
+        "question": 143,
+        "text": "No, porque el reglamento no lo prevé",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:54:44.533Z",
+        "updated_at": "2024-05-14T21:54:44.533Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 640,
+    "fields": {
+        "question": 143,
+        "text": "Si, en los supuestos previstos en el Reglamento del Parlamento",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:54:58.780Z",
+        "updated_at": "2024-05-14T21:54:58.781Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 641,
+    "fields": {
+        "question": 143,
+        "text": "Solo si lo autoriza la Junta de Personal",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:55:04.980Z",
+        "updated_at": "2024-05-14T21:58:04.225Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 642,
+    "fields": {
+        "question": 143,
+        "text": "Si, si lo autoriza la Junta de Portavoces",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:55:12.920Z",
+        "updated_at": "2024-05-14T21:55:12.920Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 643,
+    "fields": {
+        "question": 144,
+        "text": "La suspensión del mismo",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:59:06.719Z",
+        "updated_at": "2024-05-14T21:59:06.719Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 644,
+    "fields": {
+        "question": 144,
+        "text": "La pérdida de la condición de diputado",
+        "is_correct": true,
+        "created_at": "2024-05-14T21:59:24.211Z",
+        "updated_at": "2024-05-14T21:59:24.211Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 645,
+    "fields": {
+        "question": 144,
+        "text": "No es causa suficiente para la pérdida de la condición de diputado",
+        "is_correct": false,
+        "created_at": "2024-05-14T21:59:49.955Z",
+        "updated_at": "2024-05-14T21:59:49.955Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 646,
+    "fields": {
+        "question": 144,
+        "text": "Perdida de voz y voto en las comisiones de las que formen parte",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:00:41.626Z",
+        "updated_at": "2024-05-14T22:00:41.626Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 647,
+    "fields": {
+        "question": 144,
+        "text": "Perdida de voz, pero no del voto, en las comisiones de las que formen parte",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:00:53.103Z",
+        "updated_at": "2024-05-14T22:00:53.103Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 648,
+    "fields": {
+        "question": 144,
+        "text": "Perdida de voto, pero no de voz, en las comisiones de las que formen parte",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:01:10.926Z",
+        "updated_at": "2024-05-14T22:01:10.926Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 649,
+    "fields": {
+        "question": 145,
+        "text": "No podrán formar parte de más de 2 grupos",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:02:01.179Z",
+        "updated_at": "2024-05-14T22:02:01.179Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 650,
+    "fields": {
+        "question": 145,
+        "text": "No podrán formar parte de más de 3 grupos",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:02:09.096Z",
+        "updated_at": "2024-05-14T22:02:09.096Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 651,
+    "fields": {
+        "question": 145,
+        "text": "No podrán formar parte de más de un grupo",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:02:19.090Z",
+        "updated_at": "2024-05-14T22:03:43.482Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 652,
+    "fields": {
+        "question": 145,
+        "text": "Solo podrá ser parte de un único grupo",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:02:31.687Z",
+        "updated_at": "2024-05-14T22:02:35.607Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 653,
+    "fields": {
+        "question": 145,
+        "text": "Puede formar parte de uno, dos o tres grupos",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:03:11.509Z",
+        "updated_at": "2024-05-14T22:03:11.509Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 654,
+    "fields": {
+        "question": 145,
+        "text": "Si, si lo autoriza la Mesa",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:03:27.853Z",
+        "updated_at": "2024-05-14T22:03:27.855Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 655,
+    "fields": {
+        "question": 146,
+        "text": "Representen 50%, en cada caso",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:08:49.883Z",
+        "updated_at": "2024-05-14T22:08:49.883Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 656,
+    "fields": {
+        "question": 146,
+        "text": "No superen el 70% ni sean menos del 30%",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:08:55.788Z",
+        "updated_at": "2024-05-14T22:08:55.789Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 657,
+    "fields": {
+        "question": 146,
+        "text": "No superen el 65% ni sean menos del 35%",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:09:02.301Z",
+        "updated_at": "2024-05-14T22:09:02.301Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 658,
+    "fields": {
+        "question": 146,
+        "text": "No superen el 60% ni sean menos del 40%",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:09:09.221Z",
+        "updated_at": "2024-05-14T22:09:09.221Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 659,
+    "fields": {
+        "question": 147,
+        "text": "La Mesa del Parlamento",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:09:38.223Z",
+        "updated_at": "2024-05-14T22:09:38.223Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 660,
+    "fields": {
+        "question": 147,
+        "text": "El Presidente del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:09:46.402Z",
+        "updated_at": "2024-05-14T22:09:46.402Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 661,
+    "fields": {
+        "question": 147,
+        "text": "El Letrado-Secretario General",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:09:53.799Z",
+        "updated_at": "2024-05-14T22:24:49.928Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 662,
+    "fields": {
+        "question": 147,
+        "text": "Ninguna es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:09:59.617Z",
+        "updated_at": "2024-05-14T22:09:59.617Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 663,
+    "fields": {
+        "question": 148,
+        "text": "Además de remitirlo a la institución solicitante se publicará en el Boletín Oficial del Parlamento de Canarias y en el Boletín Oficial de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:10:27.900Z",
+        "updated_at": "2024-05-14T22:10:27.900Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 664,
+    "fields": {
+        "question": 148,
+        "text": "Solamente se remite a la institución solicitante, sin que esté prevista publicación alguna",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:10:33.729Z",
+        "updated_at": "2024-05-14T22:10:33.729Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 665,
+    "fields": {
+        "question": 148,
+        "text": "Además de remitirlo a la institución solicitante, se publicará en el Boletín Oficial del Parlamento de Canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:10:41.966Z",
+        "updated_at": "2024-05-14T22:10:41.966Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 666,
+    "fields": {
+        "question": 148,
+        "text": "Ninguna es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:10:49.094Z",
+        "updated_at": "2024-05-14T22:10:49.094Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 667,
+    "fields": {
+        "question": 149,
+        "text": "De 90 días naturales",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:12:06.254Z",
+        "updated_at": "2024-05-14T22:12:06.254Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 668,
+    "fields": {
+        "question": 149,
+        "text": "De 45 días naturales para los grupos I y II y de 15 días naturales para el resto",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:12:13.866Z",
+        "updated_at": "2024-05-14T22:12:13.866Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 669,
+    "fields": {
+        "question": 149,
+        "text": "De 90 días naturales para los grupos I y II, 45 días naturales para el grupo III y 15 días para el resto",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:12:23.496Z",
+        "updated_at": "2024-05-14T22:14:32.370Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 670,
+    "fields": {
+        "question": 149,
+        "text": "Ninguna es correcta, el Periodo de prueba es único y no depende del grupo de pertenencia",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:12:31.045Z",
+        "updated_at": "2024-05-14T22:12:31.045Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 671,
+    "fields": {
+        "question": 150,
+        "text": "`a = b = c = 0`",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:15:20.000Z",
+        "updated_at": "2024-05-14T22:15:20.000Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 672,
+    "fields": {
+        "question": 150,
+        "text": "`a, b = 2, 4`",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:15:27.939Z",
+        "updated_at": "2024-05-14T22:15:27.939Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 673,
+    "fields": {
+        "question": 150,
+        "text": "`a == 23`",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:15:36.464Z",
+        "updated_at": "2024-05-14T22:15:51.309Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 674,
+    "fields": {
+        "question": 150,
+        "text": "`a++`",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:15:59.078Z",
+        "updated_at": "2024-05-14T22:15:59.078Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 675,
+    "fields": {
+        "question": 151,
+        "text": "La existencia de una decisión judicial firme que anule su elección o su proclamación",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:17:00.978Z",
+        "updated_at": "2024-05-14T22:17:00.978Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 676,
+    "fields": {
+        "question": 151,
+        "text": "Por su renuncia expresa ante la Mesa del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:17:21.160Z",
+        "updated_at": "2024-05-14T22:17:21.160Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 677,
+    "fields": {
+        "question": 151,
+        "text": "La declaración judicial de persona investigada",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:17:29.862Z",
+        "updated_at": "2024-05-14T22:17:32.896Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 678,
+    "fields": {
+        "question": 151,
+        "text": "Por su fallecimiento o por su incapacitación, declarada esta por decisión judicial firme",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:17:40.111Z",
+        "updated_at": "2024-05-14T22:17:40.111Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 679,
+    "fields": {
+        "question": 152,
+        "text": "La habilidad para comprender y respetar la igualdad entre sexos",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:18:05.613Z",
+        "updated_at": "2024-05-14T22:18:05.614Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 680,
+    "fields": {
+        "question": 152,
+        "text": "El aprendizaje en la resolución pacífica de conflictos",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:18:15.864Z",
+        "updated_at": "2024-05-14T22:18:19.039Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 681,
+    "fields": {
+        "question": 152,
+        "text": "La capacidad para conocer, valorar y respetar la igualdad de oportunidades de hombres y mujeres",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:18:27.268Z",
+        "updated_at": "2024-05-14T22:18:27.269Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 682,
+    "fields": {
+        "question": 152,
+        "text": "La capacidad para analizar y valorar críticamente las desigualdades de sexo y fomentar la igualdad real y efectiva entre hombres y mujeres",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:18:33.436Z",
+        "updated_at": "2024-05-14T22:18:33.436Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 683,
+    "fields": {
+        "question": 153,
+        "text": "Puede ser recurrido ante la jurisdicción contencioso-administrativa para su control",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:20:17.855Z",
+        "updated_at": "2024-05-14T22:20:17.855Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 684,
+    "fields": {
+        "question": 153,
+        "text": "Puede ser impugnado ante la jurisdicción civil para su control",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:20:27.620Z",
+        "updated_at": "2024-05-14T22:20:27.620Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 685,
+    "fields": {
+        "question": 153,
+        "text": "Solo puede ser impugnado ante el Tribunal Supremo",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:20:36.713Z",
+        "updated_at": "2024-05-14T22:20:36.714Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 686,
+    "fields": {
+        "question": 153,
+        "text": "Será objeto de control por el Tribunal Constitucional",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:20:45.908Z",
+        "updated_at": "2024-05-14T22:20:45.908Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 687,
+    "fields": {
+        "question": 154,
+        "text": "Entre otros, la componen tres Vocales, Jueces de Primera Instancia o Instrucción",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:21:17.158Z",
+        "updated_at": "2024-05-14T22:21:17.158Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 688,
+    "fields": {
+        "question": 154,
+        "text": "El Presidente de la Junta Electoral de Zona, es designado mediante insaculación por la Sala de Gobierno del Tribunal Superior de Justicia respectivo",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:21:31.795Z",
+        "updated_at": "2024-05-14T22:21:31.795Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 689,
+    "fields": {
+        "question": 154,
+        "text": "En su composición encontramos a dos Vocales designados por la Junta Electoral Provincial, entre Licenciados en Derecho o en Ciencias Políticas y en Sociología",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:21:42.726Z",
+        "updated_at": "2024-05-14T22:21:42.726Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 690,
+    "fields": {
+        "question": 154,
+        "text": "El Secretario de la Junta Electoral de Zona es el Secretario del Juzgado de Primera Instancia correspondiente y, si hubiera varios, el del Juzgado Decano",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:21:50.415Z",
+        "updated_at": "2024-05-14T22:21:50.415Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 691,
+    "fields": {
+        "question": 155,
+        "text": "Debe ser concedida, en todo caso",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:23:09.057Z",
+        "updated_at": "2024-05-14T22:23:09.057Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 692,
+    "fields": {
+        "question": 155,
+        "text": "Debe ser concedida por la Presidencia",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:23:16.832Z",
+        "updated_at": "2024-05-14T22:23:16.833Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 693,
+    "fields": {
+        "question": 155,
+        "text": "Debe ser concedida por la Mesa",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:23:22.772Z",
+        "updated_at": "2024-05-14T22:23:26.527Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 694,
+    "fields": {
+        "question": 155,
+        "text": "Debe ser concedida por tiempo máximo de dos minuto",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:23:34.303Z",
+        "updated_at": "2024-05-14T22:23:34.303Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 695,
+    "fields": {
+        "question": 156,
+        "text": "La Administración Parlamentaria",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:23:56.681Z",
+        "updated_at": "2024-05-14T22:23:56.681Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 696,
+    "fields": {
+        "question": 156,
+        "text": "El Presidente",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:24:04.802Z",
+        "updated_at": "2024-05-14T22:24:07.766Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 697,
+    "fields": {
+        "question": 156,
+        "text": "La Mesa",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:24:15.069Z",
+        "updated_at": "2024-05-14T22:24:15.069Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 698,
+    "fields": {
+        "question": 156,
+        "text": "El Letrado-Secretario General",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:24:26.065Z",
+        "updated_at": "2024-05-14T22:24:26.065Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 699,
+    "fields": {
+        "question": 157,
+        "text": "Sistema de trabajo y rendimiento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:25:17.684Z",
+        "updated_at": "2024-05-14T22:25:17.684Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 700,
+    "fields": {
+        "question": 157,
+        "text": "Jornada de trabajo",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:25:27.118Z",
+        "updated_at": "2024-05-14T22:25:27.118Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 701,
+    "fields": {
+        "question": 157,
+        "text": "Horario y distribución del tiempo de trabajo",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:25:34.055Z",
+        "updated_at": "2024-05-14T22:25:34.055Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 702,
+    "fields": {
+        "question": 157,
+        "text": "Todas son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:25:47.175Z",
+        "updated_at": "2024-05-14T22:25:47.175Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 703,
+    "fields": {
+        "question": 158,
+        "text": "Un Presidente, un Vicepresidente y una Secretaría",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:26:05.829Z",
+        "updated_at": "2024-05-14T22:26:05.829Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 704,
+    "fields": {
+        "question": 158,
+        "text": "Un Presidente, dos Vicepresidentes y dos Secretarías",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:26:13.926Z",
+        "updated_at": "2024-05-14T22:26:13.927Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 705,
+    "fields": {
+        "question": 158,
+        "text": "Un Presidente, un Vicepresidente y dos Secretarías",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:26:22.454Z",
+        "updated_at": "2024-05-14T22:26:22.454Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 706,
+    "fields": {
+        "question": 158,
+        "text": "Un Presidente, dos Vicepresidentes y una Secretaría",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:26:29.441Z",
+        "updated_at": "2024-05-14T22:26:29.441Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 707,
+    "fields": {
+        "question": 159,
+        "text": "Las gratificaciones por servicios extraordinarios",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:26:45.289Z",
+        "updated_at": "2024-05-14T22:26:45.289Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 708,
+    "fields": {
+        "question": 159,
+        "text": "El complemento de destino",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:26:51.471Z",
+        "updated_at": "2024-05-14T22:26:51.471Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 709,
+    "fields": {
+        "question": 159,
+        "text": "Las pagas extraordinarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:26:59.069Z",
+        "updated_at": "2024-05-14T22:26:59.069Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 710,
+    "fields": {
+        "question": 159,
+        "text": "El complemento específico",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:27:04.923Z",
+        "updated_at": "2024-05-14T22:27:04.923Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 711,
+    "fields": {
+        "question": 160,
+        "text": "Este plazo no podrá exceder de seis meses salvo que una norma con rango de Ley establezca uno mayor o así venga previsto en el Derecho de la Unión Europea",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:27:34.821Z",
+        "updated_at": "2024-05-14T22:27:34.821Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 712,
+    "fields": {
+        "question": 160,
+        "text": "Este plazo será de tres meses",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:27:42.117Z",
+        "updated_at": "2024-05-14T22:27:42.117Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 713,
+    "fields": {
+        "question": 160,
+        "text": "Este plazo será de seis meses",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:27:48.110Z",
+        "updated_at": "2024-05-14T22:27:48.110Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 714,
+    "fields": {
+        "question": 160,
+        "text": "Ninguna es correcta",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:27:54.481Z",
+        "updated_at": "2024-05-14T22:28:02.782Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 715,
+    "fields": {
+        "question": 161,
+        "text": "La Mesa de la Comisión del Estatuto de los Miembros de la Cámara y de Peticiones",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:28:25.174Z",
+        "updated_at": "2024-05-14T22:28:25.174Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 716,
+    "fields": {
+        "question": 161,
+        "text": "La Mesa del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:28:33.881Z",
+        "updated_at": "2024-05-14T22:28:40.043Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 717,
+    "fields": {
+        "question": 161,
+        "text": "La Presidencia de la Comisión del Estatuto de los Miembros de la Cámara y de Peticiones",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:28:47.018Z",
+        "updated_at": "2024-05-14T22:28:47.018Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 718,
+    "fields": {
+        "question": 161,
+        "text": "La Presidencia del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:28:54.418Z",
+        "updated_at": "2024-05-14T22:28:54.418Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 719,
+    "fields": {
+        "question": 162,
+        "text": "Públicas o secretas",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:29:14.634Z",
+        "updated_at": "2024-05-14T22:29:14.635Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 720,
+    "fields": {
+        "question": 162,
+        "text": "De investigación o de estudio",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:29:22.076Z",
+        "updated_at": "2024-05-14T22:29:22.077Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 721,
+    "fields": {
+        "question": 162,
+        "text": "Reglamentarias o de libre creación",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:29:28.712Z",
+        "updated_at": "2024-05-14T22:29:28.712Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 722,
+    "fields": {
+        "question": 162,
+        "text": "Facultativas y no vinculantes",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:29:34.782Z",
+        "updated_at": "2024-05-14T22:29:34.782Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 723,
+    "fields": {
+        "question": 163,
+        "text": "Sí, podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto viciado",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:30:23.825Z",
+        "updated_at": "2024-05-14T22:30:23.825Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 724,
+    "fields": {
+        "question": 163,
+        "text": "No, salvo que se trate de subsanar los vicios de los actos incursos en causa de nulidad",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:30:34.922Z",
+        "updated_at": "2024-05-14T22:30:34.922Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 725,
+    "fields": {
+        "question": 163,
+        "text": "Sí, podrá realizarse por el órgano competente cuando sea superior jerárquico del que dictó el acto nulo de pleno derecho",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:30:47.978Z",
+        "updated_at": "2024-05-14T22:30:47.978Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 726,
+    "fields": {
+        "question": 163,
+        "text": "Sí, cuando se trate de incompetencia por razón de la materia o del territorio",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:30:58.043Z",
+        "updated_at": "2024-05-14T22:30:58.043Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 727,
+    "fields": {
+        "question": 164,
+        "text": "Las candidaturas que se presenten para las elecciones de diputados al Congreso, al Senado, y de miembros de los consejos insulares y de los cabildos insulares canarios, diputados al Parlamento Europeo y miembros de las Asambleas Legislativas de las Comunidades Autónomas deberán tener una composición equilibrada de mujeres y hombres, de forma que en el conjunto de la lista los candidatos de cada uno de los sexos supongan como mínimo el cuarenta por ciento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:31:18.594Z",
+        "updated_at": "2024-05-14T22:31:18.594Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 728,
+    "fields": {
+        "question": 164,
+        "text": "Las candidaturas que se presenten para las elecciones de diputados al Congreso, al Senado, y de miembros de los consejos insulares y de los cabildos insulares canarios y miembros de las Asambleas Legislativas de las Comunidades Autónomas deberán tener una composición equilibrada de mujeres y hombres, de forma que en el conjunto de la lista los candidatos de cada uno de los sexos supongan como mínimo el cuarenta por ciento",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:32:14.631Z",
+        "updated_at": "2024-05-14T22:32:14.631Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 729,
+    "fields": {
+        "question": 164,
+        "text": "Las candidaturas para el Senado deberán tener una composición equilibrada de mujeres y hombres, de forma que la proporción de unas y otros sea lo más cercana posible al equilibrio numérico",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:32:33.594Z",
+        "updated_at": "2024-05-14T22:32:33.594Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 730,
+    "fields": {
+        "question": 164,
+        "text": "En las elecciones de miembros de las Asambleas Legislativas de las Comunidades Autónomas, las leyes reguladoras de sus respectivos regímenes electorales podrán establecer medidas que favorezcan una mayor presencia de mujeres en las candidaturas que se presenten a las Elecciones de las citadas Asambleas Legislativas",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:32:47.702Z",
+        "updated_at": "2024-05-14T22:32:47.702Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 731,
+    "fields": {
+        "question": 165,
+        "text": "13",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:33:33.847Z",
+        "updated_at": "2024-05-14T22:33:33.847Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 732,
+    "fields": {
+        "question": 165,
+        "text": "15",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:33:38.456Z",
+        "updated_at": "2024-05-14T22:33:38.456Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 733,
+    "fields": {
+        "question": 165,
+        "text": "12",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:33:43.010Z",
+        "updated_at": "2024-05-14T22:33:43.010Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 734,
+    "fields": {
+        "question": 165,
+        "text": "17",
+        "is_correct": true,
+        "created_at": "2024-05-14T22:33:47.834Z",
+        "updated_at": "2024-05-14T22:33:47.834Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 735,
+    "fields": {
+        "question": 165,
+        "text": "31",
+        "is_correct": false,
+        "created_at": "2024-05-14T22:33:51.914Z",
+        "updated_at": "2024-05-14T22:33:51.914Z"
     }
 }
 ]

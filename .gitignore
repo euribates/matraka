@@ -31,3 +31,4 @@ coverage.xml
 Session.vim
 db.sqlite3
 static
+.project

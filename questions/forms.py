@@ -1,15 +1,18 @@
 #!/usr/bin/env python3
 
 from django.urls import reverse_lazy
-from django.forms import ModelForm
+from django import forms
 from crispy_forms.helper import FormHelper
-from crispy_forms.layout import Layout, Fieldset, Submit, Field
+from crispy_forms.layout import Div
+from crispy_forms.layout import Field
+from crispy_forms.layout import Layout
+from crispy_forms.layout import Submit
 
 from questions.models import Question
 from questions.models import Answer
 
 
-class NewQuestionForm(ModelForm):
+class NewQuestionForm(forms.ModelForm):
     """Formulario para el alta de preguntas.
     """
 
@@ -30,7 +33,7 @@ class NewQuestionForm(ModelForm):
         )
 
 
-class EditQuestionForm(ModelForm):
+class EditQuestionForm(forms.ModelForm):
     """Formulario para el alta de preguntas.
     """
 
@@ -51,7 +54,7 @@ class EditQuestionForm(ModelForm):
         )
 
 
-class NewAnswerForm(ModelForm):
+class NewAnswerForm(forms.ModelForm):
     """Formulario para el alta de respuestas.
     """
 
@@ -82,7 +85,7 @@ class NewAnswerForm(ModelForm):
         return answer
 
 
-class EditAnswerForm(ModelForm):
+class EditAnswerForm(forms.ModelForm):
     """Formulario para la edición de las respuestas.
     """
 
@@ -103,3 +106,21 @@ class EditAnswerForm(ModelForm):
                 css_class='button is-white is-rouded',
                 ),
         )
+
+
+class SearchForm(forms.Form):
+
+    query = forms.CharField()
+
+    def __init__(self, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.helper = FormHelper()
+        self.helper.form_action = reverse_lazy('search')
+        self.helper.layout = Div(
+            Field('query'),
+            Submit(
+                'ok', 'Buscar',
+                css_class='button is-white is-rouded',
+                ),
+            css_class='field',
+            )

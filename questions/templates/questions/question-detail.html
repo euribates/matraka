@@ -5,9 +5,11 @@
     
 <h2>Preguntas</h2>
 
-<h3 class="h3">{{ question.text|markdownify }}</h3>
+<h3 class="h3 is-main">{{ question.text|markdownify }}</h3>
 
     <div class="buttons is-right">
+        <a href="{% url 'edit_question' pk=question.pk%}"
+          class="button is-info is-rounded">✎ Editar pregunta</a>
         <a href="{% url 'new_question' %}"
           class="button is-info is-rounded">➕ Nueva pregunta</a>
         <a href="{% url 'new_answer' pk=question.pk %}"

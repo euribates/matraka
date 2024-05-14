@@ -28,10 +28,11 @@ def tie(ruta, vista, name=None):
 urlpatterns = [
     tie('', main.views.index),
     tie('questions/', questions.views.all_questions),
-    tie('questions/add/', questions.views.new_question),
+    tie('questions/new/', questions.views.new_question),
     tie('questions/<int:pk>/', questions.views.question_detail),
     tie('questions/<int:pk>/add/', questions.views.new_answer),
     tie('questions/<int:pk>/edit/', questions.views.edit_question),
     tie('answer/<int:pk>/edit/', questions.views.edit_answer),
+    tie('search/', questions.views.search),
     path("admin/", admin.site.urls),
     ]

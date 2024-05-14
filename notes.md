@@ -647,3 +647,54 @@ B) Interrumpir su actividad, siempre y cuando lo autorice el empresario.
 C) Interrumpir su actividad y abandonar el lugar de trabajo, en caso necesario.
 D) Interrumpir su actividad, siempre y cuando se adopte un acuerdo en este
 sentido por los delegados de prevención.
+
+
+De conformidad con la normativa de prevención de riesgos laborales, los
+Delegados de Prevención serán designados, por y entre los representantes del
+personal, con arreglo a la siguiente escala:
+A) De 50 a 100 trabajadores: 2 Delegados de Prevención.
+B) De 101 a 500 trabajadores: 4 Delegados de Prevención.
+C) De 1001 a 2000 trabajadores: 6 Delegados de Prevención.
+D) De 4001 en adelante: 10 Delegados de Prevención.
+19. De conformidad con la normativa vigente en mate
+
+
+
+
+En relación con los prestadores de servicios de confianza cualificados, la Autoridad
+de Validación:
+A) Presta un servicio de comprobación de la vigencia de un determinado
+certificado.
+B) Es exactamente lo mismo que la Autoridad de Certificación.
+C) Es la encargada de revocar el certificado antes de su caducidad cuando deja
+de tener validez.
+D) Es la encargada de verificar la identidad del titular de forma previa a la
+expedición del certificado.
+25. A partir del 15-1-15, conforme a la Ley 25/2013, de 27 de diciembre, de impulso
+de la factura electrónica y creación del registro contable de facturas en el Sector
+Público, las facturas que se remitan a las Administraciones Públicas serán
+electrónicas y se ajustarán al formato estructurado de factura electrónica.
+A) GS2-XML.
+B) UBL.
+C) Facturae versión 3.2.x con firma electrónica XAdES.
+D) Eb-XML.
+26. ¿Cuál de los siguientes niveles de interoperabilidad según el Marco Europeo de
+Interoperabilidad se refiere a que las organizaciones puedan procesar de manera
+inteligible la información procedente de fuentes exteriores?
+A) Semántica.
+B) Organizativa.
+C) Jurídica.
+D) Técnica.
+27. Las resoluciones de la Agencia Española de Protección de Datos se harán públicas
+una vez que sean notificadas a los:
+A) Órganos competentes.
+B) Medios de comunicación social.
+C) Órganos de transparencia.
+D) Interesados.
+
+SQL*Loader es una herramienta utilizada ¿para qué servidor de bases de datos?
+A) MySQL.
+B) Oracle.
+C) SQL Server.
+D) DB2.
+29. Según la Ley 39/2015,
