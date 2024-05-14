@@ -21,9 +21,11 @@ def all_questions(request):
 
 def question_detail(request, pk):
     question = Question.load_question(pk)
+    form = forms.NewAnswerForm(question)
     return render(request, 'questions/question-detail.html', {
         'question': question,
         'answers': list(question.answers.all()),
+        'form': form,
         })
 
 
@@ -44,18 +46,17 @@ def new_question(request, *args, **kwargs):
 
 def new_answer(request, pk):
     question = Question.load_question(pk)
-    answer = Answer(question=question)
     if request.method == 'POST':
-        form = forms.NewAnswerForm(request.POST, instance=answer)
+        form = forms.NewAnswerForm(question, request.POST)
         if form.is_valid():
-            answer = form.save()
+            form.save()
             return redirect(reverse('question_detail', kwargs={
                 'pk': question.pk,
                 }))
         print('El formulario no es valido')
         print(form.errors)
     else:
-        form = forms.NewAnswerForm(instance=answer)
+        form = forms.NewAnswerForm(question)
     return render(request, 'questions/new-answer.html', {
         'question': question,
         'form': form,

@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-
+from django.urls import reverse_lazy
 from django.forms import ModelForm
 from crispy_forms.helper import FormHelper
 from crispy_forms.layout import Layout, Fieldset, Submit, Field
@@ -57,14 +57,16 @@ class NewAnswerForm(ModelForm):
 
     class Meta:
         model = Answer
-        fields = ["question", "text", "is_correct"]
+        fields = ["text", "is_correct"]
 
-    def __init__(self, *args, **kwargs):
+    def __init__(self, question, *args, **kwargs):
         super().__init__(*args, **kwargs)
+        self.question = question
         self.helper = FormHelper()
-        self.helper.form_action = '.'
+        self.helper.form_action = reverse_lazy('new_answer', kwargs={
+            'pk': self.question.pk,
+            })
         self.helper.layout = Layout(
-            Field('question', type="hidden"),
             'text',
             'is_correct',
             Submit(
@@ -72,6 +74,12 @@ class NewAnswerForm(ModelForm):
                 css_class='button is-white is-rouded',
                 ),
         )
+
+    def save(self, *args, **kwargs):
+        answer = super().save(commit=False)
+        answer.question = self.question
+        answer = super().save(*args, **kwargs)
+        return answer
 
 
 class EditAnswerForm(ModelForm):

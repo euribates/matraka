@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% load markdownify %}
+{% load markdownify crispy_forms_tags %}
 
 {% block content %}
     
@@ -44,6 +44,12 @@
     </tbody> 
 
 </table>
+
+<div class="box">
+    <h3>Añadir respuesta</h3>
+
+{% crispy form %}
+</div>
 
 
 {% endblock content %}

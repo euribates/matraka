@@ -1050,6 +1050,176 @@
     }
 },
 {
+    "model": "questions.question",
+    "pk": 106,
+    "fields": {
+        "text": "Según la constitución, Las Cortes Generales están formadas por:",
+        "source": "Artículo 66 de la CE",
+        "created_at": "2024-05-14T12:53:47.301Z",
+        "updated_at": "2024-05-14T12:53:47.302Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 107,
+    "fields": {
+        "text": "¿Cuál es la cámara de representación territorial según la Constitución?",
+        "source": "Artículo 69.1 de la CE",
+        "created_at": "2024-05-14T13:02:16.158Z",
+        "updated_at": "2024-05-14T13:17:11.456Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 108,
+    "fields": {
+        "text": "Si el Rey veta una Ley aprobada por las Cortes Generales:",
+        "source": "",
+        "created_at": "2024-05-14T13:20:12.289Z",
+        "updated_at": "2024-05-14T13:20:12.289Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 109,
+    "fields": {
+        "text": "El número de Senadores elegidos por la isla de La Palma es de:",
+        "source": "Artículo 69.3 de la CE",
+        "created_at": "2024-05-14T13:22:34.277Z",
+        "updated_at": "2024-05-14T13:22:34.277Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 110,
+    "fields": {
+        "text": "Las mujeres y hombres son iguales en:",
+        "source": "",
+        "created_at": "2024-05-14T13:23:44.168Z",
+        "updated_at": "2024-05-14T13:23:44.168Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 111,
+    "fields": {
+        "text": "La condición política de canarios la tienen:",
+        "source": "",
+        "created_at": "2024-05-14T13:24:24.641Z",
+        "updated_at": "2024-05-14T13:24:24.641Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 112,
+    "fields": {
+        "text": "Según el Reglamento del Parlamento de Canarias, la Junta de Portavoces podrá convocarse a iniciativa propia del Presidente, a petición de dos grupos parlamentarios o de:",
+        "source": "",
+        "created_at": "2024-05-14T13:25:40.231Z",
+        "updated_at": "2024-05-14T13:25:40.231Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 113,
+    "fields": {
+        "text": "Los diputados del Parlamento de Canarias que abandonen, por cualquier causa, el grupo parlamentario al que pertenezcan, pasarán a tener la condición de:",
+        "source": "",
+        "created_at": "2024-05-14T13:26:50.426Z",
+        "updated_at": "2024-05-14T13:26:50.426Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 114,
+    "fields": {
+        "text": "El Reglamento del Parlamento de Canarias es una norma:",
+        "source": "",
+        "created_at": "2024-05-14T13:27:35.984Z",
+        "updated_at": "2024-05-14T13:27:35.984Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 115,
+    "fields": {
+        "text": "¿Cuál de las siguientes Comisiones del Parlamento no tiene carácter legislativo?",
+        "source": "",
+        "created_at": "2024-05-14T13:28:23.789Z",
+        "updated_at": "2024-05-14T13:28:23.789Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 116,
+    "fields": {
+        "text": "El Orden del día del Pleno es fijado:",
+        "source": "",
+        "created_at": "2024-05-14T13:29:12.907Z",
+        "updated_at": "2024-05-14T13:29:12.907Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 117,
+    "fields": {
+        "text": "En las ofertas de empleo público se reservará un porcentaje no inferior al.........por ciento de las vacantes para ser cubiertas entre personas con discapacidad. Complete la palabra que aparece en blanco.",
+        "source": "",
+        "created_at": "2024-05-14T13:29:57.043Z",
+        "updated_at": "2024-05-14T13:29:57.043Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 118,
+    "fields": {
+        "text": "Según las Normas de Gobierno Interior del Parlamento de Canarias ¿A quién compete la adscripción con carácter definitivo o provisional de los funcionarios de carrera y del personal laboral fijo a los puestos de trabajo?",
+        "source": "",
+        "created_at": "2024-05-14T13:30:35.258Z",
+        "updated_at": "2024-05-14T13:30:35.258Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 119,
+    "fields": {
+        "text": "La Mesa de Negociación del Parlamento de Canarias, se encuentra integrada por:",
+        "source": "",
+        "created_at": "2024-05-14T13:31:41.130Z",
+        "updated_at": "2024-05-14T13:31:41.131Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 120,
+    "fields": {
+        "text": "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, ¿Se aplica a los empleados del Parlamento de Canarias?",
+        "source": "",
+        "created_at": "2024-05-14T13:32:38.788Z",
+        "updated_at": "2024-05-14T13:32:38.788Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 121,
+    "fields": {
+        "text": "El Consejo Consultivo de Canarias tiene su sede en:",
+        "source": "",
+        "created_at": "2024-05-14T13:35:10.533Z",
+        "updated_at": "2024-05-14T13:35:10.533Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 122,
+    "fields": {
+        "text": "Los Consejeros de la Audiencia de Cuentas serán elegidos por:",
+        "source": "",
+        "created_at": "2024-05-14T13:37:17.433Z",
+        "updated_at": "2024-05-14T13:37:17.433Z"
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -6107,6 +6277,886 @@
         "is_correct": false,
         "created_at": "2024-05-13T23:25:41.119Z",
         "updated_at": "2024-05-13T23:25:41.119Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 462,
+    "fields": {
+        "question": 106,
+        "text": "Una sola cámara, el Congreso de los Diputados",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:12:49.688Z",
+        "updated_at": "2024-05-14T13:12:49.688Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 463,
+    "fields": {
+        "question": 106,
+        "text": "Una sola cámara, el Senado",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:13:00.073Z",
+        "updated_at": "2024-05-14T13:13:00.073Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 464,
+    "fields": {
+        "question": 106,
+        "text": "Dos cámaras, el Congreso de los Diputados y el Senado",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:13:08.771Z",
+        "updated_at": "2024-05-14T13:13:08.771Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 465,
+    "fields": {
+        "question": 106,
+        "text": "Por la cámara de los comunes",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:13:16.988Z",
+        "updated_at": "2024-05-14T13:13:16.988Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 466,
+    "fields": {
+        "question": 106,
+        "text": "El Gobierno, junto con todos sus ministerios",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:13:24.672Z",
+        "updated_at": "2024-05-14T13:13:24.672Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 467,
+    "fields": {
+        "question": 106,
+        "text": "Dos camaras, la cámara alta, llamada Cámara de los Lores, y una cámara caja, llamada Cámara de los Comunes",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:14:41.946Z",
+        "updated_at": "2024-05-14T13:14:41.946Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 468,
+    "fields": {
+        "question": 107,
+        "text": "El congreso",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:17:22.157Z",
+        "updated_at": "2024-05-14T13:17:22.157Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 469,
+    "fields": {
+        "question": 107,
+        "text": "El senado",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:17:29.403Z",
+        "updated_at": "2024-05-14T13:17:29.403Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 470,
+    "fields": {
+        "question": 107,
+        "text": "La autonómica",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:17:34.551Z",
+        "updated_at": "2024-05-14T13:17:34.551Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 471,
+    "fields": {
+        "question": 107,
+        "text": "No existe una cámara de representación territorial",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:18:59.207Z",
+        "updated_at": "2024-05-14T13:18:59.207Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 472,
+    "fields": {
+        "question": 108,
+        "text": "No la sanciona",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:20:20.171Z",
+        "updated_at": "2024-05-14T13:20:20.171Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 473,
+    "fields": {
+        "question": 108,
+        "text": "Debe tramitarse de nuevo",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:20:29.127Z",
+        "updated_at": "2024-05-14T13:20:29.127Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 474,
+    "fields": {
+        "question": 108,
+        "text": "Queda sin valor definitivamente dicha Ley",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:20:35.039Z",
+        "updated_at": "2024-05-14T13:20:35.040Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 475,
+    "fields": {
+        "question": 108,
+        "text": "No tiene esa prerrogativa",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:20:43.016Z",
+        "updated_at": "2024-05-14T13:20:43.016Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 476,
+    "fields": {
+        "question": 109,
+        "text": "Ninguno",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:22:42.396Z",
+        "updated_at": "2024-05-14T13:22:42.396Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 477,
+    "fields": {
+        "question": 109,
+        "text": "Dos",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:22:47.997Z",
+        "updated_at": "2024-05-14T13:22:47.997Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 478,
+    "fields": {
+        "question": 109,
+        "text": "Uno",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:22:52.408Z",
+        "updated_at": "2024-05-14T13:22:52.408Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 479,
+    "fields": {
+        "question": 109,
+        "text": "Cuatro",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:22:57.139Z",
+        "updated_at": "2024-05-14T13:22:57.139Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 480,
+    "fields": {
+        "question": 109,
+        "text": "Siete",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:23:02.980Z",
+        "updated_at": "2024-05-14T13:23:02.980Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 481,
+    "fields": {
+        "question": 110,
+        "text": "Derechos",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:23:51.787Z",
+        "updated_at": "2024-05-14T13:23:51.787Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 482,
+    "fields": {
+        "question": 110,
+        "text": "Deberes",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:23:56.331Z",
+        "updated_at": "2024-05-14T13:23:56.331Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 483,
+    "fields": {
+        "question": 110,
+        "text": "Dignidad",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:24:01.218Z",
+        "updated_at": "2024-05-14T13:24:01.218Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 484,
+    "fields": {
+        "question": 110,
+        "text": "Todas las respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:24:10.937Z",
+        "updated_at": "2024-05-14T13:24:10.937Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 485,
+    "fields": {
+        "question": 111,
+        "text": "Los nacidos en Canarias de padres canarios",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:24:31.444Z",
+        "updated_at": "2024-05-14T13:24:31.444Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 486,
+    "fields": {
+        "question": 111,
+        "text": "Los que tengan vecindad administrativa en cualquiera de los municipios de Canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:24:39.774Z",
+        "updated_at": "2024-05-14T13:24:39.774Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 487,
+    "fields": {
+        "question": 111,
+        "text": "Los hijos de padres canarios aunque hayan nacido fuera de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:24:45.824Z",
+        "updated_at": "2024-05-14T13:24:45.824Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 488,
+    "fields": {
+        "question": 111,
+        "text": "Los que teniendo vecindad administrativa en cualquier municipio de España se inscriban el Registro Civil como canarios",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:24:56.573Z",
+        "updated_at": "2024-05-14T13:24:56.573Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 489,
+    "fields": {
+        "question": 112,
+        "text": "La quinta parte de los miembros de la Cámara",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:25:47.178Z",
+        "updated_at": "2024-05-14T13:25:47.178Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 490,
+    "fields": {
+        "question": 112,
+        "text": "La cuarta parte de los miembros de la Cámara",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:25:53.140Z",
+        "updated_at": "2024-05-14T13:25:53.140Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 491,
+    "fields": {
+        "question": 112,
+        "text": "Un tercio de los miembros de la Cámara",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:25:59.314Z",
+        "updated_at": "2024-05-14T13:25:59.314Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 492,
+    "fields": {
+        "question": 112,
+        "text": "La mitad de los miembros de la Cámara",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:26:05.480Z",
+        "updated_at": "2024-05-14T13:26:05.480Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 493,
+    "fields": {
+        "question": 112,
+        "text": "Tres o más grupos parlamentarios",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:26:31.613Z",
+        "updated_at": "2024-05-14T13:26:31.613Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 494,
+    "fields": {
+        "question": 113,
+        "text": "Suplentes",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:26:55.621Z",
+        "updated_at": "2024-05-14T13:26:55.621Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 495,
+    "fields": {
+        "question": 113,
+        "text": "Independientes",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:01.133Z",
+        "updated_at": "2024-05-14T13:27:01.133Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 496,
+    "fields": {
+        "question": 113,
+        "text": "Adicionales",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:09.533Z",
+        "updated_at": "2024-05-14T13:27:09.533Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 497,
+    "fields": {
+        "question": 113,
+        "text": "Supletorios",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:14.215Z",
+        "updated_at": "2024-05-14T13:27:14.215Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 498,
+    "fields": {
+        "question": 113,
+        "text": "Mixtos",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:17.617Z",
+        "updated_at": "2024-05-14T13:27:17.617Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 499,
+    "fields": {
+        "question": 113,
+        "text": "No adscritos",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:27:24.846Z",
+        "updated_at": "2024-05-14T13:27:24.846Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 500,
+    "fields": {
+        "question": 114,
+        "text": "Que aprueba el Gobierno de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:40.920Z",
+        "updated_at": "2024-05-14T13:27:40.920Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 501,
+    "fields": {
+        "question": 114,
+        "text": "Que aprueban las Cortes Generales a petición del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:46.821Z",
+        "updated_at": "2024-05-14T13:27:46.821Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 502,
+    "fields": {
+        "question": 114,
+        "text": "Que aprueba el propio Parlamento de Canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:27:52.567Z",
+        "updated_at": "2024-05-14T13:27:52.567Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 503,
+    "fields": {
+        "question": 114,
+        "text": "Que aprueban el Gobierno y el Parlamento en sesión conjunta",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:27:58.931Z",
+        "updated_at": "2024-05-14T13:27:58.931Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 504,
+    "fields": {
+        "question": 114,
+        "text": "Que aprueban los Cabildos Insulares",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:28:12.409Z",
+        "updated_at": "2024-05-14T13:28:12.409Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 505,
+    "fields": {
+        "question": 115,
+        "text": "Presupuestos y Hacienda",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:28:30.254Z",
+        "updated_at": "2024-05-14T13:28:30.254Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 506,
+    "fields": {
+        "question": 115,
+        "text": "Sanidad",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:28:33.326Z",
+        "updated_at": "2024-05-14T13:28:37.623Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 507,
+    "fields": {
+        "question": 115,
+        "text": "Reglamento",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:28:45.736Z",
+        "updated_at": "2024-05-14T13:28:45.736Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 508,
+    "fields": {
+        "question": 115,
+        "text": "Transición Ecológica, Lucha contra el Cambio Climático y Plan Territorial",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:28:53.918Z",
+        "updated_at": "2024-05-14T13:28:53.918Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 509,
+    "fields": {
+        "question": 116,
+        "text": "Por la mayoría absoluta del propio Pleno",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:29:17.348Z",
+        "updated_at": "2024-05-14T13:29:17.348Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 510,
+    "fields": {
+        "question": 116,
+        "text": "Por la Presidencia del Parlamento de acuerdo con la Junta de Portavoces",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:29:23.328Z",
+        "updated_at": "2024-05-14T13:29:23.328Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 511,
+    "fields": {
+        "question": 116,
+        "text": "Por la Junta de Portavoces, oída la Mesa",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:29:29.145Z",
+        "updated_at": "2024-05-14T13:29:29.145Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 512,
+    "fields": {
+        "question": 116,
+        "text": "Por la Presidencia del Parlamento, de acuerdo con la Mesa",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:29:34.612Z",
+        "updated_at": "2024-05-14T13:29:34.613Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 513,
+    "fields": {
+        "question": 117,
+        "text": "2",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:30:04.028Z",
+        "updated_at": "2024-05-14T13:30:04.028Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 514,
+    "fields": {
+        "question": 117,
+        "text": "3",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:30:07.132Z",
+        "updated_at": "2024-05-14T13:30:07.132Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 515,
+    "fields": {
+        "question": 117,
+        "text": "5",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:30:09.725Z",
+        "updated_at": "2024-05-14T13:30:09.725Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 516,
+    "fields": {
+        "question": 117,
+        "text": "7",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:30:12.858Z",
+        "updated_at": "2024-05-14T13:30:12.858Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 517,
+    "fields": {
+        "question": 117,
+        "text": "12",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:30:20.524Z",
+        "updated_at": "2024-05-14T13:30:20.524Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 518,
+    "fields": {
+        "question": 118,
+        "text": "Al Letrado-Secretario General",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:30:42.547Z",
+        "updated_at": "2024-05-14T13:30:42.547Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 519,
+    "fields": {
+        "question": 118,
+        "text": "A la Mesa de la Cámara",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:30:48.886Z",
+        "updated_at": "2024-05-14T13:30:48.886Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 520,
+    "fields": {
+        "question": 118,
+        "text": "Al Presidente del Parlamento",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:30:57.475Z",
+        "updated_at": "2024-05-14T13:30:57.475Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 521,
+    "fields": {
+        "question": 118,
+        "text": "A la Junta de Personal",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:31:05.135Z",
+        "updated_at": "2024-05-14T13:31:05.135Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 522,
+    "fields": {
+        "question": 118,
+        "text": "A la Mesa de Edad",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:31:19.705Z",
+        "updated_at": "2024-05-14T13:31:19.706Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 523,
+    "fields": {
+        "question": 118,
+        "text": "A la Junta de Portavoces",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:31:28.807Z",
+        "updated_at": "2024-05-14T13:31:28.807Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 524,
+    "fields": {
+        "question": 119,
+        "text": "El Letrado-Secretario General de la Cámara y los miembros de la Junta de Personal",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:31:48.294Z",
+        "updated_at": "2024-05-14T13:31:48.294Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 525,
+    "fields": {
+        "question": 119,
+        "text": "Los miembros de la Mesa del Parlamento que se designen, el Letrado- Secretario General, los miembros de la Junta de Personal y los demás representantes del personal que correspondan conforme al Estatuto Básico del Empleado Público",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:31:57.242Z",
+        "updated_at": "2024-05-14T13:31:57.242Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 526,
+    "fields": {
+        "question": 119,
+        "text": "Los miembros de la Mesa del Parlamento que se designen, el Letrado- Secretario General y los miembros de la Junta de Personal",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:32:04.220Z",
+        "updated_at": "2024-05-14T13:32:04.220Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 527,
+    "fields": {
+        "question": 119,
+        "text": "Los miembros de la Mesa del Parlamento que se designen, los miembros de la Junta de Personal y los demás representantes del personal que correspondan conforme al Estatuto Básico del Empleado Público",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:32:10.902Z",
+        "updated_at": "2024-05-14T13:32:10.902Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 528,
+    "fields": {
+        "question": 120,
+        "text": "Sí, sin distinciones",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:32:50.994Z",
+        "updated_at": "2024-05-14T13:32:50.994Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 529,
+    "fields": {
+        "question": 120,
+        "text": "A los funcionarios sí, al personal laboral no",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:32:55.974Z",
+        "updated_at": "2024-05-14T13:32:55.974Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 530,
+    "fields": {
+        "question": 120,
+        "text": "Al personal laboral sí, a los funcionarios no",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:33:01.144Z",
+        "updated_at": "2024-05-14T13:33:01.144Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 531,
+    "fields": {
+        "question": 120,
+        "text": "No se aplica ni a funcionarios ni a personal laboral",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:33:17.706Z",
+        "updated_at": "2024-05-14T13:33:17.706Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 532,
+    "fields": {
+        "question": 121,
+        "text": "Santa Cruz de Tenerife",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:35:16.928Z",
+        "updated_at": "2024-05-14T13:35:16.928Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 533,
+    "fields": {
+        "question": 121,
+        "text": "San Cristóbal de la Laguna",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:35:23.730Z",
+        "updated_at": "2024-05-14T13:35:23.730Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 534,
+    "fields": {
+        "question": 121,
+        "text": "Puerto de la Cruz",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:35:29.834Z",
+        "updated_at": "2024-05-14T13:35:29.834Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 535,
+    "fields": {
+        "question": 121,
+        "text": "Arona",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:35:36.269Z",
+        "updated_at": "2024-05-14T13:35:36.269Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 536,
+    "fields": {
+        "question": 121,
+        "text": "Es rotativo, entra las capitales de provincia",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:35:53.257Z",
+        "updated_at": "2024-05-14T13:35:53.257Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 537,
+    "fields": {
+        "question": 122,
+        "text": "El Consejo Consultivo",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:37:26.434Z",
+        "updated_at": "2024-05-14T13:37:26.434Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 538,
+    "fields": {
+        "question": 122,
+        "text": "Los Grupos Parlamentarios",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:37:32.182Z",
+        "updated_at": "2024-05-14T13:37:32.182Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 539,
+    "fields": {
+        "question": 122,
+        "text": "El Parlamento de Canarias",
+        "is_correct": true,
+        "created_at": "2024-05-14T13:37:38.221Z",
+        "updated_at": "2024-05-14T13:37:48.284Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 540,
+    "fields": {
+        "question": 122,
+        "text": "La persona titular de la Consejería de Hacienda",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:37:45.024Z",
+        "updated_at": "2024-05-14T13:37:45.024Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 541,
+    "fields": {
+        "question": 122,
+        "text": "La propia Audiencia de Cuentas",
+        "is_correct": false,
+        "created_at": "2024-05-14T13:38:09.509Z",
+        "updated_at": "2024-05-14T13:38:09.509Z"
     }
 }
 ]
