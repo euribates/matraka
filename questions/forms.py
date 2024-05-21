@@ -31,6 +31,10 @@ class NewQuestionForm(forms.ModelForm):
                 css_class='button is-white is-rouded',
                 ),
         )
+        self.fields['text'].widget = forms.Textarea(attrs={
+            'cols': 80,
+            'rows': 3,
+            })
 
 
 class EditQuestionForm(forms.ModelForm):
@@ -52,6 +56,10 @@ class EditQuestionForm(forms.ModelForm):
                 css_class='button is-white is-rouded',
                 ),
         )
+        self.fields['text'].widget = forms.Textarea(attrs={
+            'cols': 80,
+            'rows': 3,
+            })
 
 
 class NewAnswerForm(forms.ModelForm):
@@ -77,6 +85,10 @@ class NewAnswerForm(forms.ModelForm):
                 css_class='button is-white is-rouded',
                 ),
         )
+        self.fields['text'].widget = forms.Textarea(attrs={
+            'cols': 80,
+            'rows': 3,
+            })
 
     def save(self, *args, **kwargs):
         answer = super().save(commit=False)
@@ -106,6 +118,10 @@ class EditAnswerForm(forms.ModelForm):
                 css_class='button is-white is-rouded',
                 ),
         )
+        self.fields['text'].widget = forms.Textarea(attrs={
+            'cols': 80,
+            'rows': 3,
+            })
 
 
 class SearchForm(forms.Form):
