@@ -1650,6 +1650,106 @@
     }
 },
 {
+    "model": "questions.question",
+    "pk": 166,
+    "fields": {
+        "text": "La ley que regula el Centro Nacional de Inteligencia (CNI), y que encomienda a dicho centro el ejercicio de las funciones relativas a la seguridad de las tecnologías de la información y de protección de la información clasificada es:",
+        "source": "",
+        "created_at": "2024-05-19T13:07:20.002Z",
+        "updated_at": "2024-05-19T13:07:20.002Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 167,
+    "fields": {
+        "text": "En las ofertas de empleo público de la Admón. Pública Canarias deberá acompañarse:",
+        "source": "",
+        "created_at": "2024-05-19T13:11:34.609Z",
+        "updated_at": "2024-05-19T13:11:34.609Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 168,
+    "fields": {
+        "text": "Un temario que no incluya materias relativas a la normativa sobre igualdad y violencia de género",
+        "source": "",
+        "created_at": "2024-05-19T13:12:50.395Z",
+        "updated_at": "2024-05-19T13:12:50.395Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 169,
+    "fields": {
+        "text": "¿A quién corresponde que el nombramiento de titulares de órganos directivos de la Admón. Publica Canaria se atienda la representación equilibrada entre mujeres y hombres?",
+        "source": "",
+        "created_at": "2024-05-19T13:15:04.357Z",
+        "updated_at": "2024-05-19T13:15:04.357Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 170,
+    "fields": {
+        "text": "En la composición de los órganos colegiados de la administración canaria simpre deberá respetarse:",
+        "source": "",
+        "created_at": "2024-05-19T13:16:44.004Z",
+        "updated_at": "2024-05-19T13:16:44.004Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 171,
+    "fields": {
+        "text": "La formación en materia de igualdad:",
+        "source": "",
+        "created_at": "2024-05-19T13:18:16.341Z",
+        "updated_at": "2024-05-19T13:18:16.341Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 172,
+    "fields": {
+        "text": "¿Qué incluyen los planes de igualdad en la administración Pública?",
+        "source": "",
+        "created_at": "2024-05-19T13:19:34.963Z",
+        "updated_at": "2024-05-19T13:19:34.963Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 173,
+    "fields": {
+        "text": "¿Podrá el Gobierno de Canarias establecer condiciones especiales en relación con la ejecución de los contratos que se celebren con el fin de promover la igualdad entre mujeres y hombres?",
+        "source": "",
+        "created_at": "2024-05-19T13:20:39.966Z",
+        "updated_at": "2024-05-19T13:20:39.966Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 174,
+    "fields": {
+        "text": "¿Cúal es La Ley que pretende hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, en particular mediante la eliminación de la discriminación de la mujer?",
+        "source": "",
+        "created_at": "2024-05-19T13:27:11.545Z",
+        "updated_at": "2024-05-19T13:27:11.545Z"
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 175,
+    "fields": {
+        "text": "Las dimensiones de seguridad definidas en el Esquema Nacional de Seguridad son:",
+        "source": "",
+        "created_at": "2024-05-19T22:51:36.413Z",
+        "updated_at": "2024-05-19T22:51:36.413Z"
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -9721,6 +9821,512 @@
         "is_correct": false,
         "created_at": "2024-05-14T22:33:51.914Z",
         "updated_at": "2024-05-14T22:33:51.914Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 736,
+    "fields": {
+        "question": 166,
+        "text": "Ley 11/2002, de 6 de mayo",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:07:30.710Z",
+        "updated_at": "2024-05-19T13:07:30.710Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 737,
+    "fields": {
+        "question": 166,
+        "text": "Ley 39/2015, de 1 de octubre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:07:39.597Z",
+        "updated_at": "2024-05-19T13:07:39.597Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 738,
+    "fields": {
+        "question": 166,
+        "text": "Ley 40/2015, de 1 de octubre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:07:50.480Z",
+        "updated_at": "2024-05-19T13:07:50.480Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 739,
+    "fields": {
+        "question": 166,
+        "text": "Ley Orgánica 1/2004, de 28 de diciembre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:07:57.271Z",
+        "updated_at": "2024-05-19T13:07:57.271Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 740,
+    "fields": {
+        "question": 166,
+        "text": "Ley Orgánica 3/2018",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:10:31.199Z",
+        "updated_at": "2024-05-19T13:10:31.200Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 741,
+    "fields": {
+        "question": 167,
+        "text": "Un informe sobre la materia de igualdad",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:11:46.743Z",
+        "updated_at": "2024-05-19T13:11:46.743Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 742,
+    "fields": {
+        "question": 167,
+        "text": "La ley orgánica que regula la igualdad",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:11:56.750Z",
+        "updated_at": "2024-05-19T13:11:56.750Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 743,
+    "fields": {
+        "question": 167,
+        "text": "Un informe de impacto de género",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:12:07.799Z",
+        "updated_at": "2024-05-19T13:12:07.799Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 744,
+    "fields": {
+        "question": 167,
+        "text": "No se necesita informe alguno ya que se presupone dentro de la normativa de igualdad",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:12:16.134Z",
+        "updated_at": "2024-05-19T13:12:16.134Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 745,
+    "fields": {
+        "question": 168,
+        "text": "No es necesario su inclusión",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:13:17.192Z",
+        "updated_at": "2024-05-19T13:13:17.192Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 746,
+    "fields": {
+        "question": 168,
+        "text": "Es voluntario pueden o no incluirlos",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:13:23.391Z",
+        "updated_at": "2024-05-19T13:13:23.392Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 747,
+    "fields": {
+        "question": 168,
+        "text": "Los temarios para la celebración de  pruebas selectivas incluirán materia relativa a la normativa sobre igualdad y violencia de género",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:13:38.039Z",
+        "updated_at": "2024-05-19T13:13:38.039Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 748,
+    "fields": {
+        "question": 168,
+        "text": "Es ilegal incluir preguntas sobre esa temática",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:14:07.214Z",
+        "updated_at": "2024-05-19T13:14:07.214Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 749,
+    "fields": {
+        "question": 169,
+        "text": "Al Parlamento de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:15:07.824Z",
+        "updated_at": "2024-05-19T13:15:07.824Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 750,
+    "fields": {
+        "question": 169,
+        "text": "Al Presidente del Gobierno",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:15:15.677Z",
+        "updated_at": "2024-05-19T13:15:15.677Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 751,
+    "fields": {
+        "question": 169,
+        "text": "Al Gobierno de Canarias",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:15:27.024Z",
+        "updated_at": "2024-05-19T13:15:27.024Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 752,
+    "fields": {
+        "question": 169,
+        "text": "Al Presidente del Parlamento",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:15:32.676Z",
+        "updated_at": "2024-05-19T13:15:32.676Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 753,
+    "fields": {
+        "question": 169,
+        "text": "Al Consejo Consultivo de Cuentas",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:15:44.546Z",
+        "updated_at": "2024-05-19T13:15:44.546Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 754,
+    "fields": {
+        "question": 169,
+        "text": "Al Diputado del Común",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:15:53.370Z",
+        "updated_at": "2024-05-19T13:15:53.370Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 755,
+    "fields": {
+        "question": 170,
+        "text": "La representación equilibrabada entre mujeres y hombres, solamente en aquéllos órganos que previamente se hayan pactado",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:16:53.947Z",
+        "updated_at": "2024-05-19T13:16:53.947Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 756,
+    "fields": {
+        "question": 170,
+        "text": "La representación equilibrabada entre mujeres y hombres",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:17:01.547Z",
+        "updated_at": "2024-05-19T13:17:01.547Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 757,
+    "fields": {
+        "question": 170,
+        "text": "La representación equilibrabada entre mujeres y hombres, nunca en órganos colegidos",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:17:11.478Z",
+        "updated_at": "2024-05-19T13:17:11.478Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 758,
+    "fields": {
+        "question": 170,
+        "text": "La representación equilibrabada entre mujeres y hombres, en la esfera privada",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:17:58.884Z",
+        "updated_at": "2024-05-19T13:17:58.884Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 759,
+    "fields": {
+        "question": 171,
+        "text": "Se propondrá anualmente por el servicio correspondiente",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:18:33.915Z",
+        "updated_at": "2024-05-19T13:18:33.915Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 760,
+    "fields": {
+        "question": 171,
+        "text": "El gobierno de Canarias garantizará la formación de su personal en dicha materia",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:18:42.150Z",
+        "updated_at": "2024-05-19T13:18:42.150Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 761,
+    "fields": {
+        "question": 171,
+        "text": "La Consejería de Igualdad garantizará la formación de su personal en dicha materia",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:18:52.495Z",
+        "updated_at": "2024-05-19T13:18:52.495Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 762,
+    "fields": {
+        "question": 171,
+        "text": "Todas son ciertas",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:18:59.748Z",
+        "updated_at": "2024-05-19T13:18:59.748Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 763,
+    "fields": {
+        "question": 172,
+        "text": "Los objetivos en materia de igualdad de trato",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:19:42.353Z",
+        "updated_at": "2024-05-19T13:19:42.353Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 764,
+    "fields": {
+        "question": 172,
+        "text": "Los objetivos en materia de igualdad de oportunidades y de resultado en el empleo público",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:19:52.021Z",
+        "updated_at": "2024-05-19T13:19:52.022Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 765,
+    "fields": {
+        "question": 172,
+        "text": "Los objetivos en materia de igualdad y las medidas a adoptar para su consecución",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:20:01.166Z",
+        "updated_at": "2024-05-19T13:20:01.166Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 766,
+    "fields": {
+        "question": 172,
+        "text": "Todas son ciertas",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:20:10.323Z",
+        "updated_at": "2024-05-19T13:20:10.324Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 767,
+    "fields": {
+        "question": 173,
+        "text": "Si, a través de sus órganos de contratación, dentro del marco proporcionado por la normativa vigente",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:21:00.298Z",
+        "updated_at": "2024-05-19T13:21:00.298Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 768,
+    "fields": {
+        "question": 173,
+        "text": "Si, a través de sus órganos de función pública canarias",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:21:13.723Z",
+        "updated_at": "2024-05-19T13:21:19.184Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 769,
+    "fields": {
+        "question": 173,
+        "text": "Sí, a través de sus órganos de contratación sin necesidad de observar la normativa vigente",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:21:27.918Z",
+        "updated_at": "2024-05-19T13:21:27.918Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 770,
+    "fields": {
+        "question": 173,
+        "text": "No en ningún caso",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:21:36.026Z",
+        "updated_at": "2024-05-19T13:21:36.026Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 771,
+    "fields": {
+        "question": 174,
+        "text": "Ley 11/2002, de 6 de mayo",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:27:20.312Z",
+        "updated_at": "2024-05-19T13:27:20.312Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 772,
+    "fields": {
+        "question": 174,
+        "text": "Ley 39/2015, de 1 de octubre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:27:25.853Z",
+        "updated_at": "2024-05-19T13:27:25.853Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 773,
+    "fields": {
+        "question": 174,
+        "text": "Ley 40/2015, de 1 de octubre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:27:31.811Z",
+        "updated_at": "2024-05-19T13:27:31.811Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 774,
+    "fields": {
+        "question": 174,
+        "text": "Ley Orgánica 1/2004, de 28 de diciembre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:27:39.373Z",
+        "updated_at": "2024-05-19T13:27:39.373Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 775,
+    "fields": {
+        "question": 174,
+        "text": "Ley Orgánica 3/2018, de 5 de diciembre",
+        "is_correct": false,
+        "created_at": "2024-05-19T13:27:45.757Z",
+        "updated_at": "2024-05-19T13:27:45.757Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 776,
+    "fields": {
+        "question": 174,
+        "text": "Ley Orgánica 3/2007, de 22 de marzo",
+        "is_correct": true,
+        "created_at": "2024-05-19T13:27:53.421Z",
+        "updated_at": "2024-05-19T13:27:53.421Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 777,
+    "fields": {
+        "question": 175,
+        "text": "Dignidad, Categoría, Valor y Confianza",
+        "is_correct": false,
+        "created_at": "2024-05-19T22:51:44.691Z",
+        "updated_at": "2024-05-19T22:51:44.691Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 778,
+    "fields": {
+        "question": 175,
+        "text": "Alta, media y baja",
+        "is_correct": false,
+        "created_at": "2024-05-19T22:51:50.902Z",
+        "updated_at": "2024-05-19T22:51:50.903Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 779,
+    "fields": {
+        "question": 175,
+        "text": "Confidencialidad, Integridad, Trazabilidad, Autenticidad y Disponibilidad",
+        "is_correct": true,
+        "created_at": "2024-05-19T22:51:58.148Z",
+        "updated_at": "2024-05-19T22:51:58.148Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 780,
+    "fields": {
+        "question": 175,
+        "text": "Horizontal, lateral, transversal y en profundidad",
+        "is_correct": false,
+        "created_at": "2024-05-19T22:52:07.399Z",
+        "updated_at": "2024-05-19T22:52:07.399Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 781,
+    "fields": {
+        "question": 175,
+        "text": "Monetarias, estructurales y contingentes",
+        "is_correct": false,
+        "created_at": "2024-05-19T22:52:12.873Z",
+        "updated_at": "2024-05-19T22:52:12.873Z"
     }
 }
 ]
