@@ -140,3 +140,14 @@ class SearchForm(forms.Form):
                 ),
             css_class='field',
             )
+
+
+class AskForm(forms.Form):
+    CHOICES = list(zip('ABCD', 'ABCD'))
+
+    letter = forms.ChoiceField(choices=CHOICES)
+
+    def clean_letter(self):
+        _data = self.cleaned_data["letter"].upper()
+        return _data.strip()
+

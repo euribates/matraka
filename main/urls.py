@@ -27,6 +27,7 @@ def tie(ruta, vista, name=None):
 
 urlpatterns = [
     tie('', main.views.index),
+    tie('ask/', questions.views.ask),
     tie('questions/', questions.views.all_questions),
     tie('questions/new/', questions.views.new_question),
     tie('questions/<int:pk>/', questions.views.question_detail),

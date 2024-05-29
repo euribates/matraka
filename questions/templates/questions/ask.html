@@ -1,0 +1,47 @@
+{% extends "base.html" %}
+{% load static markdownify crispy_forms_tags %}
+
+{% block content %}
+    
+<div class="box">
+<h2>Pregunta {{ question.pk }}</h2>
+
+<h3>{{ question.text }}</h3>
+</div>
+
+<form action="." method="POST" accept-charset="utf-8">
+{% csrf_token %}
+
+<div class="fixed-grid">
+<div class="grid">
+{% for letter,answer in answers.items %}
+
+  <div class="cell">
+
+
+  <article class="media p-2">
+  <figure class="media-left">
+    <p class="image is-64x64">
+    <button name="letter" value="{{ letter }}" id="letter_{{ letter }}">
+    <img src="{% static 'questions/img/' %}{{ letter }}.svg"
+         with="64" height="64"
+         alt="Optión {{ letter }}">
+    </button>
+    </p>
+  </figure>
+  <div class="media-content">
+    <div class="content">
+        <h4>{{ answer.text }}</h4>
+    </div>
+  </article>
+  </div>
+{% endfor %}
+</div>
+</div>
+
+
+{{ form.as_p }}
+
+</form>
+
+{% endblock content %}

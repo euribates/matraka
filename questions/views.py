@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
 
+import random
+
 from django.shortcuts import render
 from django.db.models import Count
 from django.shortcuts import redirect
@@ -16,6 +18,18 @@ def all_questions(request):
         )
     return render(request, 'questions/all_questions.html', {
         'questions': questions,
+        })
+
+
+def ask(request):
+    question = random.choice(models.Question.objects.all())
+    answers = dict(zip('ABCD', question.get_random_answers()))
+    form = forms.AskForm()
+    return render(request, 'questions/ask.html', {
+        'titulo': f'Pregunta {question.pk}: {question.text}',
+        'question': question,
+        'answers': answers,
+        'form': form,
         })
 
 

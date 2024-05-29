@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 
+import random
 
 from django.db import models
 from django.urls import reverse_lazy
+
+from sequtils import split_iter
 
 
 class Question(models.Model):
@@ -28,6 +31,16 @@ class Question(models.Model):
             'pk': self.pk,
             })
 
+    def get_random_answers(self):
+        valids, wrongs = split_iter(self.answers.all(), lambda _: _.is_correct)
+        valids = list(valids)
+        assert len(valids) >= 1
+        wrongs = list(wrongs)
+        assert len(wrongs) >= 3
+        answers = [random.choice(valids)]
+        answers.extend(list(random.sample(wrongs, 3)))
+        random.shuffle(answers)
+        return answers
 
 
 class Answer(models.Model):
