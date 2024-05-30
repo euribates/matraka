@@ -15,6 +15,12 @@ check:
     python ./manage.py check
 
 
+# Cambiar el título de la terminal
+[unix]
+termtitle *args='Terminal':
+    echo -en "\033]0;{{ args }}\007";
+
+
 # Ejecutar django collectstatic
 static:
     python ./manage.py collectstatic --no-input
@@ -48,3 +54,11 @@ migrate $APP='': check
 # Ejecutar un run server en modo desarrollo
 rundev: check static 
     python ./manage.py runserver_plus 0.0.0.0:8801 --nopin --insecure --print-sql
+
+
+# Actualiza en caliente contenidos estaticos js/css/png/svg
+[unix]
+watch: static
+    just termtitle Watch
+    watchmedo shell-command  --patterns "*.css;*.js;*.png;*.jpg;*.webp;*.svg" --recursive --command "just static"
+
