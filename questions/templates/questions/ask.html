@@ -6,7 +6,7 @@
 <div class="box">
 <h2>Pregunta {{ question.pk }}</h2>
 
-<h3>{{ question.text }}</h3>
+<h3>{{ question.text|markdownify }}</h3>
 </div>
 
 <form action="." method="POST" accept-charset="utf-8">
@@ -31,7 +31,7 @@
   </figure>
   <div class="media-content">
     <div class="content">
-        <h4>{{ answer.text }}</h4>
+        <h4>{{ answer.text|markdownify }}</h4>
     </div>
   </article>
   </div>

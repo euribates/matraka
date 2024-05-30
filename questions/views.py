@@ -21,8 +21,11 @@ def all_questions(request):
         })
 
 
-def ask(request):
-    question = random.choice(models.Question.objects.all())
+def ask(request, pk=0):
+    if pk:
+        question = models.Question.load_question(pk)
+    else:
+        question = random.choice(models.Question.objects.all())
     answers = dict(zip('ABCD', question.get_random_answers()))
     form = forms.AskForm()
     return render(request, 'questions/ask.html', {
@@ -126,6 +129,8 @@ def search(request, *args, **kwargs):
                     'pk': question.pk,
                     'url': question.get_absolute_url(),
                     'text': question.text,
+                    'tag': 'Q',
+                    'question': question,
                     })
             answers = models.Answer.objects.filter(text__icontains=query)
             for answer in answers:
@@ -133,6 +138,8 @@ def search(request, *args, **kwargs):
                     'pk': answer.question.pk,
                     'url': answer.question.get_absolute_url(),
                     'text': answer.text,
+                    'tag': 'A',
+                    'answer': answer,
                     })
     else:
         query = request.GET.get('query', '')

@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% load markdownify crispy_forms_tags %}
+{% load markdownify crispy_forms_tags questions %}
 
 {% block content %}
     
@@ -35,7 +35,7 @@
             {{ answer.text|markdownify }}
             {% if answer.is_correct %}</b>{% endif %}
         </td>
-        <td>{{ answer.is_correct }}</td>
+        <td>{{ answer.is_correct|as_bool|safe }}</td>
         <td>
             <a href="{% url 'edit_answer' pk=answer.pk %}"
                class="button is-warning is-circle">

@@ -12,7 +12,8 @@
     <caption>{{ num_results }} resultados</caption>
     <thead>
         <tr>
-            <th>Id. pregunta</th>
+            <th>Id. pregunta/respuesta</th>
+            <th>tipo</th>
             <th>Texto</th>
         </tr>
     </thead>
@@ -27,7 +28,18 @@
                   </a>
               </td>
               <td>
+                  {% if result.tag == 'Q' %}
+                      <label class="tag is-primary">Pregunta</label>
+                  {% else %}
+                      <label class="tag is-info">Respuesta</label>
+                {% endif %}
+              </td>
+              <td>
                   <b>{{ result.text }}</b>
+                  {% if result.tag == 'A' %}
+                    <br><small>(De la pregunta {{ result.answer.question.pk }}:
+                        <b>{{ result.answer.question.text }}</b>
+                  {% endif %}
               </td>
           </tr>
       {% endfor %}
