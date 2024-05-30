@@ -53,6 +53,7 @@ migrate $APP='': check
 
 # Ejecutar un run server en modo desarrollo
 rundev: check static 
+    just termtitle "Matraka RunDev Server"
     python ./manage.py runserver_plus 0.0.0.0:8801 --nopin --insecure --print-sql
 
 
