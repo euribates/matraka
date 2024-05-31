@@ -4,6 +4,7 @@ import random
 
 from django.db import models
 from django.urls import reverse_lazy
+from simple_history.models import HistoricalRecords
 
 from sequtils import split_iter
 
@@ -15,6 +16,7 @@ class Question(models.Model):
     source = models.CharField(blank=True, default='', max_length=256)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    history = HistoricalRecords()
 
     @classmethod
     def load_question(cls, pk):
@@ -54,6 +56,7 @@ class Answer(models.Model):
     is_correct = models.BooleanField(default=False)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    history = HistoricalRecords()
 
     @classmethod
     def load_answer(cls, pk):

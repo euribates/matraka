@@ -3,13 +3,15 @@
 from django.contrib import admin
 from questions.models import Question, Answer
 
+from simple_history.admin import SimpleHistoryAdmin
 
-class QuestionAdmin(admin.ModelAdmin):
+
+class QuestionAdmin(SimpleHistoryAdmin):
     search_fields = ('text', )
     list_display = ('id_question', 'text')
 
 
-class AnswerAdmin(admin.ModelAdmin):
+class AnswerAdmin(SimpleHistoryAdmin):
     search_fields = ('text', )
     list_display = ('id_answer', 'text', 'is_correct')
 

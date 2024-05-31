@@ -5,3 +5,6 @@ django-crispy-forms >= 2.1
 crispy-bulma >= 0.11.0
 django-markdownify >= 0.9.5
 rich
+pytest
+pytest-django
+django-simple-history
