@@ -12,7 +12,7 @@
 <form action="." method="POST" accept-charset="utf-8">
 {% csrf_token %}
 
-<div class="fixed-grid">
+<div class="fixed-grid has-1-cols-mobile has-4-columns-desktop">
 <div class="grid">
 {% for letter,answer in answers.items %}
 
@@ -22,7 +22,7 @@
   <article class="media p-2">
   <figure class="media-left">
     <p class="image is-64x64">
-    <button name="letter" value="{{ letter }}" id="letter_{{ letter }}">
+    <button name="answer" value="{{ answer.pk }}" id="letter_{{ letter }}">
     <img src="{% static 'questions/img/' %}{{ letter }}.svg"
          with="64" height="64"
          alt="Optión {{ letter }}">
