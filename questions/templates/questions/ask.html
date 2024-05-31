@@ -1,6 +1,13 @@
 {% extends "base.html" %}
 {% load static markdownify crispy_forms_tags %}
 
+{% block javascript %}
+<script charset="utf-8">
+    console.log('ok');
+</script>
+
+{% endblock javascript %}
+
 {% block content %}
     
 <div class="box">
@@ -22,12 +29,16 @@
   <article class="media p-2">
   <figure class="media-left">
     <p class="image is-64x64">
-    <button name="answer" value="{{ answer.pk }}" id="letter_{{ letter }}">
+    <a role="button" 
+       href="{% url 'chk_answer' pk=answer.pk %}"
+       id="letter_{{ letter }}">
     <img src="{% static 'questions/img/' %}{{ letter }}.svg"
          with="64" height="64"
          alt="Optión {{ letter }}">
-    </button>
+    </a>
+    <mark>{% url 'chk_answer' pk=answer.pk %}</mark>
     </p>
+    </form>
   </figure>
   <div class="media-content">
     <div class="content">

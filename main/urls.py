@@ -29,6 +29,7 @@ urlpatterns = [
     tie('', main.views.index),
     tie('ask/', questions.views.ask),
     tie('ask/<int:pk>/', questions.views.ask),
+    tie('chk/<int:pk>/', questions.views.chk_answer),
     tie('questions/', questions.views.all_questions),
     tie('questions/new/', questions.views.new_question),
     tie('questions/<int:pk>/', questions.views.question_detail),
