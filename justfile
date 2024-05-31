@@ -2,7 +2,7 @@ set export
 
 # Ejecutar test (Omitiendo los lentos)
 test *args='.': clean check
-    python -m pytest -m "not slow" -x --reuse-db --no-migrations --failed-first {{ args }}
+    python -m pytest -m "not slow" -x --reuse-db --no-migrations {{ args }}
 
 
 # Ejecutar ctags
@@ -63,3 +63,6 @@ watch: static
     just termtitle Watch
     watchmedo shell-command  --patterns "*.css;*.js;*.png;*.jpg;*.webp;*.svg" --recursive --command "just static"
 
+# Abre una shell python con el entorno de Django cargado
+shell:
+    python ./manage.py shell_plus
