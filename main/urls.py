@@ -31,7 +31,7 @@ urlpatterns = [
     tie('ask/<int:pk>/', questions.views.ask),
     tie('chk/<int:pk>/', questions.views.chk_answer),
     tie('search/', questions.views.search),
-    path('questions/', include('questions.urls', namespace='questions')),
-    path('api/', include('api.urls', namespace='api')),
+    path('questions/', include('questions.urls')),
+    path('api/', include('api.urls')),
     path("admin/", admin.site.urls),
     ]

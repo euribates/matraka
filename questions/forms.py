@@ -18,7 +18,7 @@ class NewQuestionForm(forms.ModelForm):
 
     class Meta:
         model = Question
-        fields = ["text", "source"]
+        fields = ["text", "source", "tags"]
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -26,6 +26,7 @@ class NewQuestionForm(forms.ModelForm):
         self.helper.layout = Layout(
             'text',
             'source',
+            'tags',
             Submit(
                 'ok', 'Nueva pregunta',
                 css_class='button is-white is-rouded',

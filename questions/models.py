@@ -7,6 +7,7 @@ from django.urls import reverse_lazy
 from simple_history.models import HistoricalRecords
 
 from sequtils import split_iter
+from tags.models import Tag
 
 
 class Question(models.Model):
@@ -16,6 +17,11 @@ class Question(models.Model):
     source = models.CharField(blank=True, default='', max_length=256)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+    tags = models.ManyToManyField(
+        Tag,
+        related_name='questions',
+        blank=True,
+        )
     history = HistoricalRecords()
 
     @classmethod

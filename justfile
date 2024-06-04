@@ -7,7 +7,7 @@ test *args='.': clean check
 
 # Ejecutar ctags
 tags:
-    cd {{justfile_directory()}} && ctags -R  --exclude=media/*  --exclude=*/static/* --exclude=static/* .
+    cd {{justfile_directory()}} && ctags -f .tags -R  --exclude=media/*  --exclude=*/static/* --exclude=static/* .
 
 
 # Ejecutar django check
