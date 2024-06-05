@@ -21,7 +21,7 @@ def all_questions(request):
         })
 
 
-def ask(request, pk=0):
+def ask_question(request, pk=0):
     if pk:
         question = models.Question.load_question(pk)
     else:
