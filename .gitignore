@@ -30,5 +30,5 @@ coverage.xml
 *.swp
 Session.vim
 db.sqlite3
-static/
+/static/
 .project
