@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46667 135.46667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   sodipodi:docname="A.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.80087682"
+     inkscape:cx="397.06481"
+     inkscape:cy="461.36933"
+     inkscape:window-width="1920"
+     inkscape:window-height="1168"
+     inkscape:window-x="1024"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#ffcc00;fill-opacity:0.436674;stroke-width:4;stroke-linecap:square"
+       id="path1"
+       cx="67.73333"
+       cy="67.73333"
+       r="65.899406" />
+    <path
+       style="font-weight:bold;font-size:139.983px;line-height:1.25;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro Bold';letter-spacing:0px;word-spacing:0px;fill:#333333;stroke-width:0.264583"
+       d="m 80.401796,85.398877 7.279116,24.217063 H 110.77811 L 81.381677,15.267393 H 53.385076 L 24.688561,109.61594 H 46.665892 L 53.385076,85.398877 Z M 56.464703,69.440815 62.064023,49.423246 c 1.539813,-5.459338 2.939643,-12.598471 4.339473,-18.197791 h 0.279966 c 1.39983,5.59932 3.079626,12.59847 4.759422,18.197791 l 5.879286,20.017569 z"
+       id="text1"
+       aria-label="A" />
+  </g>
+</svg>

@@ -14,5 +14,21 @@
         "name": "reglamento",
         "color": "#7FB016"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 3,
+    "fields": {
+        "name": "dni",
+        "color": "#0D1B9E"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 4,
+    "fields": {
+        "name": "transparencia",
+        "color": "#3AC557"
+    }
 }
 ]
