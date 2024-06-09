@@ -1,8 +1,32 @@
 {% extends "base.html" %}
-
+{% load static markdownify %}
 
 {% block content %}
     
-<p>questions: {{ question }}</p>
+<div class="box">
+<h3 class="h3 is-main">{{ question.text|markdownify }}</h3>
+<p>{{ answer.text|markdownify }}</p>
 
+{% if answer.is_correct %}
+<div class="notification is-info">
+    <img src="{% static 'img/is-happy.svg' %}" alt="Correcto"/>
+    Muy bien, la respuesta es <b>correcta</b>!
+</div>
+    
+{% else %}
+
+<div class="notification is-danger">
+    <img src="{% static 'img/is-sad.svg' %}" alt="Incorrecto"/>
+    La respuesta es incorrecta
+</div>
+    
+{% endif %}
+
+<p class="buttons">
+
+<a class="button is-primary is-rounded" href="{% url 'ask_question' pk=question.pk %}">Volver a intentarlo</a>
+<a class="button is-primary is-rounded" href="{% url 'ask_question' %}">Probar con otra</a>
+
+
+</div>
 {% endblock content %}

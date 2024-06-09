@@ -30,5 +30,21 @@
         "name": "transparencia",
         "color": "#3AC557"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 5,
+    "fields": {
+        "name": "L40-15",
+        "color": "#6EE934"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 6,
+    "fields": {
+        "name": "igualdad",
+        "color": "#D4A872"
+    }
 }
 ]

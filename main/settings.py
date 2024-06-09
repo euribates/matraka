@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     "crispy_bulma",
     "markdownify.apps.MarkdownifyConfig",
     "api",
+    "main",
     "questions",
     "tags",
 ]

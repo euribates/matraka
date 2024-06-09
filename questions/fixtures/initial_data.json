@@ -3750,6 +3750,261 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 251,
+    "fields": {
+        "id_question": 249,
+        "text": "De conformidad con lo dispuesto en el artículo 10 de la Constitución Española de 1978, no podrá ser privado de la nacionalidad española:",
+        "source": "",
+        "created_at": "2024-06-05T19:44:04.262Z",
+        "updated_at": "2024-06-05T19:44:04.262Z",
+        "history_date": "2024-06-05T19:44:04.270Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 252,
+    "fields": {
+        "id_question": 250,
+        "text": "Según el artículo $39$ de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Publico, se entiende por portal de internet:",
+        "source": "",
+        "created_at": "2024-06-05T19:49:34.203Z",
+        "updated_at": "2024-06-05T19:49:34.203Z",
+        "history_date": "2024-06-05T19:49:34.213Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 253,
+    "fields": {
+        "id_question": 250,
+        "text": "Según el artículo 39 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Publico, se entiende por portal de internet:",
+        "source": "",
+        "created_at": "2024-06-05T19:49:34.203Z",
+        "updated_at": "2024-06-05T19:56:15.860Z",
+        "history_date": "2024-06-05T19:56:15.871Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 254,
+    "fields": {
+        "id_question": 251,
+        "text": "Si en un dominio de _Active Directory_ hay varios controladores de dominio (DC), cada uno de estos controladores:",
+        "source": "",
+        "created_at": "2024-06-05T19:58:13.671Z",
+        "updated_at": "2024-06-05T19:58:13.671Z",
+        "history_date": "2024-06-05T19:58:13.685Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 255,
+    "fields": {
+        "id_question": 252,
+        "text": "¿Cuál es la función principal de la monitorización de tráfico en una red informática?",
+        "source": "",
+        "created_at": "2024-06-05T20:03:30.692Z",
+        "updated_at": "2024-06-05T20:03:30.692Z",
+        "history_date": "2024-06-05T20:03:30.703Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 256,
+    "fields": {
+        "id_question": 253,
+        "text": "Según el artículo 2 de l Ley 1/2010, de 26 de febrero, canaria de igualdad de mujeres y hombres, la ley:",
+        "source": "",
+        "created_at": "2024-06-06T11:57:49.419Z",
+        "updated_at": "2024-06-06T11:57:49.419Z",
+        "history_date": "2024-06-06T11:57:49.427Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 257,
+    "fields": {
+        "id_question": 254,
+        "text": "En el contexto de la distribución de recursos compartidos, ¿Qué define el concepto de \"Servidor de archivos\"?",
+        "source": "",
+        "created_at": "2024-06-06T12:01:59.185Z",
+        "updated_at": "2024-06-06T12:01:59.185Z",
+        "history_date": "2024-06-06T12:01:59.196Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 258,
+    "fields": {
+        "id_question": 255,
+        "text": "El protocolo IEEE 802.11, en relación con el modelo OSI, se ubica en las capas:",
+        "source": "",
+        "created_at": "2024-06-06T12:09:48.513Z",
+        "updated_at": "2024-06-06T12:09:48.513Z",
+        "history_date": "2024-06-06T12:09:48.524Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 259,
+    "fields": {
+        "id_question": 256,
+        "text": "¿Por qué es importante realizar un análisis periódico de los registros de incidencias y ficheros de _log_?",
+        "source": "",
+        "created_at": "2024-06-06T12:13:15.277Z",
+        "updated_at": "2024-06-06T12:13:15.277Z",
+        "history_date": "2024-06-06T12:13:15.284Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 260,
+    "fields": {
+        "id_question": 257,
+        "text": "¿Cuál de las siguientes opciones describe mejor la función de una unidad SSD (_Solid State Drive_) en comparación con un  disco duro tradicional?",
+        "source": "",
+        "created_at": "2024-06-06T20:23:35.369Z",
+        "updated_at": "2024-06-06T20:23:35.369Z",
+        "history_date": "2024-06-06T20:23:35.385Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 261,
+    "fields": {
+        "id_question": 258,
+        "text": "¿Qué define un sistema de información en informática avanzada?",
+        "source": "",
+        "created_at": "2024-06-06T20:33:38.786Z",
+        "updated_at": "2024-06-06T20:33:38.786Z",
+        "history_date": "2024-06-06T20:33:39.345Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 262,
+    "fields": {
+        "id_question": 259,
+        "text": "¿Cuál de las siguientes opciones describe mejor el concepto de _phishing_ en el ámbito de la seguridad informática?",
+        "source": "",
+        "created_at": "2024-06-06T20:36:25.489Z",
+        "updated_at": "2024-06-06T20:36:25.489Z",
+        "history_date": "2024-06-06T20:36:25.503Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 263,
+    "fields": {
+        "id_question": 260,
+        "text": "Dispone el artículo 1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de datos personales y garantía de los derechos digitales, que la Agencia Española de Protección de Datos se relaciona con el Gobierno a través de:",
+        "source": "",
+        "created_at": "2024-06-06T20:56:08.705Z",
+        "updated_at": "2024-06-06T20:56:08.705Z",
+        "history_date": "2024-06-06T20:56:08.713Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 264,
+    "fields": {
+        "id_question": 261,
+        "text": "Según el artículo 23 de la Ley Orgánica 1/2004, de 29 de diciembre, de medidas de prevención integral contra la violencia de género, la acreditación de las situaciones de violencia de género:",
+        "source": "",
+        "created_at": "2024-06-06T21:01:28.829Z",
+        "updated_at": "2024-06-06T21:01:28.829Z",
+        "history_date": "2024-06-06T21:01:28.836Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 265,
+    "fields": {
+        "id_question": 262,
+        "text": "Según el reglamento del Parlamento de Canarias, ningún debate podrá comenzar sin la previa distribución del informe, dictamen o documentación que haya de servir de base al mismo:",
+        "source": "",
+        "created_at": "2024-06-06T21:08:26.613Z",
+        "updated_at": "2024-06-06T21:08:26.613Z",
+        "history_date": "2024-06-06T21:08:26.620Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 266,
+    "fields": {
+        "id_question": 263,
+        "text": "Según el artículo 55 de las Normas de Gobierno Interior del Parlemento de Canarias, la selección de personas aspirantes  para el acceso a la condición de personal funcionarial de carrera se realiza a través:",
+        "source": "",
+        "created_at": "2024-06-09T01:16:26.415Z",
+        "updated_at": "2024-06-09T01:16:26.415Z",
+        "history_date": "2024-06-09T01:16:26.423Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 267,
+    "fields": {
+        "id_question": 264,
+        "text": "¿Qué es un **diagrama de flujo** en la documentación de sistemas?",
+        "source": "",
+        "created_at": "2024-06-09T01:21:55.639Z",
+        "updated_at": "2024-06-09T01:21:55.639Z",
+        "history_date": "2024-06-09T01:21:55.647Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -6478,6 +6733,194 @@
         "source": "",
         "created_at": "2024-06-04T19:58:33.986Z",
         "updated_at": "2024-06-04T19:58:33.986Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 249,
+    "fields": {
+        "text": "De conformidad con lo dispuesto en el artículo 10 de la Constitución Española de 1978, no podrá ser privado de la nacionalidad española:",
+        "source": "",
+        "created_at": "2024-06-05T19:44:04.262Z",
+        "updated_at": "2024-06-05T19:44:04.262Z",
+        "tags": [
+            1
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 250,
+    "fields": {
+        "text": "Según el artículo 39 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Publico, se entiende por portal de internet:",
+        "source": "",
+        "created_at": "2024-06-05T19:49:34.203Z",
+        "updated_at": "2024-06-05T19:56:15.860Z",
+        "tags": [
+            5
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 251,
+    "fields": {
+        "text": "Si en un dominio de _Active Directory_ hay varios controladores de dominio (DC), cada uno de estos controladores:",
+        "source": "",
+        "created_at": "2024-06-05T19:58:13.671Z",
+        "updated_at": "2024-06-05T19:58:13.671Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 252,
+    "fields": {
+        "text": "¿Cuál es la función principal de la monitorización de tráfico en una red informática?",
+        "source": "",
+        "created_at": "2024-06-05T20:03:30.692Z",
+        "updated_at": "2024-06-05T20:03:30.692Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 253,
+    "fields": {
+        "text": "Según el artículo 2 de l Ley 1/2010, de 26 de febrero, canaria de igualdad de mujeres y hombres, la ley:",
+        "source": "",
+        "created_at": "2024-06-06T11:57:49.419Z",
+        "updated_at": "2024-06-06T11:57:49.419Z",
+        "tags": [
+            6
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 254,
+    "fields": {
+        "text": "En el contexto de la distribución de recursos compartidos, ¿Qué define el concepto de \"Servidor de archivos\"?",
+        "source": "",
+        "created_at": "2024-06-06T12:01:59.185Z",
+        "updated_at": "2024-06-06T12:01:59.185Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 255,
+    "fields": {
+        "text": "El protocolo IEEE 802.11, en relación con el modelo OSI, se ubica en las capas:",
+        "source": "",
+        "created_at": "2024-06-06T12:09:48.513Z",
+        "updated_at": "2024-06-06T12:09:48.513Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 256,
+    "fields": {
+        "text": "¿Por qué es importante realizar un análisis periódico de los registros de incidencias y ficheros de _log_?",
+        "source": "",
+        "created_at": "2024-06-06T12:13:15.277Z",
+        "updated_at": "2024-06-06T12:13:15.277Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 257,
+    "fields": {
+        "text": "¿Cuál de las siguientes opciones describe mejor la función de una unidad SSD (_Solid State Drive_) en comparación con un  disco duro tradicional?",
+        "source": "",
+        "created_at": "2024-06-06T20:23:35.369Z",
+        "updated_at": "2024-06-06T20:23:35.369Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 258,
+    "fields": {
+        "text": "¿Qué define un sistema de información en informática avanzada?",
+        "source": "",
+        "created_at": "2024-06-06T20:33:38.786Z",
+        "updated_at": "2024-06-06T20:33:38.786Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 259,
+    "fields": {
+        "text": "¿Cuál de las siguientes opciones describe mejor el concepto de _phishing_ en el ámbito de la seguridad informática?",
+        "source": "",
+        "created_at": "2024-06-06T20:36:25.489Z",
+        "updated_at": "2024-06-06T20:36:25.489Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 260,
+    "fields": {
+        "text": "Dispone el artículo 1 de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de datos personales y garantía de los derechos digitales, que la Agencia Española de Protección de Datos se relaciona con el Gobierno a través de:",
+        "source": "",
+        "created_at": "2024-06-06T20:56:08.705Z",
+        "updated_at": "2024-06-06T20:56:08.705Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 261,
+    "fields": {
+        "text": "Según el artículo 23 de la Ley Orgánica 1/2004, de 29 de diciembre, de medidas de prevención integral contra la violencia de género, la acreditación de las situaciones de violencia de género:",
+        "source": "",
+        "created_at": "2024-06-06T21:01:28.829Z",
+        "updated_at": "2024-06-06T21:01:28.829Z",
+        "tags": [
+            6
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 262,
+    "fields": {
+        "text": "Según el reglamento del Parlamento de Canarias, ningún debate podrá comenzar sin la previa distribución del informe, dictamen o documentación que haya de servir de base al mismo:",
+        "source": "",
+        "created_at": "2024-06-06T21:08:26.613Z",
+        "updated_at": "2024-06-06T21:08:26.613Z",
+        "tags": [
+            2
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 263,
+    "fields": {
+        "text": "Según el artículo 55 de las Normas de Gobierno Interior del Parlemento de Canarias, la selección de personas aspirantes  para el acceso a la condición de personal funcionarial de carrera se realiza a través:",
+        "source": "",
+        "created_at": "2024-06-09T01:16:26.415Z",
+        "updated_at": "2024-06-09T01:16:26.415Z",
+        "tags": [
+            2
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 264,
+    "fields": {
+        "text": "¿Qué es un **diagrama de flujo** en la documentación de sistemas?",
+        "source": "",
+        "created_at": "2024-06-09T01:21:55.639Z",
+        "updated_at": "2024-06-09T01:21:55.639Z",
         "tags": []
     }
 },
@@ -24594,6 +25037,1270 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 1133,
+    "fields": {
+        "id_answer": 1132,
+        "text": "Ningún ciudadano",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:10.264Z",
+        "updated_at": "2024-06-05T19:45:10.264Z",
+        "question": 249,
+        "history_date": "2024-06-05T19:45:10.277Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1134,
+    "fields": {
+        "id_answer": 1133,
+        "text": "Ningún español",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:15.969Z",
+        "updated_at": "2024-06-05T19:45:15.969Z",
+        "question": 249,
+        "history_date": "2024-06-05T19:45:15.984Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1135,
+    "fields": {
+        "id_answer": 1134,
+        "text": "Ningún español de origen",
+        "is_correct": true,
+        "created_at": "2024-06-05T19:45:22.803Z",
+        "updated_at": "2024-06-05T19:45:22.803Z",
+        "question": 249,
+        "history_date": "2024-06-05T19:45:22.817Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1136,
+    "fields": {
+        "id_answer": 1135,
+        "text": "Ningún miembro de la Casa Real",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:29.827Z",
+        "updated_at": "2024-06-05T19:45:29.827Z",
+        "question": 249,
+        "history_date": "2024-06-05T19:45:29.836Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1137,
+    "fields": {
+        "id_answer": 1136,
+        "text": "Ningún ciudadano de la Unión Europea que ostente la nacionalidad de cualquiera de los Estados miembros de la UE",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:41.108Z",
+        "updated_at": "2024-06-05T19:45:41.108Z",
+        "question": 249,
+        "history_date": "2024-06-05T19:45:41.118Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1138,
+    "fields": {
+        "id_answer": 1137,
+        "text": "El punto de acceso electrónico cuya titularidad corresponda a una administración pública o empresa privada, que permite el acceso a través de Internet a la información publicada",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:50:56.027Z",
+        "updated_at": "2024-06-05T19:50:56.027Z",
+        "question": 250,
+        "history_date": "2024-06-05T19:50:56.037Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1139,
+    "fields": {
+        "id_answer": 1138,
+        "text": "El punto de acceso, a través de la sede electrónica, cuya titularidad corresponda exclusivamente a la Administración del Estado",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:52:17.895Z",
+        "updated_at": "2024-06-05T19:52:17.896Z",
+        "question": 250,
+        "history_date": "2024-06-05T19:52:17.904Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1140,
+    "fields": {
+        "id_answer": 1139,
+        "text": "El punto de acceso electrónico cuya titularidad corresponda a la Administración del Estado o a empresa privada, que permite el acceso a través de Internet a la información publicada y, en su caso, a la sede electrónica correspondiente",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:54:09.921Z",
+        "updated_at": "2024-06-05T19:54:09.921Z",
+        "question": 250,
+        "history_date": "2024-06-05T19:54:09.929Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1141,
+    "fields": {
+        "id_answer": 1140,
+        "text": "El punto de acceso electrónico cuya titularidad corresponda a una administración pública, organismo público o entidad de derecho público que permite el acceso a través de Internet a la información publicada y, en su caso, a la sede electrónica correspondiente",
+        "is_correct": true,
+        "created_at": "2024-06-05T19:55:21.534Z",
+        "updated_at": "2024-06-05T19:55:21.534Z",
+        "question": 250,
+        "history_date": "2024-06-05T19:55:21.546Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1142,
+    "fields": {
+        "id_answer": 1141,
+        "text": "Contiene una copia completa de toda la información de directorio del dominio",
+        "is_correct": true,
+        "created_at": "2024-06-05T19:58:50.149Z",
+        "updated_at": "2024-06-05T19:58:50.149Z",
+        "question": 251,
+        "history_date": "2024-06-05T19:58:50.154Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1143,
+    "fields": {
+        "id_answer": 1142,
+        "text": "Contiene una parte de la información de directorio del dominio, que se encuentra distribuida entre ellos",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:59:27.360Z",
+        "updated_at": "2024-06-05T19:59:27.360Z",
+        "question": 251,
+        "history_date": "2024-06-05T19:59:27.367Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1144,
+    "fields": {
+        "id_answer": 1143,
+        "text": "Contiene toda la información del directorio si es el DC principal, pero si es un DC secundario, contiene solamente las modificaciones que se hayan realizado en él",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:00:46.642Z",
+        "updated_at": "2024-06-05T20:00:46.642Z",
+        "question": 251,
+        "history_date": "2024-06-05T20:00:46.651Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1145,
+    "fields": {
+        "id_answer": 1144,
+        "text": "Contiene toda la información del directorio si es el DC principal y ninguna si es un DC secundario (Ya que los DC secundarios remiten siempre cualquier petición al DC principal, actuando a modo de _proxies_)",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:01:58.587Z",
+        "updated_at": "2024-06-05T20:01:58.587Z",
+        "question": 251,
+        "history_date": "2024-06-05T20:01:58.597Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1146,
+    "fields": {
+        "id_answer": 1145,
+        "text": "Optimizar la velocidad de conexión",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:03:50.236Z",
+        "updated_at": "2024-06-05T20:03:50.236Z",
+        "question": 252,
+        "history_date": "2024-06-05T20:03:50.244Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1147,
+    "fields": {
+        "id_answer": 1146,
+        "text": "Evitar los accesos no autorizados a la red",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:04:09.057Z",
+        "updated_at": "2024-06-05T20:04:09.057Z",
+        "question": 252,
+        "history_date": "2024-06-05T20:04:09.067Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1148,
+    "fields": {
+        "id_answer": 1147,
+        "text": "Registrar y analizar el flujo de datos para mejorar el rendimiento y la seguridad",
+        "is_correct": true,
+        "created_at": "2024-06-05T20:04:39.974Z",
+        "updated_at": "2024-06-05T20:04:39.974Z",
+        "question": 252,
+        "history_date": "2024-06-05T20:04:39.987Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1149,
+    "fields": {
+        "id_answer": 1148,
+        "text": "Gestionar el conjunto de direcciones IP de los dispositivos conectados a la red",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:05:26.145Z",
+        "updated_at": "2024-06-05T20:05:26.145Z",
+        "question": 252,
+        "history_date": "2024-06-05T20:05:26.155Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1150,
+    "fields": {
+        "id_answer": 1149,
+        "text": "Segmentar el tráfico de red en subdominios aislados entre si",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:05:53.137Z",
+        "updated_at": "2024-06-05T20:05:53.137Z",
+        "question": 252,
+        "history_date": "2024-06-05T20:05:53.145Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1151,
+    "fields": {
+        "id_answer": 1150,
+        "text": "Se aplicará solamente a las personas que se encuentren en el ámbito territorial del archipiélago canario.",
+        "is_correct": false,
+        "created_at": "2024-06-06T11:58:33.386Z",
+        "updated_at": "2024-06-06T11:58:33.386Z",
+        "question": 253,
+        "history_date": "2024-06-06T11:58:33.397Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1152,
+    "fields": {
+        "id_answer": 1151,
+        "text": "Es asimismo aplicable a las personas que tengan la condición política de canario o canaria y residan en el exterior",
+        "is_correct": false,
+        "created_at": "2024-06-06T11:59:25.868Z",
+        "updated_at": "2024-06-06T11:59:25.868Z",
+        "question": 253,
+        "history_date": "2024-06-06T11:59:25.875Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1153,
+    "fields": {
+        "id_answer": 1151,
+        "text": "Es asimismo aplicable a las personas que tengan la condición política de canario o canaria y residan en el exterior",
+        "is_correct": true,
+        "created_at": "2024-06-06T11:59:25.868Z",
+        "updated_at": "2024-06-06T11:59:29.158Z",
+        "question": 253,
+        "history_date": "2024-06-06T11:59:29.856Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1154,
+    "fields": {
+        "id_answer": 1152,
+        "text": "No se aplica a ningún efecto al Parlamento de Canarias",
+        "is_correct": false,
+        "created_at": "2024-06-06T11:59:53.491Z",
+        "updated_at": "2024-06-06T11:59:53.491Z",
+        "question": 253,
+        "history_date": "2024-06-06T11:59:53.497Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1155,
+    "fields": {
+        "id_answer": 1153,
+        "text": "Se aplica también a las universidades canarias, pero solo a las públicas",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:00:21.694Z",
+        "updated_at": "2024-06-06T12:00:21.694Z",
+        "question": 253,
+        "history_date": "2024-06-06T12:00:21.708Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1156,
+    "fields": {
+        "id_answer": 1154,
+        "text": "Un dispositivo de red que almacena y gestiona archivos para su acceso compartido",
+        "is_correct": true,
+        "created_at": "2024-06-06T12:02:45.727Z",
+        "updated_at": "2024-06-06T12:02:45.727Z",
+        "question": 254,
+        "history_date": "2024-06-06T12:02:45.739Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1157,
+    "fields": {
+        "id_answer": 1155,
+        "text": "Una aplicación para compartir archivos mediante correo electrónico",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:03:14.867Z",
+        "updated_at": "2024-06-06T12:03:14.867Z",
+        "question": 254,
+        "history_date": "2024-06-06T12:03:14.876Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1158,
+    "fields": {
+        "id_answer": 1156,
+        "text": "Un programa antivirus que escanea archivos en tiempo real",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:03:46.859Z",
+        "updated_at": "2024-06-06T12:03:46.859Z",
+        "question": 254,
+        "history_date": "2024-06-06T12:03:46.868Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1159,
+    "fields": {
+        "id_answer": 1157,
+        "text": "Una herramienta para comprimir y descomprimir archivos",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:04:09.731Z",
+        "updated_at": "2024-06-06T12:04:09.731Z",
+        "question": 254,
+        "history_date": "2024-06-06T12:04:09.739Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1160,
+    "fields": {
+        "id_answer": 1158,
+        "text": "Una herramienta para realizar copias de seguridad incrementales",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:04:42.046Z",
+        "updated_at": "2024-06-06T12:04:42.047Z",
+        "question": 254,
+        "history_date": "2024-06-06T12:04:42.053Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1161,
+    "fields": {
+        "id_answer": 1159,
+        "text": "De aplicación y presentación",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:10:00.865Z",
+        "updated_at": "2024-06-06T12:10:00.865Z",
+        "question": 255,
+        "history_date": "2024-06-06T12:10:00.875Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1162,
+    "fields": {
+        "id_answer": 1160,
+        "text": "De sesión y transporte",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:10:11.649Z",
+        "updated_at": "2024-06-06T12:10:11.649Z",
+        "question": 255,
+        "history_date": "2024-06-06T12:10:11.662Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1163,
+    "fields": {
+        "id_answer": 1161,
+        "text": "De transporte y red",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:11:10.222Z",
+        "updated_at": "2024-06-06T12:11:10.222Z",
+        "question": 255,
+        "history_date": "2024-06-06T12:11:10.234Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1164,
+    "fields": {
+        "id_answer": 1162,
+        "text": "De enlace de datos y física",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:11:24.234Z",
+        "updated_at": "2024-06-06T12:11:24.234Z",
+        "question": 255,
+        "history_date": "2024-06-06T12:11:24.245Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1165,
+    "fields": {
+        "id_answer": 1162,
+        "text": "De enlace de datos y física",
+        "is_correct": true,
+        "created_at": "2024-06-06T12:11:24.234Z",
+        "updated_at": "2024-06-06T12:11:28.134Z",
+        "question": 255,
+        "history_date": "2024-06-06T12:11:28.144Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1166,
+    "fields": {
+        "id_answer": 1163,
+        "text": "Física y virtual",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:11:43.427Z",
+        "updated_at": "2024-06-06T12:11:43.427Z",
+        "question": 255,
+        "history_date": "2024-06-06T12:11:43.436Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1167,
+    "fields": {
+        "id_answer": 1164,
+        "text": "Para liberar espacio en disco y mejorar el rendimiento",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:13:49.287Z",
+        "updated_at": "2024-06-06T12:13:49.287Z",
+        "question": 256,
+        "history_date": "2024-06-06T12:13:49.296Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1168,
+    "fields": {
+        "id_answer": 1165,
+        "text": "Para identifica patrones, problemas y amenazas de seguridad",
+        "is_correct": true,
+        "created_at": "2024-06-06T12:14:20.198Z",
+        "updated_at": "2024-06-06T12:14:20.198Z",
+        "question": 256,
+        "history_date": "2024-06-06T12:14:20.207Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1169,
+    "fields": {
+        "id_answer": 1166,
+        "text": "Para evitar la necesidad de realizar copias de seguridad regulares",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:14:47.222Z",
+        "updated_at": "2024-06-06T12:14:47.222Z",
+        "question": 256,
+        "history_date": "2024-06-06T12:14:47.230Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1170,
+    "fields": {
+        "id_answer": 1167,
+        "text": "Para acelerar la velocidad de acceso a recursos compartidos",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:15:16.514Z",
+        "updated_at": "2024-06-06T12:15:16.514Z",
+        "question": 256,
+        "history_date": "2024-06-06T12:15:16.522Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1171,
+    "fields": {
+        "id_answer": 1168,
+        "text": "Almacena datos magnéticamente en discos giratorios",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:24:22.423Z",
+        "updated_at": "2024-06-06T20:24:22.424Z",
+        "question": 257,
+        "history_date": "2024-06-06T20:24:22.433Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1172,
+    "fields": {
+        "id_answer": 1169,
+        "text": "Utiliza memoria _flash_ para almacenamiento si partes móviles",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:24:46.970Z",
+        "updated_at": "2024-06-06T20:24:46.970Z",
+        "question": 257,
+        "history_date": "2024-06-06T20:24:46.976Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1173,
+    "fields": {
+        "id_answer": 1169,
+        "text": "Utiliza memoria _flash_ para almacenamiento sin partes móviles",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:24:46.970Z",
+        "updated_at": "2024-06-06T20:24:55.854Z",
+        "question": 257,
+        "history_date": "2024-06-06T20:24:55.861Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1174,
+    "fields": {
+        "id_answer": 1170,
+        "text": "Proporciona acceso secuencial a los datos",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:25:17.963Z",
+        "updated_at": "2024-06-06T20:25:17.963Z",
+        "question": 257,
+        "history_date": "2024-06-06T20:25:17.972Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1175,
+    "fields": {
+        "id_answer": 1171,
+        "text": "Es más rápida y barata que la memoria caché nivel 1 (Caché L1)",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:32:25.849Z",
+        "updated_at": "2024-06-06T20:32:25.849Z",
+        "question": 257,
+        "history_date": "2024-06-06T20:32:25.857Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1176,
+    "fields": {
+        "id_answer": 1172,
+        "text": "Tiene una capacidad de almacenamiento limitada",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:32:51.988Z",
+        "updated_at": "2024-06-06T20:32:51.988Z",
+        "question": 257,
+        "history_date": "2024-06-06T20:32:51.997Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1177,
+    "fields": {
+        "id_answer": 1173,
+        "text": "Un conjunto de _hardware_ y _software_",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:34:00.380Z",
+        "updated_at": "2024-06-06T20:34:00.380Z",
+        "question": 258,
+        "history_date": "2024-06-06T20:34:00.387Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1178,
+    "fields": {
+        "id_answer": 1174,
+        "text": "La integración entre personas y tecnologías",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:34:18.712Z",
+        "updated_at": "2024-06-06T20:34:18.712Z",
+        "question": 258,
+        "history_date": "2024-06-06T20:34:18.721Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1179,
+    "fields": {
+        "id_answer": 1175,
+        "text": "La administración de base de datos",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:34:32.659Z",
+        "updated_at": "2024-06-06T20:34:32.659Z",
+        "question": 258,
+        "history_date": "2024-06-06T20:34:32.669Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1180,
+    "fields": {
+        "id_answer": 1176,
+        "text": "La estructura física de una computadora",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:34:58.534Z",
+        "updated_at": "2024-06-06T20:34:58.534Z",
+        "question": 258,
+        "history_date": "2024-06-06T20:34:58.543Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1181,
+    "fields": {
+        "id_answer": 1177,
+        "text": "Ataque que utiliza fuerza bruta para descifrar contraseñas",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:37:18.717Z",
+        "updated_at": "2024-06-06T20:37:18.717Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:37:18.725Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1182,
+    "fields": {
+        "id_answer": 1178,
+        "text": "Técnica que intercepta y modifica datos durante la transmisión",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:37:52.819Z",
+        "updated_at": "2024-06-06T20:37:52.819Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:37:52.828Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1183,
+    "fields": {
+        "id_answer": 1179,
+        "text": "Un ataque de intermediario,  también llamado ​en inglés, _man-in-the-middle attack_, _MitM_ o Janus",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:41:06.786Z",
+        "updated_at": "2024-06-06T20:41:06.786Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:41:06.794Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1184,
+    "fields": {
+        "id_answer": 1180,
+        "text": "Un ataque de denegación de servicio, llamado también ataque DoS (por sus siglas en inglés, _denial of service_)",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:41:23.049Z",
+        "updated_at": "2024-06-06T20:41:23.049Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:41:23.057Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1185,
+    "fields": {
+        "id_answer": 1178,
+        "text": "Técnica que intercepta y modifica datos durante la transmisión",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:37:52.819Z",
+        "updated_at": "2024-06-06T20:51:07.505Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:51:07.513Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1186,
+    "fields": {
+        "id_answer": 1178,
+        "text": "Técnica que intercepta y modifica datos durante la transmisión",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:37:52.819Z",
+        "updated_at": "2024-06-06T20:51:16.683Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:51:16.690Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1187,
+    "fields": {
+        "id_answer": 1181,
+        "text": "Intento de engañar a usuarios para obtener información confidencial",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:52:07.602Z",
+        "updated_at": "2024-06-06T20:52:07.602Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:52:07.612Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1188,
+    "fields": {
+        "id_answer": 1182,
+        "text": "Protección contra virus y _malware_ en tiempo real",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:52:30.416Z",
+        "updated_at": "2024-06-06T20:52:30.416Z",
+        "question": 259,
+        "history_date": "2024-06-06T20:52:30.427Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1189,
+    "fields": {
+        "id_answer": 1183,
+        "text": "El Ministerio del Interior",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:56:26.824Z",
+        "updated_at": "2024-06-06T20:56:26.824Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:56:27.556Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1190,
+    "fields": {
+        "id_answer": 1184,
+        "text": "El Ministerio de Justicia",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:56:41.072Z",
+        "updated_at": "2024-06-06T20:56:41.072Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:56:41.080Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1191,
+    "fields": {
+        "id_answer": 1185,
+        "text": "El Ministerio de Igualdad",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:56:55.678Z",
+        "updated_at": "2024-06-06T20:56:55.678Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:56:55.684Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1192,
+    "fields": {
+        "id_answer": 1184,
+        "text": "El Ministerio de Justicia",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:56:41.072Z",
+        "updated_at": "2024-06-06T20:56:58.751Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:56:58.758Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1193,
+    "fields": {
+        "id_answer": 1186,
+        "text": "Todas las respuestas son incorrectas",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:57:19.684Z",
+        "updated_at": "2024-06-06T20:57:19.684Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:57:19.696Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1194,
+    "fields": {
+        "id_answer": 1187,
+        "text": "El Consejo Superior de Investigaciones Científicas",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:58:04.947Z",
+        "updated_at": "2024-06-06T20:58:04.947Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:58:05.521Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1195,
+    "fields": {
+        "id_answer": 1188,
+        "text": "El Ministerio de Ciencia, Innovación y Universidades",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:58:15.879Z",
+        "updated_at": "2024-06-06T20:58:15.879Z",
+        "question": 260,
+        "history_date": "2024-06-06T20:58:15.887Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1196,
+    "fields": {
+        "id_answer": 1189,
+        "text": "Solo se puede hacer mediante sentencia condenatoria, orden de protección o cualquier otra resolución judicial que acuerde una medida cautelar a favor de la víctima",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:02:33.205Z",
+        "updated_at": "2024-06-06T21:02:33.205Z",
+        "question": 261,
+        "history_date": "2024-06-06T21:02:33.214Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1197,
+    "fields": {
+        "id_answer": 1190,
+        "text": "Se puede hacer mediante informe de los servicios sociales, de los servicios especializados o de los servicios de acogida, siempre que cuente con el informe favorable del Ministerio Fiscal",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:04:04.811Z",
+        "updated_at": "2024-06-06T21:04:04.811Z",
+        "question": 261,
+        "history_date": "2024-06-06T21:04:04.821Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1198,
+    "fields": {
+        "id_answer": 1191,
+        "text": "En el caso de víctimas menores de edad, podrá realizarse por documentos sanitarios oficiales de comunicación a la Fiscalía o al órgano judicial",
+        "is_correct": true,
+        "created_at": "2024-06-06T21:05:10.503Z",
+        "updated_at": "2024-06-06T21:05:10.503Z",
+        "question": 261,
+        "history_date": "2024-06-06T21:05:10.510Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1199,
+    "fields": {
+        "id_answer": 1192,
+        "text": "Deberá ser acreditado mediante el procedimiento que regule cada comunidad autónoma",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:06:01.478Z",
+        "updated_at": "2024-06-06T21:06:01.478Z",
+        "question": 261,
+        "history_date": "2024-06-06T21:06:01.488Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1200,
+    "fields": {
+        "id_answer": 1193,
+        "text": "Al menos con cuarenta y ocho horas de antelación",
+        "is_correct": true,
+        "created_at": "2024-06-06T21:08:50.670Z",
+        "updated_at": "2024-06-06T21:08:50.670Z",
+        "question": 262,
+        "history_date": "2024-06-06T21:08:50.682Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1201,
+    "fields": {
+        "id_answer": 1194,
+        "text": "Al menos con veinticuatro horas de antelación",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:09:06.680Z",
+        "updated_at": "2024-06-06T21:09:06.680Z",
+        "question": 262,
+        "history_date": "2024-06-06T21:09:06.691Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1202,
+    "fields": {
+        "id_answer": 1195,
+        "text": "Al menos con doce horas de antelación",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:09:19.584Z",
+        "updated_at": "2024-06-06T21:09:19.584Z",
+        "question": 262,
+        "history_date": "2024-06-06T21:09:19.592Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1203,
+    "fields": {
+        "id_answer": 1196,
+        "text": "Al menos con setenta y dos horas de antelación",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:09:37.477Z",
+        "updated_at": "2024-06-06T21:09:37.477Z",
+        "question": 262,
+        "history_date": "2024-06-06T21:09:37.490Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1204,
+    "fields": {
+        "id_answer": 1197,
+        "text": "De concurso de traslado o por el sistema de oposición o concurso-oposición",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:17:40.585Z",
+        "updated_at": "2024-06-09T01:17:40.585Z",
+        "question": 263,
+        "history_date": "2024-06-09T01:17:40.593Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1205,
+    "fields": {
+        "id_answer": 1198,
+        "text": "Del sistema de oposición, concurso-oposición o concurso libre y, en su caso, adicionalmente, por la superación de cursos de formación o especialización,o de una fase de prácticas, por un periodo determinado",
+        "is_correct": true,
+        "created_at": "2024-06-09T01:19:21.506Z",
+        "updated_at": "2024-06-09T01:19:21.507Z",
+        "question": 263,
+        "history_date": "2024-06-09T01:19:21.519Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1206,
+    "fields": {
+        "id_answer": 1199,
+        "text": "Del sistema de oposición, concurso de méritos o concurso de traslado",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:19:52.559Z",
+        "updated_at": "2024-06-09T01:19:52.559Z",
+        "question": 263,
+        "history_date": "2024-06-09T01:19:52.569Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1207,
+    "fields": {
+        "id_answer": 1200,
+        "text": "Del sistema de oposición, exclusivamente",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:20:14.234Z",
+        "updated_at": "2024-06-09T01:20:14.234Z",
+        "question": 263,
+        "history_date": "2024-06-09T01:20:14.811Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1208,
+    "fields": {
+        "id_answer": 1201,
+        "text": "Una lista de palabras clave o _keywords_ relacionadas con errores del sistema y conectadas por un diagrama de flujos",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:22:39.726Z",
+        "updated_at": "2024-06-09T01:22:39.726Z",
+        "question": 264,
+        "history_date": "2024-06-09T01:22:39.732Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1209,
+    "fields": {
+        "id_answer": 1202,
+        "text": "Una representación gráfica de los pasos y procesos de un sistema",
+        "is_correct": true,
+        "created_at": "2024-06-09T01:23:03.783Z",
+        "updated_at": "2024-06-09T01:23:03.783Z",
+        "question": 264,
+        "history_date": "2024-06-09T01:23:03.791Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1210,
+    "fields": {
+        "id_answer": 1203,
+        "text": "Un análisis detallado de los errores e interacciones con usuarios del sistema",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:23:38.268Z",
+        "updated_at": "2024-06-09T01:23:38.268Z",
+        "question": 264,
+        "history_date": "2024-06-09T01:23:38.274Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1211,
+    "fields": {
+        "id_answer": 1204,
+        "text": "Una tabla del contenido de un manual técnico",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:23:54.758Z",
+        "updated_at": "2024-06-09T01:23:54.758Z",
+        "question": 264,
+        "history_date": "2024-06-09T01:23:54.764Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -37021,6 +38728,809 @@
         "is_correct": false,
         "created_at": "2024-06-04T20:01:49.332Z",
         "updated_at": "2024-06-04T20:01:49.332Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1132,
+    "fields": {
+        "question": 249,
+        "text": "Ningún ciudadano",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:10.264Z",
+        "updated_at": "2024-06-05T19:45:10.264Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1133,
+    "fields": {
+        "question": 249,
+        "text": "Ningún español",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:15.969Z",
+        "updated_at": "2024-06-05T19:45:15.969Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1134,
+    "fields": {
+        "question": 249,
+        "text": "Ningún español de origen",
+        "is_correct": true,
+        "created_at": "2024-06-05T19:45:22.803Z",
+        "updated_at": "2024-06-05T19:45:22.803Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1135,
+    "fields": {
+        "question": 249,
+        "text": "Ningún miembro de la Casa Real",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:29.827Z",
+        "updated_at": "2024-06-05T19:45:29.827Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1136,
+    "fields": {
+        "question": 249,
+        "text": "Ningún ciudadano de la Unión Europea que ostente la nacionalidad de cualquiera de los Estados miembros de la UE",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:45:41.108Z",
+        "updated_at": "2024-06-05T19:45:41.108Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1137,
+    "fields": {
+        "question": 250,
+        "text": "El punto de acceso electrónico cuya titularidad corresponda a una administración pública o empresa privada, que permite el acceso a través de Internet a la información publicada",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:50:56.027Z",
+        "updated_at": "2024-06-05T19:50:56.027Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1138,
+    "fields": {
+        "question": 250,
+        "text": "El punto de acceso, a través de la sede electrónica, cuya titularidad corresponda exclusivamente a la Administración del Estado",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:52:17.895Z",
+        "updated_at": "2024-06-05T19:52:17.896Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1139,
+    "fields": {
+        "question": 250,
+        "text": "El punto de acceso electrónico cuya titularidad corresponda a la Administración del Estado o a empresa privada, que permite el acceso a través de Internet a la información publicada y, en su caso, a la sede electrónica correspondiente",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:54:09.921Z",
+        "updated_at": "2024-06-05T19:54:09.921Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1140,
+    "fields": {
+        "question": 250,
+        "text": "El punto de acceso electrónico cuya titularidad corresponda a una administración pública, organismo público o entidad de derecho público que permite el acceso a través de Internet a la información publicada y, en su caso, a la sede electrónica correspondiente",
+        "is_correct": true,
+        "created_at": "2024-06-05T19:55:21.534Z",
+        "updated_at": "2024-06-05T19:55:21.534Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1141,
+    "fields": {
+        "question": 251,
+        "text": "Contiene una copia completa de toda la información de directorio del dominio",
+        "is_correct": true,
+        "created_at": "2024-06-05T19:58:50.149Z",
+        "updated_at": "2024-06-05T19:58:50.149Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1142,
+    "fields": {
+        "question": 251,
+        "text": "Contiene una parte de la información de directorio del dominio, que se encuentra distribuida entre ellos",
+        "is_correct": false,
+        "created_at": "2024-06-05T19:59:27.360Z",
+        "updated_at": "2024-06-05T19:59:27.360Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1143,
+    "fields": {
+        "question": 251,
+        "text": "Contiene toda la información del directorio si es el DC principal, pero si es un DC secundario, contiene solamente las modificaciones que se hayan realizado en él",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:00:46.642Z",
+        "updated_at": "2024-06-05T20:00:46.642Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1144,
+    "fields": {
+        "question": 251,
+        "text": "Contiene toda la información del directorio si es el DC principal y ninguna si es un DC secundario (Ya que los DC secundarios remiten siempre cualquier petición al DC principal, actuando a modo de _proxies_)",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:01:58.587Z",
+        "updated_at": "2024-06-05T20:01:58.587Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1145,
+    "fields": {
+        "question": 252,
+        "text": "Optimizar la velocidad de conexión",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:03:50.236Z",
+        "updated_at": "2024-06-05T20:03:50.236Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1146,
+    "fields": {
+        "question": 252,
+        "text": "Evitar los accesos no autorizados a la red",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:04:09.057Z",
+        "updated_at": "2024-06-05T20:04:09.057Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1147,
+    "fields": {
+        "question": 252,
+        "text": "Registrar y analizar el flujo de datos para mejorar el rendimiento y la seguridad",
+        "is_correct": true,
+        "created_at": "2024-06-05T20:04:39.974Z",
+        "updated_at": "2024-06-05T20:04:39.974Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1148,
+    "fields": {
+        "question": 252,
+        "text": "Gestionar el conjunto de direcciones IP de los dispositivos conectados a la red",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:05:26.145Z",
+        "updated_at": "2024-06-05T20:05:26.145Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1149,
+    "fields": {
+        "question": 252,
+        "text": "Segmentar el tráfico de red en subdominios aislados entre si",
+        "is_correct": false,
+        "created_at": "2024-06-05T20:05:53.137Z",
+        "updated_at": "2024-06-05T20:05:53.137Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1150,
+    "fields": {
+        "question": 253,
+        "text": "Se aplicará solamente a las personas que se encuentren en el ámbito territorial del archipiélago canario.",
+        "is_correct": false,
+        "created_at": "2024-06-06T11:58:33.386Z",
+        "updated_at": "2024-06-06T11:58:33.386Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1151,
+    "fields": {
+        "question": 253,
+        "text": "Es asimismo aplicable a las personas que tengan la condición política de canario o canaria y residan en el exterior",
+        "is_correct": true,
+        "created_at": "2024-06-06T11:59:25.868Z",
+        "updated_at": "2024-06-06T11:59:29.158Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1152,
+    "fields": {
+        "question": 253,
+        "text": "No se aplica a ningún efecto al Parlamento de Canarias",
+        "is_correct": false,
+        "created_at": "2024-06-06T11:59:53.491Z",
+        "updated_at": "2024-06-06T11:59:53.491Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1153,
+    "fields": {
+        "question": 253,
+        "text": "Se aplica también a las universidades canarias, pero solo a las públicas",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:00:21.694Z",
+        "updated_at": "2024-06-06T12:00:21.694Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1154,
+    "fields": {
+        "question": 254,
+        "text": "Un dispositivo de red que almacena y gestiona archivos para su acceso compartido",
+        "is_correct": true,
+        "created_at": "2024-06-06T12:02:45.727Z",
+        "updated_at": "2024-06-06T12:02:45.727Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1155,
+    "fields": {
+        "question": 254,
+        "text": "Una aplicación para compartir archivos mediante correo electrónico",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:03:14.867Z",
+        "updated_at": "2024-06-06T12:03:14.867Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1156,
+    "fields": {
+        "question": 254,
+        "text": "Un programa antivirus que escanea archivos en tiempo real",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:03:46.859Z",
+        "updated_at": "2024-06-06T12:03:46.859Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1157,
+    "fields": {
+        "question": 254,
+        "text": "Una herramienta para comprimir y descomprimir archivos",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:04:09.731Z",
+        "updated_at": "2024-06-06T12:04:09.731Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1158,
+    "fields": {
+        "question": 254,
+        "text": "Una herramienta para realizar copias de seguridad incrementales",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:04:42.046Z",
+        "updated_at": "2024-06-06T12:04:42.047Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1159,
+    "fields": {
+        "question": 255,
+        "text": "De aplicación y presentación",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:10:00.865Z",
+        "updated_at": "2024-06-06T12:10:00.865Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1160,
+    "fields": {
+        "question": 255,
+        "text": "De sesión y transporte",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:10:11.649Z",
+        "updated_at": "2024-06-06T12:10:11.649Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1161,
+    "fields": {
+        "question": 255,
+        "text": "De transporte y red",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:11:10.222Z",
+        "updated_at": "2024-06-06T12:11:10.222Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1162,
+    "fields": {
+        "question": 255,
+        "text": "De enlace de datos y física",
+        "is_correct": true,
+        "created_at": "2024-06-06T12:11:24.234Z",
+        "updated_at": "2024-06-06T12:11:28.134Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1163,
+    "fields": {
+        "question": 255,
+        "text": "Física y virtual",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:11:43.427Z",
+        "updated_at": "2024-06-06T12:11:43.427Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1164,
+    "fields": {
+        "question": 256,
+        "text": "Para liberar espacio en disco y mejorar el rendimiento",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:13:49.287Z",
+        "updated_at": "2024-06-06T12:13:49.287Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1165,
+    "fields": {
+        "question": 256,
+        "text": "Para identifica patrones, problemas y amenazas de seguridad",
+        "is_correct": true,
+        "created_at": "2024-06-06T12:14:20.198Z",
+        "updated_at": "2024-06-06T12:14:20.198Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1166,
+    "fields": {
+        "question": 256,
+        "text": "Para evitar la necesidad de realizar copias de seguridad regulares",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:14:47.222Z",
+        "updated_at": "2024-06-06T12:14:47.222Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1167,
+    "fields": {
+        "question": 256,
+        "text": "Para acelerar la velocidad de acceso a recursos compartidos",
+        "is_correct": false,
+        "created_at": "2024-06-06T12:15:16.514Z",
+        "updated_at": "2024-06-06T12:15:16.514Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1168,
+    "fields": {
+        "question": 257,
+        "text": "Almacena datos magnéticamente en discos giratorios",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:24:22.423Z",
+        "updated_at": "2024-06-06T20:24:22.424Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1169,
+    "fields": {
+        "question": 257,
+        "text": "Utiliza memoria _flash_ para almacenamiento sin partes móviles",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:24:46.970Z",
+        "updated_at": "2024-06-06T20:24:55.854Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1170,
+    "fields": {
+        "question": 257,
+        "text": "Proporciona acceso secuencial a los datos",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:25:17.963Z",
+        "updated_at": "2024-06-06T20:25:17.963Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1171,
+    "fields": {
+        "question": 257,
+        "text": "Es más rápida y barata que la memoria caché nivel 1 (Caché L1)",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:32:25.849Z",
+        "updated_at": "2024-06-06T20:32:25.849Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1172,
+    "fields": {
+        "question": 257,
+        "text": "Tiene una capacidad de almacenamiento limitada",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:32:51.988Z",
+        "updated_at": "2024-06-06T20:32:51.988Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1173,
+    "fields": {
+        "question": 258,
+        "text": "Un conjunto de _hardware_ y _software_",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:34:00.380Z",
+        "updated_at": "2024-06-06T20:34:00.380Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1174,
+    "fields": {
+        "question": 258,
+        "text": "La integración entre personas y tecnologías",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:34:18.712Z",
+        "updated_at": "2024-06-06T20:34:18.712Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1175,
+    "fields": {
+        "question": 258,
+        "text": "La administración de base de datos",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:34:32.659Z",
+        "updated_at": "2024-06-06T20:34:32.659Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1176,
+    "fields": {
+        "question": 258,
+        "text": "La estructura física de una computadora",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:34:58.534Z",
+        "updated_at": "2024-06-06T20:34:58.534Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1177,
+    "fields": {
+        "question": 259,
+        "text": "Ataque que utiliza fuerza bruta para descifrar contraseñas",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:37:18.717Z",
+        "updated_at": "2024-06-06T20:37:18.717Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1178,
+    "fields": {
+        "question": 259,
+        "text": "Técnica que intercepta y modifica datos durante la transmisión",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:37:52.819Z",
+        "updated_at": "2024-06-06T20:51:16.683Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1179,
+    "fields": {
+        "question": 259,
+        "text": "Un ataque de intermediario,  también llamado ​en inglés, _man-in-the-middle attack_, _MitM_ o Janus",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:41:06.786Z",
+        "updated_at": "2024-06-06T20:41:06.786Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1180,
+    "fields": {
+        "question": 259,
+        "text": "Un ataque de denegación de servicio, llamado también ataque DoS (por sus siglas en inglés, _denial of service_)",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:41:23.049Z",
+        "updated_at": "2024-06-06T20:41:23.049Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1181,
+    "fields": {
+        "question": 259,
+        "text": "Intento de engañar a usuarios para obtener información confidencial",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:52:07.602Z",
+        "updated_at": "2024-06-06T20:52:07.602Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1182,
+    "fields": {
+        "question": 259,
+        "text": "Protección contra virus y _malware_ en tiempo real",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:52:30.416Z",
+        "updated_at": "2024-06-06T20:52:30.416Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1183,
+    "fields": {
+        "question": 260,
+        "text": "El Ministerio del Interior",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:56:26.824Z",
+        "updated_at": "2024-06-06T20:56:26.824Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1184,
+    "fields": {
+        "question": 260,
+        "text": "El Ministerio de Justicia",
+        "is_correct": true,
+        "created_at": "2024-06-06T20:56:41.072Z",
+        "updated_at": "2024-06-06T20:56:58.751Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1185,
+    "fields": {
+        "question": 260,
+        "text": "El Ministerio de Igualdad",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:56:55.678Z",
+        "updated_at": "2024-06-06T20:56:55.678Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1186,
+    "fields": {
+        "question": 260,
+        "text": "Todas las respuestas son incorrectas",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:57:19.684Z",
+        "updated_at": "2024-06-06T20:57:19.684Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1187,
+    "fields": {
+        "question": 260,
+        "text": "El Consejo Superior de Investigaciones Científicas",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:58:04.947Z",
+        "updated_at": "2024-06-06T20:58:04.947Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1188,
+    "fields": {
+        "question": 260,
+        "text": "El Ministerio de Ciencia, Innovación y Universidades",
+        "is_correct": false,
+        "created_at": "2024-06-06T20:58:15.879Z",
+        "updated_at": "2024-06-06T20:58:15.879Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1189,
+    "fields": {
+        "question": 261,
+        "text": "Solo se puede hacer mediante sentencia condenatoria, orden de protección o cualquier otra resolución judicial que acuerde una medida cautelar a favor de la víctima",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:02:33.205Z",
+        "updated_at": "2024-06-06T21:02:33.205Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1190,
+    "fields": {
+        "question": 261,
+        "text": "Se puede hacer mediante informe de los servicios sociales, de los servicios especializados o de los servicios de acogida, siempre que cuente con el informe favorable del Ministerio Fiscal",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:04:04.811Z",
+        "updated_at": "2024-06-06T21:04:04.811Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1191,
+    "fields": {
+        "question": 261,
+        "text": "En el caso de víctimas menores de edad, podrá realizarse por documentos sanitarios oficiales de comunicación a la Fiscalía o al órgano judicial",
+        "is_correct": true,
+        "created_at": "2024-06-06T21:05:10.503Z",
+        "updated_at": "2024-06-06T21:05:10.503Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1192,
+    "fields": {
+        "question": 261,
+        "text": "Deberá ser acreditado mediante el procedimiento que regule cada comunidad autónoma",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:06:01.478Z",
+        "updated_at": "2024-06-06T21:06:01.478Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1193,
+    "fields": {
+        "question": 262,
+        "text": "Al menos con cuarenta y ocho horas de antelación",
+        "is_correct": true,
+        "created_at": "2024-06-06T21:08:50.670Z",
+        "updated_at": "2024-06-06T21:08:50.670Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1194,
+    "fields": {
+        "question": 262,
+        "text": "Al menos con veinticuatro horas de antelación",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:09:06.680Z",
+        "updated_at": "2024-06-06T21:09:06.680Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1195,
+    "fields": {
+        "question": 262,
+        "text": "Al menos con doce horas de antelación",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:09:19.584Z",
+        "updated_at": "2024-06-06T21:09:19.584Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1196,
+    "fields": {
+        "question": 262,
+        "text": "Al menos con setenta y dos horas de antelación",
+        "is_correct": false,
+        "created_at": "2024-06-06T21:09:37.477Z",
+        "updated_at": "2024-06-06T21:09:37.477Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1197,
+    "fields": {
+        "question": 263,
+        "text": "De concurso de traslado o por el sistema de oposición o concurso-oposición",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:17:40.585Z",
+        "updated_at": "2024-06-09T01:17:40.585Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1198,
+    "fields": {
+        "question": 263,
+        "text": "Del sistema de oposición, concurso-oposición o concurso libre y, en su caso, adicionalmente, por la superación de cursos de formación o especialización,o de una fase de prácticas, por un periodo determinado",
+        "is_correct": true,
+        "created_at": "2024-06-09T01:19:21.506Z",
+        "updated_at": "2024-06-09T01:19:21.507Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1199,
+    "fields": {
+        "question": 263,
+        "text": "Del sistema de oposición, concurso de méritos o concurso de traslado",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:19:52.559Z",
+        "updated_at": "2024-06-09T01:19:52.559Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1200,
+    "fields": {
+        "question": 263,
+        "text": "Del sistema de oposición, exclusivamente",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:20:14.234Z",
+        "updated_at": "2024-06-09T01:20:14.234Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1201,
+    "fields": {
+        "question": 264,
+        "text": "Una lista de palabras clave o _keywords_ relacionadas con errores del sistema y conectadas por un diagrama de flujos",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:22:39.726Z",
+        "updated_at": "2024-06-09T01:22:39.726Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1202,
+    "fields": {
+        "question": 264,
+        "text": "Una representación gráfica de los pasos y procesos de un sistema",
+        "is_correct": true,
+        "created_at": "2024-06-09T01:23:03.783Z",
+        "updated_at": "2024-06-09T01:23:03.783Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1203,
+    "fields": {
+        "question": 264,
+        "text": "Un análisis detallado de los errores e interacciones con usuarios del sistema",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:23:38.268Z",
+        "updated_at": "2024-06-09T01:23:38.268Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1204,
+    "fields": {
+        "question": 264,
+        "text": "Una tabla del contenido de un manual técnico",
+        "is_correct": false,
+        "created_at": "2024-06-09T01:23:54.758Z",
+        "updated_at": "2024-06-09T01:23:54.758Z"
     }
 }
 ]

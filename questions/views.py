@@ -38,9 +38,11 @@ def ask_question(request, pk=0):
 
 def chk_answer(request, pk):
     answer = models.Answer.load_answer(pk)
+    question = answer.question
     return render(request, 'questions/chk.html', {
         'titulo': 'Respuesta válida' if answer.is_correct else 'No es correcta',
-        'answers': answer,
+        'answer': answer,
+        'question': question,
         })
 
 

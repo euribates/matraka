@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% load markdownify crispy_forms_tags questions %}
+{% load static markdownify crispy_forms_tags questions %}
 
 {% block content %}
     
@@ -23,7 +23,10 @@
         <a href="{% url 'new_answer' pk=question.pk %}"
           class="button is-warning is-rounded">➕ Añadir respuesta</a>
         <a href="{% url 'ask_question' pk=question.pk %}"
-          class="button is-info is-rounded">¿? Preguntar</a>
+          class="button is-small is-info is-rounded">
+            <img src="{% static 'img/is-question.svg' %}" alt="Preguntar" 
+                 width="64" height="64">
+        </a>
     </div>
 
 
@@ -42,7 +45,7 @@
         <td>{{ answer.pk }}</td>
         <td>
             {% if answer.is_correct %}<b>{% endif %}
-            {{ answer.text|markdownify }}
+            {{ answer.text|markdownify }}.
             {% if answer.is_correct %}</b>{% endif %}
         </td>
         <td>{{ answer.is_correct|as_bool|safe }}</td>
@@ -51,9 +54,9 @@
                class="button is-warning is-circle">
             ✎ Editar
         </td>
-      </tr> 
+      </tr>
   {% endfor %}
-    </tbody> 
+    </tbody>
 
 </table>
 

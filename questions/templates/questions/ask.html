@@ -23,7 +23,7 @@
 <div class="grid">
 {% for letter,answer in answers.items %}
 
-  <div class="cell">
+  <div class="box">
 
 
   <article class="media p-2">
@@ -36,13 +36,12 @@
          with="64" height="64"
          alt="Optión {{ letter }}">
     </a>
-    <mark>{% url 'chk_answer' pk=answer.pk %}</mark>
     </p>
     </form>
   </figure>
   <div class="media-content">
     <div class="content">
-        <h4>{{ answer.text|markdownify }}</h4>
+        <h4>{{ answer.text|markdownify }}.</h4>
     </div>
   </article>
   </div>
