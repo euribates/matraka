@@ -4005,6 +4005,261 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 268,
+    "fields": {
+        "id_question": 265,
+        "text": "¿Cuál es la principal diferencia entre HTTP y HTTPS?",
+        "source": "",
+        "created_at": "2024-06-09T13:43:20.847Z",
+        "updated_at": "2024-06-09T13:43:20.847Z",
+        "history_date": "2024-06-09T13:43:20.858Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 269,
+    "fields": {
+        "id_question": 266,
+        "text": "¿Qué signifique \"WAP2\" en las redes _WiFi_ y cual es su importancia?",
+        "source": "",
+        "created_at": "2024-06-09T13:47:28.017Z",
+        "updated_at": "2024-06-09T13:47:28.018Z",
+        "history_date": "2024-06-09T13:47:28.034Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 270,
+    "fields": {
+        "id_question": 267,
+        "text": "¿Qué caracteriza a la fibra óptica en comparación con los cables en cuanto a seguridad y rendimiento?",
+        "source": "",
+        "created_at": "2024-06-09T13:53:09.626Z",
+        "updated_at": "2024-06-09T13:53:09.626Z",
+        "history_date": "2024-06-09T13:53:09.632Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 271,
+    "fields": {
+        "id_question": 268,
+        "text": "Según el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Que plazo tiene la administración pública para resolver y notificar si la norma que regula el procedimiento no prevé plazo máximo para resolver y notificar?",
+        "source": "",
+        "created_at": "2024-06-09T15:15:19.898Z",
+        "updated_at": "2024-06-09T15:15:19.898Z",
+        "history_date": "2024-06-09T15:15:19.908Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 272,
+    "fields": {
+        "id_question": 268,
+        "text": "Según el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Qué plazo tiene la administración pública para resolver y notificar si la norma que regula el procedimiento no prevé plazo máximo para resolver y notificar?",
+        "source": "",
+        "created_at": "2024-06-09T15:15:19.898Z",
+        "updated_at": "2024-06-09T15:17:22.269Z",
+        "history_date": "2024-06-09T15:17:22.277Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 273,
+    "fields": {
+        "id_question": 269,
+        "text": "¿Cuál es la función principal de la memoria caché en un sistema informático avanzado?",
+        "source": "",
+        "created_at": "2024-06-09T15:18:18.495Z",
+        "updated_at": "2024-06-09T15:18:18.495Z",
+        "history_date": "2024-06-09T15:18:18.509Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 274,
+    "fields": {
+        "id_question": 270,
+        "text": "Según el reglamento del Parlamento de Canarias, con respecto a las reuniones de la cámara:",
+        "source": "",
+        "created_at": "2024-06-09T15:26:02.634Z",
+        "updated_at": "2024-06-09T15:26:02.634Z",
+        "history_date": "2024-06-09T15:26:02.642Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 275,
+    "fields": {
+        "id_question": 270,
+        "text": "Según el reglamento del Parlamento de Canarias, con respecto a las reuniones de la cámara:",
+        "source": "Artículos 68",
+        "created_at": "2024-06-09T15:26:02.634Z",
+        "updated_at": "2024-06-09T15:32:31.132Z",
+        "history_date": "2024-06-09T15:32:31.141Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 276,
+    "fields": {
+        "id_question": 270,
+        "text": "Según el reglamento del Parlamento de Canarias, con respecto a las reuniones de la cámara:",
+        "source": "Artículos 68, 75",
+        "created_at": "2024-06-09T15:26:02.634Z",
+        "updated_at": "2024-06-09T15:33:29.399Z",
+        "history_date": "2024-06-09T15:33:29.409Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 277,
+    "fields": {
+        "id_question": 271,
+        "text": "Según el artículo 40 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+        "source": "",
+        "created_at": "2024-06-13T17:04:36.353Z",
+        "updated_at": "2024-06-13T17:04:36.353Z",
+        "history_date": "2024-06-13T17:04:36.363Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 278,
+    "fields": {
+        "id_question": 272,
+        "text": "Las _VMWare Tools_:",
+        "source": "",
+        "created_at": "2024-06-13T17:09:22.811Z",
+        "updated_at": "2024-06-13T17:09:22.811Z",
+        "history_date": "2024-06-13T17:09:22.822Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 279,
+    "fields": {
+        "id_question": 273,
+        "text": "Si en una red doméstica en un domicilio particular se han asignado las direcciones IP siguiento buenas prácticas, ¿Cuál de estas direcciones podría estar asignada a uno de los PC como su dirección en dicha red?",
+        "source": "",
+        "created_at": "2024-06-13T17:15:06.658Z",
+        "updated_at": "2024-06-13T17:15:06.658Z",
+        "history_date": "2024-06-13T17:15:06.664Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 280,
+    "fields": {
+        "id_question": 274,
+        "text": "¿Cuál es la función principal de un \"Analista de sistemas'?",
+        "source": "",
+        "created_at": "2024-06-13T17:29:05.471Z",
+        "updated_at": "2024-06-13T17:29:05.471Z",
+        "history_date": "2024-06-13T17:29:05.486Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 281,
+    "fields": {
+        "id_question": 275,
+        "text": "Según el artículo 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+        "source": "",
+        "created_at": "2024-06-13T18:20:53.826Z",
+        "updated_at": "2024-06-13T18:20:53.826Z",
+        "history_date": "2024-06-13T18:20:53.838Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 282,
+    "fields": {
+        "id_question": 275,
+        "text": "Según el artículo 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+        "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+        "created_at": "2024-06-13T18:20:53.826Z",
+        "updated_at": "2024-06-13T19:15:03.598Z",
+        "history_date": "2024-06-13T19:15:03.605Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 283,
+    "fields": {
+        "id_question": 276,
+        "text": "¿Cuál es la función principal de un \"dominio\" en un Directorio Activo?",
+        "source": "",
+        "created_at": "2024-06-13T19:17:08.301Z",
+        "updated_at": "2024-06-13T19:17:08.301Z",
+        "history_date": "2024-06-13T19:17:08.308Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 284,
+    "fields": {
+        "id_question": 273,
+        "text": "Si en una red doméstica en un domicilio particular se han asignado las direcciones IP siguiento buenas prácticas, ¿Cuál de estas direcciones podría estar asignada a uno de los PC como su dirección en dicha red?",
+        "source": "https://simple.wikipedia.org/wiki/Private_network",
+        "created_at": "2024-06-13T17:15:06.658Z",
+        "updated_at": "2024-06-13T20:23:04.519Z",
+        "history_date": "2024-06-13T20:23:04.529Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": null
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -6921,6 +7176,144 @@
         "source": "",
         "created_at": "2024-06-09T01:21:55.639Z",
         "updated_at": "2024-06-09T01:21:55.639Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 265,
+    "fields": {
+        "text": "¿Cuál es la principal diferencia entre HTTP y HTTPS?",
+        "source": "",
+        "created_at": "2024-06-09T13:43:20.847Z",
+        "updated_at": "2024-06-09T13:43:20.847Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 266,
+    "fields": {
+        "text": "¿Qué signifique \"WAP2\" en las redes _WiFi_ y cual es su importancia?",
+        "source": "",
+        "created_at": "2024-06-09T13:47:28.017Z",
+        "updated_at": "2024-06-09T13:47:28.018Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 267,
+    "fields": {
+        "text": "¿Qué caracteriza a la fibra óptica en comparación con los cables en cuanto a seguridad y rendimiento?",
+        "source": "",
+        "created_at": "2024-06-09T13:53:09.626Z",
+        "updated_at": "2024-06-09T13:53:09.626Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 268,
+    "fields": {
+        "text": "Según el artículo 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, ¿Qué plazo tiene la administración pública para resolver y notificar si la norma que regula el procedimiento no prevé plazo máximo para resolver y notificar?",
+        "source": "",
+        "created_at": "2024-06-09T15:15:19.898Z",
+        "updated_at": "2024-06-09T15:17:22.269Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 269,
+    "fields": {
+        "text": "¿Cuál es la función principal de la memoria caché en un sistema informático avanzado?",
+        "source": "",
+        "created_at": "2024-06-09T15:18:18.495Z",
+        "updated_at": "2024-06-09T15:18:18.495Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 270,
+    "fields": {
+        "text": "Según el reglamento del Parlamento de Canarias, con respecto a las reuniones de la cámara:",
+        "source": "Artículos 68, 75",
+        "created_at": "2024-06-09T15:26:02.634Z",
+        "updated_at": "2024-06-09T15:33:29.399Z",
+        "tags": [
+            2
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 271,
+    "fields": {
+        "text": "Según el artículo 40 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+        "source": "",
+        "created_at": "2024-06-13T17:04:36.353Z",
+        "updated_at": "2024-06-13T17:04:36.353Z",
+        "tags": [
+            5
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 272,
+    "fields": {
+        "text": "Las _VMWare Tools_:",
+        "source": "",
+        "created_at": "2024-06-13T17:09:22.811Z",
+        "updated_at": "2024-06-13T17:09:22.811Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 273,
+    "fields": {
+        "text": "Si en una red doméstica en un domicilio particular se han asignado las direcciones IP siguiento buenas prácticas, ¿Cuál de estas direcciones podría estar asignada a uno de los PC como su dirección en dicha red?",
+        "source": "https://simple.wikipedia.org/wiki/Private_network",
+        "created_at": "2024-06-13T17:15:06.658Z",
+        "updated_at": "2024-06-13T20:23:04.519Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 274,
+    "fields": {
+        "text": "¿Cuál es la función principal de un \"Analista de sistemas'?",
+        "source": "",
+        "created_at": "2024-06-13T17:29:05.471Z",
+        "updated_at": "2024-06-13T17:29:05.471Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 275,
+    "fields": {
+        "text": "Según el artículo 35 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales:",
+        "source": "https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292",
+        "created_at": "2024-06-13T18:20:53.826Z",
+        "updated_at": "2024-06-13T19:15:03.598Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 276,
+    "fields": {
+        "text": "¿Cuál es la función principal de un \"dominio\" en un Directorio Activo?",
+        "source": "",
+        "created_at": "2024-06-13T19:17:08.301Z",
+        "updated_at": "2024-06-13T19:17:08.301Z",
         "tags": []
     }
 },
@@ -26301,6 +26694,934 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 1212,
+    "fields": {
+        "id_answer": 1205,
+        "text": "HTTPS es una versión más moderna de HTTP y usa FTPS para autenticación segura",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:43:48.635Z",
+        "updated_at": "2024-06-09T13:43:48.635Z",
+        "question": 265,
+        "history_date": "2024-06-09T13:43:48.643Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1213,
+    "fields": {
+        "id_answer": 1206,
+        "text": "HTTPS establece conexiones seguras para administración remota",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:44:12.836Z",
+        "updated_at": "2024-06-09T13:44:12.836Z",
+        "question": 265,
+        "history_date": "2024-06-09T13:44:12.842Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1214,
+    "fields": {
+        "id_answer": 1207,
+        "text": "HTTPS utiliza una capa de seguridad adicional (SSL/TLS) para cifrar la comunicación",
+        "is_correct": true,
+        "created_at": "2024-06-09T13:44:52.756Z",
+        "updated_at": "2024-06-09T13:44:52.756Z",
+        "question": 265,
+        "history_date": "2024-06-09T13:44:52.771Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1215,
+    "fields": {
+        "id_answer": 1208,
+        "text": "HTTP se utiliza exclusivamente para transferencia de archivos",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:45:25.615Z",
+        "updated_at": "2024-06-09T13:45:25.615Z",
+        "question": 265,
+        "history_date": "2024-06-09T13:45:25.624Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1216,
+    "fields": {
+        "id_answer": 1209,
+        "text": "HTTP se utiliza para correo electrónico inseguro. mientras que HTTPS se usa para correo electrónico seguro",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:46:08.058Z",
+        "updated_at": "2024-06-09T13:46:08.058Z",
+        "question": 265,
+        "history_date": "2024-06-09T13:46:08.066Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1217,
+    "fields": {
+        "id_answer": 1210,
+        "text": "_Wireless Protocol Access_ 2; un estándar de seguridad para proteger las comunicaciones _WiFi_",
+        "is_correct": true,
+        "created_at": "2024-06-09T13:48:48.479Z",
+        "updated_at": "2024-06-09T13:48:48.479Z",
+        "question": 266,
+        "history_date": "2024-06-09T13:48:48.486Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1218,
+    "fields": {
+        "id_answer": 1211,
+        "text": "_Wireless Power Adapter_ 2: un protocolo para aumentar la potencia de las señales inalámbricas",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:49:37.624Z",
+        "updated_at": "2024-06-09T13:49:37.624Z",
+        "question": 266,
+        "history_date": "2024-06-09T13:49:37.634Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1219,
+    "fields": {
+        "id_answer": 1212,
+        "text": "_Web Provacy Agreement_ 2; un acuerdo de privacidad para usuarios de de redes inalámbricas",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:50:47.268Z",
+        "updated_at": "2024-06-09T13:50:47.268Z",
+        "question": 266,
+        "history_date": "2024-06-09T13:50:47.282Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1220,
+    "fields": {
+        "id_answer": 1213,
+        "text": "_Wireless Performance Analysis_ 2; una herramienta para medir el rendimiento de conecciones _Wi-Fi_",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:51:29.403Z",
+        "updated_at": "2024-06-09T13:51:29.403Z",
+        "question": 266,
+        "history_date": "2024-06-09T13:51:29.415Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1221,
+    "fields": {
+        "id_answer": 1214,
+        "text": "Mayor vulnerabilidad a interferencias electromagnéticas",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:54:01.065Z",
+        "updated_at": "2024-06-09T13:54:01.065Z",
+        "question": 267,
+        "history_date": "2024-06-09T13:54:01.071Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1222,
+    "fields": {
+        "id_answer": 1215,
+        "text": "Mayor seguridad debido a la dificultad de interceptar señales",
+        "is_correct": true,
+        "created_at": "2024-06-09T13:54:55.837Z",
+        "updated_at": "2024-06-09T13:54:55.837Z",
+        "question": 267,
+        "history_date": "2024-06-09T13:54:55.847Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1223,
+    "fields": {
+        "id_answer": 1216,
+        "text": "Mayor velocidad y capacidad, por lo tanto, más seguridad",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:55:43.054Z",
+        "updated_at": "2024-06-09T13:55:43.054Z",
+        "question": 267,
+        "history_date": "2024-06-09T13:55:43.066Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1224,
+    "fields": {
+        "id_answer": 1217,
+        "text": "Mayor seguridad, ya que, en la distancia de transmisión, esta es casi ilimitada",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:57:49.332Z",
+        "updated_at": "2024-06-09T13:57:49.332Z",
+        "question": 267,
+        "history_date": "2024-06-09T13:57:49.338Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1225,
+    "fields": {
+        "id_answer": 1218,
+        "text": "Utiliza señales eléctricas sobre cables de cobre, lo que permiten mayor ancho de banda y mayor distancia",
+        "is_correct": false,
+        "created_at": "2024-06-09T14:15:04.310Z",
+        "updated_at": "2024-06-09T14:15:04.310Z",
+        "question": 267,
+        "history_date": "2024-06-09T14:15:04.319Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1226,
+    "fields": {
+        "id_answer": 1219,
+        "text": "La fibra óptica es inmune a la interferencia electromagnética",
+        "is_correct": false,
+        "created_at": "2024-06-09T14:18:28.881Z",
+        "updated_at": "2024-06-09T14:18:28.881Z",
+        "question": 267,
+        "history_date": "2024-06-09T14:18:28.888Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1227,
+    "fields": {
+        "id_answer": 1220,
+        "text": "Un mes",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:15:36.482Z",
+        "updated_at": "2024-06-09T15:15:36.482Z",
+        "question": 268,
+        "history_date": "2024-06-09T15:15:36.498Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1228,
+    "fields": {
+        "id_answer": 1221,
+        "text": "Tres meses",
+        "is_correct": true,
+        "created_at": "2024-06-09T15:15:48.349Z",
+        "updated_at": "2024-06-09T15:15:48.349Z",
+        "question": 268,
+        "history_date": "2024-06-09T15:15:48.360Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1229,
+    "fields": {
+        "id_answer": 1222,
+        "text": "Seis meses",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:15:54.386Z",
+        "updated_at": "2024-06-09T15:15:54.386Z",
+        "question": 268,
+        "history_date": "2024-06-09T15:15:54.396Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1230,
+    "fields": {
+        "id_answer": 1223,
+        "text": "Un año",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:16:03.430Z",
+        "updated_at": "2024-06-09T15:16:03.430Z",
+        "question": 268,
+        "history_date": "2024-06-09T15:16:03.441Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1231,
+    "fields": {
+        "id_answer": 1224,
+        "text": "Entre seis y nueve meses, dependiendo del tipo de procedimiento",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:16:38.676Z",
+        "updated_at": "2024-06-09T15:16:38.676Z",
+        "question": 268,
+        "history_date": "2024-06-09T15:16:38.686Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1232,
+    "fields": {
+        "id_answer": 1225,
+        "text": "Almacenar datos de forma permanente",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:18:32.087Z",
+        "updated_at": "2024-06-09T15:18:32.087Z",
+        "question": 269,
+        "history_date": "2024-06-09T15:18:32.096Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1233,
+    "fields": {
+        "id_answer": 1226,
+        "text": "Proporcionar espacio adicional de almacenamiento",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:18:59.277Z",
+        "updated_at": "2024-06-09T15:18:59.277Z",
+        "question": 269,
+        "history_date": "2024-06-09T15:18:59.657Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1234,
+    "fields": {
+        "id_answer": 1227,
+        "text": "Que el sistema operativo disponga, tanto para el software de usuario como para sí mismo, de mayor cantidad de memoria que la disponible físicamente",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:20:20.408Z",
+        "updated_at": "2024-06-09T15:20:20.408Z",
+        "question": 269,
+        "history_date": "2024-06-09T15:20:20.414Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1235,
+    "fields": {
+        "id_answer": 1228,
+        "text": "Mejorar la velocidad de acceso a datos frecuentemente usados",
+        "is_correct": true,
+        "created_at": "2024-06-09T15:21:10.415Z",
+        "updated_at": "2024-06-09T15:21:10.416Z",
+        "question": 269,
+        "history_date": "2024-06-09T15:21:10.429Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1236,
+    "fields": {
+        "id_answer": 1229,
+        "text": "Gestionar el sistema operativo",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:21:24.167Z",
+        "updated_at": "2024-06-09T15:21:24.167Z",
+        "question": 269,
+        "history_date": "2024-06-09T15:21:24.181Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1237,
+    "fields": {
+        "id_answer": 1230,
+        "text": "Es un algoritmo de planificación de E/S para dispositivos de bloques (discos duros)",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:23:48.093Z",
+        "updated_at": "2024-06-09T15:23:48.093Z",
+        "question": 269,
+        "history_date": "2024-06-09T15:23:48.107Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1238,
+    "fields": {
+        "id_answer": 1231,
+        "text": "El Parlamento se reunirá anualmente en dos periodos ordinarios de sesiones, de septiembre de noviembre y de enero a julio, ambos inclusive",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:27:04.534Z",
+        "updated_at": "2024-06-09T15:27:04.534Z",
+        "question": 270,
+        "history_date": "2024-06-09T15:27:04.551Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1239,
+    "fields": {
+        "id_answer": 1232,
+        "text": "La cámara podrá celebrar sesiones extraordinarias a petición de una quinta parte de la Cámara o de un grupo parlamentario",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:32:06.297Z",
+        "updated_at": "2024-06-09T15:32:06.297Z",
+        "question": 270,
+        "history_date": "2024-06-09T15:32:06.312Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1240,
+    "fields": {
+        "id_answer": 1233,
+        "text": "Fuera del periodo de sesiones, la Diputación Permanente podrá acordar la habilitación de los días necesarios para cumplimentar los trámites que posibiliten la celebración de una sesión extraordinaria",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:41:34.471Z",
+        "updated_at": "2024-06-09T15:41:34.471Z",
+        "question": 270,
+        "history_date": "2024-06-09T15:41:34.483Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1241,
+    "fields": {
+        "id_answer": 1234,
+        "text": "La Mesa de la Cámara, con el acuerdo favorable de la Junta de Portavoces, adoptado por mayoría que represente al menos dos tercios de la Cámara, podrá habilitar los días necesarios para la tramitación de aquellos asuntos que, por su naturaleza, demanden una urgente solución",
+        "is_correct": true,
+        "created_at": "2024-06-09T15:42:13.680Z",
+        "updated_at": "2024-06-09T15:42:13.680Z",
+        "question": 270,
+        "history_date": "2024-06-09T15:42:13.694Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1242,
+    "fields": {
+        "id_answer": 1235,
+        "text": "Las administraciones públicas deberán identificarse mediante el uso de una firma  electrónica",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:05:42.188Z",
+        "updated_at": "2024-06-13T17:05:42.188Z",
+        "question": 271,
+        "history_date": "2024-06-13T17:05:42.197Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1243,
+    "fields": {
+        "id_answer": 1236,
+        "text": "Las administraciones públicas deberán identificarse mediante el uso de un sello electrónico",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:06:05.306Z",
+        "updated_at": "2024-06-13T17:06:05.306Z",
+        "question": 271,
+        "history_date": "2024-06-13T17:06:05.316Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1244,
+    "fields": {
+        "id_answer": 1237,
+        "text": "Las administraciones públicas podrán identificarse mediante el uso de un sello electrónico, basado en un certificado electrónico reconocido o cualificado",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:07:05.583Z",
+        "updated_at": "2024-06-13T17:07:05.583Z",
+        "question": 271,
+        "history_date": "2024-06-13T17:07:05.606Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1245,
+    "fields": {
+        "id_answer": 1238,
+        "text": "La relación de sellos electrónicos utilizados por cada administración pública no es pública y abierta, siendo accesible solo previa identificación por medios electrónicos",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:08:29.075Z",
+        "updated_at": "2024-06-13T17:08:29.075Z",
+        "question": 271,
+        "history_date": "2024-06-13T17:08:29.083Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1246,
+    "fields": {
+        "id_answer": 1239,
+        "text": "Son herramientas avanzadas para grandes instalaciones, solo disponibles en la versión empresarial de _VMWare Sphere_",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:10:27.364Z",
+        "updated_at": "2024-06-13T17:10:27.364Z",
+        "question": 272,
+        "history_date": "2024-06-13T17:10:27.374Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1247,
+    "fields": {
+        "id_answer": 1240,
+        "text": "Sirven para administrar y configurar el servidor de virtualización (_host_)",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:11:17.345Z",
+        "updated_at": "2024-06-13T17:11:17.345Z",
+        "question": 272,
+        "history_date": "2024-06-13T17:11:17.357Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1248,
+    "fields": {
+        "id_answer": 1241,
+        "text": "Se instalan en la máquina virtual (_guest_) y permiten al hipervisor manejar detalles del sistema operativo _guest_",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:12:18.262Z",
+        "updated_at": "2024-06-13T17:12:18.262Z",
+        "question": 272,
+        "history_date": "2024-06-13T17:12:18.271Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1249,
+    "fields": {
+        "id_answer": 1242,
+        "text": "Sirven para virtualizar un servidor físico existente",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:12:54.248Z",
+        "updated_at": "2024-06-13T17:12:54.248Z",
+        "question": 272,
+        "history_date": "2024-06-13T17:12:54.257Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1250,
+    "fields": {
+        "id_answer": 1243,
+        "text": "`192.168.127.111`",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:15:28.639Z",
+        "updated_at": "2024-06-13T17:15:28.639Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:15:28.648Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1251,
+    "fields": {
+        "id_answer": 1244,
+        "text": "`127.0.0.1`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:15:42.433Z",
+        "updated_at": "2024-06-13T17:15:42.433Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:15:42.441Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1252,
+    "fields": {
+        "id_answer": 1245,
+        "text": "`172.67.69.61`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:16:52.058Z",
+        "updated_at": "2024-06-13T17:16:52.058Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:16:52.071Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1253,
+    "fields": {
+        "id_answer": 1246,
+        "text": "`255.0.0.0`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:17:05.640Z",
+        "updated_at": "2024-06-13T17:17:05.640Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:17:05.648Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1254,
+    "fields": {
+        "id_answer": 1247,
+        "text": "`75.748.86.91`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:19:00.038Z",
+        "updated_at": "2024-06-13T17:19:00.038Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:19:00.046Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1255,
+    "fields": {
+        "id_answer": 1248,
+        "text": "`23.75.345.200`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:20:30.018Z",
+        "updated_at": "2024-06-13T17:20:30.018Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:20:30.028Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1256,
+    "fields": {
+        "id_answer": 1249,
+        "text": "`10.0.0.10`",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:24:32.992Z",
+        "updated_at": "2024-06-13T17:24:32.992Z",
+        "question": 273,
+        "history_date": "2024-06-13T17:24:33.004Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1257,
+    "fields": {
+        "id_answer": 1250,
+        "text": "Mantenimiento del _hardware_ y del _software_",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:29:26.971Z",
+        "updated_at": "2024-06-13T17:29:26.971Z",
+        "question": 274,
+        "history_date": "2024-06-13T17:29:26.977Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1258,
+    "fields": {
+        "id_answer": 1251,
+        "text": "Desarrollo de algoritmos de programación",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:29:45.807Z",
+        "updated_at": "2024-06-13T17:29:45.807Z",
+        "question": 274,
+        "history_date": "2024-06-13T17:29:45.814Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1259,
+    "fields": {
+        "id_answer": 1252,
+        "text": "Evaluación y diseño de sistemas de información",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:30:11.294Z",
+        "updated_at": "2024-06-13T17:30:11.294Z",
+        "question": 274,
+        "history_date": "2024-06-13T17:30:11.305Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1260,
+    "fields": {
+        "id_answer": 1253,
+        "text": "Soporte técnico a usuarios finales",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:30:31.079Z",
+        "updated_at": "2024-06-13T17:30:31.079Z",
+        "question": 274,
+        "history_date": "2024-06-13T17:30:31.087Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1261,
+    "fields": {
+        "id_answer": 1254,
+        "text": "Desarrollo de prototipos",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:31:34.537Z",
+        "updated_at": "2024-06-13T17:31:34.537Z",
+        "question": 274,
+        "history_date": "2024-06-13T17:31:34.545Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1262,
+    "fields": {
+        "id_answer": 1255,
+        "text": "Los delegados de prevención serán designados por la empresa entre los responsables del personal",
+        "is_correct": false,
+        "created_at": "2024-06-13T18:21:31.194Z",
+        "updated_at": "2024-06-13T18:21:31.194Z",
+        "question": 275,
+        "history_date": "2024-06-13T18:21:31.201Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1263,
+    "fields": {
+        "id_answer": 1256,
+        "text": "Si la empresa cuenta con hasta treinta trabajadores, el delegado de prevención será el delegado de personal",
+        "is_correct": true,
+        "created_at": "2024-06-13T18:34:11.804Z",
+        "updated_at": "2024-06-13T18:34:11.804Z",
+        "question": 275,
+        "history_date": "2024-06-13T18:34:11.813Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1264,
+    "fields": {
+        "id_answer": 1257,
+        "text": "Los convenios colectivos no podrán establecer otros sistemas de designación de los delegados de prevención, a fin de garantizar que la designación corresponda a los representantes del personal o a los propios trabajadores",
+        "is_correct": false,
+        "created_at": "2024-06-13T18:35:29.604Z",
+        "updated_at": "2024-06-13T18:35:29.604Z",
+        "question": 275,
+        "history_date": "2024-06-13T18:35:29.612Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1265,
+    "fields": {
+        "id_answer": 1258,
+        "text": "Las competencias de los delegados de prevención podrán ser delegadas en otros trabajadores en los términos que disponga el convenio colectivo",
+        "is_correct": false,
+        "created_at": "2024-06-13T18:38:56.150Z",
+        "updated_at": "2024-06-13T18:38:56.150Z",
+        "question": 275,
+        "history_date": "2024-06-13T18:38:56.159Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1266,
+    "fields": {
+        "id_answer": 1259,
+        "text": "Almacenar archivos y carpetas en una red",
+        "is_correct": false,
+        "created_at": "2024-06-13T19:17:27.095Z",
+        "updated_at": "2024-06-13T19:17:27.095Z",
+        "question": 276,
+        "history_date": "2024-06-13T19:17:27.106Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1267,
+    "fields": {
+        "id_answer": 1260,
+        "text": "Controlar el acceso y la administración de recursos en una red",
+        "is_correct": true,
+        "created_at": "2024-06-13T19:17:49.175Z",
+        "updated_at": "2024-06-13T19:17:49.175Z",
+        "question": 276,
+        "history_date": "2024-06-13T19:17:49.186Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1268,
+    "fields": {
+        "id_answer": 1261,
+        "text": "Gestionar el rendimiento de servidores de red",
+        "is_correct": false,
+        "created_at": "2024-06-13T19:18:14.570Z",
+        "updated_at": "2024-06-13T19:18:14.570Z",
+        "question": 276,
+        "history_date": "2024-06-13T19:18:14.578Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1269,
+    "fields": {
+        "id_answer": 1262,
+        "text": "Crear directorios locales en estaciones de trabajo",
+        "is_correct": false,
+        "created_at": "2024-06-13T19:18:33.590Z",
+        "updated_at": "2024-06-13T19:18:33.591Z",
+        "question": 276,
+        "history_date": "2024-06-13T19:18:33.597Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -39531,6 +40852,644 @@
         "is_correct": false,
         "created_at": "2024-06-09T01:23:54.758Z",
         "updated_at": "2024-06-09T01:23:54.758Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1205,
+    "fields": {
+        "question": 265,
+        "text": "HTTPS es una versión más moderna de HTTP y usa FTPS para autenticación segura",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:43:48.635Z",
+        "updated_at": "2024-06-09T13:43:48.635Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1206,
+    "fields": {
+        "question": 265,
+        "text": "HTTPS establece conexiones seguras para administración remota",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:44:12.836Z",
+        "updated_at": "2024-06-09T13:44:12.836Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1207,
+    "fields": {
+        "question": 265,
+        "text": "HTTPS utiliza una capa de seguridad adicional (SSL/TLS) para cifrar la comunicación",
+        "is_correct": true,
+        "created_at": "2024-06-09T13:44:52.756Z",
+        "updated_at": "2024-06-09T13:44:52.756Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1208,
+    "fields": {
+        "question": 265,
+        "text": "HTTP se utiliza exclusivamente para transferencia de archivos",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:45:25.615Z",
+        "updated_at": "2024-06-09T13:45:25.615Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1209,
+    "fields": {
+        "question": 265,
+        "text": "HTTP se utiliza para correo electrónico inseguro. mientras que HTTPS se usa para correo electrónico seguro",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:46:08.058Z",
+        "updated_at": "2024-06-09T13:46:08.058Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1210,
+    "fields": {
+        "question": 266,
+        "text": "_Wireless Protocol Access_ 2; un estándar de seguridad para proteger las comunicaciones _WiFi_",
+        "is_correct": true,
+        "created_at": "2024-06-09T13:48:48.479Z",
+        "updated_at": "2024-06-09T13:48:48.479Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1211,
+    "fields": {
+        "question": 266,
+        "text": "_Wireless Power Adapter_ 2: un protocolo para aumentar la potencia de las señales inalámbricas",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:49:37.624Z",
+        "updated_at": "2024-06-09T13:49:37.624Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1212,
+    "fields": {
+        "question": 266,
+        "text": "_Web Provacy Agreement_ 2; un acuerdo de privacidad para usuarios de de redes inalámbricas",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:50:47.268Z",
+        "updated_at": "2024-06-09T13:50:47.268Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1213,
+    "fields": {
+        "question": 266,
+        "text": "_Wireless Performance Analysis_ 2; una herramienta para medir el rendimiento de conecciones _Wi-Fi_",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:51:29.403Z",
+        "updated_at": "2024-06-09T13:51:29.403Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1214,
+    "fields": {
+        "question": 267,
+        "text": "Mayor vulnerabilidad a interferencias electromagnéticas",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:54:01.065Z",
+        "updated_at": "2024-06-09T13:54:01.065Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1215,
+    "fields": {
+        "question": 267,
+        "text": "Mayor seguridad debido a la dificultad de interceptar señales",
+        "is_correct": true,
+        "created_at": "2024-06-09T13:54:55.837Z",
+        "updated_at": "2024-06-09T13:54:55.837Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1216,
+    "fields": {
+        "question": 267,
+        "text": "Mayor velocidad y capacidad, por lo tanto, más seguridad",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:55:43.054Z",
+        "updated_at": "2024-06-09T13:55:43.054Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1217,
+    "fields": {
+        "question": 267,
+        "text": "Mayor seguridad, ya que, en la distancia de transmisión, esta es casi ilimitada",
+        "is_correct": false,
+        "created_at": "2024-06-09T13:57:49.332Z",
+        "updated_at": "2024-06-09T13:57:49.332Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1218,
+    "fields": {
+        "question": 267,
+        "text": "Utiliza señales eléctricas sobre cables de cobre, lo que permiten mayor ancho de banda y mayor distancia",
+        "is_correct": false,
+        "created_at": "2024-06-09T14:15:04.310Z",
+        "updated_at": "2024-06-09T14:15:04.310Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1219,
+    "fields": {
+        "question": 267,
+        "text": "La fibra óptica es inmune a la interferencia electromagnética",
+        "is_correct": false,
+        "created_at": "2024-06-09T14:18:28.881Z",
+        "updated_at": "2024-06-09T14:18:28.881Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1220,
+    "fields": {
+        "question": 268,
+        "text": "Un mes",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:15:36.482Z",
+        "updated_at": "2024-06-09T15:15:36.482Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1221,
+    "fields": {
+        "question": 268,
+        "text": "Tres meses",
+        "is_correct": true,
+        "created_at": "2024-06-09T15:15:48.349Z",
+        "updated_at": "2024-06-09T15:15:48.349Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1222,
+    "fields": {
+        "question": 268,
+        "text": "Seis meses",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:15:54.386Z",
+        "updated_at": "2024-06-09T15:15:54.386Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1223,
+    "fields": {
+        "question": 268,
+        "text": "Un año",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:16:03.430Z",
+        "updated_at": "2024-06-09T15:16:03.430Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1224,
+    "fields": {
+        "question": 268,
+        "text": "Entre seis y nueve meses, dependiendo del tipo de procedimiento",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:16:38.676Z",
+        "updated_at": "2024-06-09T15:16:38.676Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1225,
+    "fields": {
+        "question": 269,
+        "text": "Almacenar datos de forma permanente",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:18:32.087Z",
+        "updated_at": "2024-06-09T15:18:32.087Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1226,
+    "fields": {
+        "question": 269,
+        "text": "Proporcionar espacio adicional de almacenamiento",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:18:59.277Z",
+        "updated_at": "2024-06-09T15:18:59.277Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1227,
+    "fields": {
+        "question": 269,
+        "text": "Que el sistema operativo disponga, tanto para el software de usuario como para sí mismo, de mayor cantidad de memoria que la disponible físicamente",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:20:20.408Z",
+        "updated_at": "2024-06-09T15:20:20.408Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1228,
+    "fields": {
+        "question": 269,
+        "text": "Mejorar la velocidad de acceso a datos frecuentemente usados",
+        "is_correct": true,
+        "created_at": "2024-06-09T15:21:10.415Z",
+        "updated_at": "2024-06-09T15:21:10.416Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1229,
+    "fields": {
+        "question": 269,
+        "text": "Gestionar el sistema operativo",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:21:24.167Z",
+        "updated_at": "2024-06-09T15:21:24.167Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1230,
+    "fields": {
+        "question": 269,
+        "text": "Es un algoritmo de planificación de E/S para dispositivos de bloques (discos duros)",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:23:48.093Z",
+        "updated_at": "2024-06-09T15:23:48.093Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1231,
+    "fields": {
+        "question": 270,
+        "text": "El Parlamento se reunirá anualmente en dos periodos ordinarios de sesiones, de septiembre de noviembre y de enero a julio, ambos inclusive",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:27:04.534Z",
+        "updated_at": "2024-06-09T15:27:04.534Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1232,
+    "fields": {
+        "question": 270,
+        "text": "La cámara podrá celebrar sesiones extraordinarias a petición de una quinta parte de la Cámara o de un grupo parlamentario",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:32:06.297Z",
+        "updated_at": "2024-06-09T15:32:06.297Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1233,
+    "fields": {
+        "question": 270,
+        "text": "Fuera del periodo de sesiones, la Diputación Permanente podrá acordar la habilitación de los días necesarios para cumplimentar los trámites que posibiliten la celebración de una sesión extraordinaria",
+        "is_correct": false,
+        "created_at": "2024-06-09T15:41:34.471Z",
+        "updated_at": "2024-06-09T15:41:34.471Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1234,
+    "fields": {
+        "question": 270,
+        "text": "La Mesa de la Cámara, con el acuerdo favorable de la Junta de Portavoces, adoptado por mayoría que represente al menos dos tercios de la Cámara, podrá habilitar los días necesarios para la tramitación de aquellos asuntos que, por su naturaleza, demanden una urgente solución",
+        "is_correct": true,
+        "created_at": "2024-06-09T15:42:13.680Z",
+        "updated_at": "2024-06-09T15:42:13.680Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1235,
+    "fields": {
+        "question": 271,
+        "text": "Las administraciones públicas deberán identificarse mediante el uso de una firma  electrónica",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:05:42.188Z",
+        "updated_at": "2024-06-13T17:05:42.188Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1236,
+    "fields": {
+        "question": 271,
+        "text": "Las administraciones públicas deberán identificarse mediante el uso de un sello electrónico",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:06:05.306Z",
+        "updated_at": "2024-06-13T17:06:05.306Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1237,
+    "fields": {
+        "question": 271,
+        "text": "Las administraciones públicas podrán identificarse mediante el uso de un sello electrónico, basado en un certificado electrónico reconocido o cualificado",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:07:05.583Z",
+        "updated_at": "2024-06-13T17:07:05.583Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1238,
+    "fields": {
+        "question": 271,
+        "text": "La relación de sellos electrónicos utilizados por cada administración pública no es pública y abierta, siendo accesible solo previa identificación por medios electrónicos",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:08:29.075Z",
+        "updated_at": "2024-06-13T17:08:29.075Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1239,
+    "fields": {
+        "question": 272,
+        "text": "Son herramientas avanzadas para grandes instalaciones, solo disponibles en la versión empresarial de _VMWare Sphere_",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:10:27.364Z",
+        "updated_at": "2024-06-13T17:10:27.364Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1240,
+    "fields": {
+        "question": 272,
+        "text": "Sirven para administrar y configurar el servidor de virtualización (_host_)",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:11:17.345Z",
+        "updated_at": "2024-06-13T17:11:17.345Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1241,
+    "fields": {
+        "question": 272,
+        "text": "Se instalan en la máquina virtual (_guest_) y permiten al hipervisor manejar detalles del sistema operativo _guest_",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:12:18.262Z",
+        "updated_at": "2024-06-13T17:12:18.262Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1242,
+    "fields": {
+        "question": 272,
+        "text": "Sirven para virtualizar un servidor físico existente",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:12:54.248Z",
+        "updated_at": "2024-06-13T17:12:54.248Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1243,
+    "fields": {
+        "question": 273,
+        "text": "`192.168.127.111`",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:15:28.639Z",
+        "updated_at": "2024-06-13T17:15:28.639Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1244,
+    "fields": {
+        "question": 273,
+        "text": "`127.0.0.1`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:15:42.433Z",
+        "updated_at": "2024-06-13T17:15:42.433Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1245,
+    "fields": {
+        "question": 273,
+        "text": "`172.67.69.61`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:16:52.058Z",
+        "updated_at": "2024-06-13T17:16:52.058Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1246,
+    "fields": {
+        "question": 273,
+        "text": "`255.0.0.0`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:17:05.640Z",
+        "updated_at": "2024-06-13T17:17:05.640Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1247,
+    "fields": {
+        "question": 273,
+        "text": "`75.748.86.91`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:19:00.038Z",
+        "updated_at": "2024-06-13T17:19:00.038Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1248,
+    "fields": {
+        "question": 273,
+        "text": "`23.75.345.200`",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:20:30.018Z",
+        "updated_at": "2024-06-13T17:20:30.018Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1249,
+    "fields": {
+        "question": 273,
+        "text": "`10.0.0.10`",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:24:32.992Z",
+        "updated_at": "2024-06-13T17:24:32.992Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1250,
+    "fields": {
+        "question": 274,
+        "text": "Mantenimiento del _hardware_ y del _software_",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:29:26.971Z",
+        "updated_at": "2024-06-13T17:29:26.971Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1251,
+    "fields": {
+        "question": 274,
+        "text": "Desarrollo de algoritmos de programación",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:29:45.807Z",
+        "updated_at": "2024-06-13T17:29:45.807Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1252,
+    "fields": {
+        "question": 274,
+        "text": "Evaluación y diseño de sistemas de información",
+        "is_correct": true,
+        "created_at": "2024-06-13T17:30:11.294Z",
+        "updated_at": "2024-06-13T17:30:11.294Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1253,
+    "fields": {
+        "question": 274,
+        "text": "Soporte técnico a usuarios finales",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:30:31.079Z",
+        "updated_at": "2024-06-13T17:30:31.079Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1254,
+    "fields": {
+        "question": 274,
+        "text": "Desarrollo de prototipos",
+        "is_correct": false,
+        "created_at": "2024-06-13T17:31:34.537Z",
+        "updated_at": "2024-06-13T17:31:34.537Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1255,
+    "fields": {
+        "question": 275,
+        "text": "Los delegados de prevención serán designados por la empresa entre los responsables del personal",
+        "is_correct": false,
+        "created_at": "2024-06-13T18:21:31.194Z",
+        "updated_at": "2024-06-13T18:21:31.194Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1256,
+    "fields": {
+        "question": 275,
+        "text": "Si la empresa cuenta con hasta treinta trabajadores, el delegado de prevención será el delegado de personal",
+        "is_correct": true,
+        "created_at": "2024-06-13T18:34:11.804Z",
+        "updated_at": "2024-06-13T18:34:11.804Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1257,
+    "fields": {
+        "question": 275,
+        "text": "Los convenios colectivos no podrán establecer otros sistemas de designación de los delegados de prevención, a fin de garantizar que la designación corresponda a los representantes del personal o a los propios trabajadores",
+        "is_correct": false,
+        "created_at": "2024-06-13T18:35:29.604Z",
+        "updated_at": "2024-06-13T18:35:29.604Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1258,
+    "fields": {
+        "question": 275,
+        "text": "Las competencias de los delegados de prevención podrán ser delegadas en otros trabajadores en los términos que disponga el convenio colectivo",
+        "is_correct": false,
+        "created_at": "2024-06-13T18:38:56.150Z",
+        "updated_at": "2024-06-13T18:38:56.150Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1259,
+    "fields": {
+        "question": 276,
+        "text": "Almacenar archivos y carpetas en una red",
+        "is_correct": false,
+        "created_at": "2024-06-13T19:17:27.095Z",
+        "updated_at": "2024-06-13T19:17:27.095Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1260,
+    "fields": {
+        "question": 276,
+        "text": "Controlar el acceso y la administración de recursos en una red",
+        "is_correct": true,
+        "created_at": "2024-06-13T19:17:49.175Z",
+        "updated_at": "2024-06-13T19:17:49.175Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1261,
+    "fields": {
+        "question": 276,
+        "text": "Gestionar el rendimiento de servidores de red",
+        "is_correct": false,
+        "created_at": "2024-06-13T19:18:14.570Z",
+        "updated_at": "2024-06-13T19:18:14.570Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1262,
+    "fields": {
+        "question": 276,
+        "text": "Crear directorios locales en estaciones de trabajo",
+        "is_correct": false,
+        "created_at": "2024-06-13T19:18:33.590Z",
+        "updated_at": "2024-06-13T19:18:33.591Z"
     }
 }
 ]
