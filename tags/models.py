@@ -21,6 +21,12 @@ class Tag(models.Model):
         default=Color.random_color,
         help_text='Label color in hex mode',
         )
+    description = models.CharField(
+        max_length=255,
+        default='',
+        unique=True,
+        help_text='Textual description of label',
+        )
 
     def __str__(self):
         return self.name
