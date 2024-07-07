@@ -4,7 +4,8 @@
     "pk": 1,
     "fields": {
         "name": "constitucion",
-        "color": "#023BDD"
+        "color": "#023BDD",
+        "description": "Constitucion"
     }
 },
 {
@@ -12,7 +13,8 @@
     "pk": 2,
     "fields": {
         "name": "reglamento",
-        "color": "#7FB016"
+        "color": "#7FB016",
+        "description": "Reglamento y reglas de Gobierno Interior del Parlamento de Canarias"
     }
 },
 {
@@ -20,7 +22,8 @@
     "pk": 3,
     "fields": {
         "name": "dni",
-        "color": "#0D1B9E"
+        "color": "#0D1B9E",
+        "description": "DNI electrónico"
     }
 },
 {
@@ -28,7 +31,8 @@
     "pk": 4,
     "fields": {
         "name": "transparencia",
-        "color": "#3AC557"
+        "color": "#3AC557",
+        "description": "Transparencia"
     }
 },
 {
@@ -36,7 +40,8 @@
     "pk": 5,
     "fields": {
         "name": "L40-15",
-        "color": "#6EE934"
+        "color": "#6EE934",
+        "description": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público"
     }
 },
 {
@@ -44,7 +49,26 @@
     "pk": 6,
     "fields": {
         "name": "igualdad",
-        "color": "#D4A872"
+        "color": "#D4A872",
+        "description": "Igualdad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 7,
+    "fields": {
+        "name": "L39-15",
+        "color": "#F07AFD",
+        "description": "Ley 32/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 8,
+    "fields": {
+        "name": "os",
+        "color": "#B59E7D",
+        "description": "Sistemas operativos"
     }
 }
 ]

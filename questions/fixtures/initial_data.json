@@ -4260,6 +4260,291 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 285,
+    "fields": {
+        "id_question": 277,
+        "text": "Según el artículo 6 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, se considera discriminación directo por razón de sexo:",
+        "source": "",
+        "created_at": "2024-06-16T12:49:38.694Z",
+        "updated_at": "2024-06-16T12:49:38.694Z",
+        "history_date": "2024-06-16T12:49:38.702Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 286,
+    "fields": {
+        "id_question": 278,
+        "text": "¿Qué es n _timeline_ o _muro_ en una red social?",
+        "source": "",
+        "created_at": "2024-06-17T18:11:49.035Z",
+        "updated_at": "2024-06-17T18:11:49.035Z",
+        "history_date": "2024-06-17T18:11:49.045Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 287,
+    "fields": {
+        "id_question": 278,
+        "text": "¿Qué es un _timeline_ o _muro_ en una red social?",
+        "source": "",
+        "created_at": "2024-06-17T18:11:49.035Z",
+        "updated_at": "2024-06-17T18:11:55.678Z",
+        "history_date": "2024-06-17T18:11:55.696Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 288,
+    "fields": {
+        "id_question": 279,
+        "text": "¿Cuales son las principales generaciones de tecnologías de telefonía móvil, y en que se diferencian cada una?",
+        "source": "",
+        "created_at": "2024-06-17T18:17:01.363Z",
+        "updated_at": "2024-06-17T18:17:01.363Z",
+        "history_date": "2024-06-17T18:17:01.370Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 289,
+    "fields": {
+        "id_question": 280,
+        "text": "¿Cuál de los siguientes sistemas operativos móviles es de código abierto y basado en el núcleo _Linux_?",
+        "source": "",
+        "created_at": "2024-06-17T18:28:41.382Z",
+        "updated_at": "2024-06-17T18:28:41.382Z",
+        "history_date": "2024-06-17T18:28:41.392Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 290,
+    "fields": {
+        "id_question": 281,
+        "text": "¿Qué es un sistema de gestión de incidencias en el contexto de soporte técnico?",
+        "source": "",
+        "created_at": "2024-06-17T19:49:36.433Z",
+        "updated_at": "2024-06-17T19:49:36.433Z",
+        "history_date": "2024-06-17T19:49:36.442Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 291,
+    "fields": {
+        "id_question": 282,
+        "text": "Según el artículo 24 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, la funcionaria víctima de violencia de género tendrá derecho:",
+        "source": "",
+        "created_at": "2024-06-17T20:08:36.779Z",
+        "updated_at": "2024-06-17T20:08:36.779Z",
+        "history_date": "2024-06-17T20:08:36.786Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 292,
+    "fields": {
+        "id_question": 283,
+        "text": "Según el artículo 28 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "source": "",
+        "created_at": "2024-06-17T20:13:30.797Z",
+        "updated_at": "2024-06-17T20:13:30.797Z",
+        "history_date": "2024-06-17T20:13:30.807Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 293,
+    "fields": {
+        "id_question": 284,
+        "text": "¿Cuál es una característica común entre sistemas operativos Windows y Linux en cuanto a la administración de los usuarios?",
+        "source": "",
+        "created_at": "2024-06-17T20:22:17.460Z",
+        "updated_at": "2024-06-17T20:22:17.460Z",
+        "history_date": "2024-06-17T20:22:17.467Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 294,
+    "fields": {
+        "id_question": 285,
+        "text": "¿Qué permite realizar la función de _filtros_ en las hojas de cálculo?",
+        "source": "",
+        "created_at": "2024-06-17T20:27:41.959Z",
+        "updated_at": "2024-06-17T20:27:41.959Z",
+        "history_date": "2024-06-17T20:27:41.967Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 295,
+    "fields": {
+        "id_question": 286,
+        "text": "¿Qué es un códec de vídeo y cuál es su función en la reproducción de vídeo?",
+        "source": "",
+        "created_at": "2024-06-17T20:31:01.581Z",
+        "updated_at": "2024-06-17T20:31:01.581Z",
+        "history_date": "2024-06-17T20:31:01.589Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 296,
+    "fields": {
+        "id_question": 287,
+        "text": "¿Qué son los _applets_ de Java?",
+        "source": "",
+        "created_at": "2024-06-17T20:35:26.060Z",
+        "updated_at": "2024-06-17T20:35:26.060Z",
+        "history_date": "2024-06-17T20:35:26.071Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 297,
+    "fields": {
+        "id_question": 288,
+        "text": "La Presidencia del Parlamento podrá convocar una comisión:",
+        "source": "",
+        "created_at": "2024-06-17T20:45:28.466Z",
+        "updated_at": "2024-06-17T20:45:28.466Z",
+        "history_date": "2024-06-17T20:45:28.475Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 298,
+    "fields": {
+        "id_question": 289,
+        "text": "¿En qué nivel OSI opera el protocolo SNMP?",
+        "source": "",
+        "created_at": "2024-06-17T20:49:17.319Z",
+        "updated_at": "2024-06-17T20:49:17.319Z",
+        "history_date": "2024-06-17T20:49:17.327Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 299,
+    "fields": {
+        "id_question": 290,
+        "text": "Nivel 4 o capa de transporte",
+        "source": "",
+        "created_at": "2024-06-17T20:52:13.076Z",
+        "updated_at": "2024-06-17T20:52:13.076Z",
+        "history_date": "2024-06-17T20:52:13.087Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 300,
+    "fields": {
+        "id_question": 289,
+        "text": "¿En qué nivel OSI opera el protocolo SNMP?",
+        "source": "https://es.wikipedia.org/wiki/Modelo_OSI",
+        "created_at": "2024-06-17T20:49:17.319Z",
+        "updated_at": "2024-06-17T20:56:44.628Z",
+        "history_date": "2024-06-17T20:56:44.637Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 301,
+    "fields": {
+        "id_question": 290,
+        "text": "Dada una tabla `funcionario`, con los campos `nombre` e `id_grupo`, y la tabla `grupo` con los campos `id_grupo` y `nombre_grupo`, si queremos obtener un listado con los funcionarios y el grupo al que pertenecen, sin incluir a ningún funcionario que no este asignado a algún grupo, ni grupos que no incluyan a ningún funcionario, la sentencia `SQL` que tendré que utilizar es:",
+        "source": "",
+        "created_at": "2024-06-17T20:52:13.076Z",
+        "updated_at": "2024-06-17T21:01:37.608Z",
+        "history_date": "2024-06-17T21:01:37.619Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 302,
+    "fields": {
+        "id_question": 291,
+        "text": "Según el artículo 42 del Reglamento del Parlamento de Canarias, la convocatoria de la Junta de Portavoces la hara:",
+        "source": "",
+        "created_at": "2024-06-17T21:06:15.298Z",
+        "updated_at": "2024-06-17T21:06:15.298Z",
+        "history_date": "2024-06-17T21:06:15.306Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 303,
+    "fields": {
+        "id_question": 291,
+        "text": "Según el artículo 42 del Reglamento del Parlamento de Canarias, la convocatoria de la Junta de Portavoces la hará:",
+        "source": "",
+        "created_at": "2024-06-17T21:06:15.298Z",
+        "updated_at": "2024-06-17T21:06:30.646Z",
+        "history_date": "2024-06-17T21:06:30.654Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -7315,6 +7600,183 @@
         "created_at": "2024-06-13T19:17:08.301Z",
         "updated_at": "2024-06-13T19:17:08.301Z",
         "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 277,
+    "fields": {
+        "text": "Según el artículo 6 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, se considera discriminación directo por razón de sexo:",
+        "source": "",
+        "created_at": "2024-06-16T12:49:38.694Z",
+        "updated_at": "2024-06-16T12:49:38.694Z",
+        "tags": [
+            6
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 278,
+    "fields": {
+        "text": "¿Qué es un _timeline_ o _muro_ en una red social?",
+        "source": "",
+        "created_at": "2024-06-17T18:11:49.035Z",
+        "updated_at": "2024-06-17T18:11:55.678Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 279,
+    "fields": {
+        "text": "¿Cuales son las principales generaciones de tecnologías de telefonía móvil, y en que se diferencian cada una?",
+        "source": "",
+        "created_at": "2024-06-17T18:17:01.363Z",
+        "updated_at": "2024-06-17T18:17:01.363Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 280,
+    "fields": {
+        "text": "¿Cuál de los siguientes sistemas operativos móviles es de código abierto y basado en el núcleo _Linux_?",
+        "source": "",
+        "created_at": "2024-06-17T18:28:41.382Z",
+        "updated_at": "2024-06-17T18:28:41.382Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 281,
+    "fields": {
+        "text": "¿Qué es un sistema de gestión de incidencias en el contexto de soporte técnico?",
+        "source": "",
+        "created_at": "2024-06-17T19:49:36.433Z",
+        "updated_at": "2024-06-17T19:49:36.433Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 282,
+    "fields": {
+        "text": "Según el artículo 24 de la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, la funcionaria víctima de violencia de género tendrá derecho:",
+        "source": "",
+        "created_at": "2024-06-17T20:08:36.779Z",
+        "updated_at": "2024-06-17T20:08:36.779Z",
+        "tags": [
+            6
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 283,
+    "fields": {
+        "text": "Según el artículo 28 de la Ley 39/2015, de 1 de octubre, de Procedimiento Administrativo Común de las Administraciones Públicas:",
+        "source": "",
+        "created_at": "2024-06-17T20:13:30.797Z",
+        "updated_at": "2024-06-17T20:13:30.797Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 284,
+    "fields": {
+        "text": "¿Cuál es una característica común entre sistemas operativos Windows y Linux en cuanto a la administración de los usuarios?",
+        "source": "",
+        "created_at": "2024-06-17T20:22:17.460Z",
+        "updated_at": "2024-06-17T20:22:17.460Z",
+        "tags": [
+            8
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 285,
+    "fields": {
+        "text": "¿Qué permite realizar la función de _filtros_ en las hojas de cálculo?",
+        "source": "",
+        "created_at": "2024-06-17T20:27:41.959Z",
+        "updated_at": "2024-06-17T20:27:41.959Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 286,
+    "fields": {
+        "text": "¿Qué es un códec de vídeo y cuál es su función en la reproducción de vídeo?",
+        "source": "",
+        "created_at": "2024-06-17T20:31:01.581Z",
+        "updated_at": "2024-06-17T20:31:01.581Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 287,
+    "fields": {
+        "text": "¿Qué son los _applets_ de Java?",
+        "source": "",
+        "created_at": "2024-06-17T20:35:26.060Z",
+        "updated_at": "2024-06-17T20:35:26.060Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 288,
+    "fields": {
+        "text": "La Presidencia del Parlamento podrá convocar una comisión:",
+        "source": "",
+        "created_at": "2024-06-17T20:45:28.466Z",
+        "updated_at": "2024-06-17T20:45:28.466Z",
+        "tags": [
+            2
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 289,
+    "fields": {
+        "text": "¿En qué nivel OSI opera el protocolo SNMP?",
+        "source": "https://es.wikipedia.org/wiki/Modelo_OSI",
+        "created_at": "2024-06-17T20:49:17.319Z",
+        "updated_at": "2024-06-17T20:56:44.628Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 290,
+    "fields": {
+        "text": "Dada una tabla `funcionario`, con los campos `nombre` e `id_grupo`, y la tabla `grupo` con los campos `id_grupo` y `nombre_grupo`, si queremos obtener un listado con los funcionarios y el grupo al que pertenecen, sin incluir a ningún funcionario que no este asignado a algún grupo, ni grupos que no incluyan a ningún funcionario, la sentencia `SQL` que tendré que utilizar es:",
+        "source": "",
+        "created_at": "2024-06-17T20:52:13.076Z",
+        "updated_at": "2024-06-17T21:01:37.608Z",
+        "tags": []
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 291,
+    "fields": {
+        "text": "Según el artículo 42 del Reglamento del Parlamento de Canarias, la convocatoria de la Junta de Portavoces la hará:",
+        "source": "",
+        "created_at": "2024-06-17T21:06:15.298Z",
+        "updated_at": "2024-06-17T21:06:30.646Z",
+        "tags": [
+            2
+        ]
     }
 },
 {
@@ -27622,6 +28084,1430 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 1270,
+    "fields": {
+        "id_answer": 1263,
+        "text": "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro",
+        "is_correct": false,
+        "created_at": "2024-06-16T12:51:20.220Z",
+        "updated_at": "2024-06-16T12:51:20.220Z",
+        "question": 277,
+        "history_date": "2024-06-16T12:51:20.229Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1271,
+    "fields": {
+        "id_answer": 1264,
+        "text": "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas por razón de su raza en desventaja particular con respecto a personas del otro sexo",
+        "is_correct": false,
+        "created_at": "2024-06-16T12:52:40.414Z",
+        "updated_at": "2024-06-16T12:52:40.414Z",
+        "question": 277,
+        "history_date": "2024-06-16T12:52:40.422Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1272,
+    "fields": {
+        "id_answer": 1265,
+        "text": "La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable",
+        "is_correct": true,
+        "created_at": "2024-06-16T12:54:39.247Z",
+        "updated_at": "2024-06-16T12:54:39.247Z",
+        "question": 277,
+        "history_date": "2024-06-16T12:54:39.254Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1273,
+    "fields": {
+        "id_answer": 1266,
+        "text": "La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su raza y nacionalidad de manera menos favorable que otra en situación comparable",
+        "is_correct": false,
+        "created_at": "2024-06-16T12:55:08.992Z",
+        "updated_at": "2024-06-16T12:55:08.993Z",
+        "question": 277,
+        "history_date": "2024-06-16T12:55:09.001Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1274,
+    "fields": {
+        "id_answer": 1267,
+        "text": "Una barrera de privacidad para limitar el acceso a ciertos contenidos",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:12:23.573Z",
+        "updated_at": "2024-06-17T18:12:23.573Z",
+        "question": 278,
+        "history_date": "2024-06-17T18:12:23.583Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1275,
+    "fields": {
+        "id_answer": 1268,
+        "text": "Una herramienta de mensajería privada entre usuarios",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:12:52.640Z",
+        "updated_at": "2024-06-17T18:12:52.640Z",
+        "question": 278,
+        "history_date": "2024-06-17T18:12:52.648Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1276,
+    "fields": {
+        "id_answer": 1269,
+        "text": "Una línea temporal que muestra las actividades y publicaciones de un usuario",
+        "is_correct": true,
+        "created_at": "2024-06-17T18:14:09.031Z",
+        "updated_at": "2024-06-17T18:14:09.031Z",
+        "question": 278,
+        "history_date": "2024-06-17T18:14:09.038Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1277,
+    "fields": {
+        "id_answer": 1270,
+        "text": "Un sistema de votación para clasificar contenido",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:14:37.282Z",
+        "updated_at": "2024-06-17T18:14:37.282Z",
+        "question": 278,
+        "history_date": "2024-06-17T18:14:37.293Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1278,
+    "fields": {
+        "id_answer": 1271,
+        "text": "Fenómeno cuántico por el que una partícula viola los principios de la mecánica clásica penetrando una barrera de potencial o impedancia mayor que la energía cinética de la propia partícula",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:15:42.363Z",
+        "updated_at": "2024-06-17T18:15:42.363Z",
+        "question": 278,
+        "history_date": "2024-06-17T18:15:42.370Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1279,
+    "fields": {
+        "id_answer": 1272,
+        "text": "1G: Transmisión de datos, 2G: Comunicación de voz, 3G: Internet móvil, 4G: Videoconferencia",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:17:59.773Z",
+        "updated_at": "2024-06-17T18:17:59.773Z",
+        "question": 279,
+        "history_date": "2024-06-17T18:17:59.787Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1280,
+    "fields": {
+        "id_answer": 1273,
+        "text": "`1G`: Analógico, `2G`: Digital, `3G`: Internet móvil, `4G`: Velocidades de datos más rápidas",
+        "is_correct": true,
+        "created_at": "2024-06-17T18:19:05.649Z",
+        "updated_at": "2024-06-17T18:19:05.649Z",
+        "question": 279,
+        "history_date": "2024-06-17T18:19:05.656Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1281,
+    "fields": {
+        "id_answer": 1272,
+        "text": "`1G`: Transmisión de datos, `2G`: Comunicación de voz, `3G`: Internet móvil, `4G`: Videoconferencia",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:17:59.773Z",
+        "updated_at": "2024-06-17T18:19:22.718Z",
+        "question": 279,
+        "history_date": "2024-06-17T18:19:22.725Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1282,
+    "fields": {
+        "id_answer": 1274,
+        "text": "`1G`: Internet móvil, `2G`: Comunicación de voz, `3G`: Velocidades de datos más rápidas, `4G`: Analógico",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:20:35.667Z",
+        "updated_at": "2024-06-17T18:20:35.667Z",
+        "question": 279,
+        "history_date": "2024-06-17T18:20:35.675Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1283,
+    "fields": {
+        "id_answer": 1275,
+        "text": "`1G`: Velocidades de datos más rápidas, `2G`: Analógico, `3G`: Comunicación de voz, `4G`: Digital",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:21:33.715Z",
+        "updated_at": "2024-06-17T18:21:33.715Z",
+        "question": 279,
+        "history_date": "2024-06-17T18:21:33.728Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": null
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1284,
+    "fields": {
+        "id_answer": 1276,
+        "text": "`1G`: Bulbasaur, `2G`: Ivysaur, `3G`: Venusaur, `4G`: Megavenosaur",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:25:58.283Z",
+        "updated_at": "2024-06-17T18:25:58.283Z",
+        "question": 279,
+        "history_date": "2024-06-17T18:25:58.302Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1285,
+    "fields": {
+        "id_answer": 1277,
+        "text": "iOS",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:28:49.403Z",
+        "updated_at": "2024-06-17T18:28:49.403Z",
+        "question": 280,
+        "history_date": "2024-06-17T18:28:49.413Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1286,
+    "fields": {
+        "id_answer": 1278,
+        "text": "Android",
+        "is_correct": true,
+        "created_at": "2024-06-17T18:29:01.070Z",
+        "updated_at": "2024-06-17T18:29:01.070Z",
+        "question": 280,
+        "history_date": "2024-06-17T18:29:01.091Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1287,
+    "fields": {
+        "id_answer": 1279,
+        "text": "Windows Phone",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:29:08.320Z",
+        "updated_at": "2024-06-17T18:29:08.320Z",
+        "question": 280,
+        "history_date": "2024-06-17T18:29:08.338Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1288,
+    "fields": {
+        "id_answer": 1280,
+        "text": "Blackberry OS",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:29:18.073Z",
+        "updated_at": "2024-06-17T18:29:18.073Z",
+        "question": 280,
+        "history_date": "2024-06-17T18:29:18.085Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1289,
+    "fields": {
+        "id_answer": 1281,
+        "text": "Inferno",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:29:35.424Z",
+        "updated_at": "2024-06-17T18:29:35.424Z",
+        "question": 280,
+        "history_date": "2024-06-17T18:29:35.442Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1290,
+    "fields": {
+        "id_answer": 1282,
+        "text": "Un _software_ que permite acceder de forma remota a un equipo de  un usuario que tenga un problema",
+        "is_correct": false,
+        "created_at": "2024-06-17T19:50:41.237Z",
+        "updated_at": "2024-06-17T19:50:41.237Z",
+        "question": 281,
+        "history_date": "2024-06-17T19:50:41.248Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1291,
+    "fields": {
+        "id_answer": 1283,
+        "text": "Una aplicación de redes sociales con el fin de resolver problemas",
+        "is_correct": false,
+        "created_at": "2024-06-17T19:51:18.145Z",
+        "updated_at": "2024-06-17T19:51:18.145Z",
+        "question": 281,
+        "history_date": "2024-06-17T19:51:18.159Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1292,
+    "fields": {
+        "id_answer": 1284,
+        "text": "Una plataforma para administrar problemas y solicitudes de usuarios",
+        "is_correct": true,
+        "created_at": "2024-06-17T19:51:47.591Z",
+        "updated_at": "2024-06-17T19:51:47.591Z",
+        "question": 281,
+        "history_date": "2024-06-17T19:51:47.607Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1293,
+    "fields": {
+        "id_answer": 1285,
+        "text": "Un programa antivirus que se despliega desde un servidor y se reparte en los equipos con problemas",
+        "is_correct": false,
+        "created_at": "2024-06-17T19:52:34.707Z",
+        "updated_at": "2024-06-17T19:52:34.707Z",
+        "question": 281,
+        "history_date": "2024-06-17T19:52:34.722Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1294,
+    "fields": {
+        "id_answer": 1286,
+        "text": "Un sistema que constantemente monitoriza una red de computadoras en busca de componentes defectuosos o lentos, para luego informar a los administradores de redes",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:05:12.472Z",
+        "updated_at": "2024-06-17T20:05:12.472Z",
+        "question": 281,
+        "history_date": "2024-06-17T20:05:12.480Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1295,
+    "fields": {
+        "id_answer": 1287,
+        "text": "A la reducción o reordenación de su tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia en los términos que se determinen es su legislación específica",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:10:12.476Z",
+        "updated_at": "2024-06-17T20:10:12.476Z",
+        "question": 282,
+        "history_date": "2024-06-17T20:10:12.487Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1296,
+    "fields": {
+        "id_answer": 1288,
+        "text": "Únicamente a la reducción de su tiempo de trabajo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:10:36.565Z",
+        "updated_at": "2024-06-17T20:10:36.565Z",
+        "question": 282,
+        "history_date": "2024-06-17T20:10:36.579Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1297,
+    "fields": {
+        "id_answer": 1289,
+        "text": "A su libertad y dignidad",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:10:46.834Z",
+        "updated_at": "2024-06-17T20:10:46.834Z",
+        "question": 282,
+        "history_date": "2024-06-17T20:10:46.841Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1298,
+    "fields": {
+        "id_answer": 1290,
+        "text": "La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, no regula ningún derecho especial para las funcionarias víctimas de violencia de género",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:11:55.115Z",
+        "updated_at": "2024-06-17T20:11:55.115Z",
+        "question": 282,
+        "history_date": "2024-06-17T20:11:55.122Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1299,
+    "fields": {
+        "id_answer": 1291,
+        "text": "Los interesados solo deberán aportar al procedimiento administrativo los documentos exigidos  por las administraciones públicas, salvo que estén en formato electrónico",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:15:31.635Z",
+        "updated_at": "2024-06-17T20:15:31.635Z",
+        "question": 283,
+        "history_date": "2024-06-17T20:15:31.646Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1300,
+    "fields": {
+        "id_answer": 1292,
+        "text": "Los interesados tienen derecho a aportar documentos que ya se encuentran en poder de la administración actuante o hayan sido elaborados por cualquier otra adminsistración",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:16:52.069Z",
+        "updated_at": "2024-06-17T20:16:52.069Z",
+        "question": 283,
+        "history_date": "2024-06-17T20:16:52.078Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1301,
+    "fields": {
+        "id_answer": 1293,
+        "text": "Las administraciones exigirán a los interesados que los documentos presentados sean originales, pudiéndose cotejar la copia si así se solicita por el interesado",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:18:12.930Z",
+        "updated_at": "2024-06-17T20:18:12.930Z",
+        "question": 283,
+        "history_date": "2024-06-17T20:18:12.936Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1302,
+    "fields": {
+        "id_answer": 1294,
+        "text": "Cuando excepcionalmente la administración solicite la presentación de un documento original en papel, el interesado deberá obtener una copia auténtica, con carácter previo a su presentación electrónica",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:19:51.279Z",
+        "updated_at": "2024-06-17T20:19:51.279Z",
+        "question": 283,
+        "history_date": "2024-06-17T20:19:51.286Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1303,
+    "fields": {
+        "id_answer": 1295,
+        "text": "Utilización exclusiva de cuentas de usuario locales",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:22:41.846Z",
+        "updated_at": "2024-06-17T20:22:41.846Z",
+        "question": 284,
+        "history_date": "2024-06-17T20:22:41.855Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1304,
+    "fields": {
+        "id_answer": 1296,
+        "text": "Posibilidad de asignar permisos y roles a los usuarios",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:23:01.310Z",
+        "updated_at": "2024-06-17T20:23:01.310Z",
+        "question": 284,
+        "history_date": "2024-06-17T20:23:01.316Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1305,
+    "fields": {
+        "id_answer": 1297,
+        "text": "Requerimiento de licencia individual para cada usuario",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:23:27.765Z",
+        "updated_at": "2024-06-17T20:23:27.765Z",
+        "question": 284,
+        "history_date": "2024-06-17T20:23:27.773Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1306,
+    "fields": {
+        "id_answer": 1298,
+        "text": "Dependencia de un servidor central para la autenticación",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:23:51.816Z",
+        "updated_at": "2024-06-17T20:23:51.816Z",
+        "question": 284,
+        "history_date": "2024-06-17T20:23:51.823Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1307,
+    "fields": {
+        "id_answer": 1299,
+        "text": "Ordenar datos alfabéticamente",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:28:00.995Z",
+        "updated_at": "2024-06-17T20:28:00.995Z",
+        "question": 285,
+        "history_date": "2024-06-17T20:28:01.005Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1308,
+    "fields": {
+        "id_answer": 1300,
+        "text": "Ocultar temporalmente datos que no cumplen ciertos criterios",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:28:31.407Z",
+        "updated_at": "2024-06-17T20:28:31.407Z",
+        "question": 285,
+        "history_date": "2024-06-17T20:28:31.418Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1309,
+    "fields": {
+        "id_answer": 1301,
+        "text": "Realizar operaciones matemáticas en columnas enteras",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:28:57.549Z",
+        "updated_at": "2024-06-17T20:28:57.549Z",
+        "question": 285,
+        "history_date": "2024-06-17T20:28:57.560Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1310,
+    "fields": {
+        "id_answer": 1302,
+        "text": "Filtrar los enlaces hipertexto dentro de una hoja de cálculo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:29:18.902Z",
+        "updated_at": "2024-06-17T20:29:18.902Z",
+        "question": 285,
+        "history_date": "2024-06-17T20:29:18.910Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1311,
+    "fields": {
+        "id_answer": 1303,
+        "text": "Un dispositivo de salida de audio",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:31:14.713Z",
+        "updated_at": "2024-06-17T20:31:14.713Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:31:14.721Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1312,
+    "fields": {
+        "id_answer": 1304,
+        "text": "Una técnica para mejorar la calidad del audio envolvente",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:32:15.171Z",
+        "updated_at": "2024-06-17T20:32:15.171Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:32:15.178Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1313,
+    "fields": {
+        "id_answer": 1305,
+        "text": "Un entorno generado mediante tecnología informática, que crea en el usuario la sensación de estar inmerso en un espacio virtual",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:32:48.686Z",
+        "updated_at": "2024-06-17T20:32:48.686Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:32:48.694Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1314,
+    "fields": {
+        "id_answer": 1306,
+        "text": "Un formato de archivo para encriptar/desencriptar vídeo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:33:21.241Z",
+        "updated_at": "2024-06-17T20:33:21.241Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:33:21.248Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1315,
+    "fields": {
+        "id_answer": 1307,
+        "text": "Un algoritmo que comprime y descomprime datos de vídeo",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:33:45.573Z",
+        "updated_at": "2024-06-17T20:33:45.573Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:33:45.582Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1316,
+    "fields": {
+        "id_answer": 1308,
+        "text": "Un algoritmo para encriptar/desencriptar el vídeo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:34:21.793Z",
+        "updated_at": "2024-06-17T20:34:21.793Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:34:21.799Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1317,
+    "fields": {
+        "id_answer": 1306,
+        "text": "Un formato de archivo para almacenar vídeos cifrados",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:33:21.241Z",
+        "updated_at": "2024-06-17T20:34:43.412Z",
+        "question": 286,
+        "history_date": "2024-06-17T20:34:43.418Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1318,
+    "fields": {
+        "id_answer": 1309,
+        "text": "Pequeños programas escritos en _Javascript_",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:35:48.544Z",
+        "updated_at": "2024-06-17T20:35:48.544Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:35:48.553Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1319,
+    "fields": {
+        "id_answer": 1310,
+        "text": "Componentes para mejorar la interfaz de usuario en navegadores",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:36:13.834Z",
+        "updated_at": "2024-06-17T20:36:13.834Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:36:13.842Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1320,
+    "fields": {
+        "id_answer": 1311,
+        "text": "Extensiones para navegadores que mejoran la seguridad",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:36:40.935Z",
+        "updated_at": "2024-06-17T20:36:40.935Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:36:40.944Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1321,
+    "fields": {
+        "id_answer": 1312,
+        "text": "Programa Java integrados en páginas _web_ que se ejecutan en el navegador",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:37:29.868Z",
+        "updated_at": "2024-06-17T20:37:29.868Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:37:29.878Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1322,
+    "fields": {
+        "id_answer": 1312,
+        "text": "Programa Java integrados en páginas _web_ que se ejecutan en el navegador",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:37:29.868Z",
+        "updated_at": "2024-06-17T20:37:34.167Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:37:34.180Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1323,
+    "fields": {
+        "id_answer": 1313,
+        "text": "Programa Java integrados en páginas _web_ que se ejecutan en el servidor",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:37:42.228Z",
+        "updated_at": "2024-06-17T20:37:42.228Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:37:42.239Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1324,
+    "fields": {
+        "id_answer": 1312,
+        "text": "Programas Java integrados en páginas _web_ que se ejecutan en el navegador",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:37:29.868Z",
+        "updated_at": "2024-06-17T20:39:06.925Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:39:06.932Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1325,
+    "fields": {
+        "id_answer": 1313,
+        "text": "Programas Java integrados en páginas _web_ que se ejecutan en el servidor",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:37:42.228Z",
+        "updated_at": "2024-06-17T20:39:14.908Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:39:14.918Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1326,
+    "fields": {
+        "id_answer": 1314,
+        "text": "Programas Java modificados para ejecutarse sobre la máquina virtual Dalvik (_Dalvik Virtual Machine_)",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:40:16.220Z",
+        "updated_at": "2024-06-17T20:40:16.220Z",
+        "question": 287,
+        "history_date": "2024-06-17T20:40:16.236Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1327,
+    "fields": {
+        "id_answer": 1315,
+        "text": "Después de haber requerido a su presidente por tres veces y sin respuesta para convocarla",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:46:10.105Z",
+        "updated_at": "2024-06-17T20:46:10.105Z",
+        "question": 288,
+        "history_date": "2024-06-17T20:46:10.113Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1328,
+    "fields": {
+        "id_answer": 1316,
+        "text": "Las comisiones serán convocadas unicamente por su presidente",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:46:35.351Z",
+        "updated_at": "2024-06-17T20:46:35.351Z",
+        "question": 288,
+        "history_date": "2024-06-17T20:46:35.358Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1329,
+    "fields": {
+        "id_answer": 1317,
+        "text": "Después de haber requerido por dos veces a su presidente y sin respuesta para convocarla",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:47:16.570Z",
+        "updated_at": "2024-06-17T20:47:16.570Z",
+        "question": 288,
+        "history_date": "2024-06-17T20:47:16.584Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1330,
+    "fields": {
+        "id_answer": 1318,
+        "text": "Después de haberlo requerido  a su presidente y sin respuesta para convocarla",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:47:40.666Z",
+        "updated_at": "2024-06-17T20:47:40.666Z",
+        "question": 288,
+        "history_date": "2024-06-17T20:47:40.675Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1331,
+    "fields": {
+        "id_answer": 1319,
+        "text": "Nivel 1",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:24.925Z",
+        "updated_at": "2024-06-17T20:49:24.925Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:49:24.930Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1332,
+    "fields": {
+        "id_answer": 1320,
+        "text": "Nivel 3",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:32.155Z",
+        "updated_at": "2024-06-17T20:49:32.155Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:49:32.163Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1333,
+    "fields": {
+        "id_answer": 1321,
+        "text": "Nivel 5",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:38.610Z",
+        "updated_at": "2024-06-17T20:49:38.610Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:49:38.617Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1334,
+    "fields": {
+        "id_answer": 1322,
+        "text": "Nivel 7",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:49:45.294Z",
+        "updated_at": "2024-06-17T20:49:45.294Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:49:45.299Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1335,
+    "fields": {
+        "id_answer": 1322,
+        "text": "Nivel 7 o  capa de aplicación",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:49:45.294Z",
+        "updated_at": "2024-06-17T20:50:22.703Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:50:22.714Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1336,
+    "fields": {
+        "id_answer": 1319,
+        "text": "Nivel 1 o capa física",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:24.925Z",
+        "updated_at": "2024-06-17T20:50:51.763Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:50:51.771Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1337,
+    "fields": {
+        "id_answer": 1323,
+        "text": "Nivel 2 o capa de enlace de datos",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:51:21.651Z",
+        "updated_at": "2024-06-17T20:51:21.651Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:51:21.663Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1338,
+    "fields": {
+        "id_answer": 1320,
+        "text": "Nivel 3 o nivel de red",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:32.155Z",
+        "updated_at": "2024-06-17T20:51:43.744Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:51:43.752Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1339,
+    "fields": {
+        "id_answer": 1324,
+        "text": "Nivel 4 o capa de transporte",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:52:48.176Z",
+        "updated_at": "2024-06-17T20:52:48.176Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:52:48.187Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1340,
+    "fields": {
+        "id_answer": 1321,
+        "text": "Nivel 5 o capa de sesión",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:38.610Z",
+        "updated_at": "2024-06-17T20:53:07.675Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:53:07.684Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1341,
+    "fields": {
+        "id_answer": 1325,
+        "text": "Nivel *6* o capa de presentación",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:54:01.965Z",
+        "updated_at": "2024-06-17T20:54:01.965Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:01.973Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1342,
+    "fields": {
+        "id_answer": 1325,
+        "text": "Nivel **6** o capa de presentación",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:54:01.965Z",
+        "updated_at": "2024-06-17T20:54:15.478Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:15.487Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1343,
+    "fields": {
+        "id_answer": 1319,
+        "text": "Nivel **1** o capa física",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:24.925Z",
+        "updated_at": "2024-06-17T20:54:25.461Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:25.469Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1344,
+    "fields": {
+        "id_answer": 1320,
+        "text": "Nivel **3** o nivel de red",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:32.155Z",
+        "updated_at": "2024-06-17T20:54:32.035Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:32.041Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1345,
+    "fields": {
+        "id_answer": 1321,
+        "text": "Nivel **5** o capa de sesión",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:38.610Z",
+        "updated_at": "2024-06-17T20:54:38.736Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:38.743Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1346,
+    "fields": {
+        "id_answer": 1322,
+        "text": "Nivel **7** o  capa de aplicación",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:49:45.294Z",
+        "updated_at": "2024-06-17T20:54:49.488Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:49.495Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1347,
+    "fields": {
+        "id_answer": 1323,
+        "text": "Nivel **2** o capa de enlace de datos",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:51:21.651Z",
+        "updated_at": "2024-06-17T20:54:58.754Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:54:58.762Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1348,
+    "fields": {
+        "id_answer": 1324,
+        "text": "Nivel **4** o capa de transporte",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:52:48.176Z",
+        "updated_at": "2024-06-17T20:55:06.892Z",
+        "question": 289,
+        "history_date": "2024-06-17T20:55:06.901Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1349,
+    "fields": {
+        "id_answer": 1326,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": true,
+        "created_at": "2024-06-17T21:02:50.105Z",
+        "updated_at": "2024-06-17T21:02:50.105Z",
+        "question": 290,
+        "history_date": "2024-06-17T21:02:50.111Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1350,
+    "fields": {
+        "id_answer": 1327,
+        "text": "> `SELECT funcionario.nombre, grupo.nombre_grupo`\r\n> `  FROM funcionario LEFT JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:03:33.240Z",
+        "updated_at": "2024-06-17T21:03:33.240Z",
+        "question": 290,
+        "history_date": "2024-06-17T21:03:33.248Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1351,
+    "fields": {
+        "id_answer": 1327,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo  FROM funcionario LEFT JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:03:33.240Z",
+        "updated_at": "2024-06-17T21:03:46.436Z",
+        "question": 290,
+        "history_date": "2024-06-17T21:03:46.448Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1352,
+    "fields": {
+        "id_answer": 1328,
+        "text": "SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario RIGHT JOIN grupo ON funcionario.id_grupo = grupo.id_grupo",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:04:18.491Z",
+        "updated_at": "2024-06-17T21:04:18.491Z",
+        "question": 290,
+        "history_date": "2024-06-17T21:04:18.500Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1353,
+    "fields": {
+        "id_answer": 1328,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario RIGHT JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:04:18.491Z",
+        "updated_at": "2024-06-17T21:04:31.315Z",
+        "question": 290,
+        "history_date": "2024-06-17T21:04:31.324Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1354,
+    "fields": {
+        "id_answer": 1329,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario FULL JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:04:56.821Z",
+        "updated_at": "2024-06-17T21:04:56.821Z",
+        "question": 290,
+        "history_date": "2024-06-17T21:04:56.829Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1355,
+    "fields": {
+        "id_answer": 1330,
+        "text": "A iniciativa de quien ostenta la Presidencia del Parlamento de Canarias, a petición de tres grupos parlamentarios o de la quinta parte de la cámara",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:07:25.496Z",
+        "updated_at": "2024-06-17T21:07:25.496Z",
+        "question": 291,
+        "history_date": "2024-06-17T21:07:25.509Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1356,
+    "fields": {
+        "id_answer": 1331,
+        "text": "A iniciativa de quien ostenta las portavocías de los grupos parlamentarios o a petición de un grupo  parlamentario",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:08:21.626Z",
+        "updated_at": "2024-06-17T21:08:21.626Z",
+        "question": 291,
+        "history_date": "2024-06-17T21:08:21.637Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1357,
+    "fields": {
+        "id_answer": 1332,
+        "text": "A iniciativa de quien ostenta la Presidencia del Parlamento de Canarias, a petición de dos grupos parlamentarios o de la quinta parte de la cámara",
+        "is_correct": true,
+        "created_at": "2024-06-17T21:08:40.826Z",
+        "updated_at": "2024-06-17T21:08:40.826Z",
+        "question": 291,
+        "history_date": "2024-06-17T21:08:40.836Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 1358,
+    "fields": {
+        "id_answer": 1333,
+        "text": "A iniciativa del Gobierno y de quien ostenta la Presidencia del Parlamento de Canarias",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:09:12.855Z",
+        "updated_at": "2024-06-17T21:09:12.855Z",
+        "question": 291,
+        "history_date": "2024-06-17T21:09:12.863Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -41490,6 +43376,787 @@
         "is_correct": false,
         "created_at": "2024-06-13T19:18:33.590Z",
         "updated_at": "2024-06-13T19:18:33.591Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1263,
+    "fields": {
+        "question": 277,
+        "text": "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas de un sexo en desventaja particular con respecto a personas del otro",
+        "is_correct": false,
+        "created_at": "2024-06-16T12:51:20.220Z",
+        "updated_at": "2024-06-16T12:51:20.220Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1264,
+    "fields": {
+        "question": 277,
+        "text": "La situación en que una disposición, criterio o práctica aparentemente neutros pone a personas por razón de su raza en desventaja particular con respecto a personas del otro sexo",
+        "is_correct": false,
+        "created_at": "2024-06-16T12:52:40.414Z",
+        "updated_at": "2024-06-16T12:52:40.414Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1265,
+    "fields": {
+        "question": 277,
+        "text": "La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su sexo, de manera menos favorable que otra en situación comparable",
+        "is_correct": true,
+        "created_at": "2024-06-16T12:54:39.247Z",
+        "updated_at": "2024-06-16T12:54:39.247Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1266,
+    "fields": {
+        "question": 277,
+        "text": "La situación en que se encuentra una persona que sea, haya sido o pudiera ser tratada, en atención a su raza y nacionalidad de manera menos favorable que otra en situación comparable",
+        "is_correct": false,
+        "created_at": "2024-06-16T12:55:08.992Z",
+        "updated_at": "2024-06-16T12:55:08.993Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1267,
+    "fields": {
+        "question": 278,
+        "text": "Una barrera de privacidad para limitar el acceso a ciertos contenidos",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:12:23.573Z",
+        "updated_at": "2024-06-17T18:12:23.573Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1268,
+    "fields": {
+        "question": 278,
+        "text": "Una herramienta de mensajería privada entre usuarios",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:12:52.640Z",
+        "updated_at": "2024-06-17T18:12:52.640Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1269,
+    "fields": {
+        "question": 278,
+        "text": "Una línea temporal que muestra las actividades y publicaciones de un usuario",
+        "is_correct": true,
+        "created_at": "2024-06-17T18:14:09.031Z",
+        "updated_at": "2024-06-17T18:14:09.031Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1270,
+    "fields": {
+        "question": 278,
+        "text": "Un sistema de votación para clasificar contenido",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:14:37.282Z",
+        "updated_at": "2024-06-17T18:14:37.282Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1271,
+    "fields": {
+        "question": 278,
+        "text": "Fenómeno cuántico por el que una partícula viola los principios de la mecánica clásica penetrando una barrera de potencial o impedancia mayor que la energía cinética de la propia partícula",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:15:42.363Z",
+        "updated_at": "2024-06-17T18:15:42.363Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1272,
+    "fields": {
+        "question": 279,
+        "text": "`1G`: Transmisión de datos, `2G`: Comunicación de voz, `3G`: Internet móvil, `4G`: Videoconferencia",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:17:59.773Z",
+        "updated_at": "2024-06-17T18:19:22.718Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1273,
+    "fields": {
+        "question": 279,
+        "text": "`1G`: Analógico, `2G`: Digital, `3G`: Internet móvil, `4G`: Velocidades de datos más rápidas",
+        "is_correct": true,
+        "created_at": "2024-06-17T18:19:05.649Z",
+        "updated_at": "2024-06-17T18:19:05.649Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1274,
+    "fields": {
+        "question": 279,
+        "text": "`1G`: Internet móvil, `2G`: Comunicación de voz, `3G`: Velocidades de datos más rápidas, `4G`: Analógico",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:20:35.667Z",
+        "updated_at": "2024-06-17T18:20:35.667Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1275,
+    "fields": {
+        "question": 279,
+        "text": "`1G`: Velocidades de datos más rápidas, `2G`: Analógico, `3G`: Comunicación de voz, `4G`: Digital",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:21:33.715Z",
+        "updated_at": "2024-06-17T18:21:33.715Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1276,
+    "fields": {
+        "question": 279,
+        "text": "`1G`: Bulbasaur, `2G`: Ivysaur, `3G`: Venusaur, `4G`: Megavenosaur",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:25:58.283Z",
+        "updated_at": "2024-06-17T18:25:58.283Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1277,
+    "fields": {
+        "question": 280,
+        "text": "iOS",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:28:49.403Z",
+        "updated_at": "2024-06-17T18:28:49.403Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1278,
+    "fields": {
+        "question": 280,
+        "text": "Android",
+        "is_correct": true,
+        "created_at": "2024-06-17T18:29:01.070Z",
+        "updated_at": "2024-06-17T18:29:01.070Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1279,
+    "fields": {
+        "question": 280,
+        "text": "Windows Phone",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:29:08.320Z",
+        "updated_at": "2024-06-17T18:29:08.320Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1280,
+    "fields": {
+        "question": 280,
+        "text": "Blackberry OS",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:29:18.073Z",
+        "updated_at": "2024-06-17T18:29:18.073Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1281,
+    "fields": {
+        "question": 280,
+        "text": "Inferno",
+        "is_correct": false,
+        "created_at": "2024-06-17T18:29:35.424Z",
+        "updated_at": "2024-06-17T18:29:35.424Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1282,
+    "fields": {
+        "question": 281,
+        "text": "Un _software_ que permite acceder de forma remota a un equipo de  un usuario que tenga un problema",
+        "is_correct": false,
+        "created_at": "2024-06-17T19:50:41.237Z",
+        "updated_at": "2024-06-17T19:50:41.237Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1283,
+    "fields": {
+        "question": 281,
+        "text": "Una aplicación de redes sociales con el fin de resolver problemas",
+        "is_correct": false,
+        "created_at": "2024-06-17T19:51:18.145Z",
+        "updated_at": "2024-06-17T19:51:18.145Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1284,
+    "fields": {
+        "question": 281,
+        "text": "Una plataforma para administrar problemas y solicitudes de usuarios",
+        "is_correct": true,
+        "created_at": "2024-06-17T19:51:47.591Z",
+        "updated_at": "2024-06-17T19:51:47.591Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1285,
+    "fields": {
+        "question": 281,
+        "text": "Un programa antivirus que se despliega desde un servidor y se reparte en los equipos con problemas",
+        "is_correct": false,
+        "created_at": "2024-06-17T19:52:34.707Z",
+        "updated_at": "2024-06-17T19:52:34.707Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1286,
+    "fields": {
+        "question": 281,
+        "text": "Un sistema que constantemente monitoriza una red de computadoras en busca de componentes defectuosos o lentos, para luego informar a los administradores de redes",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:05:12.472Z",
+        "updated_at": "2024-06-17T20:05:12.472Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1287,
+    "fields": {
+        "question": 282,
+        "text": "A la reducción o reordenación de su tiempo de trabajo, a la movilidad geográfica de centro de trabajo y a la excedencia en los términos que se determinen es su legislación específica",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:10:12.476Z",
+        "updated_at": "2024-06-17T20:10:12.476Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1288,
+    "fields": {
+        "question": 282,
+        "text": "Únicamente a la reducción de su tiempo de trabajo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:10:36.565Z",
+        "updated_at": "2024-06-17T20:10:36.565Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1289,
+    "fields": {
+        "question": 282,
+        "text": "A su libertad y dignidad",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:10:46.834Z",
+        "updated_at": "2024-06-17T20:10:46.834Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1290,
+    "fields": {
+        "question": 282,
+        "text": "La Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, no regula ningún derecho especial para las funcionarias víctimas de violencia de género",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:11:55.115Z",
+        "updated_at": "2024-06-17T20:11:55.115Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1291,
+    "fields": {
+        "question": 283,
+        "text": "Los interesados solo deberán aportar al procedimiento administrativo los documentos exigidos  por las administraciones públicas, salvo que estén en formato electrónico",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:15:31.635Z",
+        "updated_at": "2024-06-17T20:15:31.635Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1292,
+    "fields": {
+        "question": 283,
+        "text": "Los interesados tienen derecho a aportar documentos que ya se encuentran en poder de la administración actuante o hayan sido elaborados por cualquier otra adminsistración",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:16:52.069Z",
+        "updated_at": "2024-06-17T20:16:52.069Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1293,
+    "fields": {
+        "question": 283,
+        "text": "Las administraciones exigirán a los interesados que los documentos presentados sean originales, pudiéndose cotejar la copia si así se solicita por el interesado",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:18:12.930Z",
+        "updated_at": "2024-06-17T20:18:12.930Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1294,
+    "fields": {
+        "question": 283,
+        "text": "Cuando excepcionalmente la administración solicite la presentación de un documento original en papel, el interesado deberá obtener una copia auténtica, con carácter previo a su presentación electrónica",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:19:51.279Z",
+        "updated_at": "2024-06-17T20:19:51.279Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1295,
+    "fields": {
+        "question": 284,
+        "text": "Utilización exclusiva de cuentas de usuario locales",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:22:41.846Z",
+        "updated_at": "2024-06-17T20:22:41.846Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1296,
+    "fields": {
+        "question": 284,
+        "text": "Posibilidad de asignar permisos y roles a los usuarios",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:23:01.310Z",
+        "updated_at": "2024-06-17T20:23:01.310Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1297,
+    "fields": {
+        "question": 284,
+        "text": "Requerimiento de licencia individual para cada usuario",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:23:27.765Z",
+        "updated_at": "2024-06-17T20:23:27.765Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1298,
+    "fields": {
+        "question": 284,
+        "text": "Dependencia de un servidor central para la autenticación",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:23:51.816Z",
+        "updated_at": "2024-06-17T20:23:51.816Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1299,
+    "fields": {
+        "question": 285,
+        "text": "Ordenar datos alfabéticamente",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:28:00.995Z",
+        "updated_at": "2024-06-17T20:28:00.995Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1300,
+    "fields": {
+        "question": 285,
+        "text": "Ocultar temporalmente datos que no cumplen ciertos criterios",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:28:31.407Z",
+        "updated_at": "2024-06-17T20:28:31.407Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1301,
+    "fields": {
+        "question": 285,
+        "text": "Realizar operaciones matemáticas en columnas enteras",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:28:57.549Z",
+        "updated_at": "2024-06-17T20:28:57.549Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1302,
+    "fields": {
+        "question": 285,
+        "text": "Filtrar los enlaces hipertexto dentro de una hoja de cálculo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:29:18.902Z",
+        "updated_at": "2024-06-17T20:29:18.902Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1303,
+    "fields": {
+        "question": 286,
+        "text": "Un dispositivo de salida de audio",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:31:14.713Z",
+        "updated_at": "2024-06-17T20:31:14.713Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1304,
+    "fields": {
+        "question": 286,
+        "text": "Una técnica para mejorar la calidad del audio envolvente",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:32:15.171Z",
+        "updated_at": "2024-06-17T20:32:15.171Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1305,
+    "fields": {
+        "question": 286,
+        "text": "Un entorno generado mediante tecnología informática, que crea en el usuario la sensación de estar inmerso en un espacio virtual",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:32:48.686Z",
+        "updated_at": "2024-06-17T20:32:48.686Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1306,
+    "fields": {
+        "question": 286,
+        "text": "Un formato de archivo para almacenar vídeos cifrados",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:33:21.241Z",
+        "updated_at": "2024-06-17T20:34:43.412Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1307,
+    "fields": {
+        "question": 286,
+        "text": "Un algoritmo que comprime y descomprime datos de vídeo",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:33:45.573Z",
+        "updated_at": "2024-06-17T20:33:45.573Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1308,
+    "fields": {
+        "question": 286,
+        "text": "Un algoritmo para encriptar/desencriptar el vídeo",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:34:21.793Z",
+        "updated_at": "2024-06-17T20:34:21.793Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1309,
+    "fields": {
+        "question": 287,
+        "text": "Pequeños programas escritos en _Javascript_",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:35:48.544Z",
+        "updated_at": "2024-06-17T20:35:48.544Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1310,
+    "fields": {
+        "question": 287,
+        "text": "Componentes para mejorar la interfaz de usuario en navegadores",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:36:13.834Z",
+        "updated_at": "2024-06-17T20:36:13.834Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1311,
+    "fields": {
+        "question": 287,
+        "text": "Extensiones para navegadores que mejoran la seguridad",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:36:40.935Z",
+        "updated_at": "2024-06-17T20:36:40.935Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1312,
+    "fields": {
+        "question": 287,
+        "text": "Programas Java integrados en páginas _web_ que se ejecutan en el navegador",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:37:29.868Z",
+        "updated_at": "2024-06-17T20:39:06.925Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1313,
+    "fields": {
+        "question": 287,
+        "text": "Programas Java integrados en páginas _web_ que se ejecutan en el servidor",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:37:42.228Z",
+        "updated_at": "2024-06-17T20:39:14.908Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1314,
+    "fields": {
+        "question": 287,
+        "text": "Programas Java modificados para ejecutarse sobre la máquina virtual Dalvik (_Dalvik Virtual Machine_)",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:40:16.220Z",
+        "updated_at": "2024-06-17T20:40:16.220Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1315,
+    "fields": {
+        "question": 288,
+        "text": "Después de haber requerido a su presidente por tres veces y sin respuesta para convocarla",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:46:10.105Z",
+        "updated_at": "2024-06-17T20:46:10.105Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1316,
+    "fields": {
+        "question": 288,
+        "text": "Las comisiones serán convocadas unicamente por su presidente",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:46:35.351Z",
+        "updated_at": "2024-06-17T20:46:35.351Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1317,
+    "fields": {
+        "question": 288,
+        "text": "Después de haber requerido por dos veces a su presidente y sin respuesta para convocarla",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:47:16.570Z",
+        "updated_at": "2024-06-17T20:47:16.570Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1318,
+    "fields": {
+        "question": 288,
+        "text": "Después de haberlo requerido  a su presidente y sin respuesta para convocarla",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:47:40.666Z",
+        "updated_at": "2024-06-17T20:47:40.666Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1319,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **1** o capa física",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:24.925Z",
+        "updated_at": "2024-06-17T20:54:25.461Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1320,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **3** o nivel de red",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:32.155Z",
+        "updated_at": "2024-06-17T20:54:32.035Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1321,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **5** o capa de sesión",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:49:38.610Z",
+        "updated_at": "2024-06-17T20:54:38.736Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1322,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **7** o  capa de aplicación",
+        "is_correct": true,
+        "created_at": "2024-06-17T20:49:45.294Z",
+        "updated_at": "2024-06-17T20:54:49.488Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1323,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **2** o capa de enlace de datos",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:51:21.651Z",
+        "updated_at": "2024-06-17T20:54:58.754Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1324,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **4** o capa de transporte",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:52:48.176Z",
+        "updated_at": "2024-06-17T20:55:06.892Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1325,
+    "fields": {
+        "question": 289,
+        "text": "Nivel **6** o capa de presentación",
+        "is_correct": false,
+        "created_at": "2024-06-17T20:54:01.965Z",
+        "updated_at": "2024-06-17T20:54:15.478Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1326,
+    "fields": {
+        "question": 290,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": true,
+        "created_at": "2024-06-17T21:02:50.105Z",
+        "updated_at": "2024-06-17T21:02:50.105Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1327,
+    "fields": {
+        "question": 290,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo  FROM funcionario LEFT JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:03:33.240Z",
+        "updated_at": "2024-06-17T21:03:46.436Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1328,
+    "fields": {
+        "question": 290,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario RIGHT JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:04:18.491Z",
+        "updated_at": "2024-06-17T21:04:31.315Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1329,
+    "fields": {
+        "question": 290,
+        "text": "`SELECT funcionario.nombre, grupo.nombre_grupo FROM funcionario FULL JOIN grupo ON funcionario.id_grupo = grupo.id_grupo`",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:04:56.821Z",
+        "updated_at": "2024-06-17T21:04:56.821Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1330,
+    "fields": {
+        "question": 291,
+        "text": "A iniciativa de quien ostenta la Presidencia del Parlamento de Canarias, a petición de tres grupos parlamentarios o de la quinta parte de la cámara",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:07:25.496Z",
+        "updated_at": "2024-06-17T21:07:25.496Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1331,
+    "fields": {
+        "question": 291,
+        "text": "A iniciativa de quien ostenta las portavocías de los grupos parlamentarios o a petición de un grupo  parlamentario",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:08:21.626Z",
+        "updated_at": "2024-06-17T21:08:21.626Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1332,
+    "fields": {
+        "question": 291,
+        "text": "A iniciativa de quien ostenta la Presidencia del Parlamento de Canarias, a petición de dos grupos parlamentarios o de la quinta parte de la cámara",
+        "is_correct": true,
+        "created_at": "2024-06-17T21:08:40.826Z",
+        "updated_at": "2024-06-17T21:08:40.826Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 1333,
+    "fields": {
+        "question": 291,
+        "text": "A iniciativa del Gobierno y de quien ostenta la Presidencia del Parlamento de Canarias",
+        "is_correct": false,
+        "created_at": "2024-06-17T21:09:12.855Z",
+        "updated_at": "2024-06-17T21:09:12.855Z"
     }
 }
 ]
