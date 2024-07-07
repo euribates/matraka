@@ -30,3 +30,10 @@ class Tag(models.Model):
 
     def __str__(self):
         return self.name
+
+    @classmethod
+    def load_tag(cls, slug):
+        try:
+            return cls.objects.get(name=slug)
+        except cls.DoesNotExist:
+            return None

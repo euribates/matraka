@@ -2,11 +2,13 @@
 
 import random
 
-from django.shortcuts import render
+from django.contrib.auth.decorators import login_required
 from django.db.models import Count
 from django.shortcuts import redirect
+from django.shortcuts import render
 from django.urls import reverse_lazy
 
+from tags.models import Tag
 from questions import models
 from questions import forms
 
@@ -26,6 +28,20 @@ def ask_question(request, pk=0):
         question = models.Question.load_question(pk)
     else:
         question = random.choice(models.Question.objects.all())
+    answers = dict(zip('ABCD', question.get_random_answers()))
+    form = forms.AskForm()
+    return render(request, 'questions/ask.html', {
+        'titulo': f'Pregunta {question.pk}: {question.text}',
+        'question': question,
+        'answers': answers,
+        'form': form,
+        })
+
+
+def ask_by_tag(request, tag):
+    tag = Tag.load_tag(tag)
+    questions = list(tag.questions.all())
+    question = random.choice(questions)
     answers = dict(zip('ABCD', question.get_random_answers()))
     form = forms.AskForm()
     return render(request, 'questions/ask.html', {
@@ -57,6 +73,7 @@ def question_detail(request, pk):
         })
 
 
+@login_required
 def new_question(request, *args, **kwargs):
     if request.method == 'POST':
         form = forms.NewQuestionForm(request.POST)
@@ -72,6 +89,7 @@ def new_question(request, *args, **kwargs):
         })
 
 
+@login_required
 def new_answer(request, pk):
     question = models.Question.load_question(pk)
     if request.method == 'POST':
@@ -91,6 +109,7 @@ def new_answer(request, pk):
         })
 
 
+@login_required
 def edit_question(request, pk):
     question = models.Question.load_question(pk)
     if request.method == 'POST':
@@ -108,6 +127,7 @@ def edit_question(request, pk):
         })
 
 
+@login_required
 def edit_answer(request, pk):
     answer = models.Answer.load_answer(pk)
     question = answer.question

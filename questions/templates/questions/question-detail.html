@@ -13,7 +13,9 @@
       {{ tag }} 
     </span>
 {% endfor %}
+{% if question.source %} ( {{ question.source|markdownify }}) {% endif %}
 </div>
+
 
     <div class="buttons is-right">
         <a href="{% url 'edit_question' pk=question.pk%}"

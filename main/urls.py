@@ -29,6 +29,7 @@ urlpatterns = [
     tie('', main.views.index),
     tie('ask/', questions.views.ask_question),
     tie('ask/<int:pk>/', questions.views.ask_question),
+    tie('ask/<slug:tag>/', questions.views.ask_by_tag),
     tie('chk/<int:pk>/', questions.views.chk_answer),
     tie('search/', questions.views.search),
     path('questions/', include('questions.urls')),

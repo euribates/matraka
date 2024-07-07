@@ -14,6 +14,14 @@
 <h2>Pregunta {{ question.pk }}</h2>
 
 <h3>{{ question.text|markdownify }}</h3>
+
+{% for tag in question.tags.all %}
+  <span class="tag" style="color: {{ tag.color.foreground_color }}; background-color: {{ tag.color }}">
+      {{ tag }} 
+    </span>
+{% endfor %}
+
+
 </div>
 
 <form action="." method="POST" accept-charset="utf-8">
@@ -48,9 +56,6 @@
 {% endfor %}
 </div>
 </div>
-
-
-{{ form.as_p }}
 
 </form>
 
