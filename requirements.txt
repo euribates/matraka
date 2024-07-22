@@ -8,3 +8,4 @@ rich
 pytest
 pytest-django
 django-simple-history
+gunicorn

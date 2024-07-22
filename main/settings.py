@@ -30,8 +30,15 @@ ALLOWED_HOSTS = [
     '0.0.0.0',
     '127.0.0.1',
     '192.168.0.24',
+    'matraka.euribates.eu',
     ]
 
+CSRF_TRUSTED_ORIGINS = [
+    'http://localhost',
+    'http://matraka.euribates.eu:8000',
+    ]
+
+LOGIN_URL = '/login/'
 
 # Application definition
 
@@ -121,11 +128,11 @@ AUTH_PASSWORD_VALIDATORS = [
 # Internationalization
 # https://docs.djangoproject.com/en/5.0/topics/i18n/
 
-LANGUAGE_CODE = "en-us"
+LANGUAGE_CODE = "es-es"
 
-TIME_ZONE = "UTC"
+TIME_ZONE = "Atlantic/Canary"
 
-USE_I18N = True
+USE_I18N = False
 
 USE_TZ = True
 
