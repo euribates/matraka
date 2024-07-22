@@ -21,7 +21,7 @@
     "model": "tags.tag",
     "pk": 3,
     "fields": {
-        "name": "dni",
+        "name": "DNI",
         "color": "#0D1B9E",
         "description": "DNI electrónico"
     }
@@ -66,9 +66,45 @@
     "model": "tags.tag",
     "pk": 8,
     "fields": {
-        "name": "os",
+        "name": "OS",
         "color": "#B59E7D",
         "description": "Sistemas operativos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 9,
+    "fields": {
+        "name": "eac-18",
+        "color": "#2A236E",
+        "description": "Estatuto de Autonomía de Canarias"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 10,
+    "fields": {
+        "name": "ENS",
+        "color": "#EEC5E6",
+        "description": "Esquema Nacional de Seguriadad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 11,
+    "fields": {
+        "name": "Python",
+        "color": "#2437B5",
+        "description": "Python"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 12,
+    "fields": {
+        "name": "IoT",
+        "color": "#FDBC62",
+        "description": "Internet of Things"
     }
 }
 ]
