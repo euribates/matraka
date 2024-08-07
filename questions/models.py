@@ -4,6 +4,8 @@ import random
 
 from django.db import models
 from django.urls import reverse_lazy
+from django.conf import settings
+
 from simple_history.models import HistoricalRecords
 
 from sequtils import split_iter
@@ -75,6 +77,25 @@ class Answer(models.Model):
         return self.text
 
 
+class Score(models.Model):
 
+    class Meta:
+        verbose_name = "Puntuación"
+        verbose_name_plural = "Puntuaciones"
+        unique_together = [
+            ("user", "question"),
+            ]
 
-
+    id_score = models.BigAutoField(primary_key=True)
+    user = models.ForeignKey(
+        settings.AUTH_USER_MODEL,
+        on_delete=models.CASCADE,
+        )
+    question = models.ForeignKey(
+        Question,
+        on_delete=models.CASCADE,
+        )
+    tries = models.PositiveIntegerField(default=1)
+    failures = models.PositiveIntegerField()
+    created_at = models.DateTimeField(auto_now_add=True)
+    updated_at = models.DateTimeField(auto_now=True)
