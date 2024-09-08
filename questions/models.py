@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import itertools
 import random
 
 from django.db import models
@@ -37,7 +38,7 @@ class Question(models.Model):
         return self.text
 
     def get_absolute_url(self):
-        return reverse_lazy('question_detail', kwargs={
+        return reverse_lazy('questions:question_detail', kwargs={
             'pk': self.pk,
             })
 
@@ -51,6 +52,22 @@ class Question(models.Model):
         answers.extend(list(random.sample(wrongs, 3)))
         random.shuffle(answers)
         return answers
+
+    def get_variability(self):
+        valids, wrongs = split_iter(self.answers.all(), lambda _: _.is_correct)
+        n_valids = len(list(valids))
+        n_wrongs = len(list(wrongs))
+        result = n_valids * n_wrongs * (n_wrongs - 1) * (n_wrongs - 2) // 6
+        return result
+        # return '{} * {} * {} * {} // 6 == {}'.format(
+            # n_valids,
+            # n_wrongs,
+            # n_wrongs - 1,
+            # n_wrongs - 2,
+            # result,
+            # )
+
+
 
 
 class Answer(models.Model):

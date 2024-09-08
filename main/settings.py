@@ -31,11 +31,13 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '192.168.0.24',
     'matraka.euribates.eu',
+    'matraka.euribates.eu:8001',
     ]
 
 CSRF_TRUSTED_ORIGINS = [
     'http://localhost',
     'http://matraka.euribates.eu:8000',
+    'http://matraka.euribates.eu:8001',
     ]
 
 LOGIN_URL = '/login/'

@@ -35,10 +35,10 @@
                 {% endif %}
               </td>
               <td>
-                  <b>{{ result.text }}</b>
+                  <b>{{ result.text|markdownify }}</b>
                   {% if result.tag == 'A' %}
                     <br><small>(De la pregunta {{ result.answer.question.pk }}:
-                        <b>{{ result.answer.question.text }}</b>
+                        <b>{{ result.answer.question.text|markdownify }}</b>
                   {% endif %}
               </td>
           </tr>

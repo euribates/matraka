@@ -6,17 +6,19 @@ from django.contrib.auth.decorators import login_required
 from django.db.models import Count
 from django.shortcuts import redirect
 from django.shortcuts import render
-from django.urls import reverse_lazy
+from django.views.decorators.csrf import csrf_exempt
 
 from tags.models import Tag
 from questions import models
 from questions import forms
+from questions import links
 
 
 def all_questions(request):
     questions = (
         models.Question.objects.all()
         .annotate(num_answers=Count('answers'))
+        .order_by('-created_at')
         )
     return render(request, 'questions/all_questions.html', {
         'questions': questions,
@@ -79,9 +81,7 @@ def new_question(request, *args, **kwargs):
         form = forms.NewQuestionForm(request.POST)
         if form.is_valid():
             question = form.save()
-            return redirect(reverse_lazy('question_detail', kwargs={
-                'pk': question.pk,
-                }))
+            return redirect(links.a_question_detail(question.pk))
     else:
         form = forms.NewQuestionForm()
     return render(request, 'questions/new-question.html', {
@@ -96,9 +96,7 @@ def new_answer(request, pk):
         form = forms.NewAnswerForm(question, request.POST)
         if form.is_valid():
             form.save()
-            return redirect(reverse_lazy('question_detail', kwargs={
-                'pk': question.pk,
-                }))
+            return redirect(links.a_question_detail(question.pk))
         print('El formulario no es valido')
         print(form.errors)
     else:
@@ -116,9 +114,7 @@ def edit_question(request, pk):
         form = forms.EditQuestionForm(request.POST, instance=question)
         if form.is_valid():
             question = form.save()
-            return redirect(reverse_lazy('question_detail', kwargs={
-                'pk': question.pk,
-                }))
+            return redirect(links.a_question_detail(question.pk))
     else:
         form = forms.EditQuestionForm(instance=question)
     return render(request, 'questions/edit-question.html', {
@@ -135,9 +131,7 @@ def edit_answer(request, pk):
         form = forms.EditAnswerForm(request.POST, instance=answer)
         if form.is_valid():
             answer = form.save()
-            return redirect(reverse_lazy('question_detail', kwargs={
-                'pk': question.pk,
-                }))
+            return redirect(links.a_question_detail(question.pk))
     else:
         form = forms.EditAnswerForm(instance=answer)
     return render(request, 'questions/edit-answer.html', {
@@ -147,6 +141,7 @@ def edit_answer(request, pk):
         })
 
 
+@csrf_exempt
 def search(request, *args, **kwargs):
     results = []
     if request.method == 'POST':

@@ -21,7 +21,7 @@
     "model": "tags.tag",
     "pk": 3,
     "fields": {
-        "name": "DNI",
+        "name": "dni",
         "color": "#0D1B9E",
         "description": "DNI electrónico"
     }
@@ -39,7 +39,7 @@
     "model": "tags.tag",
     "pk": 5,
     "fields": {
-        "name": "L40-15",
+        "name": "ley-40-2015",
         "color": "#6EE934",
         "description": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público"
     }
@@ -57,16 +57,16 @@
     "model": "tags.tag",
     "pk": 7,
     "fields": {
-        "name": "L39-15",
+        "name": "ley-39-2015",
         "color": "#F07AFD",
-        "description": "Ley 32/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+        "description": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
     }
 },
 {
     "model": "tags.tag",
     "pk": 8,
     "fields": {
-        "name": "OS",
+        "name": "os",
         "color": "#B59E7D",
         "description": "Sistemas operativos"
     }
@@ -75,7 +75,7 @@
     "model": "tags.tag",
     "pk": 9,
     "fields": {
-        "name": "eac-18",
+        "name": "estatuto-autonomia",
         "color": "#2A236E",
         "description": "Estatuto de Autonomía de Canarias"
     }
@@ -84,27 +84,99 @@
     "model": "tags.tag",
     "pk": 10,
     "fields": {
-        "name": "ENS",
+        "name": "ens",
         "color": "#EEC5E6",
-        "description": "Esquema Nacional de Seguriadad"
+        "description": "Esquema Nacional de Seguridad"
     }
 },
 {
     "model": "tags.tag",
     "pk": 11,
     "fields": {
-        "name": "Python",
+        "name": "python",
         "color": "#2437B5",
-        "description": "Python"
+        "description": "Lenguaje Python"
     }
 },
 {
     "model": "tags.tag",
     "pk": 12,
     "fields": {
-        "name": "IoT",
+        "name": "iot",
         "color": "#FDBC62",
         "description": "Internet of Things"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 13,
+    "fields": {
+        "name": "gobierno-interior",
+        "color": "#FB41D3",
+        "description": "Normas de Gobierno Interior"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 14,
+    "fields": {
+        "name": "convenio-colectivo",
+        "color": "#53984D",
+        "description": "Convenio Colectivo"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 15,
+    "fields": {
+        "name": "ley-12-2014",
+        "color": "#6EAF92",
+        "description": "Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 16,
+    "fields": {
+        "name": "ley-9-2017",
+        "color": "#3E9DB9",
+        "description": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 17,
+    "fields": {
+        "name": "consejo-consultivo",
+        "color": "#A1AE30",
+        "description": "Consejo Consultivo de Canarias"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 18,
+    "fields": {
+        "name": "lenguajes",
+        "color": "#8C385D",
+        "description": "Lenguajes de programación"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 19,
+    "fields": {
+        "name": "riesgos-laborales",
+        "color": "#A244F0",
+        "description": "Riesgos Laborales"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 20,
+    "fields": {
+        "name": "contratacion",
+        "color": "#4A5C7A",
+        "description": "Contratación"
     }
 }
 ]

@@ -1,9 +1,10 @@
 {% extends 'base.html' %}
+{% load markdownify  %}
 
 {% block content %}
 
     <div class="buttons is-right">
-        <a href="{% url 'new_question' %}" class="button is-warning is-rounded">➕</a>
+        <a href="{% url 'questions:new_question' %}" class="button is-warning is-rounded">➕</a>
     </div>
 
     <table class="table">
@@ -12,19 +13,21 @@
                 <th>Id. pregunta</th>
                 <th>Texto</th>
                 <th>Respuestas</th>
-                <th>Editar</th>
-            </tr>
+                <th>Variablidad</th>
+            </tr>markdownify 
         </thead>
         {% for question in questions %}
             <tr>
                 <th>
-                    <b>{{ question.pk }}</b>
+                    <a class="button is-info" 
+                       href="{% url 'questions:question_detail' pk=question.pk %}">
+                        ✎ <b>{{ question.pk }}</b>
                     </a>
                 </th>
-                <td>{{ question.text }}</td>
-                <td>{{ question.num_answers }}</td>
+                <td>{{ question.text|markdownify}}</td>
+                <td><span class="tag is-info">{{ question.num_answers }}</span></td>
+                <td><span class="tag is-info">{{ question.get_variability }}</span></td>
                 <td>
-                    <a class="button is-info" href="/questions/{{ question.pk }}/">✎</a>
                 </td>
             </tr>
         {% endfor %}

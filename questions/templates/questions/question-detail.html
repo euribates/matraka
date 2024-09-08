@@ -18,11 +18,11 @@
 
 
     <div class="buttons is-right">
-        <a href="{% url 'edit_question' pk=question.pk%}"
+        <a href="{% url 'questions:edit_question' pk=question.pk%}"
           class="button is-info is-rounded">✎ Editar pregunta</a>
-        <a href="{% url 'new_question' %}"
+        <a href="{% url 'questions:new_question' %}"
           class="button is-info is-rounded">➕ Nueva pregunta</a>
-        <a href="{% url 'new_answer' pk=question.pk %}"
+        <a href="{% url 'questions:new_answer' pk=question.pk %}"
           class="button is-warning is-rounded">➕ Añadir respuesta</a>
         <a href="{% url 'ask_question' pk=question.pk %}"
           class="button is-small is-info is-rounded">
@@ -52,7 +52,7 @@
         </td>
         <td>{{ answer.is_correct|as_bool|safe }}</td>
         <td>
-            <a href="{% url 'edit_answer' pk=answer.pk %}"
+            <a href="{% url 'questions:edit_answer' pk=answer.pk %}"
                class="button is-warning is-circle">
             ✎ Editar
         </td>

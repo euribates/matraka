@@ -44,7 +44,7 @@ class EditQuestionForm(forms.ModelForm):
 
     class Meta:
         model = Question
-        fields = ["text", "source"]
+        fields = ["text", "source", "tags"]
 
     def __init__(self, *args, **kwargs):
         super().__init__(*args, **kwargs)
@@ -52,6 +52,7 @@ class EditQuestionForm(forms.ModelForm):
         self.helper.layout = Layout(
             'text',
             'source',
+            'tags',
             Submit(
                 'ok', 'Editar pregunta',
                 css_class='button is-white is-rouded',
@@ -75,7 +76,7 @@ class NewAnswerForm(forms.ModelForm):
         super().__init__(*args, **kwargs)
         self.question = question
         self.helper = FormHelper()
-        self.helper.form_action = reverse_lazy('new_answer', kwargs={
+        self.helper.form_action = reverse_lazy('questions:new_answer', kwargs={
             'pk': self.question.pk,
             })
         self.helper.layout = Layout(
@@ -151,4 +152,3 @@ class AskForm(forms.Form):
     def clean_letter(self):
         _data = self.cleaned_data["letter"].upper()
         return _data.strip()
-
