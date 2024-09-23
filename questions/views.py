@@ -3,15 +3,16 @@
 import random
 
 from django.contrib.auth.decorators import login_required
+from django.core.paginator import Paginator
 from django.db.models import Count
 from django.shortcuts import redirect
 from django.shortcuts import render
 from django.views.decorators.csrf import csrf_exempt
 
-from tags.models import Tag
-from questions import models
 from questions import forms
 from questions import links
+from questions import models
+from tags.models import Tag
 
 
 def all_questions(request):
@@ -20,8 +21,11 @@ def all_questions(request):
         .annotate(num_answers=Count('answers'))
         .order_by('-created_at')
         )
+    paginator = Paginator(questions, 25)
+    page_number = int(request.GET.get("page", '1'))
     return render(request, 'questions/all_questions.html', {
-        'questions': questions,
+        'num_questions': questions.count(),
+        'page': paginator.get_page(page_number),
         })
 
 

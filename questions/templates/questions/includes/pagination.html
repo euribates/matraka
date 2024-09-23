@@ -1,0 +1,25 @@
+<nav class="pagination" role="navigation" aria-label="pagination">
+  <span class="step-links">
+    {% if page.has_previous %}
+        <a class="pagination-previous" href="?page=1">&laquo; Primera</a>
+        <a class="pagination-previous" href="?page={{ page.previous_page_number }}">&larr; Anterior</a>
+    {% else %}
+        <a class="pagination-previous" href="#" disabled>&laquo; Primera</a>
+        <a class="pagination-previous" href="#" disabled>&larr; Anterior</a>
+    {% endif %}
+
+    <span class="current">
+      <a href="#" class="pagination-link">
+        {{ page.number }} de {{ page.paginator.num_pages }}
+      </a>
+    </span>
+
+    {% if page.has_next %}
+        <a class="pagination-next" href="?page={{ page.next_page_number }}">Siguiente &rarr;</a>
+        <a class="pagination-next" href="?page={{ page.paginator.num_pages }}">Última &raquo;</a>
+    {% else %}
+        <a class="pagination-next" href="#" disabled>Siguiente &rarr;</a>
+        <a class="pagination-next" href="#" disabled>Última &raquo;</a>
+    {% endif %}
+  </span>
+</nav>

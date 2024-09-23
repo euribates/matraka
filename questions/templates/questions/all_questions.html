@@ -4,9 +4,12 @@
 {% block content %}
 
     <div class="buttons is-right">
+        <h3>Hay ahora mismo <span class="tag is-info">{{ num_questions }}</span> preguntas en la base de datos</h3>
         <a href="{% url 'questions:new_question' %}" class="button is-warning is-rounded">➕</a>
     </div>
 
+
+    {% include "questions/includes/pagination.html" with page=page %}
     <table class="table">
         <thead>
             <tr>
@@ -16,7 +19,7 @@
                 <th>Variablidad</th>
             </tr>markdownify 
         </thead>
-        {% for question in questions %}
+        {% for question in page %}
             <tr>
                 <th>
                     <a class="button is-info" 
