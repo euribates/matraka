@@ -36,6 +36,7 @@ ALLOWED_HOSTS = [
 
 CSRF_TRUSTED_ORIGINS = [
     'http://localhost',
+    'http://localhost:8001',
     'http://matraka.euribates.eu:8000',
     'http://matraka.euribates.eu:8001',
     ]
