@@ -178,5 +178,68 @@
         "color": "#4A5C7A",
         "description": "Contratación"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 21,
+    "fields": {
+        "name": "elecciones",
+        "color": "#8B8935",
+        "description": "Sistema electoral"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 22,
+    "fields": {
+        "name": "ley-2-1987",
+        "color": "#8D42EE",
+        "description": "Ley 2/1987, de 30 de marzo, de la Función Pública Canaria"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 23,
+    "fields": {
+        "name": "proteccion-datos",
+        "color": "#4E60AA",
+        "description": "Protección de datos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 24,
+    "fields": {
+        "name": "seguridad",
+        "color": "#BE0B01",
+        "description": "Seguridad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 25,
+    "fields": {
+        "name": "devops",
+        "color": "#CD3343",
+        "description": "DevOps"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 26,
+    "fields": {
+        "name": "database",
+        "color": "#93932A",
+        "description": "Bases de datos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 27,
+    "fields": {
+        "name": "windows",
+        "color": "#F67854",
+        "description": "Windows"
+    }
 }
 ]

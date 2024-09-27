@@ -7,29 +7,31 @@
 
 <h3 class="h3 is-main">{{ question.text|markdownify }}</h3>
 
+
 <div>
 {% for tag in question.tags.all %}
-  <span class="tag" style="color: {{ tag.color.foreground_color }}; background-color: {{ tag.color }}">
+  <span class="tag is-info" style="color: {{ tag.color.foreground_color }}; background-color: {{ tag.color }}">
       {{ tag }} 
     </span>
 {% endfor %}
 {% if question.source %} ( {{ question.source|markdownify }}) {% endif %}
+<span class="tag is-info variability">&times; {{ question.get_variability }}</span>
 </div>
 
 
-    <div class="buttons is-right">
-        <a href="{% url 'questions:edit_question' pk=question.pk%}"
-          class="button is-info is-rounded">✎ Editar pregunta</a>
-        <a href="{% url 'questions:new_question' %}"
-          class="button is-info is-rounded">➕ Nueva pregunta</a>
-        <a href="{% url 'questions:new_answer' pk=question.pk %}"
-          class="button is-warning is-rounded">➕ Añadir respuesta</a>
-        <a href="{% url 'ask_question' pk=question.pk %}"
-          class="button is-small is-info is-rounded">
-            <img src="{% static 'img/is-question.svg' %}" alt="Preguntar" 
-                 width="64" height="64">
-        </a>
-    </div>
+<div class="buttons is-right">
+  <a href="{% url 'questions:edit_question' pk=question.pk%}"
+    class="button is-info is-rounded">✎ Editar pregunta</a>
+  <a href="{% url 'questions:new_question' %}"
+    class="button is-info is-rounded">➕ Nueva pregunta</a>
+  <a href="{% url 'questions:new_answer' pk=question.pk %}"
+    class="button is-warning is-rounded">➕ Añadir respuesta</a>
+  <a href="{% url 'ask_question' pk=question.pk %}"
+    class="button is-small is-info is-rounded">
+    <img src="{% static 'img/is-question.svg' %}" alt="Preguntar" 
+     width="64" height="64">
+  </a>
+</div>
 
 
 <table class="table">
