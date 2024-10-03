@@ -241,5 +241,68 @@
         "color": "#F67854",
         "description": "Windows"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 28,
+    "fields": {
+        "name": "algoritmos",
+        "color": "#0E7909",
+        "description": "Algoritmos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 29,
+    "fields": {
+        "name": "free-software",
+        "color": "#08627D",
+        "description": "_Software_ libre"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 30,
+    "fields": {
+        "name": "ia",
+        "color": "#157A51",
+        "description": "Inteligencia artificial"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 31,
+    "fields": {
+        "name": "ley-19-2013",
+        "color": "#37682A",
+        "description": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 32,
+    "fields": {
+        "name": "cloud",
+        "color": "#16A2C5",
+        "description": "Computación en la nube"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 33,
+    "fields": {
+        "name": "patrones",
+        "color": "#F945EF",
+        "description": "Patrones de diseño"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 34,
+    "fields": {
+        "name": "java",
+        "color": "#C4481B",
+        "description": "Java"
+    }
 }
 ]
