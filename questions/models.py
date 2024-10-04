@@ -112,7 +112,37 @@ class Score(models.Model):
         Question,
         on_delete=models.CASCADE,
         )
-    tries = models.PositiveIntegerField(default=1)
-    failures = models.PositiveIntegerField()
+    tries = models.PositiveIntegerField(default=0)
+    failures = models.PositiveIntegerField(default=0)
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)
+
+    @classmethod
+    def load_or_create_score(cls, id_user, id_question):
+        scores = (
+            cls.objects
+            .filter(question_id=id_question)
+            .filter(user_id=id_user)
+            )
+        if scores.count() == 0:
+            return cls(
+                question_id=id_question,
+                user_id=id_user,
+                )
+        return scores.first()
+
+    def hits(self):
+        return self.tries - self.failures
+
+
+def user_failed_question(user, question):
+    score = Score.load_or_create_score(user.pk, question.pk)
+    score.tries += 1
+    score.failures += 1
+    score.save()
+
+
+def user_passed_question(user, question):
+    score = Score.load_or_create_score(user.pk, question.pk)
+    score.tries += 1
+    score.save()

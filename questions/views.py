@@ -61,6 +61,12 @@ def ask_by_tag(request, tag):
 def chk_answer(request, pk):
     answer = models.Answer.load_answer(pk)
     question = answer.question
+    if request.user.is_authenticated:
+        user = request.user
+        if answer.is_correct:
+            models.user_passed_question(user, question)
+        else:
+            models.user_failed_question(user, question)
     return render(request, 'questions/chk.html', {
         'titulo': 'Respuesta válida' if answer.is_correct else 'No es correcta',
         'answer': answer,
