@@ -146,3 +146,32 @@ def user_passed_question(user, question):
     score = Score.load_or_create_score(user.pk, question.pk)
     score.tries += 1
     score.save()
+
+
+def get_question_for_user(id_user):
+    from django.db import connection
+    sql = (
+       'SELECT Q.id_question,'
+       '       CASE'
+       '         WHEN coalesce(tries, 0) < 4 THEN 64'
+       '         WHEN failures * 4 > tries THEN 16'
+       '         WHEN failures * 2 > tries THEN 4'
+       '         ELSE 1'
+       '        END AS weight'
+       '  FROM questions_question Q'
+       '  LEFT JOIN questions_score S'
+       '         ON Q.id_question = S.question_id'
+       '        AND user_id = %s'
+       '  ORDER BY Q.id_question'
+       )
+    with connection.cursor() as cursor:
+        cursor.execute(sql, [id_user])
+        acc = 0
+        population = []
+        cum_weights = []
+        for id_question, weight in cursor.fetchall():
+            population.append(id_question)
+            acc += weight
+            cum_weights.append(acc)
+    id_question = random.choices(population, cum_weights=cum_weights)
+    return Question.load_question(id_question)
