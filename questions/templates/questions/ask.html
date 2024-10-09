@@ -21,6 +21,11 @@
     </span>
 {% endfor %}
 
+{% if score %}
+Preguntada {{ score.tries }}: 
+    <span label="Nº aciertos" style="color: green;">{{ score.hits }}</span> / 
+    <span label="Nº errores" style="color: red;">{{ score.failures }}</span>
+{% endif %}
 
 </div>
 

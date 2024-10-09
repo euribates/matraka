@@ -7,6 +7,12 @@
 <h3 class="h3 is-main">{{ question.text|markdownify }}</h3>
 <p>{{ answer.text|markdownify }}</p>
 
+{% if score %}
+Preguntada {{ score.tries }}: 
+    <span label="Nº aciertos" style="color: green;">{{ score.hits }}</span> / 
+    <span label="Nº errores" style="color: red;">{{ score.failures }}</span>
+{% endif %}
+
 {% if answer.is_correct %}
 <div class="notification is-info">
     <img src="{% static 'img/is-happy.svg' %}" alt="Correcto"/>

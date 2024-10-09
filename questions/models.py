@@ -154,9 +154,9 @@ def get_question_for_user(id_user):
     sql = (
        'SELECT Q.id_question,'
        '       CASE'
+       '         WHEN coalesce(tries, 0) = 0 THEN 128'
        '         WHEN coalesce(tries, 0) < 4 THEN 64'
-       '         WHEN failures * 4 > tries THEN 16'
-       '         WHEN failures * 2 > tries THEN 4'
+       '         WHEN failures * 2 > tries THEN 16'
        '         ELSE 1'
        '        END AS weight'
        '  FROM questions_question Q'

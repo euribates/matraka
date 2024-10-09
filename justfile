@@ -66,3 +66,6 @@ watch: static
 # Abre una shell python con el entorno de Django cargado
 shell:
     python ./manage.py shell_plus
+
+dbshell:
+    python ./manage.py dbshell

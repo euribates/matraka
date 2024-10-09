@@ -30,10 +30,16 @@ def all_questions(request):
 
 
 def ask_question(request, pk=0):
+    score = None
     if pk:
         question = models.Question.load_question(pk)
+        if not request.user.is_anonymous:
+            id_user = request.user.pk
+            score = models.Score.load_or_create_score(id_user, question.pk)
     elif not request.user.is_anonymous:
-        question = models.get_question_for_user(request.user.pk)
+        id_user = request.user.pk
+        question = models.get_question_for_user(id_user)
+        score = models.Score.load_or_create_score(id_user, question.pk)
     else:
         question = random.choice(models.Question.objects.all())
     answers = dict(zip('ABCD', question.get_random_answers()))
@@ -43,6 +49,7 @@ def ask_question(request, pk=0):
         'question': question,
         'answers': answers,
         'form': form,
+        'score': score,
         })
 
 
@@ -61,6 +68,7 @@ def ask_by_tag(request, tag):
 
 
 def chk_answer(request, pk):
+    score = None
     answer = models.Answer.load_answer(pk)
     question = answer.question
     if request.user.is_authenticated:
@@ -69,10 +77,12 @@ def chk_answer(request, pk):
             models.user_passed_question(user, question)
         else:
             models.user_failed_question(user, question)
+        score = models.Score.load_or_create_score(user.pk, question.pk)
     return render(request, 'questions/chk.html', {
         'titulo': 'Respuesta válida' if answer.is_correct else 'No es correcta',
         'answer': answer,
         'question': question,
+        'score': score,
         })
 
 
