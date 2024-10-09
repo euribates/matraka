@@ -32,7 +32,7 @@ def all_questions(request):
 def ask_question(request, pk=0):
     if pk:
         question = models.Question.load_question(pk)
-    elif not request.is_anonymous:
+    elif not request.user.is_anonymous:
         question = models.get_question_for_user(request.user.pk)
     else:
         question = random.choice(models.Question.objects.all())

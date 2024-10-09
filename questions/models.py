@@ -10,6 +10,7 @@ from django.conf import settings
 from simple_history.models import HistoricalRecords
 
 from sequtils import split_iter
+from sequtils import first
 from tags.models import Tag
 
 
@@ -173,5 +174,5 @@ def get_question_for_user(id_user):
             population.append(id_question)
             acc += weight
             cum_weights.append(acc)
-    id_question = random.choices(population, cum_weights=cum_weights)
+    id_question = first(random.choices(population, cum_weights=cum_weights))
     return Question.load_question(id_question)
