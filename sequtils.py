@@ -3,6 +3,40 @@
 import itertools
 
 
+def first(iterable, condition=lambda x: True, default=None):
+    """
+    Find and return the first item in the `iterable` that
+    satisfies the `condition`.
+
+    Parameters:
+
+      - `iterable`: any iterable
+
+      - `condition`: a callable that acceps a item of the
+        sequence and returns a boolean
+
+      - `defaut`: default sentinel value to be used in no
+        item in the iterable satisfies the condition. Value
+        by default is `None`.
+
+    Returns:
+
+        First item on the sequence to satisty the condition, or
+        the sentinel value if no one of the items satisfy the
+        condition.
+
+    Notes:
+
+      - If the condition is not given, returns the first item of
+        the iterable. If the iterable is empty, returns the `default`
+        value.
+    """
+    for item in iterable:
+        if condition(item):
+            return item
+    return default
+
+
 def split_iter(iterable, condition):
     """
     Split an iterable in two, based on callable condition.
