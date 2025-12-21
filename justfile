@@ -69,3 +69,8 @@ shell:
 
 dbshell:
     python ./manage.py dbshell
+
+
+dump:
+    python ./manage.py dumpdata --indent 4 tags > fixtures/tags.json
+    python ./manage.py dumpdata --indent 4 questions > fixtures/questions.json

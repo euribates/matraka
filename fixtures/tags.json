@@ -1,0 +1,353 @@
+[
+{
+    "model": "tags.tag",
+    "pk": 1,
+    "fields": {
+        "name": "constitucion",
+        "color": "#023BDD",
+        "description": "Constitucion"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 2,
+    "fields": {
+        "name": "reglamento",
+        "color": "#7FB016",
+        "description": "Reglamento y reglas de Gobierno Interior del Parlamento de Canarias"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 3,
+    "fields": {
+        "name": "dni",
+        "color": "#0D1B9E",
+        "description": "DNI electrónico"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 4,
+    "fields": {
+        "name": "transparencia",
+        "color": "#3AC557",
+        "description": "Transparencia"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 5,
+    "fields": {
+        "name": "ley-40-2015",
+        "color": "#6EE934",
+        "description": "Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 6,
+    "fields": {
+        "name": "igualdad",
+        "color": "#D4A872",
+        "description": "Igualdad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 7,
+    "fields": {
+        "name": "ley-39-2015",
+        "color": "#F07AFD",
+        "description": "Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 8,
+    "fields": {
+        "name": "os",
+        "color": "#B59E7D",
+        "description": "Sistemas operativos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 9,
+    "fields": {
+        "name": "estatuto-autonomia",
+        "color": "#2A236E",
+        "description": "Estatuto de Autonomía de Canarias"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 10,
+    "fields": {
+        "name": "ens",
+        "color": "#EEC5E6",
+        "description": "Esquema Nacional de Seguridad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 11,
+    "fields": {
+        "name": "python",
+        "color": "#2437B5",
+        "description": "Lenguaje Python"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 12,
+    "fields": {
+        "name": "iot",
+        "color": "#FDBC62",
+        "description": "Internet of Things"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 13,
+    "fields": {
+        "name": "gobierno-interior",
+        "color": "#FB41D3",
+        "description": "Normas de Gobierno Interior"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 14,
+    "fields": {
+        "name": "convenio-colectivo",
+        "color": "#53984D",
+        "description": "Convenio Colectivo"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 15,
+    "fields": {
+        "name": "ley-12-2014",
+        "color": "#6EAF92",
+        "description": "Ley 12/2014, de 26 de diciembre, de transparencia y de acceso a la información pública"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 16,
+    "fields": {
+        "name": "ley-9-2017",
+        "color": "#3E9DB9",
+        "description": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 17,
+    "fields": {
+        "name": "consejo-consultivo",
+        "color": "#A1AE30",
+        "description": "Consejo Consultivo de Canarias"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 18,
+    "fields": {
+        "name": "lenguajes",
+        "color": "#8C385D",
+        "description": "Lenguajes de programación"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 19,
+    "fields": {
+        "name": "riesgos-laborales",
+        "color": "#A244F0",
+        "description": "Riesgos Laborales"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 20,
+    "fields": {
+        "name": "contratacion",
+        "color": "#4A5C7A",
+        "description": "Contratación"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 21,
+    "fields": {
+        "name": "elecciones",
+        "color": "#8B8935",
+        "description": "Sistema electoral"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 22,
+    "fields": {
+        "name": "ley-2-1987",
+        "color": "#8D42EE",
+        "description": "Ley 2/1987, de 30 de marzo, de la Función Pública Canaria"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 23,
+    "fields": {
+        "name": "proteccion-datos",
+        "color": "#4E60AA",
+        "description": "Protección de datos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 24,
+    "fields": {
+        "name": "seguridad",
+        "color": "#BE0B01",
+        "description": "Seguridad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 25,
+    "fields": {
+        "name": "devops",
+        "color": "#CD3343",
+        "description": "DevOps"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 26,
+    "fields": {
+        "name": "database",
+        "color": "#93932A",
+        "description": "Bases de datos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 27,
+    "fields": {
+        "name": "windows",
+        "color": "#F67854",
+        "description": "Windows"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 28,
+    "fields": {
+        "name": "algoritmos",
+        "color": "#0E7909",
+        "description": "Algoritmos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 29,
+    "fields": {
+        "name": "free-software",
+        "color": "#08627D",
+        "description": "_Software_ libre"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 30,
+    "fields": {
+        "name": "ia",
+        "color": "#157A51",
+        "description": "Inteligencia artificial"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 31,
+    "fields": {
+        "name": "ley-19-2013",
+        "color": "#37682A",
+        "description": "Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 32,
+    "fields": {
+        "name": "cloud",
+        "color": "#16A2C5",
+        "description": "Computación en la nube"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 33,
+    "fields": {
+        "name": "patrones",
+        "color": "#F945EF",
+        "description": "Patrones de diseño"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 34,
+    "fields": {
+        "name": "java",
+        "color": "#C4481B",
+        "description": "Java"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 35,
+    "fields": {
+        "name": "eni",
+        "color": "#4CEA30",
+        "description": "Esquema Nacional de Interoperabilidad"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 36,
+    "fields": {
+        "name": "proyectos",
+        "color": "#6C4C5D",
+        "description": "Gestión de proyectos"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 37,
+    "fields": {
+        "name": "linux",
+        "color": "#35569E",
+        "description": "Unix/Linux"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 38,
+    "fields": {
+        "name": "sistemas",
+        "color": "#AF4985",
+        "description": "Sistemas"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 39,
+    "fields": {
+        "name": "redes",
+        "color": "#282230",
+        "description": "Redes"
+    }
+}
+]
