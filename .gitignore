@@ -32,3 +32,6 @@ Session.vim
 db.sqlite3
 /static/
 .project
+
+# Custom
+extra/
