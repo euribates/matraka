@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% load static markdownify crispy_forms_tags questions %}
+{% load static markdownify crispy_forms_tags questions tags %}
 
 {% block content %}
     
@@ -10,9 +10,7 @@
 
 <div>
 {% for tag in question.tags.all %}
-  <span class="tag is-info" style="color: {{ tag.color.foreground_color }}; background-color: {{ tag.color }}">
-      {{ tag }} 
-    </span>
+  {{ tag|as_tag }}
 {% endfor %}
 {% if question.source %} ( {{ question.source|markdownify }}) {% endif %}
 <span class="tag is-info variability">&times; {{ question.get_variability }}</span>

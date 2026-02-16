@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+{% load markdownify tags %}
+
+{% block content %}
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Descripción</th>
+            <th>Preguntas</th>
+        </tr>
+    </thead>
+    {% for tag in tags %}<tr>
+        <td>
+          {{ tag|as_tag }}
+        </td>  
+      <td>{{ tag.description }}</td>
+      <td>
+          <a class="badge" href="{% url 'tags:view_tag' tag_name=tag.name %}">  
+          {{ tag.num_questions }}
+        </a>  
+      <td>
+    </tr>{% endfor %}
+
+</table>
+
+{% endblock content %}

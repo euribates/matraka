@@ -42,3 +42,5 @@ class ColorField(models.CharField):
         if value:
             return str(value)
         return ''
+
+

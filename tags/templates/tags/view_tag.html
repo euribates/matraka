@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+{% load markdownify  %}
+
+{% block content %}
+
+<h1>{{ tag.name }}
+    <small>{{ tag.descripcion }}</small>
+</h1>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th>Pregunta</th>
+        </tr>
+    </thead>
+    {% for question in tag.questions.all %}<tr>
+        <td>
+            <a href="{{ question.get_absolute_url }}">  
+            {{ question.text|markdownify }}
+            </a>
+        </td>
+    </tr>{% endfor %}
+</table>
+
+{% endblock content %}

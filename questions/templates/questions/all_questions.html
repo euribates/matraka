@@ -27,7 +27,10 @@
                         ✎ <b>{{ question.pk }}</b>
                     </a>
                 </th>
-                <td>{{ question.text|markdownify}}</td>
+                <td>
+                    {{ question.text|markdownify}}
+                    <br>Creada el {{ question.created_at }}
+                </td>
                 <td><span class="tag is-info">{{ question.num_answers }}</span></td>
                 <td><span class="tag is-info">{{ question.get_variability }}</span></td>
                 <td>

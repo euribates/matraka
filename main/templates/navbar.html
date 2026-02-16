@@ -20,8 +20,14 @@
     </div>
 
     <div class="navbar-item">
-      <a class="navbar-link" href="{% url 'questions:new_question' %}">
+      <a href="{% url 'questions:new_question' %}">
         <b>Añadir pregunta</b>
+       </a>
+    </div>
+
+    <div class="navbar-item">
+      <a href="{% url 'tags:all_tags' %}">
+        <b>Etiquetas</b>
        </a>
     </div>
 

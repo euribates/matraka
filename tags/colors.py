@@ -52,6 +52,9 @@ class Color:
     def foreground_color(self):
         return BLACK if self.luminance() > 0.5 else WHITE
 
+    def background_color(self):
+        return str(self)
+
 
 BLACK = Color(0, 0, 0)
 WHITE = Color(255, 255, 255)

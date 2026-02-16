@@ -21,6 +21,7 @@ urlpatterns = [
     tie('chk/<int:pk>/', questions.views.chk_answer),
     tie('search/', questions.views.search),
     path('questions/', include('questions.urls')),
+    path('tags/', include('tags.urls')),
     path('api/', include('api.urls')),
     path("admin/", admin.site.urls),
     ]

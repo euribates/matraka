@@ -10590,14 +10590,226 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 707,
+    "fields": {
+        "id_question": 1,
+        "text": "Indique cuál es la forma política del Estado español:",
+        "source": "Cosntitución Española, artículo 1, punto 3",
+        "created_at": "2024-05-13T11:59:40.142Z",
+        "updated_at": "2026-02-16T08:03:29.676Z",
+        "history_date": "2026-02-16T08:03:29.690Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 708,
+    "fields": {
+        "id_question": 578,
+        "text": "Según la Constitución Española, el Estado se organiza territorialmente en:",
+        "source": "",
+        "created_at": "2026-02-16T08:08:48.574Z",
+        "updated_at": "2026-02-16T08:08:48.574Z",
+        "history_date": "2026-02-16T08:08:48.589Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 709,
+    "fields": {
+        "id_question": 579,
+        "text": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho los actos de las administraciones públicas que:",
+        "source": "",
+        "created_at": "2026-02-16T08:18:37.135Z",
+        "updated_at": "2026-02-16T08:18:37.135Z",
+        "history_date": "2026-02-16T08:18:37.146Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 710,
+    "fields": {
+        "id_question": 580,
+        "text": "Según el artículo 17 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la administración deberá mantener un archivo electrónico único ...",
+        "source": "",
+        "created_at": "2026-02-16T08:27:46.712Z",
+        "updated_at": "2026-02-16T08:27:46.712Z",
+        "history_date": "2026-02-16T08:27:46.723Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 711,
+    "fields": {
+        "id_question": 581,
+        "text": "Según el ENI, la publicación de servicios a través de la Red de comunicaciones de las AAPP (Red Sara) se encuentra contemplado dentro de la dimensión de interoperabilidad:",
+        "source": "",
+        "created_at": "2026-02-16T08:33:55.622Z",
+        "updated_at": "2026-02-16T08:33:55.622Z",
+        "history_date": "2026-02-16T08:33:55.641Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 712,
+    "fields": {
+        "id_question": 582,
+        "text": "La Ley 9/2017, de 8 de noviembre, de Contratos del sector público, considera que los contratos de adquisición de programas de ordenador desarrollados a medida son:",
+        "source": "Castilla-La Mancha Cuestionario de respuestas alternativas",
+        "created_at": "2026-02-16T09:01:44.887Z",
+        "updated_at": "2026-02-16T09:01:44.887Z",
+        "history_date": "2026-02-16T09:01:44.899Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 713,
+    "fields": {
+        "id_question": 582,
+        "text": "La Ley 9/2017, de 8 de noviembre, de Contratos del sector público, considera que los contratos de adquisición de programas de ordenador desarrollados a medida:",
+        "source": "Art. 16",
+        "created_at": "2026-02-16T09:01:44.887Z",
+        "updated_at": "2026-02-16T09:08:51.436Z",
+        "history_date": "2026-02-16T09:08:51.452Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 714,
+    "fields": {
+        "id_question": 426,
+        "text": "Están sujetos a regulación armonizada los contratos de obras y de concesión de obras públicas cuyo valor estimado sea igual o superior a:",
+        "source": "",
+        "created_at": "2024-09-08T13:53:35.381Z",
+        "updated_at": "2026-02-16T09:34:33.253Z",
+        "history_date": "2026-02-16T09:34:33.267Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 715,
+    "fields": {
+        "id_question": 426,
+        "text": "Están sujetos a regulación armonizada los contratos de obras y de concesión de obras públicas cuyo valor estimado sea igual o superior a:",
+        "source": "",
+        "created_at": "2024-09-08T13:53:35.381Z",
+        "updated_at": "2026-02-16T09:34:50.830Z",
+        "history_date": "2026-02-16T09:34:50.839Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 716,
+    "fields": {
+        "id_question": 386,
+        "text": "Los contratos de las Administraciones públicas podrán modificarse durante su vigencia, cuando en los pliegos de cláusulas administrativas particulares se hubiere advertido expresamente de esta posibilidad, hasta un máximo de:",
+        "source": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. Art. 204.1",
+        "created_at": "2024-09-07T18:46:46.958Z",
+        "updated_at": "2026-02-16T09:43:26.928Z",
+        "history_date": "2026-02-16T09:43:26.941Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 717,
+    "fields": {
+        "id_question": 426,
+        "text": "Están sujetos a regulación armonizada los contratos de obras y de concesión de obras públicas cuyo valor estimado sea igual o superior a:",
+        "source": "",
+        "created_at": "2024-09-08T13:53:35.381Z",
+        "updated_at": "2026-02-16T10:00:29.465Z",
+        "history_date": "2026-02-16T10:00:29.480Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 718,
+    "fields": {
+        "id_question": 583,
+        "text": "¿Cuál de las siguientes dimensiones no se corresponde a un DAFO?",
+        "source": "https://es.wikipedia.org/wiki/An%C3%A1lisis_FODA",
+        "created_at": "2026-02-16T10:04:35.593Z",
+        "updated_at": "2026-02-16T10:04:35.594Z",
+        "history_date": "2026-02-16T10:04:35.608Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 719,
+    "fields": {
+        "id_question": 583,
+        "text": "¿Cuál de las siguientes dimensiones **no** se corresponde a un DAFO?",
+        "source": "https://es.wikipedia.org/wiki/An%C3%A1lisis_FODA",
+        "created_at": "2026-02-16T10:04:35.593Z",
+        "updated_at": "2026-02-16T10:04:57.111Z",
+        "history_date": "2026-02-16T10:04:57.130Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 720,
+    "fields": {
+        "id_question": 20,
+        "text": "La Red SARA",
+        "source": "https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=redsara",
+        "created_at": "2024-05-13T14:03:39.339Z",
+        "updated_at": "2026-02-16T10:11:57.509Z",
+        "history_date": "2026-02-16T10:11:57.528Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
         "text": "Indique cuál es la forma política del Estado español:",
         "source": "Cosntitución Española, artículo 1, punto 3",
         "created_at": "2024-05-13T11:59:40.142Z",
-        "updated_at": "2024-05-13T12:31:36.307Z",
-        "tags": []
+        "updated_at": "2026-02-16T08:03:29.676Z",
+        "tags": [
+            1
+        ]
     }
 },
 {
@@ -10807,8 +11019,10 @@
         "text": "La Red SARA",
         "source": "https://administracionelectronica.gob.es/ctt/verPestanaGeneral.htm?idIniciativa=redsara",
         "created_at": "2024-05-13T14:03:39.339Z",
-        "updated_at": "2024-05-13T14:03:39.339Z",
-        "tags": []
+        "updated_at": "2026-02-16T10:11:57.509Z",
+        "tags": [
+            35
+        ]
     }
 },
 {
@@ -15063,8 +15277,9 @@
         "text": "Los contratos de las Administraciones públicas podrán modificarse durante su vigencia, cuando en los pliegos de cláusulas administrativas particulares se hubiere advertido expresamente de esta posibilidad, hasta un máximo de:",
         "source": "Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público. Art. 204.1",
         "created_at": "2024-09-07T18:46:46.958Z",
-        "updated_at": "2024-09-07T18:46:46.958Z",
+        "updated_at": "2026-02-16T09:43:26.928Z",
         "tags": [
+            20,
             16
         ]
     }
@@ -15537,9 +15752,10 @@
         "text": "Están sujetos a regulación armonizada los contratos de obras y de concesión de obras públicas cuyo valor estimado sea igual o superior a:",
         "source": "",
         "created_at": "2024-09-08T13:53:35.381Z",
-        "updated_at": "2024-09-08T13:53:35.381Z",
+        "updated_at": "2026-02-16T10:00:29.465Z",
         "tags": [
-            20
+            20,
+            16
         ]
     }
 },
@@ -17453,6 +17669,84 @@
             25,
             39,
             38
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 578,
+    "fields": {
+        "text": "Según la Constitución Española, el Estado se organiza territorialmente en:",
+        "source": "",
+        "created_at": "2026-02-16T08:08:48.574Z",
+        "updated_at": "2026-02-16T08:08:48.574Z",
+        "tags": [
+            1
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 579,
+    "fields": {
+        "text": "De conformidad con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, son nulos de pleno derecho los actos de las administraciones públicas que:",
+        "source": "",
+        "created_at": "2026-02-16T08:18:37.135Z",
+        "updated_at": "2026-02-16T08:18:37.135Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 580,
+    "fields": {
+        "text": "Según el artículo 17 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la administración deberá mantener un archivo electrónico único ...",
+        "source": "",
+        "created_at": "2026-02-16T08:27:46.712Z",
+        "updated_at": "2026-02-16T08:27:46.712Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 581,
+    "fields": {
+        "text": "Según el ENI, la publicación de servicios a través de la Red de comunicaciones de las AAPP (Red Sara) se encuentra contemplado dentro de la dimensión de interoperabilidad:",
+        "source": "",
+        "created_at": "2026-02-16T08:33:55.622Z",
+        "updated_at": "2026-02-16T08:33:55.622Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 582,
+    "fields": {
+        "text": "La Ley 9/2017, de 8 de noviembre, de Contratos del sector público, considera que los contratos de adquisición de programas de ordenador desarrollados a medida:",
+        "source": "Art. 16",
+        "created_at": "2026-02-16T09:01:44.887Z",
+        "updated_at": "2026-02-16T09:08:51.436Z",
+        "tags": [
+            16
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 583,
+    "fields": {
+        "text": "¿Cuál de las siguientes dimensiones **no** se corresponde a un DAFO?",
+        "source": "https://es.wikipedia.org/wiki/An%C3%A1lisis_FODA",
+        "created_at": "2026-02-16T10:04:35.593Z",
+        "updated_at": "2026-02-16T10:04:57.111Z",
+        "tags": [
+            36
         ]
     }
 },
@@ -65361,6 +65655,790 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 2995,
+    "fields": {
+        "id_answer": 2766,
+        "text": "República",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:04:59.706Z",
+        "updated_at": "2026-02-16T08:04:59.706Z",
+        "question": 1,
+        "history_date": "2026-02-16T08:04:59.717Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 2996,
+    "fields": {
+        "id_answer": 2767,
+        "text": "República parlamentaria",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:06:33.579Z",
+        "updated_at": "2026-02-16T08:06:33.579Z",
+        "question": 1,
+        "history_date": "2026-02-16T08:06:33.600Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 2997,
+    "fields": {
+        "id_answer": 2768,
+        "text": "En municipios, en provincias y en las Comunidades Autónomas que se constituyan",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:09:18.934Z",
+        "updated_at": "2026-02-16T08:09:18.934Z",
+        "question": 578,
+        "history_date": "2026-02-16T08:09:18.946Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 2998,
+    "fields": {
+        "id_answer": 2769,
+        "text": "En provincias y Comunidades Autónomas",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:09:44.316Z",
+        "updated_at": "2026-02-16T08:09:44.316Z",
+        "question": 578,
+        "history_date": "2026-02-16T08:09:44.335Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 2999,
+    "fields": {
+        "id_answer": 2770,
+        "text": "En municipios y provincias",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:09:56.915Z",
+        "updated_at": "2026-02-16T08:09:56.915Z",
+        "question": 578,
+        "history_date": "2026-02-16T08:09:56.935Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3000,
+    "fields": {
+        "id_answer": 2771,
+        "text": "En Comunidades Autónomas",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:10:13.832Z",
+        "updated_at": "2026-02-16T08:10:13.832Z",
+        "question": 578,
+        "history_date": "2026-02-16T08:10:13.857Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3001,
+    "fields": {
+        "id_answer": 2772,
+        "text": "En regiones administrativas, distritos y municipios",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:11:22.619Z",
+        "updated_at": "2026-02-16T08:11:22.619Z",
+        "question": 578,
+        "history_date": "2026-02-16T08:11:22.638Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3002,
+    "fields": {
+        "id_answer": 2773,
+        "text": "En regiones, condados, distritos y parroquias",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:15:06.226Z",
+        "updated_at": "2026-02-16T08:15:06.226Z",
+        "question": 578,
+        "history_date": "2026-02-16T08:15:06.243Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3003,
+    "fields": {
+        "id_answer": 2774,
+        "text": "Los que lesionen cualesquiera derechos y libertades",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:20:17.498Z",
+        "updated_at": "2026-02-16T08:20:17.498Z",
+        "question": 579,
+        "history_date": "2026-02-16T08:20:17.518Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3004,
+    "fields": {
+        "id_answer": 2775,
+        "text": "Los que tengan un contenido imposible",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:20:32.405Z",
+        "updated_at": "2026-02-16T08:20:32.405Z",
+        "question": 579,
+        "history_date": "2026-02-16T08:20:32.419Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3005,
+    "fields": {
+        "id_answer": 2776,
+        "text": "Sean dictados por órgano manifiestamente competente por razón de la materia o del territorio",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:21:05.889Z",
+        "updated_at": "2026-02-16T08:21:05.889Z",
+        "question": 579,
+        "history_date": "2026-02-16T08:21:05.908Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3006,
+    "fields": {
+        "id_answer": 2777,
+        "text": "Incurran en cualquier defecto de forma",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:21:25.660Z",
+        "updated_at": "2026-02-16T08:21:25.660Z",
+        "question": 579,
+        "history_date": "2026-02-16T08:21:25.676Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3007,
+    "fields": {
+        "id_answer": 2778,
+        "text": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:22:42.448Z",
+        "updated_at": "2026-02-16T08:22:42.448Z",
+        "question": 579,
+        "history_date": "2026-02-16T08:22:42.467Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3008,
+    "fields": {
+        "id_answer": 2779,
+        "text": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:23:51.724Z",
+        "updated_at": "2026-02-16T08:23:51.724Z",
+        "question": 579,
+        "history_date": "2026-02-16T08:23:51.739Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3009,
+    "fields": {
+        "id_answer": 2780,
+        "text": "De los documentos electrónicos que correspondan a procedimientos finalizados",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:28:46.939Z",
+        "updated_at": "2026-02-16T08:28:46.939Z",
+        "question": 580,
+        "history_date": "2026-02-16T08:28:46.954Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3010,
+    "fields": {
+        "id_answer": 2781,
+        "text": "De los documentos electrónicos y en papel que correspondan a procedimientos finalizados",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:29:01.714Z",
+        "updated_at": "2026-02-16T08:29:01.714Z",
+        "question": 580,
+        "history_date": "2026-02-16T08:29:01.737Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3011,
+    "fields": {
+        "id_answer": 2782,
+        "text": "De los documentos electrónicos que correspondan a procedimientos abiertos o finalizados",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:29:22.099Z",
+        "updated_at": "2026-02-16T08:29:22.099Z",
+        "question": 580,
+        "history_date": "2026-02-16T08:29:22.115Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3012,
+    "fields": {
+        "id_answer": 2783,
+        "text": "De los documentos electrónicos y en papel que correspondan a procedimientos finalizados",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:29:38.713Z",
+        "updated_at": "2026-02-16T08:29:38.713Z",
+        "question": 580,
+        "history_date": "2026-02-16T08:29:38.733Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3013,
+    "fields": {
+        "id_answer": 2784,
+        "text": "De los documentos electrónicos que correspondan a todos los procedimientos, independientemente de su estado",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:31:24.474Z",
+        "updated_at": "2026-02-16T08:31:24.474Z",
+        "question": 580,
+        "history_date": "2026-02-16T08:31:24.492Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3014,
+    "fields": {
+        "id_answer": 2785,
+        "text": "Técnica",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:34:51.234Z",
+        "updated_at": "2026-02-16T08:34:51.234Z",
+        "question": 581,
+        "history_date": "2026-02-16T08:34:51.246Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3015,
+    "fields": {
+        "id_answer": 2786,
+        "text": "Semántica",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:34:58.826Z",
+        "updated_at": "2026-02-16T08:34:58.826Z",
+        "question": 581,
+        "history_date": "2026-02-16T08:34:58.848Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3016,
+    "fields": {
+        "id_answer": 2787,
+        "text": "Comunicativa",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:35:08.912Z",
+        "updated_at": "2026-02-16T08:35:08.912Z",
+        "question": 581,
+        "history_date": "2026-02-16T08:35:08.922Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3017,
+    "fields": {
+        "id_answer": 2788,
+        "text": "Organizativa",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:35:15.678Z",
+        "updated_at": "2026-02-16T08:35:15.678Z",
+        "question": 581,
+        "history_date": "2026-02-16T08:35:15.700Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3018,
+    "fields": {
+        "id_answer": 2789,
+        "text": "De reutilización",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:36:10.625Z",
+        "updated_at": "2026-02-16T08:36:10.625Z",
+        "question": 581,
+        "history_date": "2026-02-16T08:36:10.642Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3019,
+    "fields": {
+        "id_answer": 2790,
+        "text": "Portabilidad",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:39:17.102Z",
+        "updated_at": "2026-02-16T08:39:17.102Z",
+        "question": 581,
+        "history_date": "2026-02-16T08:39:17.121Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3020,
+    "fields": {
+        "id_answer": 2791,
+        "text": "Contratos de concesión de servicios",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:14.485Z",
+        "updated_at": "2026-02-16T09:03:14.485Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:03:14.499Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3021,
+    "fields": {
+        "id_answer": 2792,
+        "text": "Contratos de suministros",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:25.488Z",
+        "updated_at": "2026-02-16T09:03:25.488Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:03:25.499Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3022,
+    "fields": {
+        "id_answer": 2793,
+        "text": "Contratos de servicio",
+        "is_correct": true,
+        "created_at": "2026-02-16T09:03:35.465Z",
+        "updated_at": "2026-02-16T09:03:35.465Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:03:35.484Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3023,
+    "fields": {
+        "id_answer": 2794,
+        "text": "Contratos de obra",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:45.751Z",
+        "updated_at": "2026-02-16T09:03:45.751Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:03:45.766Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3024,
+    "fields": {
+        "id_answer": 2795,
+        "text": "Contratos de concesión de obras",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:04:19.828Z",
+        "updated_at": "2026-02-16T09:04:19.828Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:04:19.844Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3025,
+    "fields": {
+        "id_answer": 2796,
+        "text": "Siempre contratos mixtos",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:06:13.448Z",
+        "updated_at": "2026-02-16T09:06:13.448Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:06:13.467Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3026,
+    "fields": {
+        "id_answer": 2797,
+        "text": "siempre están sujetos a una regulación armonizada",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:08:01.011Z",
+        "updated_at": "2026-02-16T09:08:01.011Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:08:01.029Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3027,
+    "fields": {
+        "id_answer": 2791,
+        "text": "Son contratos de concesión de servicios",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:14.485Z",
+        "updated_at": "2026-02-16T09:09:02.716Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:09:02.732Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3028,
+    "fields": {
+        "id_answer": 2792,
+        "text": "Son contratos de suministros",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:25.488Z",
+        "updated_at": "2026-02-16T09:09:12.638Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:09:12.649Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3029,
+    "fields": {
+        "id_answer": 2793,
+        "text": "Son contratos de servicio",
+        "is_correct": true,
+        "created_at": "2026-02-16T09:03:35.465Z",
+        "updated_at": "2026-02-16T09:09:20.851Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:09:20.866Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3030,
+    "fields": {
+        "id_answer": 2794,
+        "text": "Son contratos de obra",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:45.751Z",
+        "updated_at": "2026-02-16T09:09:29.264Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:09:29.278Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3031,
+    "fields": {
+        "id_answer": 2795,
+        "text": "Son contratos de concesión de obras",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:04:19.828Z",
+        "updated_at": "2026-02-16T09:09:37.445Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:09:37.460Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3032,
+    "fields": {
+        "id_answer": 2796,
+        "text": "Se consideran siempre contratos mixtos",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:06:13.448Z",
+        "updated_at": "2026-02-16T09:10:01.564Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:10:01.582Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3033,
+    "fields": {
+        "id_answer": 2797,
+        "text": "Siempre están sujetos a una regulación armonizada",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:08:01.011Z",
+        "updated_at": "2026-02-16T09:10:11.827Z",
+        "question": 582,
+        "history_date": "2026-02-16T09:10:11.843Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3034,
+    "fields": {
+        "id_answer": 2798,
+        "text": "Los contratos de obra nunca están sujetos a regulación armonizada",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:01:10.902Z",
+        "updated_at": "2026-02-16T10:01:10.902Z",
+        "question": 426,
+        "history_date": "2026-02-16T10:01:10.916Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3035,
+    "fields": {
+        "id_answer": 2799,
+        "text": "Debilidades",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:04:47.581Z",
+        "updated_at": "2026-02-16T10:04:47.581Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:04:47.600Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3036,
+    "fields": {
+        "id_answer": 2800,
+        "text": "Fortalezas",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:05:11.073Z",
+        "updated_at": "2026-02-16T10:05:11.073Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:05:11.089Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3037,
+    "fields": {
+        "id_answer": 2801,
+        "text": "Obstrucciones",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:05:19.810Z",
+        "updated_at": "2026-02-16T10:05:19.810Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:05:19.831Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3038,
+    "fields": {
+        "id_answer": 2802,
+        "text": "Amenazas",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:05:29.334Z",
+        "updated_at": "2026-02-16T10:05:29.334Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:05:29.347Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3039,
+    "fields": {
+        "id_answer": 2803,
+        "text": "Oportunidades",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:05:40.226Z",
+        "updated_at": "2026-02-16T10:05:40.226Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:05:40.246Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3040,
+    "fields": {
+        "id_answer": 2804,
+        "text": "Resilencia",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:06:08.656Z",
+        "updated_at": "2026-02-16T10:06:08.656Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:06:08.666Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3041,
+    "fields": {
+        "id_answer": 2805,
+        "text": "Falacias",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:06:29.235Z",
+        "updated_at": "2026-02-16T10:06:29.235Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:06:29.248Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3042,
+    "fields": {
+        "id_answer": 2806,
+        "text": "Desobediencia",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:07:16.207Z",
+        "updated_at": "2026-02-16T10:07:16.207Z",
+        "question": 583,
+        "history_date": "2026-02-16T10:07:16.226Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3043,
+    "fields": {
+        "id_answer": 84,
+        "text": "Interconecta las Administraciones Públicas Españolas e instituciones europeas",
+        "is_correct": true,
+        "created_at": "2024-05-13T14:04:22.539Z",
+        "updated_at": "2026-02-16T10:11:47.043Z",
+        "question": 20,
+        "history_date": "2026-02-16T10:11:47.058Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -66267,10 +67345,10 @@
     "pk": 84,
     "fields": {
         "question": 20,
-        "text": "Interconecta las Administraciones Públicas Españolas e instituciones europeas.",
+        "text": "Interconecta las Administraciones Públicas Españolas e instituciones europeas",
         "is_correct": true,
         "created_at": "2024-05-13T14:04:22.539Z",
-        "updated_at": "2024-05-13T14:04:22.539Z"
+        "updated_at": "2026-02-16T10:11:47.043Z"
     }
 },
 {
@@ -95765,6 +96843,457 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 2766,
+    "fields": {
+        "question": 1,
+        "text": "República",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:04:59.706Z",
+        "updated_at": "2026-02-16T08:04:59.706Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2767,
+    "fields": {
+        "question": 1,
+        "text": "República parlamentaria",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:06:33.579Z",
+        "updated_at": "2026-02-16T08:06:33.579Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2768,
+    "fields": {
+        "question": 578,
+        "text": "En municipios, en provincias y en las Comunidades Autónomas que se constituyan",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:09:18.934Z",
+        "updated_at": "2026-02-16T08:09:18.934Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2769,
+    "fields": {
+        "question": 578,
+        "text": "En provincias y Comunidades Autónomas",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:09:44.316Z",
+        "updated_at": "2026-02-16T08:09:44.316Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2770,
+    "fields": {
+        "question": 578,
+        "text": "En municipios y provincias",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:09:56.915Z",
+        "updated_at": "2026-02-16T08:09:56.915Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2771,
+    "fields": {
+        "question": 578,
+        "text": "En Comunidades Autónomas",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:10:13.832Z",
+        "updated_at": "2026-02-16T08:10:13.832Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2772,
+    "fields": {
+        "question": 578,
+        "text": "En regiones administrativas, distritos y municipios",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:11:22.619Z",
+        "updated_at": "2026-02-16T08:11:22.619Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2773,
+    "fields": {
+        "question": 578,
+        "text": "En regiones, condados, distritos y parroquias",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:15:06.226Z",
+        "updated_at": "2026-02-16T08:15:06.226Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2774,
+    "fields": {
+        "question": 579,
+        "text": "Los que lesionen cualesquiera derechos y libertades",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:20:17.498Z",
+        "updated_at": "2026-02-16T08:20:17.498Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2775,
+    "fields": {
+        "question": 579,
+        "text": "Los que tengan un contenido imposible",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:20:32.405Z",
+        "updated_at": "2026-02-16T08:20:32.405Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2776,
+    "fields": {
+        "question": 579,
+        "text": "Sean dictados por órgano manifiestamente competente por razón de la materia o del territorio",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:21:05.889Z",
+        "updated_at": "2026-02-16T08:21:05.889Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2777,
+    "fields": {
+        "question": 579,
+        "text": "Incurran en cualquier defecto de forma",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:21:25.660Z",
+        "updated_at": "2026-02-16T08:21:25.660Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2778,
+    "fields": {
+        "question": 579,
+        "text": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a la Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:22:42.448Z",
+        "updated_at": "2026-02-16T08:22:42.448Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2779,
+    "fields": {
+        "question": 579,
+        "text": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:23:51.724Z",
+        "updated_at": "2026-02-16T08:23:51.724Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2780,
+    "fields": {
+        "question": 580,
+        "text": "De los documentos electrónicos que correspondan a procedimientos finalizados",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:28:46.939Z",
+        "updated_at": "2026-02-16T08:28:46.939Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2781,
+    "fields": {
+        "question": 580,
+        "text": "De los documentos electrónicos y en papel que correspondan a procedimientos finalizados",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:29:01.714Z",
+        "updated_at": "2026-02-16T08:29:01.714Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2782,
+    "fields": {
+        "question": 580,
+        "text": "De los documentos electrónicos que correspondan a procedimientos abiertos o finalizados",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:29:22.099Z",
+        "updated_at": "2026-02-16T08:29:22.099Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2783,
+    "fields": {
+        "question": 580,
+        "text": "De los documentos electrónicos y en papel que correspondan a procedimientos finalizados",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:29:38.713Z",
+        "updated_at": "2026-02-16T08:29:38.713Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2784,
+    "fields": {
+        "question": 580,
+        "text": "De los documentos electrónicos que correspondan a todos los procedimientos, independientemente de su estado",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:31:24.474Z",
+        "updated_at": "2026-02-16T08:31:24.474Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2785,
+    "fields": {
+        "question": 581,
+        "text": "Técnica",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:34:51.234Z",
+        "updated_at": "2026-02-16T08:34:51.234Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2786,
+    "fields": {
+        "question": 581,
+        "text": "Semántica",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:34:58.826Z",
+        "updated_at": "2026-02-16T08:34:58.826Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2787,
+    "fields": {
+        "question": 581,
+        "text": "Comunicativa",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:35:08.912Z",
+        "updated_at": "2026-02-16T08:35:08.912Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2788,
+    "fields": {
+        "question": 581,
+        "text": "Organizativa",
+        "is_correct": true,
+        "created_at": "2026-02-16T08:35:15.678Z",
+        "updated_at": "2026-02-16T08:35:15.678Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2789,
+    "fields": {
+        "question": 581,
+        "text": "De reutilización",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:36:10.625Z",
+        "updated_at": "2026-02-16T08:36:10.625Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2790,
+    "fields": {
+        "question": 581,
+        "text": "Portabilidad",
+        "is_correct": false,
+        "created_at": "2026-02-16T08:39:17.102Z",
+        "updated_at": "2026-02-16T08:39:17.102Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2791,
+    "fields": {
+        "question": 582,
+        "text": "Son contratos de concesión de servicios",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:14.485Z",
+        "updated_at": "2026-02-16T09:09:02.716Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2792,
+    "fields": {
+        "question": 582,
+        "text": "Son contratos de suministros",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:25.488Z",
+        "updated_at": "2026-02-16T09:09:12.638Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2793,
+    "fields": {
+        "question": 582,
+        "text": "Son contratos de servicio",
+        "is_correct": true,
+        "created_at": "2026-02-16T09:03:35.465Z",
+        "updated_at": "2026-02-16T09:09:20.851Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2794,
+    "fields": {
+        "question": 582,
+        "text": "Son contratos de obra",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:03:45.751Z",
+        "updated_at": "2026-02-16T09:09:29.264Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2795,
+    "fields": {
+        "question": 582,
+        "text": "Son contratos de concesión de obras",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:04:19.828Z",
+        "updated_at": "2026-02-16T09:09:37.445Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2796,
+    "fields": {
+        "question": 582,
+        "text": "Se consideran siempre contratos mixtos",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:06:13.448Z",
+        "updated_at": "2026-02-16T09:10:01.564Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2797,
+    "fields": {
+        "question": 582,
+        "text": "Siempre están sujetos a una regulación armonizada",
+        "is_correct": false,
+        "created_at": "2026-02-16T09:08:01.011Z",
+        "updated_at": "2026-02-16T09:10:11.827Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2798,
+    "fields": {
+        "question": 426,
+        "text": "Los contratos de obra nunca están sujetos a regulación armonizada",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:01:10.902Z",
+        "updated_at": "2026-02-16T10:01:10.902Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2799,
+    "fields": {
+        "question": 583,
+        "text": "Debilidades",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:04:47.581Z",
+        "updated_at": "2026-02-16T10:04:47.581Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2800,
+    "fields": {
+        "question": 583,
+        "text": "Fortalezas",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:05:11.073Z",
+        "updated_at": "2026-02-16T10:05:11.073Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2801,
+    "fields": {
+        "question": 583,
+        "text": "Obstrucciones",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:05:19.810Z",
+        "updated_at": "2026-02-16T10:05:19.810Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2802,
+    "fields": {
+        "question": 583,
+        "text": "Amenazas",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:05:29.334Z",
+        "updated_at": "2026-02-16T10:05:29.334Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2803,
+    "fields": {
+        "question": 583,
+        "text": "Oportunidades",
+        "is_correct": false,
+        "created_at": "2026-02-16T10:05:40.226Z",
+        "updated_at": "2026-02-16T10:05:40.226Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2804,
+    "fields": {
+        "question": 583,
+        "text": "Resilencia",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:06:08.656Z",
+        "updated_at": "2026-02-16T10:06:08.656Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2805,
+    "fields": {
+        "question": 583,
+        "text": "Falacias",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:06:29.235Z",
+        "updated_at": "2026-02-16T10:06:29.235Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2806,
+    "fields": {
+        "question": 583,
+        "text": "Desobediencia",
+        "is_correct": true,
+        "created_at": "2026-02-16T10:07:16.207Z",
+        "updated_at": "2026-02-16T10:07:16.207Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -99730,10 +101259,10 @@
     "fields": {
         "user": 1,
         "question": 426,
-        "tries": 3,
-        "failures": 1,
+        "tries": 5,
+        "failures": 2,
         "created_at": "2024-10-09T16:37:30.855Z",
-        "updated_at": "2024-10-09T16:38:03.296Z"
+        "updated_at": "2026-02-16T10:01:29.694Z"
     }
 },
 {
@@ -102602,6 +104131,54 @@
         "failures": 0,
         "created_at": "2025-12-21T13:28:25.290Z",
         "updated_at": "2025-12-21T13:28:25.290Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 571,
+    "fields": {
+        "user": 1,
+        "question": 578,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-02-16T08:15:20.370Z",
+        "updated_at": "2026-02-16T08:15:20.370Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 572,
+    "fields": {
+        "user": 1,
+        "question": 579,
+        "tries": 2,
+        "failures": 0,
+        "created_at": "2026-02-16T08:24:12.165Z",
+        "updated_at": "2026-02-16T08:24:49.606Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 573,
+    "fields": {
+        "user": 1,
+        "question": 581,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-02-16T08:39:28.689Z",
+        "updated_at": "2026-02-16T08:39:28.689Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 574,
+    "fields": {
+        "user": 1,
+        "question": 582,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-02-16T09:10:21.803Z",
+        "updated_at": "2026-02-16T09:10:33.484Z"
     }
 }
 ]
