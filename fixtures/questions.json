@@ -10800,6 +10800,66 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 721,
+    "fields": {
+        "id_question": 584,
+        "text": "Los contratos menores, definidos en al artículo 138 de la Ley 9/2017, de 8 de noviembre de Contratos del Sector Público, no podrán tener una duración superior a:",
+        "source": "Art. 138",
+        "created_at": "2026-02-18T20:29:42.830Z",
+        "updated_at": "2026-02-18T20:29:42.830Z",
+        "history_date": "2026-02-18T20:29:42.845Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 722,
+    "fields": {
+        "id_question": 585,
+        "text": "La característica que define a los sistemas de \"Big Data\", referida a la capacidad de trabajar con datos de diferentes tipos procedentes de diversas fuentes, que pueden ser estructurados, semiestructurados y no estructurados, se conoce como:",
+        "source": "",
+        "created_at": "2026-02-18T20:37:26.862Z",
+        "updated_at": "2026-02-18T20:37:26.862Z",
+        "history_date": "2026-02-18T20:37:26.880Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 723,
+    "fields": {
+        "id_question": 586,
+        "text": "¿Cuál de las siguientes **no** es una topología válida para una red de almacenamiento sobre la que se pueda desplegar el estándar *Fibre Channel*?",
+        "source": "",
+        "created_at": "2026-02-18T20:44:05.189Z",
+        "updated_at": "2026-02-18T20:44:05.189Z",
+        "history_date": "2026-02-18T20:44:05.204Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 724,
+    "fields": {
+        "id_question": 586,
+        "text": "¿Cuál de las siguientes **no** es una topología válida para una red de almacenamiento sobre la que se pueda desplegar el estándar *Fibre Channel*?",
+        "source": "https://en.wikipedia.org/wiki/Fibre_Channel",
+        "created_at": "2026-02-18T20:44:05.189Z",
+        "updated_at": "2026-02-18T20:53:19.634Z",
+        "history_date": "2026-02-18T20:53:19.647Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -17747,6 +17807,50 @@
         "updated_at": "2026-02-16T10:04:57.111Z",
         "tags": [
             36
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 584,
+    "fields": {
+        "text": "Los contratos menores, definidos en al artículo 138 de la Ley 9/2017, de 8 de noviembre de Contratos del Sector Público, no podrán tener una duración superior a:",
+        "source": "Art. 138",
+        "created_at": "2026-02-18T20:29:42.830Z",
+        "updated_at": "2026-02-18T20:29:42.830Z",
+        "tags": [
+            20,
+            16
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 585,
+    "fields": {
+        "text": "La característica que define a los sistemas de \"Big Data\", referida a la capacidad de trabajar con datos de diferentes tipos procedentes de diversas fuentes, que pueden ser estructurados, semiestructurados y no estructurados, se conoce como:",
+        "source": "",
+        "created_at": "2026-02-18T20:37:26.862Z",
+        "updated_at": "2026-02-18T20:37:26.862Z",
+        "tags": [
+            25,
+            30,
+            38
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 586,
+    "fields": {
+        "text": "¿Cuál de las siguientes **no** es una topología válida para una red de almacenamiento sobre la que se pueda desplegar el estándar *Fibre Channel*?",
+        "source": "https://en.wikipedia.org/wiki/Fibre_Channel",
+        "created_at": "2026-02-18T20:44:05.189Z",
+        "updated_at": "2026-02-18T20:53:19.634Z",
+        "tags": [
+            25,
+            39,
+            38
         ]
     }
 },
@@ -66439,6 +66543,262 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3044,
+    "fields": {
+        "id_answer": 2807,
+        "text": "Cinco años, ni ser objeto de prórroga",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:30:49.477Z",
+        "updated_at": "2026-02-18T20:30:49.478Z",
+        "question": 584,
+        "history_date": "2026-02-18T20:30:49.491Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3045,
+    "fields": {
+        "id_answer": 2808,
+        "text": "Un año, ni ser objeto de prórroga",
+        "is_correct": true,
+        "created_at": "2026-02-18T20:31:10.525Z",
+        "updated_at": "2026-02-18T20:31:10.525Z",
+        "question": 584,
+        "history_date": "2026-02-18T20:31:10.546Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3046,
+    "fields": {
+        "id_answer": 2809,
+        "text": "Dos años, ni ser objeto de prórroga",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:31:26.179Z",
+        "updated_at": "2026-02-18T20:31:26.179Z",
+        "question": 584,
+        "history_date": "2026-02-18T20:31:26.193Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3047,
+    "fields": {
+        "id_answer": 2810,
+        "text": "Seis meses, prorrogable hasta un año",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:31:51.575Z",
+        "updated_at": "2026-02-18T20:31:51.575Z",
+        "question": 584,
+        "history_date": "2026-02-18T20:31:51.586Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3048,
+    "fields": {
+        "id_answer": 2811,
+        "text": "Los contratos menores no tiene duración máxima",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:32:19.779Z",
+        "updated_at": "2026-02-18T20:32:19.780Z",
+        "question": 584,
+        "history_date": "2026-02-18T20:32:19.798Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3049,
+    "fields": {
+        "id_answer": 2812,
+        "text": "Velocidad",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:37:38.249Z",
+        "updated_at": "2026-02-18T20:37:38.249Z",
+        "question": 585,
+        "history_date": "2026-02-18T20:37:38.263Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3050,
+    "fields": {
+        "id_answer": 2813,
+        "text": "Variedad",
+        "is_correct": true,
+        "created_at": "2026-02-18T20:37:43.834Z",
+        "updated_at": "2026-02-18T20:37:43.834Z",
+        "question": 585,
+        "history_date": "2026-02-18T20:37:43.852Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3051,
+    "fields": {
+        "id_answer": 2814,
+        "text": "Volumen",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:37:50.419Z",
+        "updated_at": "2026-02-18T20:37:50.420Z",
+        "question": 585,
+        "history_date": "2026-02-18T20:37:50.441Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3052,
+    "fields": {
+        "id_answer": 2815,
+        "text": "Veracidad",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:37:56.965Z",
+        "updated_at": "2026-02-18T20:37:56.965Z",
+        "question": 585,
+        "history_date": "2026-02-18T20:37:56.980Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3053,
+    "fields": {
+        "id_answer": 2816,
+        "text": "Verosimilitud",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:39:25.713Z",
+        "updated_at": "2026-02-18T20:39:25.713Z",
+        "question": 585,
+        "history_date": "2026-02-18T20:39:25.736Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3054,
+    "fields": {
+        "id_answer": 2817,
+        "text": "Valor",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:40:15.600Z",
+        "updated_at": "2026-02-18T20:40:15.600Z",
+        "question": 585,
+        "history_date": "2026-02-18T20:40:15.620Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3055,
+    "fields": {
+        "id_answer": 2818,
+        "text": "Conmutada (*Switched Fabric*)",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:50:40.309Z",
+        "updated_at": "2026-02-18T20:50:40.310Z",
+        "question": 586,
+        "history_date": "2026-02-18T20:50:40.324Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3056,
+    "fields": {
+        "id_answer": 2819,
+        "text": "Bucle arbitrado (*Arbitrated Loop*)",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:51:05.681Z",
+        "updated_at": "2026-02-18T20:51:05.681Z",
+        "question": 586,
+        "history_date": "2026-02-18T20:51:05.697Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3057,
+    "fields": {
+        "id_answer": 2820,
+        "text": "Punto a Punto (*Point-to-point*)",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:51:34.729Z",
+        "updated_at": "2026-02-18T20:51:34.729Z",
+        "question": 586,
+        "history_date": "2026-02-18T20:51:34.742Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3058,
+    "fields": {
+        "id_answer": 2821,
+        "text": "Constelación (*Constellation*)",
+        "is_correct": true,
+        "created_at": "2026-02-18T20:51:54.009Z",
+        "updated_at": "2026-02-18T20:51:54.009Z",
+        "question": 586,
+        "history_date": "2026-02-18T20:51:54.025Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3059,
+    "fields": {
+        "id_answer": 2822,
+        "text": "*Blockchain*",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:53:43.109Z",
+        "updated_at": "2026-02-18T20:53:43.109Z",
+        "question": 586,
+        "history_date": "2026-02-18T20:53:43.126Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": 1
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -97291,6 +97651,182 @@
         "is_correct": true,
         "created_at": "2026-02-16T10:07:16.207Z",
         "updated_at": "2026-02-16T10:07:16.207Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2807,
+    "fields": {
+        "question": 584,
+        "text": "Cinco años, ni ser objeto de prórroga",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:30:49.477Z",
+        "updated_at": "2026-02-18T20:30:49.478Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2808,
+    "fields": {
+        "question": 584,
+        "text": "Un año, ni ser objeto de prórroga",
+        "is_correct": true,
+        "created_at": "2026-02-18T20:31:10.525Z",
+        "updated_at": "2026-02-18T20:31:10.525Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2809,
+    "fields": {
+        "question": 584,
+        "text": "Dos años, ni ser objeto de prórroga",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:31:26.179Z",
+        "updated_at": "2026-02-18T20:31:26.179Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2810,
+    "fields": {
+        "question": 584,
+        "text": "Seis meses, prorrogable hasta un año",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:31:51.575Z",
+        "updated_at": "2026-02-18T20:31:51.575Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2811,
+    "fields": {
+        "question": 584,
+        "text": "Los contratos menores no tiene duración máxima",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:32:19.779Z",
+        "updated_at": "2026-02-18T20:32:19.780Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2812,
+    "fields": {
+        "question": 585,
+        "text": "Velocidad",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:37:38.249Z",
+        "updated_at": "2026-02-18T20:37:38.249Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2813,
+    "fields": {
+        "question": 585,
+        "text": "Variedad",
+        "is_correct": true,
+        "created_at": "2026-02-18T20:37:43.834Z",
+        "updated_at": "2026-02-18T20:37:43.834Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2814,
+    "fields": {
+        "question": 585,
+        "text": "Volumen",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:37:50.419Z",
+        "updated_at": "2026-02-18T20:37:50.420Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2815,
+    "fields": {
+        "question": 585,
+        "text": "Veracidad",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:37:56.965Z",
+        "updated_at": "2026-02-18T20:37:56.965Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2816,
+    "fields": {
+        "question": 585,
+        "text": "Verosimilitud",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:39:25.713Z",
+        "updated_at": "2026-02-18T20:39:25.713Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2817,
+    "fields": {
+        "question": 585,
+        "text": "Valor",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:40:15.600Z",
+        "updated_at": "2026-02-18T20:40:15.600Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2818,
+    "fields": {
+        "question": 586,
+        "text": "Conmutada (*Switched Fabric*)",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:50:40.309Z",
+        "updated_at": "2026-02-18T20:50:40.310Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2819,
+    "fields": {
+        "question": 586,
+        "text": "Bucle arbitrado (*Arbitrated Loop*)",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:51:05.681Z",
+        "updated_at": "2026-02-18T20:51:05.681Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2820,
+    "fields": {
+        "question": 586,
+        "text": "Punto a Punto (*Point-to-point*)",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:51:34.729Z",
+        "updated_at": "2026-02-18T20:51:34.729Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2821,
+    "fields": {
+        "question": 586,
+        "text": "Constelación (*Constellation*)",
+        "is_correct": true,
+        "created_at": "2026-02-18T20:51:54.009Z",
+        "updated_at": "2026-02-18T20:51:54.009Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2822,
+    "fields": {
+        "question": 586,
+        "text": "*Blockchain*",
+        "is_correct": false,
+        "created_at": "2026-02-18T20:53:43.109Z",
+        "updated_at": "2026-02-18T20:53:43.109Z"
     }
 },
 {
