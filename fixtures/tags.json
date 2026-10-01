@@ -349,5 +349,32 @@
         "color": "#282230",
         "description": "Redes"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 40,
+    "fields": {
+        "name": "agile",
+        "color": "#BC8E08",
+        "description": "Metodologías ágiles"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 41,
+    "fields": {
+        "name": "web",
+        "color": "#25FB2D",
+        "description": "Desarrollo web"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 42,
+    "fields": {
+        "name": "buen-gobierno",
+        "color": "#C9EE0B",
+        "description": "Buen Gobierno"
+    }
 }
 ]

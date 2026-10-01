@@ -1,0 +1,34 @@
+[project]
+name = "matraka"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Juan Ignacio Rodriguez de Leon", email = "euribates@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = [
+    "crispy-bulma>=0.11.0",
+    "django>=5.0.6",
+    "django-crispy-forms>=2.1",
+    "django-extensions>=3.2.3",
+    "django-markdownify>=0.9.5",
+    "django-simple-history>=3.12.0",
+    "gunicorn>=26.2.0",
+    "pytest>=9.1.1",
+    "pytest-django>=4.14.0",
+    "rich>=15.0.0",
+    "werkzeug>=3.0.3",
+]
+
+[project.scripts]
+matraka = "matraka:main"
+
+[build-system]
+requires = ["uv_build>=0.12.13,<0.13.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "icecream>=2.2.0",
+]
