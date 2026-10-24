@@ -14,6 +14,7 @@ def all_tags(request):
         .annotate(num_questions=Count('questions'))
         )
     return render(request, 'tags/all_tags.html', {
+        'titulo': 'Todas las etiquetas',
         'num_tags': tags.count(),
         'tags': tags,
         })
@@ -23,7 +24,14 @@ def view_tag(request, tag_name: str):
     """Detalle de una etiqueta.
     """
     tag = Tag.load_tag(tag_name)
+    questions = tag.questions.all()
+    num_questions = questions.count()
     return render(request, 'tags/view_tag.html', {
-        'title': tag.name,
+        'titulo': (
+            f"Preguntas etiquetas como {tag.name}"
+            f" ({num_questions})"
+            ),
         'tag': tag,
+        'questions': questions,
+        'num_questions': num_questions,
         })

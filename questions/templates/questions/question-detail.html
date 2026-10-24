@@ -47,7 +47,7 @@
         <td>{{ answer.pk }}</td>
         <td>
             {% if answer.is_correct %}<b>{% endif %}
-            {{ answer.text|markdownify }}.
+            {{ answer.text|markdownify }}
             {% if answer.is_correct %}</b>{% endif %}
         </td>
         <td>{{ answer.is_correct|as_bool|safe }}</td>

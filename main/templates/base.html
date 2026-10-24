@@ -3,7 +3,13 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>{% if titulo %}{{ titulo }} | {% endif %}Matraka</title>
+    <title>
+      {% if titulo %}
+        {{ titulo }} | Matraka
+      {% else %}
+        <span class="error">Falta el título</span>
+      {% endif %}
+    </title>
     <link rel="stylesheet" href="{% static 'css/bulma/bulma.min.css' %}">
   </head>
   <body>
@@ -12,13 +18,6 @@
 
   <section class="section">
     <div class="container">
-
-      <section class="hero">
-          <div class="hero-body">
-            <p class="title">Matraka</p>
-            <p class="subtitle">Aprende a base de ser pesado!</p>
-        </div>
-    </section>
 
     <main class="content">
     {% block content %}

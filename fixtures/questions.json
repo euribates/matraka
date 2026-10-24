@@ -12088,6 +12088,601 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 743,
+    "fields": {
+        "id_question": 600,
+        "text": "¿Cual de los siguientes actos es nulo de pleno derecho?",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T17:29:32.830Z",
+        "updated_at": "2026-10-21T17:29:32.830Z",
+        "history_date": "2026-10-21T17:29:32.840Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 744,
+    "fields": {
+        "id_question": 601,
+        "text": "La notificación de un acto administrativo deberá ser practicada:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T17:33:50.090Z",
+        "updated_at": "2026-10-21T17:33:50.090Z",
+        "history_date": "2026-10-21T17:33:50.098Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 745,
+    "fields": {
+        "id_question": 602,
+        "text": "Toda notificación de un acto administrativo  deberá ser cursada dentro del plazo de:",
+        "source": "Propia",
+        "created_at": "2026-10-21T17:45:07.655Z",
+        "updated_at": "2026-10-21T17:45:07.655Z",
+        "history_date": "2026-10-21T17:45:07.672Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 746,
+    "fields": {
+        "id_question": 603,
+        "text": "¿Cuáles son las formas posibles de impugnación de los actos administrativos en vía administrativa?",
+        "source": "Propia",
+        "created_at": "2026-10-21T17:50:58.091Z",
+        "updated_at": "2026-10-21T17:50:58.091Z",
+        "history_date": "2026-10-21T17:50:58.107Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 747,
+    "fields": {
+        "id_question": 604,
+        "text": "Los actos definitivos son aquéllos que:",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:24:04.479Z",
+        "updated_at": "2026-10-21T18:24:04.479Z",
+        "history_date": "2026-10-21T18:24:04.488Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 748,
+    "fields": {
+        "id_question": 604,
+        "text": "Los actos definitivos son aquéllos que:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T18:24:04.479Z",
+        "updated_at": "2026-10-21T18:36:56.670Z",
+        "history_date": "2026-10-21T18:36:56.683Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 749,
+    "fields": {
+        "id_question": 605,
+        "text": "¿Cuáles son las características principales de los actos administrativos?",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:37:38.004Z",
+        "updated_at": "2026-10-21T18:37:38.004Z",
+        "history_date": "2026-10-21T18:37:38.016Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 750,
+    "fields": {
+        "id_question": 606,
+        "text": "Al ejecutar el siguiente código de python: ``v = bool(\"False\")``:",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:51:25.566Z",
+        "updated_at": "2026-10-21T18:51:25.566Z",
+        "history_date": "2026-10-21T18:51:25.578Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 751,
+    "fields": {
+        "id_question": 606,
+        "text": "Al ejecutar el siguiente código de python:\r\n\r\n ``v = bool(\"False\")``",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:51:25.566Z",
+        "updated_at": "2026-10-21T18:52:25.520Z",
+        "history_date": "2026-10-21T18:52:25.529Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 752,
+    "fields": {
+        "id_question": 607,
+        "text": "En Python, un decorador es:",
+        "source": "Propia",
+        "created_at": "2026-10-21T19:01:28.658Z",
+        "updated_at": "2026-10-21T19:01:28.658Z",
+        "history_date": "2026-10-21T19:01:28.664Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 753,
+    "fields": {
+        "id_question": 608,
+        "text": "¿Cual es el resultado de evaluar la siguiente expresión en Python?\r\n\r\n``172 | 329`",
+        "source": "Propia",
+        "created_at": "2026-10-23T15:38:25.859Z",
+        "updated_at": "2026-10-23T15:38:25.859Z",
+        "history_date": "2026-10-23T15:38:25.887Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 754,
+    "fields": {
+        "id_question": 608,
+        "text": "¿Cual es el resultado de evaluar la siguiente expresión en Python?\r\n\r\n``172 | 329`",
+        "source": "Propia",
+        "created_at": "2026-10-23T15:38:25.859Z",
+        "updated_at": "2026-10-23T15:38:53.609Z",
+        "history_date": "2026-10-23T15:38:53.629Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 755,
+    "fields": {
+        "id_question": 608,
+        "text": "¿Cual es el resultado de evaluar la siguiente expresión en Python?\r\n\r\n`` 172 | 329 ``",
+        "source": "Propia",
+        "created_at": "2026-10-23T15:38:25.859Z",
+        "updated_at": "2026-10-23T15:39:20.087Z",
+        "history_date": "2026-10-23T15:39:20.103Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 756,
+    "fields": {
+        "id_question": 609,
+        "text": "En el lenguaje de programación Python, ¿cuál es el resultado de ``3 ** 2``?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T15:57:11.471Z",
+        "updated_at": "2026-10-23T15:57:11.471Z",
+        "history_date": "2026-10-23T15:57:11.485Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 757,
+    "fields": {
+        "id_question": 610,
+        "text": "¿Qué estructura se utiliza para tomar decisiones en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T15:59:30.737Z",
+        "updated_at": "2026-10-23T15:59:30.737Z",
+        "history_date": "2026-10-23T15:59:30.754Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 758,
+    "fields": {
+        "id_question": 611,
+        "text": "¿Qué función se utiliza para mostrar información por pantalla en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:02:33.898Z",
+        "updated_at": "2026-10-23T16:02:33.898Z",
+        "history_date": "2026-10-23T16:02:33.912Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 759,
+    "fields": {
+        "id_question": 612,
+        "text": "¿Cuál de los siguientes tipos de datos de Python representa un número entero?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:05:39.913Z",
+        "updated_at": "2026-10-23T16:05:39.913Z",
+        "history_date": "2026-10-23T16:05:39.930Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 760,
+    "fields": {
+        "id_question": 613,
+        "text": "¿Qué carácter o caracteres debemos utilizar para marcar una línea como comentario, de forma que no se ejecute?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:12:56.812Z",
+        "updated_at": "2026-10-23T16:12:56.813Z",
+        "history_date": "2026-10-23T16:12:56.829Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 761,
+    "fields": {
+        "id_question": 614,
+        "text": "¿Qué tipo de colección de datos es una lista (``list`)en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T18:28:11.058Z",
+        "updated_at": "2026-10-23T18:28:11.058Z",
+        "history_date": "2026-10-23T18:28:11.073Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 762,
+    "fields": {
+        "id_question": 614,
+        "text": "¿Qué tipo de colección de datos es una lista (``list``)en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T18:28:11.058Z",
+        "updated_at": "2026-10-23T18:28:26.628Z",
+        "history_date": "2026-10-23T18:28:26.641Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 763,
+    "fields": {
+        "id_question": 614,
+        "text": "¿Qué tipo de colección de datos es una lista (``list``) en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T18:28:11.058Z",
+        "updated_at": "2026-10-23T18:28:39.196Z",
+        "history_date": "2026-10-23T18:28:39.215Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 764,
+    "fields": {
+        "id_question": 615,
+        "text": "¿Cómo se accede al primer elemento de una lista llamada numeros?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:27:54.407Z",
+        "updated_at": "2026-10-23T23:27:54.407Z",
+        "history_date": "2026-10-23T23:27:54.421Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 765,
+    "fields": {
+        "id_question": 615,
+        "text": "¿Cómo se accede al primer elemento de una lista llamada ``numeros``?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:27:54.407Z",
+        "updated_at": "2026-10-23T23:28:29.025Z",
+        "history_date": "2026-10-23T23:28:29.043Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 766,
+    "fields": {
+        "id_question": 616,
+        "text": "¿Qué palabra clave se utiliza para definir una función?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:30:33.852Z",
+        "updated_at": "2026-10-23T23:30:33.852Z",
+        "history_date": "2026-10-23T23:30:33.863Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 767,
+    "fields": {
+        "id_question": 617,
+        "text": "¿Qué imprime el siguiente código? \r\n\r\n``for i in range(3): print(i)``",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:32:39.112Z",
+        "updated_at": "2026-10-23T23:32:39.112Z",
+        "history_date": "2026-10-23T23:32:39.127Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 768,
+    "fields": {
+        "id_question": 618,
+        "text": "¿En Python, qué palabra clave permite devolver un resultado desde una función?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:34:20.084Z",
+        "updated_at": "2026-10-23T23:34:20.084Z",
+        "history_date": "2026-10-23T23:34:20.102Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 769,
+    "fields": {
+        "id_question": 619,
+        "text": "¿Qué estructura de datos almacena pares clave-valor?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:36:22.169Z",
+        "updated_at": "2026-10-23T23:36:22.169Z",
+        "history_date": "2026-10-23T23:36:22.185Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 770,
+    "fields": {
+        "id_question": 619,
+        "text": "¿En Python, qué estructura de datos almacena pares clave-valor?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:36:22.169Z",
+        "updated_at": "2026-10-23T23:38:05.725Z",
+        "history_date": "2026-10-23T23:38:05.738Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 771,
+    "fields": {
+        "id_question": 606,
+        "text": "Al ejecutar el siguiente código de python:\r\n\r\n ``v = bool(\"False\")``",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:51:25.566Z",
+        "updated_at": "2026-10-23T23:43:00.691Z",
+        "history_date": "2026-10-23T23:43:00.707Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 772,
+    "fields": {
+        "id_question": 607,
+        "text": "En Python, un decorador es:",
+        "source": "Propia",
+        "created_at": "2026-10-21T19:01:28.658Z",
+        "updated_at": "2026-10-23T23:43:46.480Z",
+        "history_date": "2026-10-23T23:43:46.492Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 773,
+    "fields": {
+        "id_question": 608,
+        "text": "¿Cual es el resultado de evaluar la siguiente expresión en Python?\r\n\r\n`` 172 | 329 ``",
+        "source": "Propia",
+        "created_at": "2026-10-23T15:38:25.859Z",
+        "updated_at": "2026-10-23T23:44:20.675Z",
+        "history_date": "2026-10-23T23:44:20.693Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 774,
+    "fields": {
+        "id_question": 609,
+        "text": "En el lenguaje de programación Python, ¿cuál es el resultado de ``3 ** 2``?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T15:57:11.471Z",
+        "updated_at": "2026-10-23T23:48:07.296Z",
+        "history_date": "2026-10-23T23:48:07.342Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 775,
+    "fields": {
+        "id_question": 611,
+        "text": "¿Qué función se utiliza para mostrar información por pantalla en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:02:33.898Z",
+        "updated_at": "2026-10-23T23:53:33.409Z",
+        "history_date": "2026-10-23T23:53:33.421Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 776,
+    "fields": {
+        "id_question": 614,
+        "text": "¿Qué tipo de colección de datos es una lista (``list``) en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T18:28:11.058Z",
+        "updated_at": "2026-10-23T23:54:04.483Z",
+        "history_date": "2026-10-23T23:54:04.502Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 777,
+    "fields": {
+        "id_question": 612,
+        "text": "¿Cuál de los siguientes tipos de datos de Python representa un número entero?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:05:39.913Z",
+        "updated_at": "2026-10-23T23:54:27.215Z",
+        "history_date": "2026-10-23T23:54:27.236Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -19256,6 +19851,279 @@
         "tags": [
             42,
             7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 600,
+    "fields": {
+        "text": "¿Cual de los siguientes actos es nulo de pleno derecho?",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T17:29:32.830Z",
+        "updated_at": "2026-10-21T17:29:32.830Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 601,
+    "fields": {
+        "text": "La notificación de un acto administrativo deberá ser practicada:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T17:33:50.090Z",
+        "updated_at": "2026-10-21T17:33:50.090Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 602,
+    "fields": {
+        "text": "Toda notificación de un acto administrativo  deberá ser cursada dentro del plazo de:",
+        "source": "Propia",
+        "created_at": "2026-10-21T17:45:07.655Z",
+        "updated_at": "2026-10-21T17:45:07.655Z",
+        "tags": [
+            40,
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 603,
+    "fields": {
+        "text": "¿Cuáles son las formas posibles de impugnación de los actos administrativos en vía administrativa?",
+        "source": "Propia",
+        "created_at": "2026-10-21T17:50:58.091Z",
+        "updated_at": "2026-10-21T17:50:58.091Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 604,
+    "fields": {
+        "text": "Los actos definitivos son aquéllos que:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T18:24:04.479Z",
+        "updated_at": "2026-10-21T18:36:56.670Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 605,
+    "fields": {
+        "text": "¿Cuáles son las características principales de los actos administrativos?",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:37:38.004Z",
+        "updated_at": "2026-10-21T18:37:38.004Z",
+        "tags": [
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 606,
+    "fields": {
+        "text": "Al ejecutar el siguiente código de python:\r\n\r\n ``v = bool(\"False\")``",
+        "source": "Propia",
+        "created_at": "2026-10-21T18:51:25.566Z",
+        "updated_at": "2026-10-23T23:43:00.691Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 607,
+    "fields": {
+        "text": "En Python, un decorador es:",
+        "source": "Propia",
+        "created_at": "2026-10-21T19:01:28.658Z",
+        "updated_at": "2026-10-23T23:43:46.480Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 608,
+    "fields": {
+        "text": "¿Cual es el resultado de evaluar la siguiente expresión en Python?\r\n\r\n`` 172 | 329 ``",
+        "source": "Propia",
+        "created_at": "2026-10-23T15:38:25.859Z",
+        "updated_at": "2026-10-23T23:44:20.675Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 609,
+    "fields": {
+        "text": "En el lenguaje de programación Python, ¿cuál es el resultado de ``3 ** 2``?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T15:57:11.471Z",
+        "updated_at": "2026-10-23T23:48:07.296Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 610,
+    "fields": {
+        "text": "¿Qué estructura se utiliza para tomar decisiones en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T15:59:30.737Z",
+        "updated_at": "2026-10-23T15:59:30.737Z",
+        "tags": [
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 611,
+    "fields": {
+        "text": "¿Qué función se utiliza para mostrar información por pantalla en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:02:33.898Z",
+        "updated_at": "2026-10-23T23:53:33.409Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 612,
+    "fields": {
+        "text": "¿Cuál de los siguientes tipos de datos de Python representa un número entero?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:05:39.913Z",
+        "updated_at": "2026-10-23T23:54:27.215Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 613,
+    "fields": {
+        "text": "¿Qué carácter o caracteres debemos utilizar para marcar una línea como comentario, de forma que no se ejecute?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T16:12:56.812Z",
+        "updated_at": "2026-10-23T16:12:56.813Z",
+        "tags": [
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 614,
+    "fields": {
+        "text": "¿Qué tipo de colección de datos es una lista (``list``) en Python?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T18:28:11.058Z",
+        "updated_at": "2026-10-23T23:54:04.483Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 615,
+    "fields": {
+        "text": "¿Cómo se accede al primer elemento de una lista llamada ``numeros``?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:27:54.407Z",
+        "updated_at": "2026-10-23T23:28:29.025Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 616,
+    "fields": {
+        "text": "¿Qué palabra clave se utiliza para definir una función?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:30:33.852Z",
+        "updated_at": "2026-10-23T23:30:33.852Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 617,
+    "fields": {
+        "text": "¿Qué imprime el siguiente código? \r\n\r\n``for i in range(3): print(i)``",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:32:39.112Z",
+        "updated_at": "2026-10-23T23:32:39.112Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 618,
+    "fields": {
+        "text": "¿En Python, qué palabra clave permite devolver un resultado desde una función?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:34:20.084Z",
+        "updated_at": "2026-10-23T23:34:20.084Z",
+        "tags": [
+            18,
+            11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 619,
+    "fields": {
+        "text": "¿En Python, qué estructura de datos almacena pares clave-valor?",
+        "source": "ChatGPT",
+        "created_at": "2026-10-23T23:36:22.169Z",
+        "updated_at": "2026-10-23T23:38:05.725Z",
+        "tags": [
+            18,
+            11
         ]
     }
 },
@@ -73670,6 +74538,2400 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3154,
+    "fields": {
+        "id_answer": 2906,
+        "text": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:29:46.799Z",
+        "updated_at": "2026-10-21T17:29:46.799Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:29:46.810Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3155,
+    "fields": {
+        "id_answer": 2907,
+        "text": "Los que lesionen el contenido esencial o natural de los derechos y libertades susceptibles de amparo constitucional",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:30:09.941Z",
+        "updated_at": "2026-10-21T17:30:09.941Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:30:09.952Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3156,
+    "fields": {
+        "id_answer": 2908,
+        "text": "Los dictados prescindiendo parcialmente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formalización de la voluntad de los órganos colegiados",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:30:28.446Z",
+        "updated_at": "2026-10-21T17:30:28.447Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:30:28.460Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3157,
+    "fields": {
+        "id_answer": 2909,
+        "text": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:30:46.877Z",
+        "updated_at": "2026-10-21T17:30:46.877Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:30:46.891Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3158,
+    "fields": {
+        "id_answer": 2910,
+        "text": "Los dictados por órgano manifiestamente competente por razón de la materia y del territorio",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:31:03.320Z",
+        "updated_at": "2026-10-21T17:31:03.320Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:31:03.334Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3159,
+    "fields": {
+        "id_answer": 2911,
+        "text": "Los que tengan un contenido imposible",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:31:45.477Z",
+        "updated_at": "2026-10-21T17:31:45.477Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:31:45.488Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3160,
+    "fields": {
+        "id_answer": 2912,
+        "text": "Los que no sean constitutivos de infracción penal",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:32:49.723Z",
+        "updated_at": "2026-10-21T17:32:49.723Z",
+        "question": 600,
+        "history_date": "2026-10-21T17:32:49.736Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3161,
+    "fields": {
+        "id_answer": 2913,
+        "text": "Por el órgano superior jerárquico de aquél que lo dictó",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:34:05.033Z",
+        "updated_at": "2026-10-21T17:34:05.033Z",
+        "question": 601,
+        "history_date": "2026-10-21T17:34:05.044Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3162,
+    "fields": {
+        "id_answer": 2914,
+        "text": "Por el órgano que lo dictó",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:34:13.035Z",
+        "updated_at": "2026-10-21T17:34:13.036Z",
+        "question": 601,
+        "history_date": "2026-10-21T17:34:13.048Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3163,
+    "fields": {
+        "id_answer": 2915,
+        "text": "Siempre por publicación en un diario oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:35:06.324Z",
+        "updated_at": "2026-10-21T17:35:06.324Z",
+        "question": 601,
+        "history_date": "2026-10-21T17:35:06.340Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3164,
+    "fields": {
+        "id_answer": 2916,
+        "text": "Todas son correctas",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:35:14.917Z",
+        "updated_at": "2026-10-21T17:35:14.917Z",
+        "question": 601,
+        "history_date": "2026-10-21T17:35:14.928Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3165,
+    "fields": {
+        "id_answer": 2917,
+        "text": "Diez días a partir de la fecha en que el acto haya sido dictado",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:45:25.087Z",
+        "updated_at": "2026-10-21T17:45:25.087Z",
+        "question": 602,
+        "history_date": "2026-10-21T17:45:25.096Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3166,
+    "fields": {
+        "id_answer": 2918,
+        "text": "diez días a partir de la fecha en que el acto haya sido publicado en el boletín oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:45:47.335Z",
+        "updated_at": "2026-10-21T17:45:47.335Z",
+        "question": 602,
+        "history_date": "2026-10-21T17:45:47.349Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3167,
+    "fields": {
+        "id_answer": 2919,
+        "text": "Quince días a partir de la fecha en que el acto haya sido publicado en el boletín oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:45:59.309Z",
+        "updated_at": "2026-10-21T17:45:59.309Z",
+        "question": 602,
+        "history_date": "2026-10-21T17:45:59.319Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3168,
+    "fields": {
+        "id_answer": 2918,
+        "text": "Diez días a partir de la fecha en que el acto haya sido publicado en el boletín oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:45:47.335Z",
+        "updated_at": "2026-10-21T17:46:09.259Z",
+        "question": 602,
+        "history_date": "2026-10-21T17:46:09.274Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3169,
+    "fields": {
+        "id_answer": 2920,
+        "text": "Diez días a partir de la fecha en que el acto haya sido anulado",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:47:21.663Z",
+        "updated_at": "2026-10-21T17:47:21.663Z",
+        "question": 602,
+        "history_date": "2026-10-21T17:47:21.672Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3170,
+    "fields": {
+        "id_answer": 2921,
+        "text": "Antes de transcurridos tres meses desde la fecha de inicio del procedimiento",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:48:31.187Z",
+        "updated_at": "2026-10-21T17:48:31.187Z",
+        "question": 602,
+        "history_date": "2026-10-21T17:48:31.205Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3171,
+    "fields": {
+        "id_answer": 2922,
+        "text": "Solo mediante el recurso de alzada: Se presenta ante el superior jerárquico del órgano que emitió el acto",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:20:25.786Z",
+        "updated_at": "2026-10-21T18:20:25.787Z",
+        "question": 603,
+        "history_date": "2026-10-21T18:20:25.803Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3172,
+    "fields": {
+        "id_answer": 2923,
+        "text": "Solo mediante eecurso de reposición: Se interpone ante el mismo órgano que dictó el acto, solicitando su revisión",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:21:00.830Z",
+        "updated_at": "2026-10-21T18:21:00.830Z",
+        "question": 603,
+        "history_date": "2026-10-21T18:21:00.843Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3173,
+    "fields": {
+        "id_answer": 2924,
+        "text": "Tanto el recurso de alzada como el de reposición son posibles",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:22:41.966Z",
+        "updated_at": "2026-10-21T18:22:41.966Z",
+        "question": 603,
+        "history_date": "2026-10-21T18:22:41.975Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3174,
+    "fields": {
+        "id_answer": 2925,
+        "text": "No es posible recurrir los actos administrativos",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:23:08.540Z",
+        "updated_at": "2026-10-21T18:23:08.540Z",
+        "question": 603,
+        "history_date": "2026-10-21T18:23:08.550Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3175,
+    "fields": {
+        "id_answer": 2926,
+        "text": "Ponen fin a la vía administrativa",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:24:17.571Z",
+        "updated_at": "2026-10-21T18:24:17.571Z",
+        "question": 604,
+        "history_date": "2026-10-21T18:24:17.580Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3176,
+    "fields": {
+        "id_answer": 2927,
+        "text": "Ponen fin al procedimiento y a la vía administrativa",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:24:28.167Z",
+        "updated_at": "2026-10-21T18:24:28.167Z",
+        "question": 604,
+        "history_date": "2026-10-21T18:24:28.176Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3177,
+    "fields": {
+        "id_answer": 2928,
+        "text": "Ponen fin al procedimiento",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:24:37.489Z",
+        "updated_at": "2026-10-21T18:24:37.489Z",
+        "question": 604,
+        "history_date": "2026-10-21T18:24:37.501Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3178,
+    "fields": {
+        "id_answer": 2929,
+        "text": "Han sido recurridos mediante el recurso de alzada",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:25:03.140Z",
+        "updated_at": "2026-10-21T18:25:03.140Z",
+        "question": 604,
+        "history_date": "2026-10-21T18:25:03.149Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3179,
+    "fields": {
+        "id_answer": 2930,
+        "text": "Han sido recurridos mediante el recurso de reposición",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:36:37.243Z",
+        "updated_at": "2026-10-21T18:36:37.243Z",
+        "question": 604,
+        "history_date": "2026-10-21T18:36:37.252Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3180,
+    "fields": {
+        "id_answer": 2931,
+        "text": "**Obligatoriedad**: Los actos administrativos son vinculantes y deben ser cumplidos por los destinatarios",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:38:26.772Z",
+        "updated_at": "2026-10-21T18:38:26.772Z",
+        "question": 605,
+        "history_date": "2026-10-21T18:38:26.780Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3181,
+    "fields": {
+        "id_answer": 2932,
+        "text": "**Potestad administrativa**: Se emiten en ejercicio de la autoridad que posee la administración pública",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:38:52.897Z",
+        "updated_at": "2026-10-21T18:38:52.897Z",
+        "question": 605,
+        "history_date": "2026-10-21T18:38:52.904Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3182,
+    "fields": {
+        "id_answer": 2933,
+        "text": "**Finalidad pública**: Buscan satisfacer el interés general y el bienestar público",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:39:18.693Z",
+        "updated_at": "2026-10-21T18:39:18.693Z",
+        "question": 605,
+        "history_date": "2026-10-21T18:39:18.702Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3183,
+    "fields": {
+        "id_answer": 2934,
+        "text": "Todas las respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:39:31.176Z",
+        "updated_at": "2026-10-21T18:39:31.176Z",
+        "question": 605,
+        "history_date": "2026-10-21T18:39:31.183Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3184,
+    "fields": {
+        "id_answer": 2935,
+        "text": "Se produce un error de sintaxis",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:52:08.594Z",
+        "updated_at": "2026-10-21T18:52:08.594Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:52:08.602Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3185,
+    "fields": {
+        "id_answer": 2936,
+        "text": "Se eleva la excepción ``ValueError``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:52:57.885Z",
+        "updated_at": "2026-10-21T18:52:57.885Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:52:57.892Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3186,
+    "fields": {
+        "id_answer": 2937,
+        "text": "Se eleva la excepción SyntaxError.",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:53:16.681Z",
+        "updated_at": "2026-10-21T18:53:16.681Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:53:16.687Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3187,
+    "fields": {
+        "id_answer": 2938,
+        "text": "El valor de ``v`` es ``None``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:53:39.464Z",
+        "updated_at": "2026-10-21T18:53:39.464Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:53:39.475Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3188,
+    "fields": {
+        "id_answer": 2939,
+        "text": "El valor de ``v`` es ``True``",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:54:23.352Z",
+        "updated_at": "2026-10-21T18:54:23.352Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:54:23.358Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3189,
+    "fields": {
+        "id_answer": 2940,
+        "text": "El valor de ``v`` es ``aN`` (*Not a Number*)",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:55:54.974Z",
+        "updated_at": "2026-10-21T18:55:54.974Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:55:54.982Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3190,
+    "fields": {
+        "id_answer": 2941,
+        "text": "El tipo de datos de ``v`` es ``str`",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:56:35.636Z",
+        "updated_at": "2026-10-21T18:56:35.636Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:56:35.641Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3191,
+    "fields": {
+        "id_answer": 2940,
+        "text": "El valor de ``v`` es ``NaN`` (*Not a Number*)",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:55:54.974Z",
+        "updated_at": "2026-10-21T18:56:47.554Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:56:47.561Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3192,
+    "fields": {
+        "id_answer": 2937,
+        "text": "Se eleva la excepción ``SyntaxError``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:53:16.681Z",
+        "updated_at": "2026-10-21T18:57:03.520Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:57:03.557Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3193,
+    "fields": {
+        "id_answer": 2942,
+        "text": "El tipo de datos de ``v`` es ``bool`",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:57:35.879Z",
+        "updated_at": "2026-10-21T18:57:35.879Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:57:35.885Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3194,
+    "fields": {
+        "id_answer": 2943,
+        "text": "El valor de ``v`` es ``False``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:58:49.161Z",
+        "updated_at": "2026-10-21T18:58:49.161Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:58:49.170Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3195,
+    "fields": {
+        "id_answer": 2941,
+        "text": "El tipo de datos de ``v`` es ``str``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:56:35.636Z",
+        "updated_at": "2026-10-21T18:59:36.951Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:59:36.958Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3196,
+    "fields": {
+        "id_answer": 2942,
+        "text": "El tipo de datos de ``v`` es ``bool``",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:57:35.879Z",
+        "updated_at": "2026-10-21T18:59:45.758Z",
+        "question": 606,
+        "history_date": "2026-10-21T18:59:45.766Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3197,
+    "fields": {
+        "id_answer": 2944,
+        "text": "Una librería incluida en la biblioteca estándar",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:02:23.023Z",
+        "updated_at": "2026-10-21T19:02:23.023Z",
+        "question": 607,
+        "history_date": "2026-10-21T19:02:23.031Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3198,
+    "fields": {
+        "id_answer": 2945,
+        "text": "Una librería de terceros, no incluida en la biblioteca estándar",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:02:37.530Z",
+        "updated_at": "2026-10-21T19:02:37.530Z",
+        "question": 607,
+        "history_date": "2026-10-21T19:02:37.536Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3199,
+    "fields": {
+        "id_answer": 2946,
+        "text": "Una función que recibe como parámetro de entrada una función, y devuelve como resultado también una función",
+        "is_correct": true,
+        "created_at": "2026-10-21T19:05:52.753Z",
+        "updated_at": "2026-10-21T19:05:52.753Z",
+        "question": 607,
+        "history_date": "2026-10-21T19:05:52.762Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3200,
+    "fields": {
+        "id_answer": 2947,
+        "text": "Cualquier función que está documentada",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:08:58.656Z",
+        "updated_at": "2026-10-21T19:08:58.656Z",
+        "question": 607,
+        "history_date": "2026-10-21T19:08:58.666Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3201,
+    "fields": {
+        "id_answer": 2948,
+        "text": "El nombre que se le da a las clases que son virtuales",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:09:43.085Z",
+        "updated_at": "2026-10-21T19:09:43.086Z",
+        "question": 607,
+        "history_date": "2026-10-21T19:09:43.094Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3202,
+    "fields": {
+        "id_answer": 2949,
+        "text": "Cualquier función o clase que esté implementada en otro lenguaje que no sea Python: C, C++, Java o Rust, por ejemplo",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:10:26.644Z",
+        "updated_at": "2026-10-21T19:10:26.644Z",
+        "question": 607,
+        "history_date": "2026-10-21T19:10:26.652Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3203,
+    "fields": {
+        "id_answer": 2950,
+        "text": "Ninguno, da un error de sintaxis",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:39:40.477Z",
+        "updated_at": "2026-10-23T15:39:40.477Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:39:40.497Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3204,
+    "fields": {
+        "id_answer": 2951,
+        "text": "``None`",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:39:51.041Z",
+        "updated_at": "2026-10-23T15:39:51.041Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:39:51.057Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3205,
+    "fields": {
+        "id_answer": 2951,
+        "text": "``None``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:39:51.041Z",
+        "updated_at": "2026-10-23T15:40:01.692Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:40:01.715Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3206,
+    "fields": {
+        "id_answer": 2952,
+        "text": "493",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:40:29.780Z",
+        "updated_at": "2026-10-23T15:40:29.780Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:40:29.796Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3207,
+    "fields": {
+        "id_answer": 2953,
+        "text": "8",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:40:44.273Z",
+        "updated_at": "2026-10-23T15:40:44.273Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:40:44.288Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3208,
+    "fields": {
+        "id_answer": 2954,
+        "text": "501",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:40:59.681Z",
+        "updated_at": "2026-10-23T15:40:59.681Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:40:59.696Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3209,
+    "fields": {
+        "id_answer": 2955,
+        "text": "56588",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:41:30.112Z",
+        "updated_at": "2026-10-23T15:41:30.112Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:41:30.127Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3210,
+    "fields": {
+        "id_answer": 2956,
+        "text": "485",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:42:19.422Z",
+        "updated_at": "2026-10-23T15:42:19.422Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:42:19.443Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3211,
+    "fields": {
+        "id_answer": 2957,
+        "text": "Un número entero que, en representación binaria, seria ``111101101``",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:53:31.331Z",
+        "updated_at": "2026-10-23T15:53:31.331Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:53:31.346Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3212,
+    "fields": {
+        "id_answer": 2957,
+        "text": "Un número entero que, en representación binaria, sería ``111101101``",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:53:31.331Z",
+        "updated_at": "2026-10-23T15:53:47.447Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:53:47.462Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3213,
+    "fields": {
+        "id_answer": 2958,
+        "text": "Se eleva la excepción ``MemoryOverlap``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:55:42.144Z",
+        "updated_at": "2026-10-23T15:55:42.144Z",
+        "question": 608,
+        "history_date": "2026-10-23T15:55:42.162Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3214,
+    "fields": {
+        "id_answer": 2959,
+        "text": "Ninguno, da error de sintaxis",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:57:33.667Z",
+        "updated_at": "2026-10-23T15:57:33.667Z",
+        "question": 609,
+        "history_date": "2026-10-23T15:57:33.685Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3215,
+    "fields": {
+        "id_answer": 2960,
+        "text": "6",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:57:48.456Z",
+        "updated_at": "2026-10-23T15:57:48.457Z",
+        "question": 609,
+        "history_date": "2026-10-23T15:57:48.471Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3216,
+    "fields": {
+        "id_answer": 2961,
+        "text": "9",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:57:52.230Z",
+        "updated_at": "2026-10-23T15:57:52.230Z",
+        "question": 609,
+        "history_date": "2026-10-23T15:57:52.253Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3217,
+    "fields": {
+        "id_answer": 2962,
+        "text": "8",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:57:57.190Z",
+        "updated_at": "2026-10-23T15:57:57.190Z",
+        "question": 609,
+        "history_date": "2026-10-23T15:57:57.209Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3218,
+    "fields": {
+        "id_answer": 2963,
+        "text": "4",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:58:01.417Z",
+        "updated_at": "2026-10-23T15:58:01.417Z",
+        "question": 609,
+        "history_date": "2026-10-23T15:58:01.430Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3219,
+    "fields": {
+        "id_answer": 2964,
+        "text": "0",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:58:43.897Z",
+        "updated_at": "2026-10-23T15:58:43.898Z",
+        "question": 609,
+        "history_date": "2026-10-23T15:58:43.915Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3220,
+    "fields": {
+        "id_answer": 2965,
+        "text": "``while``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:59:48.962Z",
+        "updated_at": "2026-10-23T15:59:48.962Z",
+        "question": 610,
+        "history_date": "2026-10-23T15:59:48.977Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3221,
+    "fields": {
+        "id_answer": 2965,
+        "text": "``repeat``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:59:48.962Z",
+        "updated_at": "2026-10-23T16:00:11.552Z",
+        "question": 610,
+        "history_date": "2026-10-23T16:00:11.568Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3222,
+    "fields": {
+        "id_answer": 2966,
+        "text": "``repeat`` ... ``until``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:00:22.565Z",
+        "updated_at": "2026-10-23T16:00:22.565Z",
+        "question": 610,
+        "history_date": "2026-10-23T16:00:22.588Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3223,
+    "fields": {
+        "id_answer": 2967,
+        "text": "``if``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:00:39.209Z",
+        "updated_at": "2026-10-23T16:00:39.209Z",
+        "question": 610,
+        "history_date": "2026-10-23T16:00:39.229Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3224,
+    "fields": {
+        "id_answer": 2968,
+        "text": "``choose``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:00:48.879Z",
+        "updated_at": "2026-10-23T16:00:48.879Z",
+        "question": 610,
+        "history_date": "2026-10-23T16:00:48.900Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3225,
+    "fields": {
+        "id_answer": 2969,
+        "text": "goto",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:01:30.257Z",
+        "updated_at": "2026-10-23T16:01:30.257Z",
+        "question": 610,
+        "history_date": "2026-10-23T16:01:30.273Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3226,
+    "fields": {
+        "id_answer": 2969,
+        "text": "``goto``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:01:30.257Z",
+        "updated_at": "2026-10-23T16:01:40.587Z",
+        "question": 610,
+        "history_date": "2026-10-23T16:01:40.605Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3227,
+    "fields": {
+        "id_answer": 2970,
+        "text": "``print()``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:02:49.614Z",
+        "updated_at": "2026-10-23T16:02:49.614Z",
+        "question": 611,
+        "history_date": "2026-10-23T16:02:49.648Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3228,
+    "fields": {
+        "id_answer": 2971,
+        "text": "``echo()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:03:06.679Z",
+        "updated_at": "2026-10-23T16:03:06.679Z",
+        "question": 611,
+        "history_date": "2026-10-23T16:03:06.691Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3229,
+    "fields": {
+        "id_answer": 2972,
+        "text": "``puts`` o ``printf``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:03:41.114Z",
+        "updated_at": "2026-10-23T16:03:41.114Z",
+        "question": 611,
+        "history_date": "2026-10-23T16:03:41.132Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3230,
+    "fields": {
+        "id_answer": 2973,
+        "text": "``display_text()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:04:02.193Z",
+        "updated_at": "2026-10-23T16:04:02.193Z",
+        "question": 611,
+        "history_date": "2026-10-23T16:04:02.211Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3231,
+    "fields": {
+        "id_answer": 2974,
+        "text": "Python no puede mostrar información por pantalla",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:04:21.102Z",
+        "updated_at": "2026-10-23T16:04:21.102Z",
+        "question": 611,
+        "history_date": "2026-10-23T16:04:21.120Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3232,
+    "fields": {
+        "id_answer": 2975,
+        "text": "``show()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:04:42.789Z",
+        "updated_at": "2026-10-23T16:04:42.789Z",
+        "question": 611,
+        "history_date": "2026-10-23T16:04:42.819Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3233,
+    "fields": {
+        "id_answer": 2976,
+        "text": "``str``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:05:54.785Z",
+        "updated_at": "2026-10-23T16:05:54.785Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:05:54.797Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3234,
+    "fields": {
+        "id_answer": 2977,
+        "text": "``int``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:06:06.482Z",
+        "updated_at": "2026-10-23T16:06:06.482Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:06:06.503Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3235,
+    "fields": {
+        "id_answer": 2978,
+        "text": "``float``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:06:17.471Z",
+        "updated_at": "2026-10-23T16:06:17.472Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:06:17.490Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3236,
+    "fields": {
+        "id_answer": 2979,
+        "text": "Python no tiene soporte para números enteros, usa siempre números en coma flotante siguiendo la norma **IEEE-754 **",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:07:44.748Z",
+        "updated_at": "2026-10-23T16:07:44.748Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:07:44.768Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3237,
+    "fields": {
+        "id_answer": 2979,
+        "text": "Python no tiene soporte para números enteros, usa siempre números en coma flotante siguiendo la norma IEEE-754",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:07:44.748Z",
+        "updated_at": "2026-10-23T16:08:05.654Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:08:05.677Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3238,
+    "fields": {
+        "id_answer": 2980,
+        "text": "``bool`",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:08:26.849Z",
+        "updated_at": "2026-10-23T16:08:26.849Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:08:26.867Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3239,
+    "fields": {
+        "id_answer": 2981,
+        "text": "La clase ``Integer``, definida en ``math``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:09:58.285Z",
+        "updated_at": "2026-10-23T16:09:58.285Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:09:58.306Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3240,
+    "fields": {
+        "id_answer": 2980,
+        "text": "``bool``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:08:26.849Z",
+        "updated_at": "2026-10-23T16:10:25.877Z",
+        "question": 612,
+        "history_date": "2026-10-23T16:10:25.891Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3241,
+    "fields": {
+        "id_answer": 2982,
+        "text": "``REM`` o ``REMARK``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:15.143Z",
+        "updated_at": "2026-10-23T16:13:15.143Z",
+        "question": 613,
+        "history_date": "2026-10-23T16:13:15.155Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3242,
+    "fields": {
+        "id_answer": 2983,
+        "text": "``#``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:13:23.727Z",
+        "updated_at": "2026-10-23T16:13:23.728Z",
+        "question": 613,
+        "history_date": "2026-10-23T16:13:23.750Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3243,
+    "fields": {
+        "id_answer": 2984,
+        "text": "``//``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:31.963Z",
+        "updated_at": "2026-10-23T16:13:31.963Z",
+        "question": 613,
+        "history_date": "2026-10-23T16:13:31.976Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3244,
+    "fields": {
+        "id_answer": 2985,
+        "text": "``/*``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:40.044Z",
+        "updated_at": "2026-10-23T16:13:40.044Z",
+        "question": 613,
+        "history_date": "2026-10-23T16:13:40.058Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3245,
+    "fields": {
+        "id_answer": 2986,
+        "text": "``<!--``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:59.180Z",
+        "updated_at": "2026-10-23T16:13:59.180Z",
+        "question": 613,
+        "history_date": "2026-10-23T16:13:59.192Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3246,
+    "fields": {
+        "id_answer": 2987,
+        "text": "``-- ``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:14:40.299Z",
+        "updated_at": "2026-10-23T16:14:40.299Z",
+        "question": 613,
+        "history_date": "2026-10-23T16:14:40.312Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3247,
+    "fields": {
+        "id_answer": 2988,
+        "text": "``{*``",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:26:38.927Z",
+        "updated_at": "2026-10-23T18:26:38.927Z",
+        "question": 613,
+        "history_date": "2026-10-23T18:26:38.945Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3248,
+    "fields": {
+        "id_answer": 2989,
+        "text": "Una colección ordenada y modificable",
+        "is_correct": true,
+        "created_at": "2026-10-23T18:28:57.424Z",
+        "updated_at": "2026-10-23T18:28:57.424Z",
+        "question": 614,
+        "history_date": "2026-10-23T18:28:57.449Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3249,
+    "fields": {
+        "id_answer": 2990,
+        "text": "Una colección siempre inmutable",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:29:08.243Z",
+        "updated_at": "2026-10-23T18:29:08.243Z",
+        "question": 614,
+        "history_date": "2026-10-23T18:29:08.255Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3250,
+    "fields": {
+        "id_answer": 2991,
+        "text": "Una colección que solo admite números",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:29:22.610Z",
+        "updated_at": "2026-10-23T18:29:22.610Z",
+        "question": 614,
+        "history_date": "2026-10-23T18:29:22.621Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3251,
+    "fields": {
+        "id_answer": 2992,
+        "text": "Una colección que solo admite textos",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:29:35.350Z",
+        "updated_at": "2026-10-23T18:29:35.350Z",
+        "question": 614,
+        "history_date": "2026-10-23T18:29:35.371Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3252,
+    "fields": {
+        "id_answer": 2993,
+        "text": "Una colección no ordenada y no modificable",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:30:07.864Z",
+        "updated_at": "2026-10-23T18:30:07.864Z",
+        "question": 614,
+        "history_date": "2026-10-23T18:30:07.882Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3253,
+    "fields": {
+        "id_answer": 2994,
+        "text": "Una colección sin índices",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:27:03.327Z",
+        "updated_at": "2026-10-23T23:27:03.327Z",
+        "question": 614,
+        "history_date": "2026-10-23T23:27:03.344Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3254,
+    "fields": {
+        "id_answer": 2995,
+        "text": "``numeros[1]``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:28:16.361Z",
+        "updated_at": "2026-10-23T23:28:16.361Z",
+        "question": 615,
+        "history_date": "2026-10-23T23:28:16.376Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3255,
+    "fields": {
+        "id_answer": 2996,
+        "text": "``numeros(0)``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:28:43.706Z",
+        "updated_at": "2026-10-23T23:28:43.706Z",
+        "question": 615,
+        "history_date": "2026-10-23T23:28:43.724Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3256,
+    "fields": {
+        "id_answer": 2997,
+        "text": "``numeros[0]``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:28:57.006Z",
+        "updated_at": "2026-10-23T23:28:57.006Z",
+        "question": 615,
+        "history_date": "2026-10-23T23:28:57.030Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3257,
+    "fields": {
+        "id_answer": 2998,
+        "text": "``numeros.first()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:29:19.337Z",
+        "updated_at": "2026-10-23T23:29:19.338Z",
+        "question": 615,
+        "history_date": "2026-10-23T23:29:19.349Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3258,
+    "fields": {
+        "id_answer": 2999,
+        "text": "``numeros.0``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:29:46.627Z",
+        "updated_at": "2026-10-23T23:29:46.627Z",
+        "question": 615,
+        "history_date": "2026-10-23T23:29:46.645Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3259,
+    "fields": {
+        "id_answer": 3000,
+        "text": "``function``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:30:47.667Z",
+        "updated_at": "2026-10-23T23:30:47.667Z",
+        "question": 616,
+        "history_date": "2026-10-23T23:30:47.680Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3260,
+    "fields": {
+        "id_answer": 3001,
+        "text": "``def``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:30:53.698Z",
+        "updated_at": "2026-10-23T23:30:53.698Z",
+        "question": 616,
+        "history_date": "2026-10-23T23:30:53.717Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3261,
+    "fields": {
+        "id_answer": 3002,
+        "text": "``func``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:02.483Z",
+        "updated_at": "2026-10-23T23:31:02.483Z",
+        "question": 616,
+        "history_date": "2026-10-23T23:31:02.512Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3262,
+    "fields": {
+        "id_answer": 3003,
+        "text": "``procedure``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:09.727Z",
+        "updated_at": "2026-10-23T23:31:09.727Z",
+        "question": 616,
+        "history_date": "2026-10-23T23:31:09.744Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3263,
+    "fields": {
+        "id_answer": 3004,
+        "text": "``call``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:15.353Z",
+        "updated_at": "2026-10-23T23:31:15.353Z",
+        "question": 616,
+        "history_date": "2026-10-23T23:31:15.366Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3264,
+    "fields": {
+        "id_answer": 3005,
+        "text": "``define``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:27.952Z",
+        "updated_at": "2026-10-23T23:31:27.952Z",
+        "question": 616,
+        "history_date": "2026-10-23T23:31:27.969Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3265,
+    "fields": {
+        "id_answer": 3006,
+        "text": "``1, 2, 3``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:32:51.863Z",
+        "updated_at": "2026-10-23T23:32:51.863Z",
+        "question": 617,
+        "history_date": "2026-10-23T23:32:51.883Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3266,
+    "fields": {
+        "id_answer": 3007,
+        "text": "``0, 1, 2``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:33:00.664Z",
+        "updated_at": "2026-10-23T23:33:00.664Z",
+        "question": 617,
+        "history_date": "2026-10-23T23:33:00.686Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3267,
+    "fields": {
+        "id_answer": 3008,
+        "text": "``0, 1, 2, 3``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:33:10.274Z",
+        "updated_at": "2026-10-23T23:33:10.274Z",
+        "question": 617,
+        "history_date": "2026-10-23T23:33:10.303Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3268,
+    "fields": {
+        "id_answer": 3009,
+        "text": "``3``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:33:20.119Z",
+        "updated_at": "2026-10-23T23:33:20.119Z",
+        "question": 617,
+        "history_date": "2026-10-23T23:33:20.146Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3269,
+    "fields": {
+        "id_answer": 3010,
+        "text": "``i``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:33:46.457Z",
+        "updated_at": "2026-10-23T23:33:46.457Z",
+        "question": 617,
+        "history_date": "2026-10-23T23:33:46.476Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3270,
+    "fields": {
+        "id_answer": 3011,
+        "text": "``print``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:30.781Z",
+        "updated_at": "2026-10-23T23:34:30.781Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:34:30.804Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3271,
+    "fields": {
+        "id_answer": 3012,
+        "text": "``break``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:41.728Z",
+        "updated_at": "2026-10-23T23:34:41.728Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:34:41.742Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3272,
+    "fields": {
+        "id_answer": 3013,
+        "text": "``pass``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:48.141Z",
+        "updated_at": "2026-10-23T23:34:48.141Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:34:48.157Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3273,
+    "fields": {
+        "id_answer": 3014,
+        "text": "``raise``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:55.186Z",
+        "updated_at": "2026-10-23T23:34:55.186Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:34:55.200Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3274,
+    "fields": {
+        "id_answer": 3015,
+        "text": "``return`",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:35:03.437Z",
+        "updated_at": "2026-10-23T23:35:03.437Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:35:03.458Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3275,
+    "fields": {
+        "id_answer": 3015,
+        "text": "``return``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:35:03.437Z",
+        "updated_at": "2026-10-23T23:35:10.303Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:35:10.320Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3276,
+    "fields": {
+        "id_answer": 3016,
+        "text": "``yield_return``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:35:27.192Z",
+        "updated_at": "2026-10-23T23:35:27.192Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:35:27.207Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3277,
+    "fields": {
+        "id_answer": 3017,
+        "text": "``pop``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:35:52.381Z",
+        "updated_at": "2026-10-23T23:35:52.381Z",
+        "question": 618,
+        "history_date": "2026-10-23T23:35:52.400Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3278,
+    "fields": {
+        "id_answer": 3018,
+        "text": "``list`",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:33.565Z",
+        "updated_at": "2026-10-23T23:36:33.565Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:36:33.591Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3279,
+    "fields": {
+        "id_answer": 3018,
+        "text": "``list``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:33.565Z",
+        "updated_at": "2026-10-23T23:36:38.874Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:36:38.889Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3280,
+    "fields": {
+        "id_answer": 3019,
+        "text": "``set``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:46.768Z",
+        "updated_at": "2026-10-23T23:36:46.768Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:36:46.789Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3281,
+    "fields": {
+        "id_answer": 3020,
+        "text": "``frozon_set``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:57.427Z",
+        "updated_at": "2026-10-23T23:36:57.427Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:36:57.452Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3282,
+    "fields": {
+        "id_answer": 3021,
+        "text": "``tuple``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:37:07.412Z",
+        "updated_at": "2026-10-23T23:37:07.412Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:37:07.431Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3283,
+    "fields": {
+        "id_answer": 3022,
+        "text": "``dict``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:37:14.279Z",
+        "updated_at": "2026-10-23T23:37:14.279Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:37:14.301Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3284,
+    "fields": {
+        "id_answer": 3023,
+        "text": "``dataclass``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:37:43.426Z",
+        "updated_at": "2026-10-23T23:37:43.426Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:37:43.442Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3285,
+    "fields": {
+        "id_answer": 3022,
+        "text": "``dict``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:37:14.279Z",
+        "updated_at": "2026-10-23T23:37:50.026Z",
+        "question": 619,
+        "history_date": "2026-10-23T23:37:50.044Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3286,
+    "fields": {
+        "id_answer": 3024,
+        "text": "Python utiliza el *indentado* del código para estructurar los bloques de código anidados",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:41:01.003Z",
+        "updated_at": "2026-10-23T23:41:01.004Z",
+        "question": 194,
+        "history_date": "2026-10-23T23:41:01.028Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "euribates"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -105614,6 +108876,1315 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 2906,
+    "fields": {
+        "question": 600,
+        "text": "Los que lesionen los derechos y libertades susceptibles de amparo constitucional",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:29:46.799Z",
+        "updated_at": "2026-10-21T17:29:46.799Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2907,
+    "fields": {
+        "question": 600,
+        "text": "Los que lesionen el contenido esencial o natural de los derechos y libertades susceptibles de amparo constitucional",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:30:09.941Z",
+        "updated_at": "2026-10-21T17:30:09.941Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2908,
+    "fields": {
+        "question": 600,
+        "text": "Los dictados prescindiendo parcialmente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formalización de la voluntad de los órganos colegiados",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:30:28.446Z",
+        "updated_at": "2026-10-21T17:30:28.447Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2909,
+    "fields": {
+        "question": 600,
+        "text": "Las disposiciones administrativas que vulneren la Constitución, las leyes u otras disposiciones administrativas de rango superior, las que regulen materias reservadas a Ley, y las que establezcan la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:30:46.877Z",
+        "updated_at": "2026-10-21T17:30:46.877Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2910,
+    "fields": {
+        "question": 600,
+        "text": "Los dictados por órgano manifiestamente competente por razón de la materia y del territorio",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:31:03.320Z",
+        "updated_at": "2026-10-21T17:31:03.320Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2911,
+    "fields": {
+        "question": 600,
+        "text": "Los que tengan un contenido imposible",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:31:45.477Z",
+        "updated_at": "2026-10-21T17:31:45.477Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2912,
+    "fields": {
+        "question": 600,
+        "text": "Los que no sean constitutivos de infracción penal",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:32:49.723Z",
+        "updated_at": "2026-10-21T17:32:49.723Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2913,
+    "fields": {
+        "question": 601,
+        "text": "Por el órgano superior jerárquico de aquél que lo dictó",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:34:05.033Z",
+        "updated_at": "2026-10-21T17:34:05.033Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2914,
+    "fields": {
+        "question": 601,
+        "text": "Por el órgano que lo dictó",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:34:13.035Z",
+        "updated_at": "2026-10-21T17:34:13.036Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2915,
+    "fields": {
+        "question": 601,
+        "text": "Siempre por publicación en un diario oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:35:06.324Z",
+        "updated_at": "2026-10-21T17:35:06.324Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2916,
+    "fields": {
+        "question": 601,
+        "text": "Todas son correctas",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:35:14.917Z",
+        "updated_at": "2026-10-21T17:35:14.917Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2917,
+    "fields": {
+        "question": 602,
+        "text": "Diez días a partir de la fecha en que el acto haya sido dictado",
+        "is_correct": true,
+        "created_at": "2026-10-21T17:45:25.087Z",
+        "updated_at": "2026-10-21T17:45:25.087Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2918,
+    "fields": {
+        "question": 602,
+        "text": "Diez días a partir de la fecha en que el acto haya sido publicado en el boletín oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:45:47.335Z",
+        "updated_at": "2026-10-21T17:46:09.259Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2919,
+    "fields": {
+        "question": 602,
+        "text": "Quince días a partir de la fecha en que el acto haya sido publicado en el boletín oficial",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:45:59.309Z",
+        "updated_at": "2026-10-21T17:45:59.309Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2920,
+    "fields": {
+        "question": 602,
+        "text": "Diez días a partir de la fecha en que el acto haya sido anulado",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:47:21.663Z",
+        "updated_at": "2026-10-21T17:47:21.663Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2921,
+    "fields": {
+        "question": 602,
+        "text": "Antes de transcurridos tres meses desde la fecha de inicio del procedimiento",
+        "is_correct": false,
+        "created_at": "2026-10-21T17:48:31.187Z",
+        "updated_at": "2026-10-21T17:48:31.187Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2922,
+    "fields": {
+        "question": 603,
+        "text": "Solo mediante el recurso de alzada: Se presenta ante el superior jerárquico del órgano que emitió el acto",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:20:25.786Z",
+        "updated_at": "2026-10-21T18:20:25.787Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2923,
+    "fields": {
+        "question": 603,
+        "text": "Solo mediante eecurso de reposición: Se interpone ante el mismo órgano que dictó el acto, solicitando su revisión",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:21:00.830Z",
+        "updated_at": "2026-10-21T18:21:00.830Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2924,
+    "fields": {
+        "question": 603,
+        "text": "Tanto el recurso de alzada como el de reposición son posibles",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:22:41.966Z",
+        "updated_at": "2026-10-21T18:22:41.966Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2925,
+    "fields": {
+        "question": 603,
+        "text": "No es posible recurrir los actos administrativos",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:23:08.540Z",
+        "updated_at": "2026-10-21T18:23:08.540Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2926,
+    "fields": {
+        "question": 604,
+        "text": "Ponen fin a la vía administrativa",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:24:17.571Z",
+        "updated_at": "2026-10-21T18:24:17.571Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2927,
+    "fields": {
+        "question": 604,
+        "text": "Ponen fin al procedimiento y a la vía administrativa",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:24:28.167Z",
+        "updated_at": "2026-10-21T18:24:28.167Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2928,
+    "fields": {
+        "question": 604,
+        "text": "Ponen fin al procedimiento",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:24:37.489Z",
+        "updated_at": "2026-10-21T18:24:37.489Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2929,
+    "fields": {
+        "question": 604,
+        "text": "Han sido recurridos mediante el recurso de alzada",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:25:03.140Z",
+        "updated_at": "2026-10-21T18:25:03.140Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2930,
+    "fields": {
+        "question": 604,
+        "text": "Han sido recurridos mediante el recurso de reposición",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:36:37.243Z",
+        "updated_at": "2026-10-21T18:36:37.243Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2931,
+    "fields": {
+        "question": 605,
+        "text": "**Obligatoriedad**: Los actos administrativos son vinculantes y deben ser cumplidos por los destinatarios",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:38:26.772Z",
+        "updated_at": "2026-10-21T18:38:26.772Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2932,
+    "fields": {
+        "question": 605,
+        "text": "**Potestad administrativa**: Se emiten en ejercicio de la autoridad que posee la administración pública",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:38:52.897Z",
+        "updated_at": "2026-10-21T18:38:52.897Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2933,
+    "fields": {
+        "question": 605,
+        "text": "**Finalidad pública**: Buscan satisfacer el interés general y el bienestar público",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:39:18.693Z",
+        "updated_at": "2026-10-21T18:39:18.693Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2934,
+    "fields": {
+        "question": 605,
+        "text": "Todas las respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:39:31.176Z",
+        "updated_at": "2026-10-21T18:39:31.176Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2935,
+    "fields": {
+        "question": 606,
+        "text": "Se produce un error de sintaxis",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:52:08.594Z",
+        "updated_at": "2026-10-21T18:52:08.594Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2936,
+    "fields": {
+        "question": 606,
+        "text": "Se eleva la excepción ``ValueError``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:52:57.885Z",
+        "updated_at": "2026-10-21T18:52:57.885Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2937,
+    "fields": {
+        "question": 606,
+        "text": "Se eleva la excepción ``SyntaxError``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:53:16.681Z",
+        "updated_at": "2026-10-21T18:57:03.520Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2938,
+    "fields": {
+        "question": 606,
+        "text": "El valor de ``v`` es ``None``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:53:39.464Z",
+        "updated_at": "2026-10-21T18:53:39.464Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2939,
+    "fields": {
+        "question": 606,
+        "text": "El valor de ``v`` es ``True``",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:54:23.352Z",
+        "updated_at": "2026-10-21T18:54:23.352Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2940,
+    "fields": {
+        "question": 606,
+        "text": "El valor de ``v`` es ``NaN`` (*Not a Number*)",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:55:54.974Z",
+        "updated_at": "2026-10-21T18:56:47.554Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2941,
+    "fields": {
+        "question": 606,
+        "text": "El tipo de datos de ``v`` es ``str``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:56:35.636Z",
+        "updated_at": "2026-10-21T18:59:36.951Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2942,
+    "fields": {
+        "question": 606,
+        "text": "El tipo de datos de ``v`` es ``bool``",
+        "is_correct": true,
+        "created_at": "2026-10-21T18:57:35.879Z",
+        "updated_at": "2026-10-21T18:59:45.758Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2943,
+    "fields": {
+        "question": 606,
+        "text": "El valor de ``v`` es ``False``",
+        "is_correct": false,
+        "created_at": "2026-10-21T18:58:49.161Z",
+        "updated_at": "2026-10-21T18:58:49.161Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2944,
+    "fields": {
+        "question": 607,
+        "text": "Una librería incluida en la biblioteca estándar",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:02:23.023Z",
+        "updated_at": "2026-10-21T19:02:23.023Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2945,
+    "fields": {
+        "question": 607,
+        "text": "Una librería de terceros, no incluida en la biblioteca estándar",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:02:37.530Z",
+        "updated_at": "2026-10-21T19:02:37.530Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2946,
+    "fields": {
+        "question": 607,
+        "text": "Una función que recibe como parámetro de entrada una función, y devuelve como resultado también una función",
+        "is_correct": true,
+        "created_at": "2026-10-21T19:05:52.753Z",
+        "updated_at": "2026-10-21T19:05:52.753Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2947,
+    "fields": {
+        "question": 607,
+        "text": "Cualquier función que está documentada",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:08:58.656Z",
+        "updated_at": "2026-10-21T19:08:58.656Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2948,
+    "fields": {
+        "question": 607,
+        "text": "El nombre que se le da a las clases que son virtuales",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:09:43.085Z",
+        "updated_at": "2026-10-21T19:09:43.086Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2949,
+    "fields": {
+        "question": 607,
+        "text": "Cualquier función o clase que esté implementada en otro lenguaje que no sea Python: C, C++, Java o Rust, por ejemplo",
+        "is_correct": false,
+        "created_at": "2026-10-21T19:10:26.644Z",
+        "updated_at": "2026-10-21T19:10:26.644Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2950,
+    "fields": {
+        "question": 608,
+        "text": "Ninguno, da un error de sintaxis",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:39:40.477Z",
+        "updated_at": "2026-10-23T15:39:40.477Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2951,
+    "fields": {
+        "question": 608,
+        "text": "``None``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:39:51.041Z",
+        "updated_at": "2026-10-23T15:40:01.692Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2952,
+    "fields": {
+        "question": 608,
+        "text": "493",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:40:29.780Z",
+        "updated_at": "2026-10-23T15:40:29.780Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2953,
+    "fields": {
+        "question": 608,
+        "text": "8",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:40:44.273Z",
+        "updated_at": "2026-10-23T15:40:44.273Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2954,
+    "fields": {
+        "question": 608,
+        "text": "501",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:40:59.681Z",
+        "updated_at": "2026-10-23T15:40:59.681Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2955,
+    "fields": {
+        "question": 608,
+        "text": "56588",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:41:30.112Z",
+        "updated_at": "2026-10-23T15:41:30.112Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2956,
+    "fields": {
+        "question": 608,
+        "text": "485",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:42:19.422Z",
+        "updated_at": "2026-10-23T15:42:19.422Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2957,
+    "fields": {
+        "question": 608,
+        "text": "Un número entero que, en representación binaria, sería ``111101101``",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:53:31.331Z",
+        "updated_at": "2026-10-23T15:53:47.447Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2958,
+    "fields": {
+        "question": 608,
+        "text": "Se eleva la excepción ``MemoryOverlap``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:55:42.144Z",
+        "updated_at": "2026-10-23T15:55:42.144Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2959,
+    "fields": {
+        "question": 609,
+        "text": "Ninguno, da error de sintaxis",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:57:33.667Z",
+        "updated_at": "2026-10-23T15:57:33.667Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2960,
+    "fields": {
+        "question": 609,
+        "text": "6",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:57:48.456Z",
+        "updated_at": "2026-10-23T15:57:48.457Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2961,
+    "fields": {
+        "question": 609,
+        "text": "9",
+        "is_correct": true,
+        "created_at": "2026-10-23T15:57:52.230Z",
+        "updated_at": "2026-10-23T15:57:52.230Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2962,
+    "fields": {
+        "question": 609,
+        "text": "8",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:57:57.190Z",
+        "updated_at": "2026-10-23T15:57:57.190Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2963,
+    "fields": {
+        "question": 609,
+        "text": "4",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:58:01.417Z",
+        "updated_at": "2026-10-23T15:58:01.417Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2964,
+    "fields": {
+        "question": 609,
+        "text": "0",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:58:43.897Z",
+        "updated_at": "2026-10-23T15:58:43.898Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2965,
+    "fields": {
+        "question": 610,
+        "text": "``repeat``",
+        "is_correct": false,
+        "created_at": "2026-10-23T15:59:48.962Z",
+        "updated_at": "2026-10-23T16:00:11.552Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2966,
+    "fields": {
+        "question": 610,
+        "text": "``repeat`` ... ``until``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:00:22.565Z",
+        "updated_at": "2026-10-23T16:00:22.565Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2967,
+    "fields": {
+        "question": 610,
+        "text": "``if``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:00:39.209Z",
+        "updated_at": "2026-10-23T16:00:39.209Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2968,
+    "fields": {
+        "question": 610,
+        "text": "``choose``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:00:48.879Z",
+        "updated_at": "2026-10-23T16:00:48.879Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2969,
+    "fields": {
+        "question": 610,
+        "text": "``goto``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:01:30.257Z",
+        "updated_at": "2026-10-23T16:01:40.587Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2970,
+    "fields": {
+        "question": 611,
+        "text": "``print()``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:02:49.614Z",
+        "updated_at": "2026-10-23T16:02:49.614Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2971,
+    "fields": {
+        "question": 611,
+        "text": "``echo()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:03:06.679Z",
+        "updated_at": "2026-10-23T16:03:06.679Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2972,
+    "fields": {
+        "question": 611,
+        "text": "``puts`` o ``printf``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:03:41.114Z",
+        "updated_at": "2026-10-23T16:03:41.114Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2973,
+    "fields": {
+        "question": 611,
+        "text": "``display_text()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:04:02.193Z",
+        "updated_at": "2026-10-23T16:04:02.193Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2974,
+    "fields": {
+        "question": 611,
+        "text": "Python no puede mostrar información por pantalla",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:04:21.102Z",
+        "updated_at": "2026-10-23T16:04:21.102Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2975,
+    "fields": {
+        "question": 611,
+        "text": "``show()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:04:42.789Z",
+        "updated_at": "2026-10-23T16:04:42.789Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2976,
+    "fields": {
+        "question": 612,
+        "text": "``str``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:05:54.785Z",
+        "updated_at": "2026-10-23T16:05:54.785Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2977,
+    "fields": {
+        "question": 612,
+        "text": "``int``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:06:06.482Z",
+        "updated_at": "2026-10-23T16:06:06.482Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2978,
+    "fields": {
+        "question": 612,
+        "text": "``float``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:06:17.471Z",
+        "updated_at": "2026-10-23T16:06:17.472Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2979,
+    "fields": {
+        "question": 612,
+        "text": "Python no tiene soporte para números enteros, usa siempre números en coma flotante siguiendo la norma IEEE-754",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:07:44.748Z",
+        "updated_at": "2026-10-23T16:08:05.654Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2980,
+    "fields": {
+        "question": 612,
+        "text": "``bool``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:08:26.849Z",
+        "updated_at": "2026-10-23T16:10:25.877Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2981,
+    "fields": {
+        "question": 612,
+        "text": "La clase ``Integer``, definida en ``math``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:09:58.285Z",
+        "updated_at": "2026-10-23T16:09:58.285Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2982,
+    "fields": {
+        "question": 613,
+        "text": "``REM`` o ``REMARK``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:15.143Z",
+        "updated_at": "2026-10-23T16:13:15.143Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2983,
+    "fields": {
+        "question": 613,
+        "text": "``#``",
+        "is_correct": true,
+        "created_at": "2026-10-23T16:13:23.727Z",
+        "updated_at": "2026-10-23T16:13:23.728Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2984,
+    "fields": {
+        "question": 613,
+        "text": "``//``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:31.963Z",
+        "updated_at": "2026-10-23T16:13:31.963Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2985,
+    "fields": {
+        "question": 613,
+        "text": "``/*``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:40.044Z",
+        "updated_at": "2026-10-23T16:13:40.044Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2986,
+    "fields": {
+        "question": 613,
+        "text": "``<!--``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:13:59.180Z",
+        "updated_at": "2026-10-23T16:13:59.180Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2987,
+    "fields": {
+        "question": 613,
+        "text": "``-- ``",
+        "is_correct": false,
+        "created_at": "2026-10-23T16:14:40.299Z",
+        "updated_at": "2026-10-23T16:14:40.299Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2988,
+    "fields": {
+        "question": 613,
+        "text": "``{*``",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:26:38.927Z",
+        "updated_at": "2026-10-23T18:26:38.927Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2989,
+    "fields": {
+        "question": 614,
+        "text": "Una colección ordenada y modificable",
+        "is_correct": true,
+        "created_at": "2026-10-23T18:28:57.424Z",
+        "updated_at": "2026-10-23T18:28:57.424Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2990,
+    "fields": {
+        "question": 614,
+        "text": "Una colección siempre inmutable",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:29:08.243Z",
+        "updated_at": "2026-10-23T18:29:08.243Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2991,
+    "fields": {
+        "question": 614,
+        "text": "Una colección que solo admite números",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:29:22.610Z",
+        "updated_at": "2026-10-23T18:29:22.610Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2992,
+    "fields": {
+        "question": 614,
+        "text": "Una colección que solo admite textos",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:29:35.350Z",
+        "updated_at": "2026-10-23T18:29:35.350Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2993,
+    "fields": {
+        "question": 614,
+        "text": "Una colección no ordenada y no modificable",
+        "is_correct": false,
+        "created_at": "2026-10-23T18:30:07.864Z",
+        "updated_at": "2026-10-23T18:30:07.864Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2994,
+    "fields": {
+        "question": 614,
+        "text": "Una colección sin índices",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:27:03.327Z",
+        "updated_at": "2026-10-23T23:27:03.327Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2995,
+    "fields": {
+        "question": 615,
+        "text": "``numeros[1]``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:28:16.361Z",
+        "updated_at": "2026-10-23T23:28:16.361Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2996,
+    "fields": {
+        "question": 615,
+        "text": "``numeros(0)``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:28:43.706Z",
+        "updated_at": "2026-10-23T23:28:43.706Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2997,
+    "fields": {
+        "question": 615,
+        "text": "``numeros[0]``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:28:57.006Z",
+        "updated_at": "2026-10-23T23:28:57.006Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2998,
+    "fields": {
+        "question": 615,
+        "text": "``numeros.first()``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:29:19.337Z",
+        "updated_at": "2026-10-23T23:29:19.338Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 2999,
+    "fields": {
+        "question": 615,
+        "text": "``numeros.0``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:29:46.627Z",
+        "updated_at": "2026-10-23T23:29:46.627Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3000,
+    "fields": {
+        "question": 616,
+        "text": "``function``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:30:47.667Z",
+        "updated_at": "2026-10-23T23:30:47.667Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3001,
+    "fields": {
+        "question": 616,
+        "text": "``def``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:30:53.698Z",
+        "updated_at": "2026-10-23T23:30:53.698Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3002,
+    "fields": {
+        "question": 616,
+        "text": "``func``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:02.483Z",
+        "updated_at": "2026-10-23T23:31:02.483Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3003,
+    "fields": {
+        "question": 616,
+        "text": "``procedure``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:09.727Z",
+        "updated_at": "2026-10-23T23:31:09.727Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3004,
+    "fields": {
+        "question": 616,
+        "text": "``call``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:15.353Z",
+        "updated_at": "2026-10-23T23:31:15.353Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3005,
+    "fields": {
+        "question": 616,
+        "text": "``define``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:31:27.952Z",
+        "updated_at": "2026-10-23T23:31:27.952Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3006,
+    "fields": {
+        "question": 617,
+        "text": "``1, 2, 3``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:32:51.863Z",
+        "updated_at": "2026-10-23T23:32:51.863Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3007,
+    "fields": {
+        "question": 617,
+        "text": "``0, 1, 2``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:33:00.664Z",
+        "updated_at": "2026-10-23T23:33:00.664Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3008,
+    "fields": {
+        "question": 617,
+        "text": "``0, 1, 2, 3``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:33:10.274Z",
+        "updated_at": "2026-10-23T23:33:10.274Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3009,
+    "fields": {
+        "question": 617,
+        "text": "``3``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:33:20.119Z",
+        "updated_at": "2026-10-23T23:33:20.119Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3010,
+    "fields": {
+        "question": 617,
+        "text": "``i``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:33:46.457Z",
+        "updated_at": "2026-10-23T23:33:46.457Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3011,
+    "fields": {
+        "question": 618,
+        "text": "``print``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:30.781Z",
+        "updated_at": "2026-10-23T23:34:30.781Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3012,
+    "fields": {
+        "question": 618,
+        "text": "``break``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:41.728Z",
+        "updated_at": "2026-10-23T23:34:41.728Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3013,
+    "fields": {
+        "question": 618,
+        "text": "``pass``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:48.141Z",
+        "updated_at": "2026-10-23T23:34:48.141Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3014,
+    "fields": {
+        "question": 618,
+        "text": "``raise``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:34:55.186Z",
+        "updated_at": "2026-10-23T23:34:55.186Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3015,
+    "fields": {
+        "question": 618,
+        "text": "``return``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:35:03.437Z",
+        "updated_at": "2026-10-23T23:35:10.303Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3016,
+    "fields": {
+        "question": 618,
+        "text": "``yield_return``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:35:27.192Z",
+        "updated_at": "2026-10-23T23:35:27.192Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3017,
+    "fields": {
+        "question": 618,
+        "text": "``pop``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:35:52.381Z",
+        "updated_at": "2026-10-23T23:35:52.381Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3018,
+    "fields": {
+        "question": 619,
+        "text": "``list``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:33.565Z",
+        "updated_at": "2026-10-23T23:36:38.874Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3019,
+    "fields": {
+        "question": 619,
+        "text": "``set``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:46.768Z",
+        "updated_at": "2026-10-23T23:36:46.768Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3020,
+    "fields": {
+        "question": 619,
+        "text": "``frozon_set``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:36:57.427Z",
+        "updated_at": "2026-10-23T23:36:57.427Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3021,
+    "fields": {
+        "question": 619,
+        "text": "``tuple``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:37:07.412Z",
+        "updated_at": "2026-10-23T23:37:07.412Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3022,
+    "fields": {
+        "question": 619,
+        "text": "``dict``",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:37:14.279Z",
+        "updated_at": "2026-10-23T23:37:50.026Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3023,
+    "fields": {
+        "question": 619,
+        "text": "``dataclass``",
+        "is_correct": false,
+        "created_at": "2026-10-23T23:37:43.426Z",
+        "updated_at": "2026-10-23T23:37:43.426Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3024,
+    "fields": {
+        "question": 194,
+        "text": "Python utiliza el *indentado* del código para estructurar los bloques de código anidados",
+        "is_correct": true,
+        "created_at": "2026-10-23T23:41:01.003Z",
+        "updated_at": "2026-10-23T23:41:01.004Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -113787,6 +118358,132 @@
         "failures": 1,
         "created_at": "2026-10-01T10:37:02.275Z",
         "updated_at": "2026-10-01T10:37:06.620Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 585,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 600,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-10-21T17:33:05.879Z",
+        "updated_at": "2026-10-21T17:33:10.919Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 586,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 601,
+        "tries": 4,
+        "failures": 2,
+        "created_at": "2026-10-21T17:35:22.444Z",
+        "updated_at": "2026-10-21T17:35:46.281Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 587,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 605,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-10-21T18:40:23.871Z",
+        "updated_at": "2026-10-21T18:40:23.871Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 588,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 150,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-10-21T18:47:18.318Z",
+        "updated_at": "2026-10-21T18:47:18.318Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 589,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 607,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-10-21T19:10:47.754Z",
+        "updated_at": "2026-10-21T19:10:54.333Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 590,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 608,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-10-23T15:55:50.969Z",
+        "updated_at": "2026-10-23T15:56:04.246Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 591,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 610,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-10-23T16:01:56.624Z",
+        "updated_at": "2026-10-23T16:02:03.834Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 592,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 611,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-10-23T16:04:57.285Z",
+        "updated_at": "2026-10-23T16:05:02.928Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 593,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 612,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-10-23T16:11:02.095Z",
+        "updated_at": "2026-10-23T16:11:05.890Z"
     }
 }
 ]
