@@ -29,7 +29,7 @@ class NewQuestionForm(forms.ModelForm):
             'tags',
             Submit(
                 'ok', 'Nueva pregunta',
-                css_class='button is-white is-rouded',
+                css_class='button is-warning is-rouded',
                 ),
         )
         self.fields['text'].widget = forms.Textarea(attrs={
@@ -55,7 +55,7 @@ class EditQuestionForm(forms.ModelForm):
             'tags',
             Submit(
                 'ok', 'Editar pregunta',
-                css_class='button is-white is-rouded',
+                css_class='button is-warning is-rouded',
                 ),
         )
         self.fields['text'].widget = forms.Textarea(attrs={
@@ -84,7 +84,7 @@ class NewAnswerForm(forms.ModelForm):
             'is_correct',
             Submit(
                 'ok', 'Nueva respuesta',
-                css_class='button is-white is-rouded',
+                css_class='button is-warning is-rouded',
                 ),
         )
         self.fields['text'].widget = forms.Textarea(attrs={
@@ -117,7 +117,7 @@ class EditAnswerForm(forms.ModelForm):
             'is_correct',
             Submit(
                 'ok', 'Nueva respuesta',
-                css_class='button is-white is-rouded',
+                css_class='button is-warning is-rouded',
                 ),
         )
         self.fields['text'].widget = forms.Textarea(attrs={

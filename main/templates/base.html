@@ -17,7 +17,12 @@
     {% include "navbar.html" %}
 
   <section class="section">
+
     <div class="container">
+    <div class="hero">
+    {% if titulo %}<h1 class="title">{{ titulo }}</h1>{% endif %}
+    {% if subtitulo %}<h2 class="subtitle">{{ subtitulo }}</h2>{% endif %}
+    </div>
 
     <main class="content">
     {% block content %}
@@ -27,6 +32,10 @@
 
     </div>
   </section>
+
+  <footer>
+      {% include "footer.html" %}
+  </footer>
 
   {% block javascript %}
       

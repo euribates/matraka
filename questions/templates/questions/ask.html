@@ -11,15 +11,16 @@
 {% block content %}
     
 <div class="box">
-<h2>Pregunta {{ question.pk }}</h2>
-
 <h3>{{ question.text|markdownify }}</h3>
 
-{% for tag in question.tags.all %}
-  <span class="tag" style="color: {{ tag.color.foreground_color }}; background-color: {{ tag.color }}">
+<p class="tags">{% for tag in question.tags.all %}
+  <a 
+      href="{% url 'tags:view_tag' tag.name %}"
+      class="tag"
+      style="color: {{ tag.color.foreground_color }}; background-color: {{ tag.color }}">
       {{ tag }} 
-    </span>
-{% endfor %}
+    </a>
+    {% endfor %}</p>
 
 {% if score %}
 Preguntada {{ score.tries }}: 

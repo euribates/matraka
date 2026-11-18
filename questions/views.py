@@ -45,7 +45,7 @@ def ask_question(request, pk=0):
     answers = dict(zip('ABCD', question.get_random_answers()))
     form = forms.AskForm()
     return render(request, 'questions/ask.html', {
-        'titulo': f'Pregunta {question.pk}: {question.text}',
+        'titulo': f'Pregunta {question.pk}',
         'question': question,
         'answers': answers,
         'form': form,
@@ -107,6 +107,7 @@ def new_question(request, *args, **kwargs):
     else:
         form = forms.NewQuestionForm()
     return render(request, 'questions/new-question.html', {
+        'titulo': "Nueva pregunta",
         'form': form,
         })
 

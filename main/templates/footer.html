@@ -1,0 +1,14 @@
+<footer class="footer">
+
+{% if request.user.is_authenticated %}
+
+<a href="{% url 'questions:new_question' %}" class="button" role="button">
+        Dar de alta una nueva pregunta
+    </a>
+
+<a href="{% url 'tags:all_tags' %}" class="button" role="button">
+        Ver todas las etiquetas
+    </a>
+{% endif %}
+
+</footer>

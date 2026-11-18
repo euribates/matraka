@@ -1,5 +1,5 @@
 {% extends 'base.html' %}
-{% load markdownify tags %}
+{% load texts markdownify tags %}
 
 {% block content %}
 
@@ -15,7 +15,7 @@
         <td>
           {{ tag|as_tag }}
         </td>  
-      <td>{{ tag.description }}</td>
+      <td>{{ tag.description|as_markdown }}</td>
       <td>
           <a class="badge" href="{% url 'tags:view_tag' tag_name=tag.name %}">  
           {{ tag.num_questions }}
