@@ -376,5 +376,32 @@
         "color": "#C9EE0B",
         "description": "Buen Gobierno"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 43,
+    "fields": {
+        "name": "cabildo",
+        "color": "#E8AD64",
+        "description": "Cabildo"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 44,
+    "fields": {
+        "name": "tenerife",
+        "color": "#FE6ABD",
+        "description": "Tenerife"
+    }
+},
+{
+    "model": "tags.tag",
+    "pk": 45,
+    "fields": {
+        "name": "mqtt",
+        "color": "#D5C569",
+        "description": "MQTT (*Message Queuing Telemetry Transport*)"
+    }
 }
 ]

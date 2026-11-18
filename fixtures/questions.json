@@ -12683,6 +12683,431 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 778,
+    "fields": {
+        "id_question": 620,
+        "text": "La expedición de las certificaciones de los acuerdos adoptados por el Pleno Insular corresponderá, de conformidad con el Reglamento orgánico del gobierno y la administración del Cabildo Insular de Tenerife, a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-11T12:42:33.275Z",
+        "updated_at": "2026-11-11T12:42:33.275Z",
+        "history_date": "2026-11-11T12:42:33.294Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 779,
+    "fields": {
+        "id_question": 620,
+        "text": "La expedición de las certificaciones de los acuerdos adoptados por el Pleno Insular corresponderá, de conformidad con el Reglamento orgánico del gobierno y la administración del Cabildo Insular de Tenerife, a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-11T12:42:33.275Z",
+        "updated_at": "2026-11-11T12:46:27.862Z",
+        "history_date": "2026-11-11T12:46:27.885Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 780,
+    "fields": {
+        "id_question": 621,
+        "text": "La interoperabilidad, tal y com se desciribe en el Esquema Nacional de Seguridad, resulta necesaria para:",
+        "source": "Propia",
+        "created_at": "2026-11-16T12:00:19.399Z",
+        "updated_at": "2026-11-16T12:00:19.399Z",
+        "history_date": "2026-11-16T12:00:19.415Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 781,
+    "fields": {
+        "id_question": 621,
+        "text": "La interoperabilidad, tal y como se describe en el Esquema Nacional de Seguridad, resulta necesaria para:",
+        "source": "Propia",
+        "created_at": "2026-11-16T12:00:19.399Z",
+        "updated_at": "2026-11-16T12:00:35.243Z",
+        "history_date": "2026-11-16T12:00:35.259Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 782,
+    "fields": {
+        "id_question": 622,
+        "text": "La finalidad del ENI es la creación de las condiciones necesarias para garantizar el adecuado nivel de :interoperabilidad",
+        "source": "Propia",
+        "created_at": "2026-11-16T12:41:56.968Z",
+        "updated_at": "2026-11-16T12:41:56.969Z",
+        "history_date": "2026-11-16T12:41:56.990Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 783,
+    "fields": {
+        "id_question": 622,
+        "text": "La finalidad del ENI es, en lo que respecta a las aplicaciones empleados por las Administraciones pública, la creación de las condiciones necesarias para garantizar el adecuado nivel de interoperabilidad:",
+        "source": "Propia",
+        "created_at": "2026-11-16T12:41:56.968Z",
+        "updated_at": "2026-11-16T12:46:15.272Z",
+        "history_date": "2026-11-16T12:46:15.291Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 784,
+    "fields": {
+        "id_question": 623,
+        "text": "En lo que se refiere a la interoperabilid técnica, el Esquena Nacional de Interoperabilidad recomiendo usar:",
+        "source": "Propia",
+        "created_at": "2026-11-16T13:24:56.350Z",
+        "updated_at": "2026-11-16T13:24:56.350Z",
+        "history_date": "2026-11-16T13:24:56.363Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 785,
+    "fields": {
+        "id_question": 624,
+        "text": "De acuerdo al INE ¿Con qué organismos se sincronizarán los sistemas con la hora oficial?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T14:40:21.255Z",
+        "updated_at": "2026-11-16T14:40:21.255Z",
+        "history_date": "2026-11-16T14:40:21.272Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 786,
+    "fields": {
+        "id_question": 625,
+        "text": "¿Dónde se encuentran las definiciones, palabras, expresiones y términos utilizados en el real Decreto 4/2019, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T15:09:12.211Z",
+        "updated_at": "2026-11-16T15:09:12.211Z",
+        "history_date": "2026-11-16T15:09:12.233Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 787,
+    "fields": {
+        "id_question": 625,
+        "text": "¿Dónde se encuentran las definiciones, palabras, expresiones y términos utilizados en el real decreto 4/2019, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T15:09:12.211Z",
+        "updated_at": "2026-11-16T15:11:56.067Z",
+        "history_date": "2026-11-16T15:11:56.079Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 788,
+    "fields": {
+        "id_question": 626,
+        "text": "Segúen el Esquema Nacional de Interoperabilidad ¿Cuáles son los principios básicos de la interoperabilidad?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T15:13:54.873Z",
+        "updated_at": "2026-11-16T15:13:54.873Z",
+        "history_date": "2026-11-16T15:13:54.891Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 789,
+    "fields": {
+        "id_question": 627,
+        "text": "De acuerdo con el ENI, las normas técnicas de interoperabilidad serán aprobadas por",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T21:05:01.006Z",
+        "updated_at": "2026-11-16T21:05:01.006Z",
+        "history_date": "2026-11-16T21:05:01.022Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 790,
+    "fields": {
+        "id_question": 627,
+        "text": "De acuerdo con el ENI, las normas técnicas de interoperabilidad serán aprobadas por:",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T21:05:01.006Z",
+        "updated_at": "2026-11-16T21:05:10.616Z",
+        "history_date": "2026-11-16T21:05:10.629Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 791,
+    "fields": {
+        "id_question": 628,
+        "text": "En los contratos del sector público, el precio **no** podrá ser el único factor determinante de la adjudicación en los contratos celebrados por la administración pública referentes a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T10:18:14.395Z",
+        "updated_at": "2026-11-17T10:18:14.395Z",
+        "history_date": "2026-11-17T10:18:14.411Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 792,
+    "fields": {
+        "id_question": 628,
+        "text": "En los contratos celebrados por la administración pública, el precio **no** podrá ser el único factor determinante de la adjudicación  referentes a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T10:18:14.395Z",
+        "updated_at": "2026-11-17T10:29:43.592Z",
+        "history_date": "2026-11-17T10:29:43.608Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 793,
+    "fields": {
+        "id_question": 628,
+        "text": "En los contratos celebrados por la administración pública, el precio podrá ser el único factor determinante de la adjudicación referentes a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T10:18:14.395Z",
+        "updated_at": "2026-11-17T10:31:42.588Z",
+        "history_date": "2026-11-17T10:31:42.603Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 794,
+    "fields": {
+        "id_question": 629,
+        "text": "En un contrato de obras, la revisión de precios podrá tener lugar cuando:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T10:49:37.520Z",
+        "updated_at": "2026-11-17T10:49:37.520Z",
+        "history_date": "2026-11-17T10:49:37.541Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 795,
+    "fields": {
+        "id_question": 630,
+        "text": "De acuerdo con la Ley 9/2017, de contratos del sector público, la liquidación en el contrato de obras tiene lugar:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T14:37:34.266Z",
+        "updated_at": "2026-11-17T14:37:34.266Z",
+        "history_date": "2026-11-17T14:37:34.284Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 796,
+    "fields": {
+        "id_question": 631,
+        "text": "Son causas de resolución del contrato de obras, además de las generales de la Ley, las siguientes:",
+        "source": "Propia",
+        "created_at": "2026-11-17T14:42:28.371Z",
+        "updated_at": "2026-11-17T14:42:28.371Z",
+        "history_date": "2026-11-17T14:42:28.383Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 797,
+    "fields": {
+        "id_question": 632,
+        "text": "¿Cuál es el objetivo principal de Apache CXF?",
+        "source": "https://climbtheladder.com/apache-cxf-interview-questions/",
+        "created_at": "2026-11-18T16:03:17.795Z",
+        "updated_at": "2026-11-18T16:03:17.795Z",
+        "history_date": "2026-11-18T16:03:17.810Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 798,
+    "fields": {
+        "id_question": 632,
+        "text": "¿Cuál es el definición más acertada de Apache CXF?",
+        "source": "https://climbtheladder.com/apache-cxf-interview-questions/",
+        "created_at": "2026-11-18T16:03:17.795Z",
+        "updated_at": "2026-11-18T16:09:23.138Z",
+        "history_date": "2026-11-18T16:09:23.154Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 799,
+    "fields": {
+        "id_question": 633,
+        "text": "¿De donde procede el nombre de Apache CXF?",
+        "source": "Propia",
+        "created_at": "2026-11-18T16:16:21.501Z",
+        "updated_at": "2026-11-18T16:16:21.501Z",
+        "history_date": "2026-11-18T16:16:21.512Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 800,
+    "fields": {
+        "id_question": 634,
+        "text": "**MQTT** (*Message Queuing Telemetry Transport*) es un protocolo de mensajería ligero basado en el patrón:",
+        "source": "Propia",
+        "created_at": "2026-11-18T17:13:00.655Z",
+        "updated_at": "2026-11-18T17:13:00.655Z",
+        "history_date": "2026-11-18T17:13:00.674Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 801,
+    "fields": {
+        "id_question": 634,
+        "text": "**MQTT** (*Message Queuing Telemetry Transport*) es un protocolo de mensajería ligero basado en el patrón:",
+        "source": "Propia",
+        "created_at": "2026-11-18T17:13:00.655Z",
+        "updated_at": "2026-11-18T18:24:26.816Z",
+        "history_date": "2026-11-18T18:24:26.832Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 802,
+    "fields": {
+        "id_question": 635,
+        "text": "¿Cuál de estas es una implementación de *software* libre de MQTT (Message Queuing Telemetry Transport)?",
+        "source": "Propia",
+        "created_at": "2026-11-18T18:28:32.341Z",
+        "updated_at": "2026-11-18T18:28:32.341Z",
+        "history_date": "2026-11-18T18:28:32.355Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -20124,6 +20549,236 @@
         "tags": [
             18,
             11
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 620,
+    "fields": {
+        "text": "La expedición de las certificaciones de los acuerdos adoptados por el Pleno Insular corresponderá, de conformidad con el Reglamento orgánico del gobierno y la administración del Cabildo Insular de Tenerife, a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-11T12:42:33.275Z",
+        "updated_at": "2026-11-11T12:46:27.862Z",
+        "tags": [
+            43,
+            2,
+            44
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 621,
+    "fields": {
+        "text": "La interoperabilidad, tal y como se describe en el Esquema Nacional de Seguridad, resulta necesaria para:",
+        "source": "Propia",
+        "created_at": "2026-11-16T12:00:19.399Z",
+        "updated_at": "2026-11-16T12:00:35.243Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 622,
+    "fields": {
+        "text": "La finalidad del ENI es, en lo que respecta a las aplicaciones empleados por las Administraciones pública, la creación de las condiciones necesarias para garantizar el adecuado nivel de interoperabilidad:",
+        "source": "Propia",
+        "created_at": "2026-11-16T12:41:56.968Z",
+        "updated_at": "2026-11-16T12:46:15.272Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 623,
+    "fields": {
+        "text": "En lo que se refiere a la interoperabilid técnica, el Esquena Nacional de Interoperabilidad recomiendo usar:",
+        "source": "Propia",
+        "created_at": "2026-11-16T13:24:56.350Z",
+        "updated_at": "2026-11-16T13:24:56.350Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 624,
+    "fields": {
+        "text": "De acuerdo al INE ¿Con qué organismos se sincronizarán los sistemas con la hora oficial?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T14:40:21.255Z",
+        "updated_at": "2026-11-16T14:40:21.255Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 625,
+    "fields": {
+        "text": "¿Dónde se encuentran las definiciones, palabras, expresiones y términos utilizados en el real decreto 4/2019, por el que se regula el Esquema Nacional de Interoperabilidad en el ámbito de la Administración Electrónica?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T15:09:12.211Z",
+        "updated_at": "2026-11-16T15:11:56.067Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 626,
+    "fields": {
+        "text": "Segúen el Esquema Nacional de Interoperabilidad ¿Cuáles son los principios básicos de la interoperabilidad?",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T15:13:54.873Z",
+        "updated_at": "2026-11-16T15:13:54.873Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 627,
+    "fields": {
+        "text": "De acuerdo con el ENI, las normas técnicas de interoperabilidad serán aprobadas por:",
+        "source": "https://www.daypo.com/esquema-nacional-interoperabilidad.html",
+        "created_at": "2026-11-16T21:05:01.006Z",
+        "updated_at": "2026-11-16T21:05:10.616Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 628,
+    "fields": {
+        "text": "En los contratos celebrados por la administración pública, el precio podrá ser el único factor determinante de la adjudicación referentes a:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T10:18:14.395Z",
+        "updated_at": "2026-11-17T10:31:42.588Z",
+        "tags": [
+            20
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 629,
+    "fields": {
+        "text": "En un contrato de obras, la revisión de precios podrá tener lugar cuando:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T10:49:37.520Z",
+        "updated_at": "2026-11-17T10:49:37.520Z",
+        "tags": [
+            35
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 630,
+    "fields": {
+        "text": "De acuerdo con la Ley 9/2017, de contratos del sector público, la liquidación en el contrato de obras tiene lugar:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-11-17T14:37:34.266Z",
+        "updated_at": "2026-11-17T14:37:34.266Z",
+        "tags": [
+            20
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 631,
+    "fields": {
+        "text": "Son causas de resolución del contrato de obras, además de las generales de la Ley, las siguientes:",
+        "source": "Propia",
+        "created_at": "2026-11-17T14:42:28.371Z",
+        "updated_at": "2026-11-17T14:42:28.371Z",
+        "tags": [
+            20
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 632,
+    "fields": {
+        "text": "¿Cuál es el definición más acertada de Apache CXF?",
+        "source": "https://climbtheladder.com/apache-cxf-interview-questions/",
+        "created_at": "2026-11-18T16:03:17.795Z",
+        "updated_at": "2026-11-18T16:09:23.138Z",
+        "tags": [
+            43,
+            25,
+            34,
+            38,
+            41
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 633,
+    "fields": {
+        "text": "¿De donde procede el nombre de Apache CXF?",
+        "source": "Propia",
+        "created_at": "2026-11-18T16:16:21.501Z",
+        "updated_at": "2026-11-18T16:16:21.501Z",
+        "tags": [
+            43,
+            25,
+            34,
+            38,
+            41
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 634,
+    "fields": {
+        "text": "**MQTT** (*Message Queuing Telemetry Transport*) es un protocolo de mensajería ligero basado en el patrón:",
+        "source": "Propia",
+        "created_at": "2026-11-18T17:13:00.655Z",
+        "updated_at": "2026-11-18T18:24:26.816Z",
+        "tags": [
+            43,
+            25,
+            12,
+            45,
+            33,
+            39,
+            38
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 635,
+    "fields": {
+        "text": "¿Cuál de estas es una implementación de *software* libre de MQTT (Message Queuing Telemetry Transport)?",
+        "source": "Propia",
+        "created_at": "2026-11-18T18:28:32.341Z",
+        "updated_at": "2026-11-18T18:28:32.341Z",
+        "tags": [
+            43,
+            25,
+            29,
+            12,
+            45,
+            39,
+            38
         ]
     }
 },
@@ -76932,6 +77587,2310 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3287,
+    "fields": {
+        "id_answer": 3025,
+        "text": "Al presidente",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:42:41.145Z",
+        "updated_at": "2026-11-11T12:42:41.145Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:42:41.193Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3288,
+    "fields": {
+        "id_answer": 3026,
+        "text": "A la Vicesecretaría General",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:42:50.440Z",
+        "updated_at": "2026-11-11T12:42:50.440Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:42:50.459Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3289,
+    "fields": {
+        "id_answer": 3027,
+        "text": "A la Secretaría General del Pleno, con el visto bueno del Presidente",
+        "is_correct": true,
+        "created_at": "2026-11-11T12:42:57.531Z",
+        "updated_at": "2026-11-11T12:42:57.531Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:42:57.554Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3290,
+    "fields": {
+        "id_answer": 3028,
+        "text": "Al propio pleno",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:43:07.270Z",
+        "updated_at": "2026-11-11T12:43:07.270Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:43:07.290Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3291,
+    "fields": {
+        "id_answer": 3028,
+        "text": "El propio pleno",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:43:07.270Z",
+        "updated_at": "2026-11-11T12:43:17.104Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:43:17.122Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3292,
+    "fields": {
+        "id_answer": 3025,
+        "text": "El/la presidente",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:42:41.145Z",
+        "updated_at": "2026-11-11T12:43:30.137Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:43:30.147Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3293,
+    "fields": {
+        "id_answer": 3026,
+        "text": "La Vicesecretaría General",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:42:50.440Z",
+        "updated_at": "2026-11-11T12:43:41.435Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:43:41.450Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3294,
+    "fields": {
+        "id_answer": 3027,
+        "text": "La Secretaría General del Pleno, con el visto bueno del Presidente",
+        "is_correct": true,
+        "created_at": "2026-11-11T12:42:57.531Z",
+        "updated_at": "2026-11-11T12:43:48.885Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:43:48.907Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3295,
+    "fields": {
+        "id_answer": 3029,
+        "text": "La Vicepresidencia",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:44:56.651Z",
+        "updated_at": "2026-11-11T12:44:56.651Z",
+        "question": 620,
+        "history_date": "2026-11-11T12:44:56.670Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3296,
+    "fields": {
+        "id_answer": 3030,
+        "text": "Las Consejerías Insulares con funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-11T13:18:29.995Z",
+        "updated_at": "2026-11-11T13:18:29.995Z",
+        "question": 620,
+        "history_date": "2026-11-11T13:18:30.012Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3297,
+    "fields": {
+        "id_answer": 3031,
+        "text": "La cooperación, el desarrollo, la integración y la prestación de servicios conjuntos por las Administraciones públicas",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:33:19.216Z",
+        "updated_at": "2026-11-16T12:33:19.216Z",
+        "question": 621,
+        "history_date": "2026-11-16T12:33:19.234Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3298,
+    "fields": {
+        "id_answer": 3032,
+        "text": "La ejecución de las diversas políticas públicas",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:33:30.825Z",
+        "updated_at": "2026-11-16T12:33:30.825Z",
+        "question": 621,
+        "history_date": "2026-11-16T12:33:30.835Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3299,
+    "fields": {
+        "id_answer": 3033,
+        "text": "La realización de diferentes principios y derechos",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:33:45.964Z",
+        "updated_at": "2026-11-16T12:33:45.964Z",
+        "question": 621,
+        "history_date": "2026-11-16T12:33:45.982Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3300,
+    "fields": {
+        "id_answer": 3034,
+        "text": "La transferencia de tecnología y la reutilización de aplicaciones en beneficio de una mejor eficiencia",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:34:04.456Z",
+        "updated_at": "2026-11-16T12:34:04.456Z",
+        "question": 621,
+        "history_date": "2026-11-16T12:34:04.477Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3301,
+    "fields": {
+        "id_answer": 3035,
+        "text": "La cooperación entre diferentes aplicaciones que habiliten nuevos servicios",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:34:18.155Z",
+        "updated_at": "2026-11-16T12:34:18.155Z",
+        "question": 621,
+        "history_date": "2026-11-16T12:34:18.174Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3302,
+    "fields": {
+        "id_answer": 3036,
+        "text": "Todas las otras respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:34:42.861Z",
+        "updated_at": "2026-11-16T12:34:42.861Z",
+        "question": 621,
+        "history_date": "2026-11-16T12:34:42.886Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3303,
+    "fields": {
+        "id_answer": 3037,
+        "text": "Técnica",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:08.105Z",
+        "updated_at": "2026-11-16T12:42:08.105Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:42:08.118Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3304,
+    "fields": {
+        "id_answer": 3038,
+        "text": "Semántica",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:29.859Z",
+        "updated_at": "2026-11-16T12:42:29.859Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:42:29.871Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3305,
+    "fields": {
+        "id_answer": 3039,
+        "text": "Organizativa",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:44.278Z",
+        "updated_at": "2026-11-16T12:42:44.278Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:42:44.302Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3306,
+    "fields": {
+        "id_answer": 3040,
+        "text": "Sólo a nivel técnico",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:43:06.319Z",
+        "updated_at": "2026-11-16T12:43:06.319Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:43:06.338Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3307,
+    "fields": {
+        "id_answer": 3041,
+        "text": "A nivel técnico y semántico, pero no organizativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:43:21.913Z",
+        "updated_at": "2026-11-16T12:43:21.913Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:43:21.925Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3308,
+    "fields": {
+        "id_answer": 3037,
+        "text": "Técnica, semántica y operativa",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:42:08.105Z",
+        "updated_at": "2026-11-16T12:43:38.650Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:43:38.662Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3309,
+    "fields": {
+        "id_answer": 3042,
+        "text": "Operativa, semántica y técnica",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:43:56.088Z",
+        "updated_at": "2026-11-16T12:43:56.088Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:43:56.100Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3310,
+    "fields": {
+        "id_answer": 3038,
+        "text": "Solo a nivel semántico y operativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:29.859Z",
+        "updated_at": "2026-11-16T12:44:17.931Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:44:17.943Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3311,
+    "fields": {
+        "id_answer": 3039,
+        "text": "Unicamente a nivel organizativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:44.278Z",
+        "updated_at": "2026-11-16T12:44:34.094Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:44:34.107Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3312,
+    "fields": {
+        "id_answer": 3042,
+        "text": "Organizativa,, semántica y técnica",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:43:56.088Z",
+        "updated_at": "2026-11-16T12:47:58.219Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:47:58.231Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3313,
+    "fields": {
+        "id_answer": 3042,
+        "text": "Organizativa, semántica y técnica",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:43:56.088Z",
+        "updated_at": "2026-11-16T12:48:06.572Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:48:06.590Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3314,
+    "fields": {
+        "id_answer": 3043,
+        "text": "Operativa",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:48:16.097Z",
+        "updated_at": "2026-11-16T12:48:16.097Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:48:16.138Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3315,
+    "fields": {
+        "id_answer": 3037,
+        "text": "Técnica, semántica y organizativa",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:42:08.105Z",
+        "updated_at": "2026-11-16T12:48:30.532Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:48:30.578Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3316,
+    "fields": {
+        "id_answer": 3043,
+        "text": "Operativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:48:16.097Z",
+        "updated_at": "2026-11-16T12:48:54.184Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:48:54.201Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3317,
+    "fields": {
+        "id_answer": 3039,
+        "text": "Únicamente a nivel organizativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:44.278Z",
+        "updated_at": "2026-11-16T12:49:21.460Z",
+        "question": 622,
+        "history_date": "2026-11-16T12:49:21.473Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3318,
+    "fields": {
+        "id_answer": 3044,
+        "text": "Estándares abiertos, así como, en su caso y de forma complementaria, estándares que sean de uso generalizado por los ciudadanos",
+        "is_correct": true,
+        "created_at": "2026-11-16T13:25:27.131Z",
+        "updated_at": "2026-11-16T13:25:27.131Z",
+        "question": 623,
+        "history_date": "2026-11-16T13:25:27.152Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3319,
+    "fields": {
+        "id_answer": 3045,
+        "text": "Estándares que sean de uso generalizado por los ciudadanos, así como, en su caso y de forma complementaria, estándares abiertos",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:26:26.067Z",
+        "updated_at": "2026-11-16T13:26:26.067Z",
+        "question": 623,
+        "history_date": "2026-11-16T13:26:26.085Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3320,
+    "fields": {
+        "id_answer": 3046,
+        "text": "Siempre usar estándares que sean de uso generalizado por los ciudadanos",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:26:44.337Z",
+        "updated_at": "2026-11-16T13:26:44.337Z",
+        "question": 623,
+        "history_date": "2026-11-16T13:26:44.355Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3321,
+    "fields": {
+        "id_answer": 3047,
+        "text": "Siempre usar estándares abiertos",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:27:11.944Z",
+        "updated_at": "2026-11-16T13:27:11.944Z",
+        "question": 623,
+        "history_date": "2026-11-16T13:27:11.959Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3322,
+    "fields": {
+        "id_answer": 3048,
+        "text": "Siempre usar estándares privativos, por su mayor seguridad",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:27:27.350Z",
+        "updated_at": "2026-11-16T13:27:27.350Z",
+        "question": 623,
+        "history_date": "2026-11-16T13:27:27.363Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3323,
+    "fields": {
+        "id_answer": 3049,
+        "text": "El ENI no se pronuncia es este aspecto",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:28:05.795Z",
+        "updated_at": "2026-11-16T13:28:05.795Z",
+        "question": 623,
+        "history_date": "2026-11-16T13:28:05.809Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3324,
+    "fields": {
+        "id_answer": 3050,
+        "text": "Real Instituto y Observatorio de la Armada",
+        "is_correct": true,
+        "created_at": "2026-11-16T14:41:53.613Z",
+        "updated_at": "2026-11-16T14:41:53.613Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:41:53.643Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3325,
+    "fields": {
+        "id_answer": 3051,
+        "text": "Sistema de posicionamiento global GPS",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:42:14.081Z",
+        "updated_at": "2026-11-16T14:42:14.081Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:42:14.098Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3326,
+    "fields": {
+        "id_answer": 3052,
+        "text": "El Reloj Atómico de Espacio Profundo (*Deep Space Atomic Clock* - DSAC)",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:42:24.142Z",
+        "updated_at": "2026-11-16T14:42:24.142Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:42:24.159Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3327,
+    "fields": {
+        "id_answer": 3053,
+        "text": "Instituto Hidrográfico de la Marina",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:43:28.317Z",
+        "updated_at": "2026-11-16T14:43:28.317Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:43:28.337Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3328,
+    "fields": {
+        "id_answer": 3054,
+        "text": "Museo Naval de Madrd",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:45:48.451Z",
+        "updated_at": "2026-11-16T14:45:48.451Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:45:48.470Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3329,
+    "fields": {
+        "id_answer": 3055,
+        "text": "Instituto Nacional de Técnica Aeroespacial",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:46:21.689Z",
+        "updated_at": "2026-11-16T14:46:21.689Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:46:21.706Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3330,
+    "fields": {
+        "id_answer": 3056,
+        "text": "Centro Espacial de Canarias (CEC/INTA) en Maspalomas",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:47:03.344Z",
+        "updated_at": "2026-11-16T14:47:03.344Z",
+        "question": 624,
+        "history_date": "2026-11-16T14:47:03.358Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3331,
+    "fields": {
+        "id_answer": 3057,
+        "text": "En el Glosario de Términos incluido en el anexo I",
+        "is_correct": true,
+        "created_at": "2026-11-16T15:09:24.588Z",
+        "updated_at": "2026-11-16T15:09:24.588Z",
+        "question": 625,
+        "history_date": "2026-11-16T15:09:24.607Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3332,
+    "fields": {
+        "id_answer": 3058,
+        "text": "En el artículo 2 de la Ley 11/2007",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:09:32.801Z",
+        "updated_at": "2026-11-16T15:09:32.801Z",
+        "question": 625,
+        "history_date": "2026-11-16T15:09:32.816Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3333,
+    "fields": {
+        "id_answer": 3059,
+        "text": "En el artículo 1 del real decreto",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:09:40.903Z",
+        "updated_at": "2026-11-16T15:09:40.903Z",
+        "question": 625,
+        "history_date": "2026-11-16T15:09:40.916Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3334,
+    "fields": {
+        "id_answer": 3060,
+        "text": "En la disposición adicional primera",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:10:09.733Z",
+        "updated_at": "2026-11-16T15:10:09.733Z",
+        "question": 625,
+        "history_date": "2026-11-16T15:10:09.745Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3335,
+    "fields": {
+        "id_answer": 3061,
+        "text": "En el artículo 28",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:10:23.916Z",
+        "updated_at": "2026-11-16T15:10:23.916Z",
+        "question": 625,
+        "history_date": "2026-11-16T15:10:23.926Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3336,
+    "fields": {
+        "id_answer": 3061,
+        "text": "En el artículo 28 del real decreto",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:10:23.916Z",
+        "updated_at": "2026-11-16T15:11:41.895Z",
+        "question": 625,
+        "history_date": "2026-11-16T15:11:41.909Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3337,
+    "fields": {
+        "id_answer": 3062,
+        "text": "La seguridad, la privacidad y la confidencialidad",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:02.457Z",
+        "updated_at": "2026-11-16T15:14:02.457Z",
+        "question": 626,
+        "history_date": "2026-11-16T15:14:02.470Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3338,
+    "fields": {
+        "id_answer": 3063,
+        "text": "La seguridad y la privacidad",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:11.821Z",
+        "updated_at": "2026-11-16T15:14:11.822Z",
+        "question": 626,
+        "history_date": "2026-11-16T15:14:11.833Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3339,
+    "fields": {
+        "id_answer": 3064,
+        "text": "La privacidad y la confidencialidad",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:22.737Z",
+        "updated_at": "2026-11-16T15:14:22.737Z",
+        "question": 626,
+        "history_date": "2026-11-16T15:14:22.750Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3340,
+    "fields": {
+        "id_answer": 3065,
+        "text": "La eficiencia, la eficacia y la economía",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:32.772Z",
+        "updated_at": "2026-11-16T15:14:32.772Z",
+        "question": 626,
+        "history_date": "2026-11-16T15:14:32.788Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3341,
+    "fields": {
+        "id_answer": 3066,
+        "text": "La interoperabilidad como cualidad integral, el carácter multidimensional y el enfoque de soluciones multilaterales",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:48.364Z",
+        "updated_at": "2026-11-16T15:14:48.364Z",
+        "question": 626,
+        "history_date": "2026-11-16T15:14:48.378Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3342,
+    "fields": {
+        "id_answer": 3066,
+        "text": "La interoperabilidad como cualidad integral, el carácter multidimensional y el enfoque de soluciones multilaterales",
+        "is_correct": true,
+        "created_at": "2026-11-16T15:14:48.364Z",
+        "updated_at": "2026-11-16T15:17:50.130Z",
+        "question": 626,
+        "history_date": "2026-11-16T15:17:50.141Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3343,
+    "fields": {
+        "id_answer": 3067,
+        "text": "El Centro Criptológico Nacional, adscrito al Centro Nacional de Inteligencia",
+        "is_correct": false,
+        "created_at": "2026-11-16T21:05:26.272Z",
+        "updated_at": "2026-11-16T21:05:26.272Z",
+        "question": 627,
+        "history_date": "2026-11-16T21:05:26.283Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3344,
+    "fields": {
+        "id_answer": 3068,
+        "text": "El Centro Superior de Información de la Defensa (CESID)",
+        "is_correct": false,
+        "created_at": "2026-11-16T21:05:55.340Z",
+        "updated_at": "2026-11-16T21:05:55.340Z",
+        "question": 627,
+        "history_date": "2026-11-16T21:05:55.354Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3345,
+    "fields": {
+        "id_answer": 3069,
+        "text": "El Ministerio para la Transformación Digital y de la Función Pública, a propuesta de la Comisión Sectorial de Administración Electrónica",
+        "is_correct": true,
+        "created_at": "2026-11-16T21:06:22.456Z",
+        "updated_at": "2026-11-16T21:06:22.456Z",
+        "question": 627,
+        "history_date": "2026-11-16T21:06:22.468Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3346,
+    "fields": {
+        "id_answer": 3070,
+        "text": "El consejo de ministros",
+        "is_correct": false,
+        "created_at": "2026-11-16T22:43:14.594Z",
+        "updated_at": "2026-11-16T22:43:14.594Z",
+        "question": 627,
+        "history_date": "2026-11-16T22:43:14.607Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3347,
+    "fields": {
+        "id_answer": 3071,
+        "text": "La Comisión Sectorial de Administración Electrónica",
+        "is_correct": false,
+        "created_at": "2026-11-16T22:43:44.652Z",
+        "updated_at": "2026-11-16T22:43:44.652Z",
+        "question": 627,
+        "history_date": "2026-11-16T22:43:44.675Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3348,
+    "fields": {
+        "id_answer": 3072,
+        "text": "Suministros de productos que estén perfectamente definidos y no sea posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato.",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:19:37.266Z",
+        "updated_at": "2026-11-17T10:19:37.266Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:19:37.287Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3349,
+    "fields": {
+        "id_answer": 3072,
+        "text": "Suministros de productos que estén perfectamente definidos y no sea posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:19:37.266Z",
+        "updated_at": "2026-11-17T10:19:52.668Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:19:52.689Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3350,
+    "fields": {
+        "id_answer": 3073,
+        "text": "Servicios de seguridad privada",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:20:10.282Z",
+        "updated_at": "2026-11-17T10:20:10.282Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:20:10.296Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3351,
+    "fields": {
+        "id_answer": 3072,
+        "text": "Suministros de productos que estén perfectamente definidos y no sea posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:19:37.266Z",
+        "updated_at": "2026-11-17T10:20:53.402Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:20:53.419Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3352,
+    "fields": {
+        "id_answer": 3073,
+        "text": "Servicios de seguridad privada",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:20:10.282Z",
+        "updated_at": "2026-11-17T10:21:02.721Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:21:02.740Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3353,
+    "fields": {
+        "id_answer": 3074,
+        "text": "Aquellos que requieran el empleo de tecnología especialmente avanzada o cuya ejecución sea particularmente compleja",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:22:06.904Z",
+        "updated_at": "2026-11-17T10:22:06.904Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:22:06.919Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3354,
+    "fields": {
+        "id_answer": 3075,
+        "text": "Contratos de servicios en los que las prestaciones estén perfectamente definidas técnicamente y sea imposible variar los plazos de entrega o  introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:24:21.499Z",
+        "updated_at": "2026-11-17T10:24:21.499Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:24:21.522Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3355,
+    "fields": {
+        "id_answer": 3076,
+        "text": "Aquellos que requieran el empleo de tecnología especialmente avanzada o cuya ejecución sea particularmente compleja",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:25:50.463Z",
+        "updated_at": "2026-11-17T10:25:50.463Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:25:50.479Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3356,
+    "fields": {
+        "id_answer": 3076,
+        "text": "Aquellos cuya ejecución pueda tener un impacto significativo en el medio ambiente",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:25:50.463Z",
+        "updated_at": "2026-11-17T10:31:08.339Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:31:08.353Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3357,
+    "fields": {
+        "id_answer": 3072,
+        "text": "Suministros de productos que estén perfectamente definidos y no sea posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:19:37.266Z",
+        "updated_at": "2026-11-17T10:31:51.170Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:31:51.184Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3358,
+    "fields": {
+        "id_answer": 3073,
+        "text": "Servicios de seguridad privada",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:20:10.282Z",
+        "updated_at": "2026-11-17T10:31:54.894Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:31:54.909Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3359,
+    "fields": {
+        "id_answer": 3074,
+        "text": "Aquellos que requieran el empleo de tecnología especialmente avanzada o cuya ejecución sea particularmente compleja",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:22:06.904Z",
+        "updated_at": "2026-11-17T10:32:01.050Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:32:01.067Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3360,
+    "fields": {
+        "id_answer": 3075,
+        "text": "Contratos de servicios en los que las prestaciones estén perfectamente definidas técnicamente y sea imposible variar los plazos de entrega o  introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:24:21.499Z",
+        "updated_at": "2026-11-17T10:32:11.608Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:32:11.626Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3361,
+    "fields": {
+        "id_answer": 3076,
+        "text": "Aquellos cuya ejecución pueda tener un impacto significativo en el medio ambiente",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:25:50.463Z",
+        "updated_at": "2026-11-17T10:32:17.936Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:32:17.950Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3362,
+    "fields": {
+        "id_answer": 3077,
+        "text": "Aquellos cuyos proyectos o presupuestos no hayan podido ser establecidos previamente y deban ser presentados por los candidatos o licitadores.",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:32:57.498Z",
+        "updated_at": "2026-11-17T10:32:57.498Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:32:57.518Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3363,
+    "fields": {
+        "id_answer": 3073,
+        "text": "Contratación de servicios de seguridad privada",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:20:10.282Z",
+        "updated_at": "2026-11-17T10:33:31.247Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:33:31.265Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3364,
+    "fields": {
+        "id_answer": 3078,
+        "text": "Cuando el órgano de contratación considere que la definición de la prestación es susceptible de ser mejorada por otras soluciones técnicas o por reducciones en su plazo de ejecución",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:34:20.755Z",
+        "updated_at": "2026-11-17T10:34:20.755Z",
+        "question": 628,
+        "history_date": "2026-11-17T10:34:20.769Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3365,
+    "fields": {
+        "id_answer": 3079,
+        "text": "Haya transcurrido un año desde la formalización y el contrato se hubiese ejecutado, al menos, en el 20% de su importe",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:49:52.504Z",
+        "updated_at": "2026-11-17T10:49:52.504Z",
+        "question": 629,
+        "history_date": "2026-11-17T10:49:52.518Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3366,
+    "fields": {
+        "id_answer": 3080,
+        "text": "Haya transcurrido un año desde la formalización y el contrato se hubiese ejecutado, al menos, en el 10% de su importe",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:50:31.448Z",
+        "updated_at": "2026-11-17T10:50:31.448Z",
+        "question": 629,
+        "history_date": "2026-11-17T10:50:31.482Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3367,
+    "fields": {
+        "id_answer": 3081,
+        "text": "Hayan transcurrido tres años desde la formalización y el contrato se hubiese\r\nejecutado, al menos, en el 20% de su importe",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:50:43.980Z",
+        "updated_at": "2026-11-17T10:50:43.980Z",
+        "question": 629,
+        "history_date": "2026-11-17T10:50:43.992Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3368,
+    "fields": {
+        "id_answer": 3082,
+        "text": "Hayan transcurrido al menos tres años desde la formalización",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:51:04.975Z",
+        "updated_at": "2026-11-17T10:51:04.975Z",
+        "question": 629,
+        "history_date": "2026-11-17T10:51:04.987Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3369,
+    "fields": {
+        "id_answer": 3083,
+        "text": "Se hubiese ejecutado, al menos, en el 50% de su importe",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:51:24.651Z",
+        "updated_at": "2026-11-17T10:51:24.651Z",
+        "question": 629,
+        "history_date": "2026-11-17T10:51:24.664Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3370,
+    "fields": {
+        "id_answer": 3084,
+        "text": "Inmediatamente después de la finalización de las obras, pues es el momento\r\nen que se conoce con exactitud el estado en que fueron entregadas.",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:37:43.578Z",
+        "updated_at": "2026-11-17T14:37:43.578Z",
+        "question": 630,
+        "history_date": "2026-11-17T14:37:43.596Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3371,
+    "fields": {
+        "id_answer": 3085,
+        "text": "Como máximo a los tres años de la firma del contrato",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:38:01.003Z",
+        "updated_at": "2026-11-17T14:38:01.003Z",
+        "question": 630,
+        "history_date": "2026-11-17T14:38:01.017Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3372,
+    "fields": {
+        "id_answer": 3086,
+        "text": "Transcurrido un mes desde la recepción de las obras se procederá a la liquidación de las mismas",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:38:48.438Z",
+        "updated_at": "2026-11-17T14:38:48.438Z",
+        "question": 630,
+        "history_date": "2026-11-17T14:38:48.453Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3373,
+    "fields": {
+        "id_answer": 3087,
+        "text": "Una vez transcurrido el plazo de garantía",
+        "is_correct": true,
+        "created_at": "2026-11-17T14:38:59.655Z",
+        "updated_at": "2026-11-17T14:38:59.655Z",
+        "question": 630,
+        "history_date": "2026-11-17T14:38:59.667Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3374,
+    "fields": {
+        "id_answer": 3088,
+        "text": "Siempre en forma de liquidaciones parciales",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:40:14.740Z",
+        "updated_at": "2026-11-17T14:40:14.740Z",
+        "question": 630,
+        "history_date": "2026-11-17T14:40:14.760Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3375,
+    "fields": {
+        "id_answer": 3089,
+        "text": "Nunca en noches de luna llena",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:41:37.789Z",
+        "updated_at": "2026-11-17T14:41:37.789Z",
+        "question": 630,
+        "history_date": "2026-11-17T14:41:37.801Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3376,
+    "fields": {
+        "id_answer": 3090,
+        "text": "La demora injustificada en la comprobación del replanteo",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:40.101Z",
+        "updated_at": "2026-11-17T14:42:40.101Z",
+        "question": 631,
+        "history_date": "2026-11-17T14:42:40.118Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3377,
+    "fields": {
+        "id_answer": 3091,
+        "text": "La suspensión de la iniciación de las obras por plazo superior a\r\ncuatro meses",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:45.679Z",
+        "updated_at": "2026-11-17T14:42:45.680Z",
+        "question": 631,
+        "history_date": "2026-11-17T14:42:45.695Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3378,
+    "fields": {
+        "id_answer": 3092,
+        "text": "La suspensión de las obras por plazo superior a ocho meses por parte\r\nde la Administración",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:51.730Z",
+        "updated_at": "2026-11-17T14:42:51.730Z",
+        "question": 631,
+        "history_date": "2026-11-17T14:42:51.747Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3379,
+    "fields": {
+        "id_answer": 3093,
+        "text": "El desistimiento",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:59.230Z",
+        "updated_at": "2026-11-17T14:42:59.230Z",
+        "question": 631,
+        "history_date": "2026-11-17T14:42:59.242Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3380,
+    "fields": {
+        "id_answer": 3094,
+        "text": "Todas las otras opciones son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-17T14:43:09.612Z",
+        "updated_at": "2026-11-17T14:43:09.612Z",
+        "question": 631,
+        "history_date": "2026-11-17T14:43:09.625Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3381,
+    "fields": {
+        "id_answer": 3095,
+        "text": "un *framework* de código abierto que facilita el desarrollo y el despliegue de servicios web",
+        "is_correct": true,
+        "created_at": "2026-11-18T16:04:15.357Z",
+        "updated_at": "2026-11-18T16:04:15.357Z",
+        "question": 632,
+        "history_date": "2026-11-18T16:04:15.374Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3382,
+    "fields": {
+        "id_answer": 3096,
+        "text": "Un antivirus",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:04:33.313Z",
+        "updated_at": "2026-11-18T16:04:33.313Z",
+        "question": 632,
+        "history_date": "2026-11-18T16:04:33.328Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3383,
+    "fields": {
+        "id_answer": 3097,
+        "text": "Un *firewall* especializado en la web, que trabaja en la capa 7",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:06:00.559Z",
+        "updated_at": "2026-11-18T16:06:00.559Z",
+        "question": 632,
+        "history_date": "2026-11-18T16:06:00.578Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3384,
+    "fields": {
+        "id_answer": 3098,
+        "text": "Un lenguaje de programación orientado a objetos puro, y también un entorno de programación,  centrado en la simplicidad y el *feedback* inmediato",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:07:42.827Z",
+        "updated_at": "2026-11-18T16:07:42.827Z",
+        "question": 632,
+        "history_date": "2026-11-18T16:07:42.851Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3385,
+    "fields": {
+        "id_answer": 3099,
+        "text": "Una herramienta de software utilizada para analizar y medir el rendimiento de una aplicación o programa",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:08:54.741Z",
+        "updated_at": "2026-11-18T16:08:54.742Z",
+        "question": 632,
+        "history_date": "2026-11-18T16:08:54.760Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3386,
+    "fields": {
+        "id_answer": 3100,
+        "text": "De las inciciales de *Class interXchange Factory*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:17:01.673Z",
+        "updated_at": "2026-11-18T16:17:01.673Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:17:01.696Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3387,
+    "fields": {
+        "id_answer": 3101,
+        "text": "De las iniciales de *Cloud Xerox Format*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:40:05.082Z",
+        "updated_at": "2026-11-18T16:40:05.082Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:40:05.095Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3388,
+    "fields": {
+        "id_answer": 3100,
+        "text": "De las inciciales de *Class eXchange Factory*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:17:01.673Z",
+        "updated_at": "2026-11-18T16:40:25.014Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:40:25.033Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3389,
+    "fields": {
+        "id_answer": 3102,
+        "text": "De la combinación de los nombres de los proyectos *Celtix* y *X-Fire*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:41:17.702Z",
+        "updated_at": "2026-11-18T16:41:17.702Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:41:17.727Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3390,
+    "fields": {
+        "id_answer": 3103,
+        "text": "De las iniciales de *Content XML Finder*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:43:17.526Z",
+        "updated_at": "2026-11-18T16:43:17.526Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:43:17.541Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3391,
+    "fields": {
+        "id_answer": 3104,
+        "text": "De las iniciales del nombre de su creador: Charles Xavier Fairild",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:44:21.543Z",
+        "updated_at": "2026-11-18T16:44:21.543Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:44:21.558Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3392,
+    "fields": {
+        "id_answer": 3102,
+        "text": "De la combinación de los nombres de los proyectos *Celtix* y *X-Fire*",
+        "is_correct": true,
+        "created_at": "2026-11-18T16:41:17.702Z",
+        "updated_at": "2026-11-18T16:44:25.317Z",
+        "question": 633,
+        "history_date": "2026-11-18T16:44:25.333Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3393,
+    "fields": {
+        "id_answer": 3105,
+        "text": "**singleton**",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:17:07.811Z",
+        "updated_at": "2026-11-18T17:17:07.811Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:17:07.826Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3394,
+    "fields": {
+        "id_answer": 3105,
+        "text": "*singleton*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:17:07.811Z",
+        "updated_at": "2026-11-18T17:17:16.877Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:17:16.892Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3395,
+    "fields": {
+        "id_answer": 3106,
+        "text": "*publish-subscribe*",
+        "is_correct": true,
+        "created_at": "2026-11-18T17:17:34.408Z",
+        "updated_at": "2026-11-18T17:17:34.408Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:17:34.421Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3396,
+    "fields": {
+        "id_answer": 3107,
+        "text": "*Object pool*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:20:38.027Z",
+        "updated_at": "2026-11-18T17:20:38.027Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:20:38.039Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3397,
+    "fields": {
+        "id_answer": 3108,
+        "text": "*Prototype*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:20:59.683Z",
+        "updated_at": "2026-11-18T17:20:59.683Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:20:59.694Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3398,
+    "fields": {
+        "id_answer": 3109,
+        "text": "*Decorator*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:21:13.205Z",
+        "updated_at": "2026-11-18T17:21:13.205Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:21:13.224Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3399,
+    "fields": {
+        "id_answer": 3110,
+        "text": "*Adapter*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:21:27.174Z",
+        "updated_at": "2026-11-18T17:21:27.174Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:21:27.185Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3400,
+    "fields": {
+        "id_answer": 3106,
+        "text": "*Publish-subscribe*",
+        "is_correct": true,
+        "created_at": "2026-11-18T17:17:34.408Z",
+        "updated_at": "2026-11-18T17:21:35.507Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:21:35.521Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3401,
+    "fields": {
+        "id_answer": 3105,
+        "text": "*Singleton*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:17:07.811Z",
+        "updated_at": "2026-11-18T17:21:41.831Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:21:41.845Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3402,
+    "fields": {
+        "id_answer": 3111,
+        "text": "*Iterator*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:21:58.820Z",
+        "updated_at": "2026-11-18T17:21:58.821Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:21:58.833Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3403,
+    "fields": {
+        "id_answer": 3112,
+        "text": "*Visitor*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:22:18.637Z",
+        "updated_at": "2026-11-18T17:22:18.637Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:22:18.649Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3404,
+    "fields": {
+        "id_answer": 3113,
+        "text": "*Observer*",
+        "is_correct": true,
+        "created_at": "2026-11-18T17:25:02.438Z",
+        "updated_at": "2026-11-18T17:25:02.439Z",
+        "question": 634,
+        "history_date": "2026-11-18T17:25:02.450Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3405,
+    "fields": {
+        "id_answer": 3114,
+        "text": "Eclipse *Mosquitto*",
+        "is_correct": true,
+        "created_at": "2026-11-18T18:29:01.505Z",
+        "updated_at": "2026-11-18T18:29:01.505Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:29:01.518Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3406,
+    "fields": {
+        "id_answer": 3115,
+        "text": "Plan 9",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:29:14.623Z",
+        "updated_at": "2026-11-18T18:29:14.623Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:29:14.642Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3407,
+    "fields": {
+        "id_answer": 3116,
+        "text": "Haskell",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:29:19.518Z",
+        "updated_at": "2026-11-18T18:29:19.518Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:29:19.531Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3408,
+    "fields": {
+        "id_answer": 3117,
+        "text": "*EMQX CE*",
+        "is_correct": true,
+        "created_at": "2026-11-18T18:29:43.390Z",
+        "updated_at": "2026-11-18T18:29:43.390Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:29:43.400Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3409,
+    "fields": {
+        "id_answer": 3118,
+        "text": "VerneMQ",
+        "is_correct": true,
+        "created_at": "2026-11-18T18:30:05.774Z",
+        "updated_at": "2026-11-18T18:30:05.774Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:30:05.784Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3410,
+    "fields": {
+        "id_answer": 3119,
+        "text": "CORBA (*Common Object Request Broker Architecture*)",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:31:02.904Z",
+        "updated_at": "2026-11-18T18:31:02.904Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:31:02.921Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3411,
+    "fields": {
+        "id_answer": 3120,
+        "text": "Enterprise JavaBeans",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:31:48.759Z",
+        "updated_at": "2026-11-18T18:31:48.759Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:31:48.775Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3412,
+    "fields": {
+        "id_answer": 3121,
+        "text": "Inferno / Limbo",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:32:43.562Z",
+        "updated_at": "2026-11-18T18:32:43.562Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:32:43.574Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3413,
+    "fields": {
+        "id_answer": 3122,
+        "text": "OpenVMS",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:34:43.664Z",
+        "updated_at": "2026-11-18T18:34:43.664Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:34:43.675Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3414,
+    "fields": {
+        "id_answer": 3123,
+        "text": "Eclipse",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:35:59.057Z",
+        "updated_at": "2026-11-18T18:35:59.057Z",
+        "question": 635,
+        "history_date": "2026-11-18T18:35:59.077Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -110185,6 +113144,1095 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 3025,
+    "fields": {
+        "question": 620,
+        "text": "El/la presidente",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:42:41.145Z",
+        "updated_at": "2026-11-11T12:43:30.137Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3026,
+    "fields": {
+        "question": 620,
+        "text": "La Vicesecretaría General",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:42:50.440Z",
+        "updated_at": "2026-11-11T12:43:41.435Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3027,
+    "fields": {
+        "question": 620,
+        "text": "La Secretaría General del Pleno, con el visto bueno del Presidente",
+        "is_correct": true,
+        "created_at": "2026-11-11T12:42:57.531Z",
+        "updated_at": "2026-11-11T12:43:48.885Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3028,
+    "fields": {
+        "question": 620,
+        "text": "El propio pleno",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:43:07.270Z",
+        "updated_at": "2026-11-11T12:43:17.104Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3029,
+    "fields": {
+        "question": 620,
+        "text": "La Vicepresidencia",
+        "is_correct": false,
+        "created_at": "2026-11-11T12:44:56.651Z",
+        "updated_at": "2026-11-11T12:44:56.651Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3030,
+    "fields": {
+        "question": 620,
+        "text": "Las Consejerías Insulares con funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-11T13:18:29.995Z",
+        "updated_at": "2026-11-11T13:18:29.995Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3031,
+    "fields": {
+        "question": 621,
+        "text": "La cooperación, el desarrollo, la integración y la prestación de servicios conjuntos por las Administraciones públicas",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:33:19.216Z",
+        "updated_at": "2026-11-16T12:33:19.216Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3032,
+    "fields": {
+        "question": 621,
+        "text": "La ejecución de las diversas políticas públicas",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:33:30.825Z",
+        "updated_at": "2026-11-16T12:33:30.825Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3033,
+    "fields": {
+        "question": 621,
+        "text": "La realización de diferentes principios y derechos",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:33:45.964Z",
+        "updated_at": "2026-11-16T12:33:45.964Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3034,
+    "fields": {
+        "question": 621,
+        "text": "La transferencia de tecnología y la reutilización de aplicaciones en beneficio de una mejor eficiencia",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:34:04.456Z",
+        "updated_at": "2026-11-16T12:34:04.456Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3035,
+    "fields": {
+        "question": 621,
+        "text": "La cooperación entre diferentes aplicaciones que habiliten nuevos servicios",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:34:18.155Z",
+        "updated_at": "2026-11-16T12:34:18.155Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3036,
+    "fields": {
+        "question": 621,
+        "text": "Todas las otras respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:34:42.861Z",
+        "updated_at": "2026-11-16T12:34:42.861Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3037,
+    "fields": {
+        "question": 622,
+        "text": "Técnica, semántica y organizativa",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:42:08.105Z",
+        "updated_at": "2026-11-16T12:48:30.532Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3038,
+    "fields": {
+        "question": 622,
+        "text": "Solo a nivel semántico y operativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:29.859Z",
+        "updated_at": "2026-11-16T12:44:17.931Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3039,
+    "fields": {
+        "question": 622,
+        "text": "Únicamente a nivel organizativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:42:44.278Z",
+        "updated_at": "2026-11-16T12:49:21.460Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3040,
+    "fields": {
+        "question": 622,
+        "text": "Sólo a nivel técnico",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:43:06.319Z",
+        "updated_at": "2026-11-16T12:43:06.319Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3041,
+    "fields": {
+        "question": 622,
+        "text": "A nivel técnico y semántico, pero no organizativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:43:21.913Z",
+        "updated_at": "2026-11-16T12:43:21.913Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3042,
+    "fields": {
+        "question": 622,
+        "text": "Organizativa, semántica y técnica",
+        "is_correct": true,
+        "created_at": "2026-11-16T12:43:56.088Z",
+        "updated_at": "2026-11-16T12:48:06.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3043,
+    "fields": {
+        "question": 622,
+        "text": "Operativo",
+        "is_correct": false,
+        "created_at": "2026-11-16T12:48:16.097Z",
+        "updated_at": "2026-11-16T12:48:54.184Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3044,
+    "fields": {
+        "question": 623,
+        "text": "Estándares abiertos, así como, en su caso y de forma complementaria, estándares que sean de uso generalizado por los ciudadanos",
+        "is_correct": true,
+        "created_at": "2026-11-16T13:25:27.131Z",
+        "updated_at": "2026-11-16T13:25:27.131Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3045,
+    "fields": {
+        "question": 623,
+        "text": "Estándares que sean de uso generalizado por los ciudadanos, así como, en su caso y de forma complementaria, estándares abiertos",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:26:26.067Z",
+        "updated_at": "2026-11-16T13:26:26.067Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3046,
+    "fields": {
+        "question": 623,
+        "text": "Siempre usar estándares que sean de uso generalizado por los ciudadanos",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:26:44.337Z",
+        "updated_at": "2026-11-16T13:26:44.337Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3047,
+    "fields": {
+        "question": 623,
+        "text": "Siempre usar estándares abiertos",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:27:11.944Z",
+        "updated_at": "2026-11-16T13:27:11.944Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3048,
+    "fields": {
+        "question": 623,
+        "text": "Siempre usar estándares privativos, por su mayor seguridad",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:27:27.350Z",
+        "updated_at": "2026-11-16T13:27:27.350Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3049,
+    "fields": {
+        "question": 623,
+        "text": "El ENI no se pronuncia es este aspecto",
+        "is_correct": false,
+        "created_at": "2026-11-16T13:28:05.795Z",
+        "updated_at": "2026-11-16T13:28:05.795Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3050,
+    "fields": {
+        "question": 624,
+        "text": "Real Instituto y Observatorio de la Armada",
+        "is_correct": true,
+        "created_at": "2026-11-16T14:41:53.613Z",
+        "updated_at": "2026-11-16T14:41:53.613Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3051,
+    "fields": {
+        "question": 624,
+        "text": "Sistema de posicionamiento global GPS",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:42:14.081Z",
+        "updated_at": "2026-11-16T14:42:14.081Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3052,
+    "fields": {
+        "question": 624,
+        "text": "El Reloj Atómico de Espacio Profundo (*Deep Space Atomic Clock* - DSAC)",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:42:24.142Z",
+        "updated_at": "2026-11-16T14:42:24.142Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3053,
+    "fields": {
+        "question": 624,
+        "text": "Instituto Hidrográfico de la Marina",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:43:28.317Z",
+        "updated_at": "2026-11-16T14:43:28.317Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3054,
+    "fields": {
+        "question": 624,
+        "text": "Museo Naval de Madrd",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:45:48.451Z",
+        "updated_at": "2026-11-16T14:45:48.451Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3055,
+    "fields": {
+        "question": 624,
+        "text": "Instituto Nacional de Técnica Aeroespacial",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:46:21.689Z",
+        "updated_at": "2026-11-16T14:46:21.689Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3056,
+    "fields": {
+        "question": 624,
+        "text": "Centro Espacial de Canarias (CEC/INTA) en Maspalomas",
+        "is_correct": false,
+        "created_at": "2026-11-16T14:47:03.344Z",
+        "updated_at": "2026-11-16T14:47:03.344Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3057,
+    "fields": {
+        "question": 625,
+        "text": "En el Glosario de Términos incluido en el anexo I",
+        "is_correct": true,
+        "created_at": "2026-11-16T15:09:24.588Z",
+        "updated_at": "2026-11-16T15:09:24.588Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3058,
+    "fields": {
+        "question": 625,
+        "text": "En el artículo 2 de la Ley 11/2007",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:09:32.801Z",
+        "updated_at": "2026-11-16T15:09:32.801Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3059,
+    "fields": {
+        "question": 625,
+        "text": "En el artículo 1 del real decreto",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:09:40.903Z",
+        "updated_at": "2026-11-16T15:09:40.903Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3060,
+    "fields": {
+        "question": 625,
+        "text": "En la disposición adicional primera",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:10:09.733Z",
+        "updated_at": "2026-11-16T15:10:09.733Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3061,
+    "fields": {
+        "question": 625,
+        "text": "En el artículo 28 del real decreto",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:10:23.916Z",
+        "updated_at": "2026-11-16T15:11:41.895Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3062,
+    "fields": {
+        "question": 626,
+        "text": "La seguridad, la privacidad y la confidencialidad",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:02.457Z",
+        "updated_at": "2026-11-16T15:14:02.457Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3063,
+    "fields": {
+        "question": 626,
+        "text": "La seguridad y la privacidad",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:11.821Z",
+        "updated_at": "2026-11-16T15:14:11.822Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3064,
+    "fields": {
+        "question": 626,
+        "text": "La privacidad y la confidencialidad",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:22.737Z",
+        "updated_at": "2026-11-16T15:14:22.737Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3065,
+    "fields": {
+        "question": 626,
+        "text": "La eficiencia, la eficacia y la economía",
+        "is_correct": false,
+        "created_at": "2026-11-16T15:14:32.772Z",
+        "updated_at": "2026-11-16T15:14:32.772Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3066,
+    "fields": {
+        "question": 626,
+        "text": "La interoperabilidad como cualidad integral, el carácter multidimensional y el enfoque de soluciones multilaterales",
+        "is_correct": true,
+        "created_at": "2026-11-16T15:14:48.364Z",
+        "updated_at": "2026-11-16T15:17:50.130Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3067,
+    "fields": {
+        "question": 627,
+        "text": "El Centro Criptológico Nacional, adscrito al Centro Nacional de Inteligencia",
+        "is_correct": false,
+        "created_at": "2026-11-16T21:05:26.272Z",
+        "updated_at": "2026-11-16T21:05:26.272Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3068,
+    "fields": {
+        "question": 627,
+        "text": "El Centro Superior de Información de la Defensa (CESID)",
+        "is_correct": false,
+        "created_at": "2026-11-16T21:05:55.340Z",
+        "updated_at": "2026-11-16T21:05:55.340Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3069,
+    "fields": {
+        "question": 627,
+        "text": "El Ministerio para la Transformación Digital y de la Función Pública, a propuesta de la Comisión Sectorial de Administración Electrónica",
+        "is_correct": true,
+        "created_at": "2026-11-16T21:06:22.456Z",
+        "updated_at": "2026-11-16T21:06:22.456Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3070,
+    "fields": {
+        "question": 627,
+        "text": "El consejo de ministros",
+        "is_correct": false,
+        "created_at": "2026-11-16T22:43:14.594Z",
+        "updated_at": "2026-11-16T22:43:14.594Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3071,
+    "fields": {
+        "question": 627,
+        "text": "La Comisión Sectorial de Administración Electrónica",
+        "is_correct": false,
+        "created_at": "2026-11-16T22:43:44.652Z",
+        "updated_at": "2026-11-16T22:43:44.652Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3072,
+    "fields": {
+        "question": 628,
+        "text": "Suministros de productos que estén perfectamente definidos y no sea posible variar los plazos de entrega ni introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:19:37.266Z",
+        "updated_at": "2026-11-17T10:31:51.170Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3073,
+    "fields": {
+        "question": 628,
+        "text": "Contratación de servicios de seguridad privada",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:20:10.282Z",
+        "updated_at": "2026-11-17T10:33:31.247Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3074,
+    "fields": {
+        "question": 628,
+        "text": "Aquellos que requieran el empleo de tecnología especialmente avanzada o cuya ejecución sea particularmente compleja",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:22:06.904Z",
+        "updated_at": "2026-11-17T10:32:01.050Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3075,
+    "fields": {
+        "question": 628,
+        "text": "Contratos de servicios en los que las prestaciones estén perfectamente definidas técnicamente y sea imposible variar los plazos de entrega o  introducir modificaciones de ninguna clase en el contrato",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:24:21.499Z",
+        "updated_at": "2026-11-17T10:32:11.608Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3076,
+    "fields": {
+        "question": 628,
+        "text": "Aquellos cuya ejecución pueda tener un impacto significativo en el medio ambiente",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:25:50.463Z",
+        "updated_at": "2026-11-17T10:32:17.936Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3077,
+    "fields": {
+        "question": 628,
+        "text": "Aquellos cuyos proyectos o presupuestos no hayan podido ser establecidos previamente y deban ser presentados por los candidatos o licitadores.",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:32:57.498Z",
+        "updated_at": "2026-11-17T10:32:57.498Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3078,
+    "fields": {
+        "question": 628,
+        "text": "Cuando el órgano de contratación considere que la definición de la prestación es susceptible de ser mejorada por otras soluciones técnicas o por reducciones en su plazo de ejecución",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:34:20.755Z",
+        "updated_at": "2026-11-17T10:34:20.755Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3079,
+    "fields": {
+        "question": 629,
+        "text": "Haya transcurrido un año desde la formalización y el contrato se hubiese ejecutado, al menos, en el 20% de su importe",
+        "is_correct": true,
+        "created_at": "2026-11-17T10:49:52.504Z",
+        "updated_at": "2026-11-17T10:49:52.504Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3080,
+    "fields": {
+        "question": 629,
+        "text": "Haya transcurrido un año desde la formalización y el contrato se hubiese ejecutado, al menos, en el 10% de su importe",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:50:31.448Z",
+        "updated_at": "2026-11-17T10:50:31.448Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3081,
+    "fields": {
+        "question": 629,
+        "text": "Hayan transcurrido tres años desde la formalización y el contrato se hubiese\r\nejecutado, al menos, en el 20% de su importe",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:50:43.980Z",
+        "updated_at": "2026-11-17T10:50:43.980Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3082,
+    "fields": {
+        "question": 629,
+        "text": "Hayan transcurrido al menos tres años desde la formalización",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:51:04.975Z",
+        "updated_at": "2026-11-17T10:51:04.975Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3083,
+    "fields": {
+        "question": 629,
+        "text": "Se hubiese ejecutado, al menos, en el 50% de su importe",
+        "is_correct": false,
+        "created_at": "2026-11-17T10:51:24.651Z",
+        "updated_at": "2026-11-17T10:51:24.651Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3084,
+    "fields": {
+        "question": 630,
+        "text": "Inmediatamente después de la finalización de las obras, pues es el momento\r\nen que se conoce con exactitud el estado en que fueron entregadas.",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:37:43.578Z",
+        "updated_at": "2026-11-17T14:37:43.578Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3085,
+    "fields": {
+        "question": 630,
+        "text": "Como máximo a los tres años de la firma del contrato",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:38:01.003Z",
+        "updated_at": "2026-11-17T14:38:01.003Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3086,
+    "fields": {
+        "question": 630,
+        "text": "Transcurrido un mes desde la recepción de las obras se procederá a la liquidación de las mismas",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:38:48.438Z",
+        "updated_at": "2026-11-17T14:38:48.438Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3087,
+    "fields": {
+        "question": 630,
+        "text": "Una vez transcurrido el plazo de garantía",
+        "is_correct": true,
+        "created_at": "2026-11-17T14:38:59.655Z",
+        "updated_at": "2026-11-17T14:38:59.655Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3088,
+    "fields": {
+        "question": 630,
+        "text": "Siempre en forma de liquidaciones parciales",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:40:14.740Z",
+        "updated_at": "2026-11-17T14:40:14.740Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3089,
+    "fields": {
+        "question": 630,
+        "text": "Nunca en noches de luna llena",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:41:37.789Z",
+        "updated_at": "2026-11-17T14:41:37.789Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3090,
+    "fields": {
+        "question": 631,
+        "text": "La demora injustificada en la comprobación del replanteo",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:40.101Z",
+        "updated_at": "2026-11-17T14:42:40.101Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3091,
+    "fields": {
+        "question": 631,
+        "text": "La suspensión de la iniciación de las obras por plazo superior a\r\ncuatro meses",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:45.679Z",
+        "updated_at": "2026-11-17T14:42:45.680Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3092,
+    "fields": {
+        "question": 631,
+        "text": "La suspensión de las obras por plazo superior a ocho meses por parte\r\nde la Administración",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:51.730Z",
+        "updated_at": "2026-11-17T14:42:51.730Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3093,
+    "fields": {
+        "question": 631,
+        "text": "El desistimiento",
+        "is_correct": false,
+        "created_at": "2026-11-17T14:42:59.230Z",
+        "updated_at": "2026-11-17T14:42:59.230Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3094,
+    "fields": {
+        "question": 631,
+        "text": "Todas las otras opciones son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-17T14:43:09.612Z",
+        "updated_at": "2026-11-17T14:43:09.612Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3095,
+    "fields": {
+        "question": 632,
+        "text": "un *framework* de código abierto que facilita el desarrollo y el despliegue de servicios web",
+        "is_correct": true,
+        "created_at": "2026-11-18T16:04:15.357Z",
+        "updated_at": "2026-11-18T16:04:15.357Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3096,
+    "fields": {
+        "question": 632,
+        "text": "Un antivirus",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:04:33.313Z",
+        "updated_at": "2026-11-18T16:04:33.313Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3097,
+    "fields": {
+        "question": 632,
+        "text": "Un *firewall* especializado en la web, que trabaja en la capa 7",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:06:00.559Z",
+        "updated_at": "2026-11-18T16:06:00.559Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3098,
+    "fields": {
+        "question": 632,
+        "text": "Un lenguaje de programación orientado a objetos puro, y también un entorno de programación,  centrado en la simplicidad y el *feedback* inmediato",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:07:42.827Z",
+        "updated_at": "2026-11-18T16:07:42.827Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3099,
+    "fields": {
+        "question": 632,
+        "text": "Una herramienta de software utilizada para analizar y medir el rendimiento de una aplicación o programa",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:08:54.741Z",
+        "updated_at": "2026-11-18T16:08:54.742Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3100,
+    "fields": {
+        "question": 633,
+        "text": "De las inciciales de *Class eXchange Factory*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:17:01.673Z",
+        "updated_at": "2026-11-18T16:40:25.014Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3101,
+    "fields": {
+        "question": 633,
+        "text": "De las iniciales de *Cloud Xerox Format*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:40:05.082Z",
+        "updated_at": "2026-11-18T16:40:05.082Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3102,
+    "fields": {
+        "question": 633,
+        "text": "De la combinación de los nombres de los proyectos *Celtix* y *X-Fire*",
+        "is_correct": true,
+        "created_at": "2026-11-18T16:41:17.702Z",
+        "updated_at": "2026-11-18T16:44:25.317Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3103,
+    "fields": {
+        "question": 633,
+        "text": "De las iniciales de *Content XML Finder*",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:43:17.526Z",
+        "updated_at": "2026-11-18T16:43:17.526Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3104,
+    "fields": {
+        "question": 633,
+        "text": "De las iniciales del nombre de su creador: Charles Xavier Fairild",
+        "is_correct": false,
+        "created_at": "2026-11-18T16:44:21.543Z",
+        "updated_at": "2026-11-18T16:44:21.543Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3105,
+    "fields": {
+        "question": 634,
+        "text": "*Singleton*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:17:07.811Z",
+        "updated_at": "2026-11-18T17:21:41.831Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3106,
+    "fields": {
+        "question": 634,
+        "text": "*Publish-subscribe*",
+        "is_correct": true,
+        "created_at": "2026-11-18T17:17:34.408Z",
+        "updated_at": "2026-11-18T17:21:35.507Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3107,
+    "fields": {
+        "question": 634,
+        "text": "*Object pool*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:20:38.027Z",
+        "updated_at": "2026-11-18T17:20:38.027Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3108,
+    "fields": {
+        "question": 634,
+        "text": "*Prototype*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:20:59.683Z",
+        "updated_at": "2026-11-18T17:20:59.683Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3109,
+    "fields": {
+        "question": 634,
+        "text": "*Decorator*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:21:13.205Z",
+        "updated_at": "2026-11-18T17:21:13.205Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3110,
+    "fields": {
+        "question": 634,
+        "text": "*Adapter*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:21:27.174Z",
+        "updated_at": "2026-11-18T17:21:27.174Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3111,
+    "fields": {
+        "question": 634,
+        "text": "*Iterator*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:21:58.820Z",
+        "updated_at": "2026-11-18T17:21:58.821Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3112,
+    "fields": {
+        "question": 634,
+        "text": "*Visitor*",
+        "is_correct": false,
+        "created_at": "2026-11-18T17:22:18.637Z",
+        "updated_at": "2026-11-18T17:22:18.637Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3113,
+    "fields": {
+        "question": 634,
+        "text": "*Observer*",
+        "is_correct": true,
+        "created_at": "2026-11-18T17:25:02.438Z",
+        "updated_at": "2026-11-18T17:25:02.439Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3114,
+    "fields": {
+        "question": 635,
+        "text": "Eclipse *Mosquitto*",
+        "is_correct": true,
+        "created_at": "2026-11-18T18:29:01.505Z",
+        "updated_at": "2026-11-18T18:29:01.505Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3115,
+    "fields": {
+        "question": 635,
+        "text": "Plan 9",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:29:14.623Z",
+        "updated_at": "2026-11-18T18:29:14.623Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3116,
+    "fields": {
+        "question": 635,
+        "text": "Haskell",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:29:19.518Z",
+        "updated_at": "2026-11-18T18:29:19.518Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3117,
+    "fields": {
+        "question": 635,
+        "text": "*EMQX CE*",
+        "is_correct": true,
+        "created_at": "2026-11-18T18:29:43.390Z",
+        "updated_at": "2026-11-18T18:29:43.390Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3118,
+    "fields": {
+        "question": 635,
+        "text": "VerneMQ",
+        "is_correct": true,
+        "created_at": "2026-11-18T18:30:05.774Z",
+        "updated_at": "2026-11-18T18:30:05.774Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3119,
+    "fields": {
+        "question": 635,
+        "text": "CORBA (*Common Object Request Broker Architecture*)",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:31:02.904Z",
+        "updated_at": "2026-11-18T18:31:02.904Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3120,
+    "fields": {
+        "question": 635,
+        "text": "Enterprise JavaBeans",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:31:48.759Z",
+        "updated_at": "2026-11-18T18:31:48.759Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3121,
+    "fields": {
+        "question": 635,
+        "text": "Inferno / Limbo",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:32:43.562Z",
+        "updated_at": "2026-11-18T18:32:43.562Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3122,
+    "fields": {
+        "question": 635,
+        "text": "OpenVMS",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:34:43.664Z",
+        "updated_at": "2026-11-18T18:34:43.664Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3123,
+    "fields": {
+        "question": 635,
+        "text": "Eclipse",
+        "is_correct": false,
+        "created_at": "2026-11-18T18:35:59.057Z",
+        "updated_at": "2026-11-18T18:35:59.057Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -118484,6 +122532,160 @@
         "failures": 1,
         "created_at": "2026-10-23T16:11:02.095Z",
         "updated_at": "2026-10-23T16:11:05.890Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 594,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 620,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-11T12:45:11.285Z",
+        "updated_at": "2026-11-11T12:45:17.483Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 595,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 621,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-16T12:34:57.091Z",
+        "updated_at": "2026-11-16T12:35:00.272Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 596,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 624,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-16T15:02:41.691Z",
+        "updated_at": "2026-11-16T15:02:54.739Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 597,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 625,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-16T15:10:31.657Z",
+        "updated_at": "2026-11-16T15:10:37.245Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 598,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 626,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-16T15:17:55.685Z",
+        "updated_at": "2026-11-16T15:17:59.510Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 599,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 629,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-17T10:51:48.357Z",
+        "updated_at": "2026-11-17T10:52:02.585Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 600,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 631,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-17T14:43:25.026Z",
+        "updated_at": "2026-11-17T14:43:28.903Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 601,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 632,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-18T16:09:42.728Z",
+        "updated_at": "2026-11-18T16:09:49.204Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 602,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 633,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-18T16:44:40.680Z",
+        "updated_at": "2026-11-18T16:44:47.464Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 603,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 634,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-18T17:35:47.097Z",
+        "updated_at": "2026-11-18T17:35:49.822Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 604,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 635,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-18T18:36:25.059Z",
+        "updated_at": "2026-11-18T18:36:30.569Z"
     }
 }
 ]
