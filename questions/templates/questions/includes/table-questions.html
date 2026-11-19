@@ -1,0 +1,38 @@
+{% load texts %}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id. pregunta</th>
+            <th>Texto</th>
+            <th>Variablidad</th>
+            <th>Probar</th>
+        </tr>
+    </thead>
+    {% for question in questions %}
+        <tr>
+            <th>
+                <a class="button is-info" 
+                   href="{% url 'questions:question_detail' pk=question.pk %}">
+                    ✎ <b>{{ question.pk }}</b>
+                </a>
+            </th>
+            <td>
+              <big style="font-size: 125%;">
+                {{ question.text|as_markdown }}
+              </big>  
+              Creada el {{ question.created_at }}
+            </td>
+            <td>
+              <span class="tag is-info">
+              {{ question.get_variability }}
+              </span>
+            </td>
+            <td>
+              <a href="{% url 'ask_question' pk=question.pk %}">
+              <img src="/static/img/is-question.svg" alt="Preguntar" width="32" height="32">
+              </a>
+            </td>
+        </tr>
+    {% endfor %}
+</table>

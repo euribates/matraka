@@ -6,19 +6,6 @@
 <h2 class="title is-2">{{ tag.name }}</h2>
 <p class="subtitle is-4">{{ tag.description }}</p>
 
-<table class="table table-hover">
-    <thead>
-        <tr>
-            <th>Pregunta</th>
-        </tr>
-    </thead>
-    {% for question in questions %}<tr>
-        <td>
-            <a href="{{ question.get_absolute_url }}">  
-            {{ question.text|markdownify }}
-            </a>
-        </td>
-    </tr>{% endfor %}
-</table>
+{% include "questions/includes/table-questions.html" with questions=questions %}
 
 {% endblock content %}

@@ -16,6 +16,11 @@ from tags.models import Tag
 
 class Question(models.Model):
 
+    class Meta:
+        verbose_name = 'pregunta'
+        verbose_name_plural = 'preguntas'
+        ordering = ['-pk']
+
     id_question = models.BigAutoField(primary_key=True)
     text = models.CharField(max_length=4096, unique=True)
     source = models.CharField(blank=True, default='', max_length=256)

@@ -1,8 +1,13 @@
 {% extends "base.html" %}
-
+{% load texts %}
 {% block content %}
     
-<h2>Preguntas: <a href="/questions/">{{ num_questions }}</a></h2>
+<h2>Número total de preguntas actualmente en la base de datos:
+    <a href="/questions/">{{ num_questions }}</a></h2>
+
+<h2>Últimas preguntas dadas de alta en la base de datos</h2>
+
+{% include "questions/includes/table-questions.html" with questions=ultimas_preguntas %}
 
 
 {% endblock content %}

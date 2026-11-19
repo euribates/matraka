@@ -13108,6 +13108,159 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 803,
+    "fields": {
+        "id_question": 636,
+        "text": "Cuales son algunas de las obligaciones de las administraciones públicas, de acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "source": "Propia",
+        "created_at": "2026-11-19T11:05:21.460Z",
+        "updated_at": "2026-11-19T11:05:21.460Z",
+        "history_date": "2026-11-19T11:05:21.478Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 804,
+    "fields": {
+        "id_question": 604,
+        "text": "Los actos definitivos son aquéllos que:",
+        "source": "Cabildo de Tenerife",
+        "created_at": "2026-10-21T18:24:04.479Z",
+        "updated_at": "2026-11-19T11:22:48.466Z",
+        "history_date": "2026-11-19T11:22:48.478Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 805,
+    "fields": {
+        "id_question": 637,
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se consideran interesados en el procedimiento administrativo",
+        "source": "Propia",
+        "created_at": "2026-11-19T11:50:26.444Z",
+        "updated_at": "2026-11-19T11:50:26.444Z",
+        "history_date": "2026-11-19T11:50:26.459Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 806,
+    "fields": {
+        "id_question": 638,
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente, con carácter general, que los interesados acrediten:",
+        "source": "Propia",
+        "created_at": "2026-11-19T12:17:40.437Z",
+        "updated_at": "2026-11-19T12:17:40.437Z",
+        "history_date": "2026-11-19T12:17:40.459Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 807,
+    "fields": {
+        "id_question": 638,
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente, **con carácter general**, que los interesados acrediten:",
+        "source": "Propia",
+        "created_at": "2026-11-19T12:17:40.437Z",
+        "updated_at": "2026-11-19T12:19:59.323Z",
+        "history_date": "2026-11-19T12:19:59.338Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 808,
+    "fields": {
+        "id_question": 639,
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:",
+        "source": "Propia",
+        "created_at": "2026-11-19T12:23:16.355Z",
+        "updated_at": "2026-11-19T12:23:16.355Z",
+        "history_date": "2026-11-19T12:23:16.368Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 809,
+    "fields": {
+        "id_question": 640,
+        "text": "En el recurso de alzada, podrá interponerse:",
+        "source": "",
+        "created_at": "2026-11-19T13:05:03.771Z",
+        "updated_at": "2026-11-19T13:05:03.771Z",
+        "history_date": "2026-11-19T13:05:03.784Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 810,
+    "fields": {
+        "id_question": 640,
+        "text": "En el recurso de alzada, podrá interponerse:",
+        "source": "Propia",
+        "created_at": "2026-11-19T13:05:03.771Z",
+        "updated_at": "2026-11-19T13:05:12.027Z",
+        "history_date": "2026-11-19T13:05:12.037Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 811,
+    "fields": {
+        "id_question": 640,
+        "text": "En los casos de recurso de alzada:",
+        "source": "Propia",
+        "created_at": "2026-11-19T13:05:03.771Z",
+        "updated_at": "2026-11-19T13:07:54.914Z",
+        "history_date": "2026-11-19T13:07:54.933Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -20339,9 +20492,12 @@
         "text": "Los actos definitivos son aquéllos que:",
         "source": "Cabildo de Tenerife",
         "created_at": "2026-10-21T18:24:04.479Z",
-        "updated_at": "2026-10-21T18:36:56.670Z",
+        "updated_at": "2026-11-19T11:22:48.466Z",
         "tags": [
-            7
+            42,
+            43,
+            7,
+            4
         ]
     }
 },
@@ -20779,6 +20935,84 @@
             45,
             39,
             38
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 636,
+    "fields": {
+        "text": "Cuales son algunas de las obligaciones de las administraciones públicas, de acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas",
+        "source": "Propia",
+        "created_at": "2026-11-19T11:05:21.460Z",
+        "updated_at": "2026-11-19T11:05:21.460Z",
+        "tags": [
+            42,
+            43,
+            13,
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 637,
+    "fields": {
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se consideran interesados en el procedimiento administrativo",
+        "source": "Propia",
+        "created_at": "2026-11-19T11:50:26.444Z",
+        "updated_at": "2026-11-19T11:50:26.444Z",
+        "tags": [
+            42,
+            43,
+            7,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 638,
+    "fields": {
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, para realizar cualquier actuación prevista en el procedimiento administrativo, será suficiente, **con carácter general**, que los interesados acrediten:",
+        "source": "Propia",
+        "created_at": "2026-11-19T12:17:40.437Z",
+        "updated_at": "2026-11-19T12:19:59.323Z",
+        "tags": [
+            42,
+            43,
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 639,
+    "fields": {
+        "text": "De acuerdo con la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, Las Administraciones Públicas sólo requerirán a los interesados el uso obligatorio de firma para:",
+        "source": "Propia",
+        "created_at": "2026-11-19T12:23:16.355Z",
+        "updated_at": "2026-11-19T12:23:16.355Z",
+        "tags": [
+            42,
+            43,
+            13,
+            7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 640,
+    "fields": {
+        "text": "En los casos de recurso de alzada:",
+        "source": "Propia",
+        "created_at": "2026-11-19T13:05:03.771Z",
+        "updated_at": "2026-11-19T13:07:54.914Z",
+        "tags": [
+            42,
+            43,
+            7
         ]
     }
 },
@@ -79891,6 +80125,582 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3415,
+    "fields": {
+        "id_answer": 3124,
+        "text": "Contar con un registro electrónico de apoderamientos, pudiendo las administraciones territoriales adherirse al del Estado",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:05:43.655Z",
+        "updated_at": "2026-11-19T11:05:43.655Z",
+        "question": 636,
+        "history_date": "2026-11-19T11:05:43.671Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3416,
+    "fields": {
+        "id_answer": 3125,
+        "text": "Admitir los sistemas de identificación electrónica notificados a la Comisión Europea por el resto de Estados miembros",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:05:59.966Z",
+        "updated_at": "2026-11-19T11:05:59.966Z",
+        "question": 636,
+        "history_date": "2026-11-19T11:05:59.976Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3417,
+    "fields": {
+        "id_answer": 3126,
+        "text": "Contar con un registro electrónico general, o, en su caso, adherirse al de la Administración General del Estado",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:06:11.770Z",
+        "updated_at": "2026-11-19T11:06:11.770Z",
+        "question": 636,
+        "history_date": "2026-11-19T11:06:11.785Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3418,
+    "fields": {
+        "id_answer": 3127,
+        "text": "Mantener un archivo electrónico único de los documentos que\r\n  correspondan a procedimientos finalizados, así como la obligación de\r\n  que estos expedientes sean conservados en un formato que permita\r\n  garantizar la autenticidad, integridad y conservación del documento",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:06:23.178Z",
+        "updated_at": "2026-11-19T11:06:23.178Z",
+        "question": 636,
+        "history_date": "2026-11-19T11:06:23.194Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3419,
+    "fields": {
+        "id_answer": 3128,
+        "text": "Todas las otras opciones son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-19T11:06:36.537Z",
+        "updated_at": "2026-11-19T11:06:36.537Z",
+        "question": 636,
+        "history_date": "2026-11-19T11:06:36.554Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3420,
+    "fields": {
+        "id_answer": 3129,
+        "text": "Con carácter general, la obligación de **no** requerir documentos ya aportados por los interesados, elaborados por las\r\nAdministraciones Públicas o documentos originales, salvo las excepciones contempladas en la Ley",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:21:29.839Z",
+        "updated_at": "2026-11-19T11:21:29.839Z",
+        "question": 636,
+        "history_date": "2026-11-19T11:21:29.856Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3421,
+    "fields": {
+        "id_answer": 3130,
+        "text": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:50:42.445Z",
+        "updated_at": "2026-11-19T11:50:42.445Z",
+        "question": 637,
+        "history_date": "2026-11-19T11:50:42.458Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3422,
+    "fields": {
+        "id_answer": 3131,
+        "text": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:50:53.884Z",
+        "updated_at": "2026-11-19T11:50:53.885Z",
+        "question": 637,
+        "history_date": "2026-11-19T11:50:53.902Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3423,
+    "fields": {
+        "id_answer": 3132,
+        "text": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:51:10.654Z",
+        "updated_at": "2026-11-19T11:51:10.654Z",
+        "question": 637,
+        "history_date": "2026-11-19T11:51:10.669Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3424,
+    "fields": {
+        "id_answer": 3133,
+        "text": "Todas las otras respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-19T11:51:23.611Z",
+        "updated_at": "2026-11-19T11:51:23.611Z",
+        "question": 637,
+        "history_date": "2026-11-19T11:51:23.623Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3425,
+    "fields": {
+        "id_answer": 3134,
+        "text": "Su identidad a través de cualquiera de los medios de identificación previstos en esta Ley",
+        "is_correct": true,
+        "created_at": "2026-11-19T12:18:03.800Z",
+        "updated_at": "2026-11-19T12:18:03.800Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:18:03.821Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3426,
+    "fields": {
+        "id_answer": 3135,
+        "text": "Su firma electrónica, a través de cualquiera de los medios de identificación previstos en dicha ley",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:18:32.431Z",
+        "updated_at": "2026-11-19T12:18:32.431Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:18:32.446Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3427,
+    "fields": {
+        "id_answer": 3134,
+        "text": "Su identidad, a través de cualquiera de los medios de identificación previstos en dicha ley",
+        "is_correct": true,
+        "created_at": "2026-11-19T12:18:03.800Z",
+        "updated_at": "2026-11-19T12:18:47.272Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:18:47.283Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3428,
+    "fields": {
+        "id_answer": 3136,
+        "text": "Tanto su identidad como su firma electrónica, a través de cualquiera de los medios de identificación previstos en dicha ley",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:19:09.094Z",
+        "updated_at": "2026-11-19T12:19:09.094Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:19:09.107Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3429,
+    "fields": {
+        "id_answer": 3135,
+        "text": "Su firma electrónica",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:18:32.431Z",
+        "updated_at": "2026-11-19T12:20:20.102Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:20:20.112Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3430,
+    "fields": {
+        "id_answer": 3136,
+        "text": "Tanto su identidad, a través de cualquiera de los medios de identificación previstos en dicha ley, como su firma electrónica",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:19:09.094Z",
+        "updated_at": "2026-11-19T12:20:42.078Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:20:42.088Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3431,
+    "fields": {
+        "id_answer": 3137,
+        "text": "Su mera voluntad, no precisa ninguna identificación",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:21:56.616Z",
+        "updated_at": "2026-11-19T12:21:56.616Z",
+        "question": 638,
+        "history_date": "2026-11-19T12:21:56.631Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3432,
+    "fields": {
+        "id_answer": 3138,
+        "text": "Formular solicitudes",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:26.387Z",
+        "updated_at": "2026-11-19T12:23:26.387Z",
+        "question": 639,
+        "history_date": "2026-11-19T12:23:26.399Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3433,
+    "fields": {
+        "id_answer": 3139,
+        "text": "Presentar declaraciones responsables o comunicaciones",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:33.572Z",
+        "updated_at": "2026-11-19T12:23:33.572Z",
+        "question": 639,
+        "history_date": "2026-11-19T12:23:33.584Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3434,
+    "fields": {
+        "id_answer": 3140,
+        "text": "Interponer recursos",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:41.463Z",
+        "updated_at": "2026-11-19T12:23:41.463Z",
+        "question": 639,
+        "history_date": "2026-11-19T12:23:41.479Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3435,
+    "fields": {
+        "id_answer": 3141,
+        "text": "Desistir de acciones",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:48.166Z",
+        "updated_at": "2026-11-19T12:23:48.166Z",
+        "question": 639,
+        "history_date": "2026-11-19T12:23:48.179Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3436,
+    "fields": {
+        "id_answer": 3142,
+        "text": "Renunciar a derechos",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:53.671Z",
+        "updated_at": "2026-11-19T12:23:53.671Z",
+        "question": 639,
+        "history_date": "2026-11-19T12:23:53.686Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3437,
+    "fields": {
+        "id_answer": 3143,
+        "text": "Todas las respuestas anteriores son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-19T12:24:11.572Z",
+        "updated_at": "2026-11-19T12:24:11.572Z",
+        "question": 639,
+        "history_date": "2026-11-19T12:24:11.584Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3438,
+    "fields": {
+        "id_answer": 3144,
+        "text": "Solo se puede interponer ante el órgano que dictó el acto que se impugna",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:06:02.651Z",
+        "updated_at": "2026-11-19T13:06:02.651Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:06:02.667Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3439,
+    "fields": {
+        "id_answer": 3144,
+        "text": "Solo se puede interponer ante el órgano que dictó el acto que se impugna",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:06:02.651Z",
+        "updated_at": "2026-11-19T13:08:12.918Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:08:12.930Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3440,
+    "fields": {
+        "id_answer": 3145,
+        "text": "Solo se puede interponer ante el órgano superior jerárquico del que dictó el acto que se impugna",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:08:42.346Z",
+        "updated_at": "2026-11-19T13:08:42.346Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:08:42.359Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3441,
+    "fields": {
+        "id_answer": 3146,
+        "text": "El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:09:32.767Z",
+        "updated_at": "2026-11-19T13:09:32.767Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:09:32.782Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3442,
+    "fields": {
+        "id_answer": 3145,
+        "text": "Solo se puede interponer ante el órgano competente para resolverlo",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:08:42.346Z",
+        "updated_at": "2026-11-19T13:10:04.934Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:10:04.950Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3443,
+    "fields": {
+        "id_answer": 3146,
+        "text": "El recurso podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+        "is_correct": true,
+        "created_at": "2026-11-19T13:09:32.767Z",
+        "updated_at": "2026-11-19T13:10:13.026Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:10:13.038Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3444,
+    "fields": {
+        "id_answer": 3146,
+        "text": "Podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+        "is_correct": true,
+        "created_at": "2026-11-19T13:09:32.767Z",
+        "updated_at": "2026-11-19T13:10:27.430Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:10:27.443Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3445,
+    "fields": {
+        "id_answer": 3147,
+        "text": "Debe interponerse obligatoriamente ante el órgano que dictó el acto que se impugna y ante el competente para resolverlo.",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:11:00.973Z",
+        "updated_at": "2026-11-19T13:11:00.973Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:11:00.986Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3446,
+    "fields": {
+        "id_answer": 3148,
+        "text": "podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó",
+        "is_correct": true,
+        "created_at": "2026-11-19T13:11:53.534Z",
+        "updated_at": "2026-11-19T13:11:53.534Z",
+        "question": 640,
+        "history_date": "2026-11-19T13:11:53.550Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -114233,6 +115043,281 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 3124,
+    "fields": {
+        "question": 636,
+        "text": "Contar con un registro electrónico de apoderamientos, pudiendo las administraciones territoriales adherirse al del Estado",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:05:43.655Z",
+        "updated_at": "2026-11-19T11:05:43.655Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3125,
+    "fields": {
+        "question": 636,
+        "text": "Admitir los sistemas de identificación electrónica notificados a la Comisión Europea por el resto de Estados miembros",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:05:59.966Z",
+        "updated_at": "2026-11-19T11:05:59.966Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3126,
+    "fields": {
+        "question": 636,
+        "text": "Contar con un registro electrónico general, o, en su caso, adherirse al de la Administración General del Estado",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:06:11.770Z",
+        "updated_at": "2026-11-19T11:06:11.770Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3127,
+    "fields": {
+        "question": 636,
+        "text": "Mantener un archivo electrónico único de los documentos que\r\n  correspondan a procedimientos finalizados, así como la obligación de\r\n  que estos expedientes sean conservados en un formato que permita\r\n  garantizar la autenticidad, integridad y conservación del documento",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:06:23.178Z",
+        "updated_at": "2026-11-19T11:06:23.178Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3128,
+    "fields": {
+        "question": 636,
+        "text": "Todas las otras opciones son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-19T11:06:36.537Z",
+        "updated_at": "2026-11-19T11:06:36.537Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3129,
+    "fields": {
+        "question": 636,
+        "text": "Con carácter general, la obligación de **no** requerir documentos ya aportados por los interesados, elaborados por las\r\nAdministraciones Públicas o documentos originales, salvo las excepciones contempladas en la Ley",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:21:29.839Z",
+        "updated_at": "2026-11-19T11:21:29.839Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3130,
+    "fields": {
+        "question": 637,
+        "text": "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:50:42.445Z",
+        "updated_at": "2026-11-19T11:50:42.445Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3131,
+    "fields": {
+        "question": 637,
+        "text": "Los que, sin haber iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:50:53.884Z",
+        "updated_at": "2026-11-19T11:50:53.885Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3132,
+    "fields": {
+        "question": 637,
+        "text": "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva",
+        "is_correct": false,
+        "created_at": "2026-11-19T11:51:10.654Z",
+        "updated_at": "2026-11-19T11:51:10.654Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3133,
+    "fields": {
+        "question": 637,
+        "text": "Todas las otras respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-19T11:51:23.611Z",
+        "updated_at": "2026-11-19T11:51:23.611Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3134,
+    "fields": {
+        "question": 638,
+        "text": "Su identidad, a través de cualquiera de los medios de identificación previstos en dicha ley",
+        "is_correct": true,
+        "created_at": "2026-11-19T12:18:03.800Z",
+        "updated_at": "2026-11-19T12:18:47.272Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3135,
+    "fields": {
+        "question": 638,
+        "text": "Su firma electrónica",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:18:32.431Z",
+        "updated_at": "2026-11-19T12:20:20.102Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3136,
+    "fields": {
+        "question": 638,
+        "text": "Tanto su identidad, a través de cualquiera de los medios de identificación previstos en dicha ley, como su firma electrónica",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:19:09.094Z",
+        "updated_at": "2026-11-19T12:20:42.078Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3137,
+    "fields": {
+        "question": 638,
+        "text": "Su mera voluntad, no precisa ninguna identificación",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:21:56.616Z",
+        "updated_at": "2026-11-19T12:21:56.616Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3138,
+    "fields": {
+        "question": 639,
+        "text": "Formular solicitudes",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:26.387Z",
+        "updated_at": "2026-11-19T12:23:26.387Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3139,
+    "fields": {
+        "question": 639,
+        "text": "Presentar declaraciones responsables o comunicaciones",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:33.572Z",
+        "updated_at": "2026-11-19T12:23:33.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3140,
+    "fields": {
+        "question": 639,
+        "text": "Interponer recursos",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:41.463Z",
+        "updated_at": "2026-11-19T12:23:41.463Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3141,
+    "fields": {
+        "question": 639,
+        "text": "Desistir de acciones",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:48.166Z",
+        "updated_at": "2026-11-19T12:23:48.166Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3142,
+    "fields": {
+        "question": 639,
+        "text": "Renunciar a derechos",
+        "is_correct": false,
+        "created_at": "2026-11-19T12:23:53.671Z",
+        "updated_at": "2026-11-19T12:23:53.671Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3143,
+    "fields": {
+        "question": 639,
+        "text": "Todas las respuestas anteriores son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-19T12:24:11.572Z",
+        "updated_at": "2026-11-19T12:24:11.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3144,
+    "fields": {
+        "question": 640,
+        "text": "Solo se puede interponer ante el órgano que dictó el acto que se impugna",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:06:02.651Z",
+        "updated_at": "2026-11-19T13:08:12.918Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3145,
+    "fields": {
+        "question": 640,
+        "text": "Solo se puede interponer ante el órgano competente para resolverlo",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:08:42.346Z",
+        "updated_at": "2026-11-19T13:10:04.934Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3146,
+    "fields": {
+        "question": 640,
+        "text": "Podrá interponerse ante el órgano que dictó el acto que se impugna o ante el competente para resolverlo.",
+        "is_correct": true,
+        "created_at": "2026-11-19T13:09:32.767Z",
+        "updated_at": "2026-11-19T13:10:27.430Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3147,
+    "fields": {
+        "question": 640,
+        "text": "Debe interponerse obligatoriamente ante el órgano que dictó el acto que se impugna y ante el competente para resolverlo.",
+        "is_correct": false,
+        "created_at": "2026-11-19T13:11:00.973Z",
+        "updated_at": "2026-11-19T13:11:00.973Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3148,
+    "fields": {
+        "question": 640,
+        "text": "podrán ser recurridos en alzada ante el órgano superior jerárquico del que los dictó",
+        "is_correct": true,
+        "created_at": "2026-11-19T13:11:53.534Z",
+        "updated_at": "2026-11-19T13:11:53.534Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -122686,6 +123771,20 @@
         "failures": 1,
         "created_at": "2026-11-18T18:36:25.059Z",
         "updated_at": "2026-11-18T18:36:30.569Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 605,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 604,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-11-19T11:23:11.171Z",
+        "updated_at": "2026-11-19T11:23:11.171Z"
     }
 }
 ]

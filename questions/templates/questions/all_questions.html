@@ -10,33 +10,6 @@
 
 
     {% include "questions/includes/pagination.html" with page=page %}
-    <table class="table">
-        <thead>
-            <tr>
-                <th>Id. pregunta</th>
-                <th>Texto</th>
-                <th>Respuestas</th>
-                <th>Variablidad</th>
-            </tr>markdownify 
-        </thead>
-        {% for question in page %}
-            <tr>
-                <th>
-                    <a class="button is-info" 
-                       href="{% url 'questions:question_detail' pk=question.pk %}">
-                        ✎ <b>{{ question.pk }}</b>
-                    </a>
-                </th>
-                <td>
-                    {{ question.text|markdownify}}
-                    <br>Creada el {{ question.created_at }}
-                </td>
-                <td><span class="tag is-info">{{ question.num_answers }}</span></td>
-                <td><span class="tag is-info">{{ question.get_variability }}</span></td>
-                <td>
-                </td>
-            </tr>
-        {% endfor %}
-    </table>
+    {% include "questions/includes/table-questions.html" with questions=page %}
 
 {% endblock content %}

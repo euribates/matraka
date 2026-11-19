@@ -11,8 +11,11 @@ from questions.models import Question
 
 def index(request):
     num_questions = Question.objects.all().count()
+    ultimas_preguntas = Question.objects.all()[0:5]
     return render(request, 'index.html', {
+        'titulo': 'Bienvenido a matraka. Aprende a base de ser pesado.',
         'num_questions': num_questions,
+        'ultimas_preguntas': ultimas_preguntas,
         })
 
 

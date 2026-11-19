@@ -19,7 +19,7 @@
   <section class="section">
 
     <div class="container">
-    <div class="hero">
+    <div class="hero mb-4">
     {% if titulo %}<h1 class="title">{{ titulo }}</h1>{% endif %}
     {% if subtitulo %}<h2 class="subtitle">{{ subtitulo }}</h2>{% endif %}
     </div>
@@ -38,7 +38,7 @@
   </footer>
 
   {% block javascript %}
-      
+    <script src="{% static 'js/burger-menu.js' %}"></script>
   {% endblock javascript %}
   
   </body>
