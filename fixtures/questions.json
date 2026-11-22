@@ -13261,6 +13261,533 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 812,
+    "fields": {
+        "id_question": 641,
+        "text": "¿Cuál es uno de los objetos de la Ley Orgánica 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T18:51:12.242Z",
+        "updated_at": "2026-11-21T18:51:12.242Z",
+        "history_date": "2026-11-21T18:51:12.258Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 813,
+    "fields": {
+        "id_question": 641,
+        "text": "¿Cuál es uno de los objetos de la Ley Orgánica 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T18:51:12.242Z",
+        "updated_at": "2026-11-21T18:52:41.125Z",
+        "history_date": "2026-11-21T18:52:41.134Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 814,
+    "fields": {
+        "id_question": 641,
+        "text": "¿Cuál es uno de los objetos de la Ley Orgánica 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T18:51:12.242Z",
+        "updated_at": "2026-11-21T18:53:23.190Z",
+        "history_date": "2026-11-21T18:53:23.201Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 815,
+    "fields": {
+        "id_question": 642,
+        "text": "¿Qué artículo de la Constitución Española ampara el derecho fundamental a la protección de datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:17:12.573Z",
+        "updated_at": "2026-11-21T19:17:12.573Z",
+        "history_date": "2026-11-21T19:17:12.588Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 816,
+    "fields": {
+        "id_question": 643,
+        "text": "Según el artículo 2 de la LO 3/2018, ¿a qué tratamientos se aplica la ley?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:19:43.669Z",
+        "updated_at": "2026-11-21T19:19:43.669Z",
+        "history_date": "2026-11-21T19:19:43.688Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 817,
+    "fields": {
+        "id_question": 644,
+        "text": "Según el artículo 3 de la LO 3/2018, ¿quiénes pueden dirigirse al responsable o encargado del tratamiento para solicitar el acceso a los datos personales de una persona fallecida?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:33:16.203Z",
+        "updated_at": "2026-11-21T19:33:16.203Z",
+        "history_date": "2026-11-21T19:33:16.214Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 818,
+    "fields": {
+        "id_question": 645,
+        "text": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, ¿Qué ocurre cuando la persona fallecida ha prohibido expresamente el acceso a sus datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:39:09.915Z",
+        "updated_at": "2026-11-21T19:39:09.915Z",
+        "history_date": "2026-11-21T19:39:09.928Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 819,
+    "fields": {
+        "id_question": 646,
+        "text": "De acuerdo con el artículo 4 de la Ley Orgánica 3/2018, los datos personales deben ser:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:42:25.324Z",
+        "updated_at": "2026-11-21T19:42:25.324Z",
+        "history_date": "2026-11-21T19:42:25.337Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 820,
+    "fields": {
+        "id_question": 647,
+        "text": "¿Qué establece el artículo 5 de la LO 3/2018 respecto al deber de confidencialidad?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:44:19.786Z",
+        "updated_at": "2026-11-21T19:44:19.786Z",
+        "history_date": "2026-11-21T19:44:19.803Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 821,
+    "fields": {
+        "id_question": 648,
+        "text": "¿Cuándo finaliza la obligación de confidencialidad establecida en el artículo 5 de la Ley ORganica 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:49:12.076Z",
+        "updated_at": "2026-11-21T19:49:12.076Z",
+        "history_date": "2026-11-21T19:49:12.091Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 822,
+    "fields": {
+        "id_question": 649,
+        "text": "Según el artículo 6 de la Ley Organica 3/2018, el tratamiento de datos personales basado en el consentimiento del afectado requiere que este sea:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:52:49.727Z",
+        "updated_at": "2026-11-21T19:52:49.727Z",
+        "history_date": "2026-11-21T19:52:49.742Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 823,
+    "fields": {
+        "id_question": 650,
+        "text": "Cuando el tratamiento de datos se basa en el consentimiento y tiene varias finalidades, ¿qué debe ocurrir?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:55:13.172Z",
+        "updated_at": "2026-11-21T19:55:13.172Z",
+        "history_date": "2026-11-21T19:55:13.185Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 824,
+    "fields": {
+        "id_question": 651,
+        "text": "Según la Ley Orgánica 3/2018, ¿a partir de qué edad puede un menor prestar por sí mismo consentimiento para el tratamiento de sus datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:02:02.874Z",
+        "updated_at": "2026-11-21T20:02:02.874Z",
+        "history_date": "2026-11-21T20:02:02.886Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 825,
+    "fields": {
+        "id_question": 652,
+        "text": "Cuando el menor no ha cumplido 14 años, ¿quién debe prestar el consentimiento para el tratamiento de sus datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:03:38.120Z",
+        "updated_at": "2026-11-21T20:03:38.120Z",
+        "history_date": "2026-11-21T20:03:38.130Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 826,
+    "fields": {
+        "id_question": 653,
+        "text": "Según el artículo 8 de la Ley Orgánica 3/2019, el tratamiento de datos personales basado en el cumplimiento de una obligación legal debe estar previsto:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:13:18.119Z",
+        "updated_at": "2026-11-21T20:13:18.119Z",
+        "history_date": "2026-11-21T20:13:18.128Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 827,
+    "fields": {
+        "id_question": 654,
+        "text": "Cuando el tratamiento de datos se realiza para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos, ¿qué requisito establece el artículo 8?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:15:07.327Z",
+        "updated_at": "2026-11-21T20:15:07.327Z",
+        "history_date": "2026-11-21T20:15:07.340Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 828,
+    "fields": {
+        "id_question": 655,
+        "text": "¿Cuál de los siguientes es un ejemplo de categoría especial de datos personales conforme al artículo 9 del RGPD, al que se remite la LO 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:18:30.431Z",
+        "updated_at": "2026-11-21T20:18:30.431Z",
+        "history_date": "2026-11-21T20:18:30.444Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 829,
+    "fields": {
+        "id_question": 656,
+        "text": "Según el artículo 9 de la LO 3/2018, ¿es suficiente el consentimiento del afectado para levantar la prohibición de tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:36:56.200Z",
+        "updated_at": "2026-11-21T23:36:56.200Z",
+        "history_date": "2026-11-21T23:36:56.212Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 830,
+    "fields": {
+        "id_question": 657,
+        "text": "Según el artículo 10 de la Ley Organica 3/208, el tratamiento de datos personales relativos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, para fines distintos de la prevención, investigación, detección o enjuiciamiento de infracciones penales, ¿a qué régimen se somete?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:44:19.430Z",
+        "updated_at": "2026-11-21T23:44:19.430Z",
+        "history_date": "2026-11-21T23:44:19.446Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 831,
+    "fields": {
+        "id_question": 658,
+        "text": "Según el artículo 4 de la Ley 3/2018, cuando los datos personales inexactos se hayan obtenido directamente del afectado, ¿qué responsabilidad tendrá el responsable?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:47:20.823Z",
+        "updated_at": "2026-11-21T23:47:20.823Z",
+        "history_date": "2026-11-21T23:47:20.838Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 832,
+    "fields": {
+        "id_question": 659,
+        "text": "¿Qué relación existe entre el deber de confidencialidad del artículo 5 de la LO 3/2018 y el secreto profesional?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:54:50.409Z",
+        "updated_at": "2026-11-21T23:54:50.410Z",
+        "history_date": "2026-11-21T23:54:50.422Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 833,
+    "fields": {
+        "id_question": 660,
+        "text": "De conformidad con el artículo 2 de la LO 3/2018, ¿cuál de los siguientes tratamientos queda excluido de su ámbito de aplicación?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:00:34.837Z",
+        "updated_at": "2026-11-22T00:00:34.837Z",
+        "history_date": "2026-11-22T00:00:34.852Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 834,
+    "fields": {
+        "id_question": 661,
+        "text": "Respecto al acceso a los datos personales de personas fallecidas, señala la afirmación INCORRECTA:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:06:44.990Z",
+        "updated_at": "2026-11-22T00:06:44.990Z",
+        "history_date": "2026-11-22T00:06:45.008Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 835,
+    "fields": {
+        "id_question": 662,
+        "text": "En relación con el principio de exactitud de los datos personales, regulado en el artículo 4 de la Ley Orgánica 3/2018, ¿cuál de las siguientes afirmaciones es correcta?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:12:03.852Z",
+        "updated_at": "2026-11-22T00:12:03.853Z",
+        "history_date": "2026-11-22T00:12:03.868Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 836,
+    "fields": {
+        "id_question": 663,
+        "text": "Según el artículo 5 de la LO 3/2018, el deber de confidencialidad:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:15:19.716Z",
+        "updated_at": "2026-11-22T00:15:19.717Z",
+        "history_date": "2026-11-22T00:15:19.732Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 837,
+    "fields": {
+        "id_question": 664,
+        "text": "Una empresa obtiene el consentimiento de una persona mediante una casilla premarcada que esta no modifica. Según el artículo 6, ¿qué afirmación es correcta?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:17:55.512Z",
+        "updated_at": "2026-11-22T00:17:55.512Z",
+        "history_date": "2026-11-22T00:17:55.525Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 838,
+    "fields": {
+        "id_question": 665,
+        "text": "Una persona de 13 años presta su consentimiento para el tratamiento de sus datos personales en un servicio de la sociedad de la información. Sus padres no han autorizado dicho tratamiento. ¿Cuál es la respuesta correcta conforme al artículo 7?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:47:02.976Z",
+        "updated_at": "2026-11-22T00:47:02.977Z",
+        "history_date": "2026-11-22T00:47:02.988Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 839,
+    "fields": {
+        "id_question": 666,
+        "text": "De acuerdo con el artículo 8 de la LO 3/2018, cuando el tratamiento de datos personales se realiza en cumplimiento de una obligación legal exigible al responsable:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:50:28.323Z",
+        "updated_at": "2026-11-22T00:50:28.324Z",
+        "history_date": "2026-11-22T00:50:28.342Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 840,
+    "fields": {
+        "id_question": 667,
+        "text": "Puede fundamentarse en cualquier instrucción administrativa interna",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:54:05.158Z",
+        "updated_at": "2026-11-22T00:54:05.158Z",
+        "history_date": "2026-11-22T00:54:05.169Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 841,
+    "fields": {
+        "id_question": 667,
+        "text": "Señala cuál de las siguientes afirmaciones sobre el artículo 9 de la LO 3/2018 es correcta",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:54:05.158Z",
+        "updated_at": "2026-11-22T00:55:56.710Z",
+        "history_date": "2026-11-22T00:55:56.723Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 842,
+    "fields": {
+        "id_question": 668,
+        "text": "Una Administración Pública trata datos personales para ejercer una competencia que tiene atribuida mediante una norma con rango de ley. El interesado se opone alegando que nunca ha prestado su consentimiento. ¿Cuál es la afirmación más ajustada a la LO 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:57:22.478Z",
+        "updated_at": "2026-11-22T00:57:22.478Z",
+        "history_date": "2026-11-22T00:57:22.490Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -21013,6 +21540,460 @@
             42,
             43,
             7
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 641,
+    "fields": {
+        "text": "¿Cuál es uno de los objetos de la Ley Orgánica 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T18:51:12.242Z",
+        "updated_at": "2026-11-21T18:53:23.190Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 642,
+    "fields": {
+        "text": "¿Qué artículo de la Constitución Española ampara el derecho fundamental a la protección de datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:17:12.573Z",
+        "updated_at": "2026-11-21T19:17:12.573Z",
+        "tags": [
+            42,
+            43,
+            1,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 643,
+    "fields": {
+        "text": "Según el artículo 2 de la LO 3/2018, ¿a qué tratamientos se aplica la ley?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:19:43.669Z",
+        "updated_at": "2026-11-21T19:19:43.669Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 644,
+    "fields": {
+        "text": "Según el artículo 3 de la LO 3/2018, ¿quiénes pueden dirigirse al responsable o encargado del tratamiento para solicitar el acceso a los datos personales de una persona fallecida?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:33:16.203Z",
+        "updated_at": "2026-11-21T19:33:16.203Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 645,
+    "fields": {
+        "text": "De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, ¿Qué ocurre cuando la persona fallecida ha prohibido expresamente el acceso a sus datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:39:09.915Z",
+        "updated_at": "2026-11-21T19:39:09.915Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 646,
+    "fields": {
+        "text": "De acuerdo con el artículo 4 de la Ley Orgánica 3/2018, los datos personales deben ser:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:42:25.324Z",
+        "updated_at": "2026-11-21T19:42:25.324Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 647,
+    "fields": {
+        "text": "¿Qué establece el artículo 5 de la LO 3/2018 respecto al deber de confidencialidad?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:44:19.786Z",
+        "updated_at": "2026-11-21T19:44:19.786Z",
+        "tags": [
+            42,
+            43,
+            46,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 648,
+    "fields": {
+        "text": "¿Cuándo finaliza la obligación de confidencialidad establecida en el artículo 5 de la Ley ORganica 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:49:12.076Z",
+        "updated_at": "2026-11-21T19:49:12.076Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 649,
+    "fields": {
+        "text": "Según el artículo 6 de la Ley Organica 3/2018, el tratamiento de datos personales basado en el consentimiento del afectado requiere que este sea:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:52:49.727Z",
+        "updated_at": "2026-11-21T19:52:49.727Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 650,
+    "fields": {
+        "text": "Cuando el tratamiento de datos se basa en el consentimiento y tiene varias finalidades, ¿qué debe ocurrir?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T19:55:13.172Z",
+        "updated_at": "2026-11-21T19:55:13.172Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 651,
+    "fields": {
+        "text": "Según la Ley Orgánica 3/2018, ¿a partir de qué edad puede un menor prestar por sí mismo consentimiento para el tratamiento de sus datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:02:02.874Z",
+        "updated_at": "2026-11-21T20:02:02.874Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 652,
+    "fields": {
+        "text": "Cuando el menor no ha cumplido 14 años, ¿quién debe prestar el consentimiento para el tratamiento de sus datos personales?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:03:38.120Z",
+        "updated_at": "2026-11-21T20:03:38.120Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 653,
+    "fields": {
+        "text": "Según el artículo 8 de la Ley Orgánica 3/2019, el tratamiento de datos personales basado en el cumplimiento de una obligación legal debe estar previsto:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:13:18.119Z",
+        "updated_at": "2026-11-21T20:13:18.119Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 654,
+    "fields": {
+        "text": "Cuando el tratamiento de datos se realiza para el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos, ¿qué requisito establece el artículo 8?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:15:07.327Z",
+        "updated_at": "2026-11-21T20:15:07.327Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 655,
+    "fields": {
+        "text": "¿Cuál de los siguientes es un ejemplo de categoría especial de datos personales conforme al artículo 9 del RGPD, al que se remite la LO 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T20:18:30.431Z",
+        "updated_at": "2026-11-21T20:18:30.431Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 656,
+    "fields": {
+        "text": "Según el artículo 9 de la LO 3/2018, ¿es suficiente el consentimiento del afectado para levantar la prohibición de tratamiento de datos cuya finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:36:56.200Z",
+        "updated_at": "2026-11-21T23:36:56.200Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 657,
+    "fields": {
+        "text": "Según el artículo 10 de la Ley Organica 3/208, el tratamiento de datos personales relativos a condenas e infracciones penales, así como a procedimientos y medidas cautelares y de seguridad conexas, para fines distintos de la prevención, investigación, detección o enjuiciamiento de infracciones penales, ¿a qué régimen se somete?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:44:19.430Z",
+        "updated_at": "2026-11-21T23:44:19.430Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 658,
+    "fields": {
+        "text": "Según el artículo 4 de la Ley 3/2018, cuando los datos personales inexactos se hayan obtenido directamente del afectado, ¿qué responsabilidad tendrá el responsable?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:47:20.823Z",
+        "updated_at": "2026-11-21T23:47:20.823Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 659,
+    "fields": {
+        "text": "¿Qué relación existe entre el deber de confidencialidad del artículo 5 de la LO 3/2018 y el secreto profesional?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-21T23:54:50.409Z",
+        "updated_at": "2026-11-21T23:54:50.410Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 660,
+    "fields": {
+        "text": "De conformidad con el artículo 2 de la LO 3/2018, ¿cuál de los siguientes tratamientos queda excluido de su ámbito de aplicación?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:00:34.837Z",
+        "updated_at": "2026-11-22T00:00:34.837Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 661,
+    "fields": {
+        "text": "Respecto al acceso a los datos personales de personas fallecidas, señala la afirmación INCORRECTA:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:06:44.990Z",
+        "updated_at": "2026-11-22T00:06:44.990Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 662,
+    "fields": {
+        "text": "En relación con el principio de exactitud de los datos personales, regulado en el artículo 4 de la Ley Orgánica 3/2018, ¿cuál de las siguientes afirmaciones es correcta?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:12:03.852Z",
+        "updated_at": "2026-11-22T00:12:03.853Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 663,
+    "fields": {
+        "text": "Según el artículo 5 de la LO 3/2018, el deber de confidencialidad:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:15:19.716Z",
+        "updated_at": "2026-11-22T00:15:19.717Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 664,
+    "fields": {
+        "text": "Una empresa obtiene el consentimiento de una persona mediante una casilla premarcada que esta no modifica. Según el artículo 6, ¿qué afirmación es correcta?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:17:55.512Z",
+        "updated_at": "2026-11-22T00:17:55.512Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23,
+            4,
+            41
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 665,
+    "fields": {
+        "text": "Una persona de 13 años presta su consentimiento para el tratamiento de sus datos personales en un servicio de la sociedad de la información. Sus padres no han autorizado dicho tratamiento. ¿Cuál es la respuesta correcta conforme al artículo 7?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:47:02.976Z",
+        "updated_at": "2026-11-22T00:47:02.977Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 666,
+    "fields": {
+        "text": "De acuerdo con el artículo 8 de la LO 3/2018, cuando el tratamiento de datos personales se realiza en cumplimiento de una obligación legal exigible al responsable:",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:50:28.323Z",
+        "updated_at": "2026-11-22T00:50:28.324Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 667,
+    "fields": {
+        "text": "Señala cuál de las siguientes afirmaciones sobre el artículo 9 de la LO 3/2018 es correcta",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:54:05.158Z",
+        "updated_at": "2026-11-22T00:55:56.710Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 668,
+    "fields": {
+        "text": "Una Administración Pública trata datos personales para ejercer una competencia que tiene atribuida mediante una norma con rango de ley. El interesado se opone alegando que nunca ha prestado su consentimiento. ¿Cuál es la afirmación más ajustada a la LO 3/2018?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-22T00:57:22.478Z",
+        "updated_at": "2026-11-22T00:57:22.478Z",
+        "tags": [
+            42,
+            43,
+            46,
+            23
         ]
     }
 },
@@ -80701,6 +81682,2904 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3447,
+    "fields": {
+        "id_answer": 3149,
+        "text": "Regular exclusivamente el tratamiento de datos por las Administraciones Públicas",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:51:38.732Z",
+        "updated_at": "2026-11-21T18:51:38.732Z",
+        "question": 641,
+        "history_date": "2026-11-21T18:51:38.748Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3448,
+    "fields": {
+        "id_answer": 3150,
+        "text": "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y garantizar los derechos digitales de la ciudadanía",
+        "is_correct": true,
+        "created_at": "2026-11-21T18:51:49.623Z",
+        "updated_at": "2026-11-21T18:51:49.623Z",
+        "question": 641,
+        "history_date": "2026-11-21T18:51:49.635Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3449,
+    "fields": {
+        "id_answer": 3151,
+        "text": "Sustituir íntegramente el Reglamento General de Protección de Datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:51:59.736Z",
+        "updated_at": "2026-11-21T18:51:59.736Z",
+        "question": 641,
+        "history_date": "2026-11-21T18:51:59.754Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3450,
+    "fields": {
+        "id_answer": 3152,
+        "text": "Regular únicamente el derecho al honor y a la intimidad personal.",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:52:09.714Z",
+        "updated_at": "2026-11-21T18:52:09.714Z",
+        "question": 641,
+        "history_date": "2026-11-21T18:52:09.730Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3451,
+    "fields": {
+        "id_answer": 3153,
+        "text": "Regular únicamente los derechos digitales del ciudadano",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:52:30.501Z",
+        "updated_at": "2026-11-21T18:52:30.501Z",
+        "question": 641,
+        "history_date": "2026-11-21T18:52:30.517Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3452,
+    "fields": {
+        "id_answer": 3154,
+        "text": "Artículo 14",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:18:03.248Z",
+        "updated_at": "2026-11-21T19:18:03.248Z",
+        "question": 642,
+        "history_date": "2026-11-21T19:18:03.259Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3453,
+    "fields": {
+        "id_answer": 3155,
+        "text": "Artículo 16",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:18:07.951Z",
+        "updated_at": "2026-11-21T19:18:07.951Z",
+        "question": 642,
+        "history_date": "2026-11-21T19:18:07.970Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3454,
+    "fields": {
+        "id_answer": 3156,
+        "text": "Artículo 18.4",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:18:14.597Z",
+        "updated_at": "2026-11-21T19:18:14.597Z",
+        "question": 642,
+        "history_date": "2026-11-21T19:18:14.611Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3455,
+    "fields": {
+        "id_answer": 3157,
+        "text": "Artículo 20",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:18:20.891Z",
+        "updated_at": "2026-11-21T19:18:20.891Z",
+        "question": 642,
+        "history_date": "2026-11-21T19:18:20.904Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3456,
+    "fields": {
+        "id_answer": 3158,
+        "text": "Artículo 18",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:18:30.643Z",
+        "updated_at": "2026-11-21T19:18:30.643Z",
+        "question": 642,
+        "history_date": "2026-11-21T19:18:30.654Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3457,
+    "fields": {
+        "id_answer": 3159,
+        "text": "Exclusivamente a los tratamientos automatizados",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:20:00.681Z",
+        "updated_at": "2026-11-21T19:20:00.681Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:20:00.698Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3458,
+    "fields": {
+        "id_answer": 3160,
+        "text": "A cualquier tratamiento total o parcialmente automatizado de datos personales y a los no automatizados contenidos o destinados a incluirse en un fichero",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:20:13.841Z",
+        "updated_at": "2026-11-21T19:20:13.841Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:20:13.864Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3459,
+    "fields": {
+        "id_answer": 3161,
+        "text": "Exclusivamente a los tratamientos realizados por empresas privadas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:20:20.624Z",
+        "updated_at": "2026-11-21T19:20:20.625Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:20:20.646Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3460,
+    "fields": {
+        "id_answer": 3162,
+        "text": "Exclusivamente a los tratamientos realizados por empresas públicas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:20:29.084Z",
+        "updated_at": "2026-11-21T19:20:29.085Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:20:29.104Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3461,
+    "fields": {
+        "id_answer": 3163,
+        "text": "Exclusivamente a los tratamientos realizados por las administraciones públicas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:21:01.144Z",
+        "updated_at": "2026-11-21T19:21:01.145Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:21:01.163Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3462,
+    "fields": {
+        "id_answer": 3164,
+        "text": "Únicamente a los tratamientos que requieren consentimiento expreso",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:21:09.665Z",
+        "updated_at": "2026-11-21T19:21:09.665Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:21:09.680Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3463,
+    "fields": {
+        "id_answer": 3165,
+        "text": "A los tratamientos sometidos a la normativa sobre protección de materias clasificadas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:30:46.498Z",
+        "updated_at": "2026-11-21T19:30:46.498Z",
+        "question": 643,
+        "history_date": "2026-11-21T19:30:46.513Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3464,
+    "fields": {
+        "id_answer": 3166,
+        "text": "Exclusivamente sus herederos legales",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:33:25.114Z",
+        "updated_at": "2026-11-21T19:33:25.115Z",
+        "question": 644,
+        "history_date": "2026-11-21T19:33:25.133Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3465,
+    "fields": {
+        "id_answer": 3167,
+        "text": "Cualquier persona que demuestre interés legítimo",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:33:32.930Z",
+        "updated_at": "2026-11-21T19:33:32.930Z",
+        "question": 644,
+        "history_date": "2026-11-21T19:33:32.948Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3466,
+    "fields": {
+        "id_answer": 3168,
+        "text": "Las personas vinculadas al fallecido por razones familiares o de hecho, así como sus herederos",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:33:40.738Z",
+        "updated_at": "2026-11-21T19:33:40.738Z",
+        "question": 644,
+        "history_date": "2026-11-21T19:33:40.748Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3467,
+    "fields": {
+        "id_answer": 3169,
+        "text": "Exclusivamente el cónyuge superviviente",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:33:49.212Z",
+        "updated_at": "2026-11-21T19:33:49.212Z",
+        "question": 644,
+        "history_date": "2026-11-21T19:33:49.228Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3468,
+    "fields": {
+        "id_answer": 3170,
+        "text": "Cualquier ciudadano de un país miembro de la Comunidad Económica Europea (CEE)",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:34:50.924Z",
+        "updated_at": "2026-11-21T19:34:50.924Z",
+        "question": 644,
+        "history_date": "2026-11-21T19:34:50.943Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3469,
+    "fields": {
+        "id_answer": 3171,
+        "text": "Únicamente las personas o instituciones a las que el fallecido hubiese designado\r\nexpresamente",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:36:54.471Z",
+        "updated_at": "2026-11-21T19:36:54.471Z",
+        "question": 644,
+        "history_date": "2026-11-21T19:36:54.485Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3470,
+    "fields": {
+        "id_answer": 3172,
+        "text": "Los familiares pueden acceder siempre que acrediten parentesco",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:39:23.564Z",
+        "updated_at": "2026-11-21T19:39:23.564Z",
+        "question": 645,
+        "history_date": "2026-11-21T19:39:23.578Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3471,
+    "fields": {
+        "id_answer": 3173,
+        "text": "No se podrá acceder a sus datos ni solicitar su rectificación o supresión, sin perjuicio del derecho de los herederos a acceder a los datos patrimoniales",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:39:32.790Z",
+        "updated_at": "2026-11-21T19:39:32.790Z",
+        "question": 645,
+        "history_date": "2026-11-21T19:39:32.801Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3472,
+    "fields": {
+        "id_answer": 3174,
+        "text": "Los herederos podrán acceder libremente a todos sus datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:39:39.846Z",
+        "updated_at": "2026-11-21T19:39:39.846Z",
+        "question": 645,
+        "history_date": "2026-11-21T19:39:39.866Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3473,
+    "fields": {
+        "id_answer": 3175,
+        "text": "La prohibición solamente afecta a los datos económicos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:39:45.307Z",
+        "updated_at": "2026-11-21T19:39:45.307Z",
+        "question": 645,
+        "history_date": "2026-11-21T19:39:45.322Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3474,
+    "fields": {
+        "id_answer": 3176,
+        "text": "No se podrá acceder, rectificar o suprimir sus datos bajo ninguna circunstancia",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:40:41.593Z",
+        "updated_at": "2026-11-21T19:40:41.593Z",
+        "question": 645,
+        "history_date": "2026-11-21T19:40:41.609Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3475,
+    "fields": {
+        "id_answer": 3177,
+        "text": "Públicos y accesibles",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:42:34.653Z",
+        "updated_at": "2026-11-21T19:42:34.653Z",
+        "question": 646,
+        "history_date": "2026-11-21T19:42:34.673Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3476,
+    "fields": {
+        "id_answer": 3178,
+        "text": "Exactos y, si fuera necesario, actualizados",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:42:42.177Z",
+        "updated_at": "2026-11-21T19:42:42.177Z",
+        "question": 646,
+        "history_date": "2026-11-21T19:42:42.185Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3477,
+    "fields": {
+        "id_answer": 3179,
+        "text": "Conservados permanentemente",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:42:48.085Z",
+        "updated_at": "2026-11-21T19:42:48.085Z",
+        "question": 646,
+        "history_date": "2026-11-21T19:42:48.105Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3478,
+    "fields": {
+        "id_answer": 3180,
+        "text": "Comunicados a todos los interesados",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:42:53.190Z",
+        "updated_at": "2026-11-21T19:42:53.190Z",
+        "question": 646,
+        "history_date": "2026-11-21T19:42:53.205Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3479,
+    "fields": {
+        "id_answer": 3181,
+        "text": "Digitalizados",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:43:02.159Z",
+        "updated_at": "2026-11-21T19:43:02.160Z",
+        "question": 646,
+        "history_date": "2026-11-21T19:43:02.183Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3480,
+    "fields": {
+        "id_answer": 3182,
+        "text": "Secretos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:43:27.174Z",
+        "updated_at": "2026-11-21T19:43:27.174Z",
+        "question": 646,
+        "history_date": "2026-11-21T19:43:27.186Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3481,
+    "fields": {
+        "id_answer": 3183,
+        "text": "Que únicamente afecta al responsable del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:45:52.799Z",
+        "updated_at": "2026-11-21T19:45:52.799Z",
+        "question": 647,
+        "history_date": "2026-11-21T19:45:52.810Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3482,
+    "fields": {
+        "id_answer": 3184,
+        "text": "Que solo afecta a los empleados públicos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:45:59.063Z",
+        "updated_at": "2026-11-21T19:45:59.063Z",
+        "question": 647,
+        "history_date": "2026-11-21T19:45:59.077Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3483,
+    "fields": {
+        "id_answer": 3185,
+        "text": "Que afecta a responsables, encargados y todas las personas que intervengan en cualquier fase del tratamiento",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:46:06.403Z",
+        "updated_at": "2026-11-21T19:46:06.403Z",
+        "question": 647,
+        "history_date": "2026-11-21T19:46:06.421Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3484,
+    "fields": {
+        "id_answer": 3186,
+        "text": "Que desaparece cuando finaliza la relación laboral",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:46:14.202Z",
+        "updated_at": "2026-11-21T19:46:14.202Z",
+        "question": 647,
+        "history_date": "2026-11-21T19:46:14.213Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3485,
+    "fields": {
+        "id_answer": 3187,
+        "text": "Que desaparece en cuanto finaliza la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:47:56.642Z",
+        "updated_at": "2026-11-21T19:47:56.642Z",
+        "question": 647,
+        "history_date": "2026-11-21T19:47:56.658Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3486,
+    "fields": {
+        "id_answer": 3188,
+        "text": "Cuando finaliza la relación laboral",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:22.319Z",
+        "updated_at": "2026-11-21T19:49:22.319Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:49:22.333Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3487,
+    "fields": {
+        "id_answer": 3189,
+        "text": "Cuando el interesado retira su consentimiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:30.819Z",
+        "updated_at": "2026-11-21T19:49:30.819Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:49:30.837Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3488,
+    "fields": {
+        "id_answer": 3190,
+        "text": "No desaparece por el mero hecho de finalizar la relación con el responsable o encargado",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:49:41.456Z",
+        "updated_at": "2026-11-21T19:49:41.456Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:49:41.474Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3489,
+    "fields": {
+        "id_answer": 3191,
+        "text": "Cuando se suprimen los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:49.296Z",
+        "updated_at": "2026-11-21T19:49:49.296Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:49:49.310Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3490,
+    "fields": {
+        "id_answer": 3192,
+        "text": "30 años a contar desde el registro inicial de los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:50:23.556Z",
+        "updated_at": "2026-11-21T19:50:23.556Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:50:23.573Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3491,
+    "fields": {
+        "id_answer": 3191,
+        "text": "Cuando se modifican los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:49.296Z",
+        "updated_at": "2026-11-21T19:50:56.718Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:50:56.730Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3492,
+    "fields": {
+        "id_answer": 3193,
+        "text": "Cuando se suprimen los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:51:29.554Z",
+        "updated_at": "2026-11-21T19:51:29.554Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:51:29.567Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3493,
+    "fields": {
+        "id_answer": 3191,
+        "text": "Cuando se actualizan los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:49.296Z",
+        "updated_at": "2026-11-21T19:51:45.386Z",
+        "question": 648,
+        "history_date": "2026-11-21T19:51:45.402Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3494,
+    "fields": {
+        "id_answer": 3194,
+        "text": "Presunto y tácito",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:53:08.932Z",
+        "updated_at": "2026-11-21T19:53:08.932Z",
+        "question": 649,
+        "history_date": "2026-11-21T19:53:08.947Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3495,
+    "fields": {
+        "id_answer": 3195,
+        "text": "Libre, específico, informado e inequívoco, mediante una declaración o una clara acción afirmativa",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:53:24.223Z",
+        "updated_at": "2026-11-21T19:53:24.223Z",
+        "question": 649,
+        "history_date": "2026-11-21T19:53:24.242Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3496,
+    "fields": {
+        "id_answer": 3196,
+        "text": "Exclusivamente verbal",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:53:35.466Z",
+        "updated_at": "2026-11-21T19:53:35.466Z",
+        "question": 649,
+        "history_date": "2026-11-21T19:53:35.482Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3497,
+    "fields": {
+        "id_answer": 3197,
+        "text": "Obligatoriamente notarial",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:53:41.007Z",
+        "updated_at": "2026-11-21T19:53:41.007Z",
+        "question": 649,
+        "history_date": "2026-11-21T19:53:41.028Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3498,
+    "fields": {
+        "id_answer": 3198,
+        "text": "Neutro e imparcial",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:54:13.164Z",
+        "updated_at": "2026-11-21T19:54:13.164Z",
+        "question": 649,
+        "history_date": "2026-11-21T19:54:13.176Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3499,
+    "fields": {
+        "id_answer": 3199,
+        "text": "El consentimiento debe entenderse otorgado para todas las finalidades",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:55:26.447Z",
+        "updated_at": "2026-11-21T19:55:26.447Z",
+        "question": 650,
+        "history_date": "2026-11-21T19:55:26.463Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3500,
+    "fields": {
+        "id_answer": 3200,
+        "text": "El interesado debe prestar un consentimiento global e irrevocable",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:55:32.430Z",
+        "updated_at": "2026-11-21T19:55:32.430Z",
+        "question": 650,
+        "history_date": "2026-11-21T19:55:32.446Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3501,
+    "fields": {
+        "id_answer": 3201,
+        "text": "Debe constar de manera específica e inequívoca para cada una de las finalidades",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:55:40.652Z",
+        "updated_at": "2026-11-21T19:55:40.652Z",
+        "question": 650,
+        "history_date": "2026-11-21T19:55:40.666Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3502,
+    "fields": {
+        "id_answer": 3202,
+        "text": "No es necesario informar de las finalidades",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:55:48.023Z",
+        "updated_at": "2026-11-21T19:55:48.023Z",
+        "question": 650,
+        "history_date": "2026-11-21T19:55:48.035Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3503,
+    "fields": {
+        "id_answer": 3203,
+        "text": "El interesado debe ser advertido verbalmente de esta circunstancia",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:56:44.320Z",
+        "updated_at": "2026-11-21T19:56:44.320Z",
+        "question": 650,
+        "history_date": "2026-11-21T19:56:44.338Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3504,
+    "fields": {
+        "id_answer": 3204,
+        "text": "No es necesario el consentimiento expreso siempre y cuando los datos personales se usen con finalidades mercantiles o publicitarias",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:00:33.131Z",
+        "updated_at": "2026-11-21T20:00:33.131Z",
+        "question": 650,
+        "history_date": "2026-11-21T20:00:33.154Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3505,
+    "fields": {
+        "id_answer": 3205,
+        "text": "12 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:14.491Z",
+        "updated_at": "2026-11-21T20:02:14.491Z",
+        "question": 651,
+        "history_date": "2026-11-21T20:02:14.506Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3506,
+    "fields": {
+        "id_answer": 3206,
+        "text": "13 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:20.477Z",
+        "updated_at": "2026-11-21T20:02:20.477Z",
+        "question": 651,
+        "history_date": "2026-11-21T20:02:20.498Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3507,
+    "fields": {
+        "id_answer": 3207,
+        "text": "14 años",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:02:26.397Z",
+        "updated_at": "2026-11-21T20:02:26.398Z",
+        "question": 651,
+        "history_date": "2026-11-21T20:02:26.415Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3508,
+    "fields": {
+        "id_answer": 3208,
+        "text": "16 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:33.425Z",
+        "updated_at": "2026-11-21T20:02:33.425Z",
+        "question": 651,
+        "history_date": "2026-11-21T20:02:33.436Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3509,
+    "fields": {
+        "id_answer": 3209,
+        "text": "21 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:40.263Z",
+        "updated_at": "2026-11-21T20:02:40.263Z",
+        "question": 651,
+        "history_date": "2026-11-21T20:02:40.275Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3510,
+    "fields": {
+        "id_answer": 3210,
+        "text": "El propio menor, en todo caso",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:03:44.363Z",
+        "updated_at": "2026-11-21T20:03:44.363Z",
+        "question": 652,
+        "history_date": "2026-11-21T20:03:44.378Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3511,
+    "fields": {
+        "id_answer": 3211,
+        "text": "Quienes ostenten la patria potestad o tutela",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:03:51.275Z",
+        "updated_at": "2026-11-21T20:03:51.275Z",
+        "question": 652,
+        "history_date": "2026-11-21T20:03:51.286Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3512,
+    "fields": {
+        "id_answer": 3212,
+        "text": "El Ministerio Fiscal",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:03:59.457Z",
+        "updated_at": "2026-11-21T20:03:59.457Z",
+        "question": 652,
+        "history_date": "2026-11-21T20:03:59.469Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3513,
+    "fields": {
+        "id_answer": 3213,
+        "text": "El delegado de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:04:06.757Z",
+        "updated_at": "2026-11-21T20:04:06.757Z",
+        "question": 652,
+        "history_date": "2026-11-21T20:04:06.771Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3514,
+    "fields": {
+        "id_answer": 3214,
+        "text": "Cualquier familiar en primer o segundo grado de consanguinidad",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:06:43.094Z",
+        "updated_at": "2026-11-21T20:06:43.094Z",
+        "question": 652,
+        "history_date": "2026-11-21T20:06:43.109Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3515,
+    "fields": {
+        "id_answer": 3215,
+        "text": "Cualquier familiar en primer o segundo grado de afinidad",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:08:13.291Z",
+        "updated_at": "2026-11-21T20:08:13.291Z",
+        "question": 652,
+        "history_date": "2026-11-21T20:08:13.308Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3516,
+    "fields": {
+        "id_answer": 3216,
+        "text": "En cualquier contrato privado",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:13:27.348Z",
+        "updated_at": "2026-11-21T20:13:27.348Z",
+        "question": 653,
+        "history_date": "2026-11-21T20:13:27.367Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3517,
+    "fields": {
+        "id_answer": 3217,
+        "text": "En una norma de Derecho de la Unión Europea o en una norma con rango de ley",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:13:34.491Z",
+        "updated_at": "2026-11-21T20:13:34.491Z",
+        "question": 653,
+        "history_date": "2026-11-21T20:13:34.501Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3518,
+    "fields": {
+        "id_answer": 3218,
+        "text": "En una instrucción interna de la empresa",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:13:43.781Z",
+        "updated_at": "2026-11-21T20:13:43.782Z",
+        "question": 653,
+        "history_date": "2026-11-21T20:13:43.798Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3519,
+    "fields": {
+        "id_answer": 3219,
+        "text": "En una decisión verbal del responsable del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:13:50.303Z",
+        "updated_at": "2026-11-21T20:13:50.303Z",
+        "question": 653,
+        "history_date": "2026-11-21T20:13:50.314Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3520,
+    "fields": {
+        "id_answer": 3220,
+        "text": "Que exista una norma con rango de ley que atribuya la competencia correspondiente",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:15:23.014Z",
+        "updated_at": "2026-11-21T20:15:23.014Z",
+        "question": 654,
+        "history_date": "2026-11-21T20:15:23.029Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3521,
+    "fields": {
+        "id_answer": 3221,
+        "text": "Que el interesado preste siempre consentimiento expreso",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:15:30.404Z",
+        "updated_at": "2026-11-21T20:15:30.404Z",
+        "question": 654,
+        "history_date": "2026-11-21T20:15:30.424Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3522,
+    "fields": {
+        "id_answer": 3222,
+        "text": "Que lo autorice un notario",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:15:38.162Z",
+        "updated_at": "2026-11-21T20:15:38.162Z",
+        "question": 654,
+        "history_date": "2026-11-21T20:15:38.174Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3523,
+    "fields": {
+        "id_answer": 3223,
+        "text": "Que lo autorice la Agencia Española de Protección de Datos (AEPD)",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:16:19.322Z",
+        "updated_at": "2026-11-21T20:16:19.322Z",
+        "question": 654,
+        "history_date": "2026-11-21T20:16:19.339Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3524,
+    "fields": {
+        "id_answer": 3222,
+        "text": "Que lo autorice un notario en escritura pública",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:15:38.162Z",
+        "updated_at": "2026-11-21T20:16:35.996Z",
+        "question": 654,
+        "history_date": "2026-11-21T20:16:36.010Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3525,
+    "fields": {
+        "id_answer": 3224,
+        "text": "Que el tratamiento sea gratuito",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:16:43.429Z",
+        "updated_at": "2026-11-21T20:16:43.429Z",
+        "question": 654,
+        "history_date": "2026-11-21T20:16:43.449Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3526,
+    "fields": {
+        "id_answer": 3225,
+        "text": "Dirección postal",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:18:44.313Z",
+        "updated_at": "2026-11-21T20:18:44.313Z",
+        "question": 655,
+        "history_date": "2026-11-21T20:18:44.325Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3527,
+    "fields": {
+        "id_answer": 3226,
+        "text": "Número de teléfono",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:18:51.447Z",
+        "updated_at": "2026-11-21T20:18:51.447Z",
+        "question": 655,
+        "history_date": "2026-11-21T20:18:51.468Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3528,
+    "fields": {
+        "id_answer": 3227,
+        "text": "Datos relativos a la salud",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:19:01.494Z",
+        "updated_at": "2026-11-21T20:19:01.495Z",
+        "question": 655,
+        "history_date": "2026-11-21T20:19:01.510Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3529,
+    "fields": {
+        "id_answer": 3228,
+        "text": "Matrícula de un vehículo",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:19:09.889Z",
+        "updated_at": "2026-11-21T20:19:09.889Z",
+        "question": 655,
+        "history_date": "2026-11-21T20:19:09.898Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3530,
+    "fields": {
+        "id_answer": 3229,
+        "text": "Datos relativos a la orientación sexual",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:33:40.393Z",
+        "updated_at": "2026-11-21T23:33:40.393Z",
+        "question": 655,
+        "history_date": "2026-11-21T23:33:40.412Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3531,
+    "fields": {
+        "id_answer": 3230,
+        "text": "Datos relativos a la afiliación sindical",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:34:05.626Z",
+        "updated_at": "2026-11-21T23:34:05.626Z",
+        "question": 655,
+        "history_date": "2026-11-21T23:34:05.646Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3532,
+    "fields": {
+        "id_answer": 3231,
+        "text": "Números de cuenta bancaria",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:34:23.563Z",
+        "updated_at": "2026-11-21T23:34:23.563Z",
+        "question": 655,
+        "history_date": "2026-11-21T23:34:23.576Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3533,
+    "fields": {
+        "id_answer": 3232,
+        "text": "Correo electrónico",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:34:55.709Z",
+        "updated_at": "2026-11-21T23:34:55.709Z",
+        "question": 655,
+        "history_date": "2026-11-21T23:34:55.725Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3534,
+    "fields": {
+        "id_answer": 3233,
+        "text": "Sí, siempre",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:15.933Z",
+        "updated_at": "2026-11-21T23:37:15.933Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:37:15.946Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3535,
+    "fields": {
+        "id_answer": 3234,
+        "text": "No, el consentimiento por sí solo no basta para levantar dicha prohibición",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:37:21.657Z",
+        "updated_at": "2026-11-21T23:37:21.657Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:37:21.675Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3536,
+    "fields": {
+        "id_answer": 3235,
+        "text": "Sí, siempre que sea verbal",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:31.264Z",
+        "updated_at": "2026-11-21T23:37:31.264Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:37:31.286Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3537,
+    "fields": {
+        "id_answer": 3236,
+        "text": "Sí, cuando el responsable sea una Administración Pública",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:38.674Z",
+        "updated_at": "2026-11-21T23:37:38.674Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:37:38.694Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3538,
+    "fields": {
+        "id_answer": 3237,
+        "text": "Sí, cuando el responsable sea una empresa privada",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:38:47.299Z",
+        "updated_at": "2026-11-21T23:38:47.299Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:38:47.317Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3539,
+    "fields": {
+        "id_answer": 3236,
+        "text": "Sí, cuando el responsable sea una administración pública",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:38.674Z",
+        "updated_at": "2026-11-21T23:38:55.202Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:38:55.213Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3540,
+    "fields": {
+        "id_answer": 3238,
+        "text": "Si, siempre y cuando esté de acuerdo el delegado o delegada de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:40:48.261Z",
+        "updated_at": "2026-11-21T23:40:48.261Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:40:48.273Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3541,
+    "fields": {
+        "id_answer": 3239,
+        "text": "Si, siempre que sea por escrito",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:43:15.743Z",
+        "updated_at": "2026-11-21T23:43:15.743Z",
+        "question": 656,
+        "history_date": "2026-11-21T23:43:15.764Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3542,
+    "fields": {
+        "id_answer": 3240,
+        "text": "Puede realizarse libremente con consentimiento tácito",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:44:32.392Z",
+        "updated_at": "2026-11-21T23:44:32.392Z",
+        "question": 657,
+        "history_date": "2026-11-21T23:44:32.407Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3543,
+    "fields": {
+        "id_answer": 3241,
+        "text": "Se regirá por el Reglamento (UE) 2016/679 y la normativa aplicable, con las garantías y condiciones establecidas en el artículo 10",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:44:40.749Z",
+        "updated_at": "2026-11-21T23:44:40.749Z",
+        "question": 657,
+        "history_date": "2026-11-21T23:44:40.759Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3544,
+    "fields": {
+        "id_answer": 3242,
+        "text": "Está siempre prohibido sin excepción",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:44:48.427Z",
+        "updated_at": "2026-11-21T23:44:48.427Z",
+        "question": 657,
+        "history_date": "2026-11-21T23:44:48.445Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3545,
+    "fields": {
+        "id_answer": 3243,
+        "text": "No está sujeto a la normativa de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:44:56.607Z",
+        "updated_at": "2026-11-21T23:44:56.607Z",
+        "question": 657,
+        "history_date": "2026-11-21T23:44:56.628Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3546,
+    "fields": {
+        "id_answer": 3244,
+        "text": "Será siempre responsable de la inexactitud",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:16.334Z",
+        "updated_at": "2026-11-21T23:48:16.334Z",
+        "question": 658,
+        "history_date": "2026-11-21T23:48:16.355Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3547,
+    "fields": {
+        "id_answer": 3245,
+        "text": "No será imputable la inexactitud al responsable si ha adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:26.308Z",
+        "updated_at": "2026-11-21T23:48:26.308Z",
+        "question": 658,
+        "history_date": "2026-11-21T23:48:26.331Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3548,
+    "fields": {
+        "id_answer": 3245,
+        "text": "No será imputable la inexactitud al responsable si ha adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:48:26.308Z",
+        "updated_at": "2026-11-21T23:48:30.006Z",
+        "question": 658,
+        "history_date": "2026-11-21T23:48:30.020Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3549,
+    "fields": {
+        "id_answer": 3246,
+        "text": "Podrá conservarlos indefinidamente",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:35.201Z",
+        "updated_at": "2026-11-21T23:48:35.201Z",
+        "question": 658,
+        "history_date": "2026-11-21T23:48:35.212Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3550,
+    "fields": {
+        "id_answer": 3247,
+        "text": "Deberá comunicar los datos inexactos a terceros",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:42.131Z",
+        "updated_at": "2026-11-21T23:48:42.131Z",
+        "question": 658,
+        "history_date": "2026-11-21T23:48:42.150Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3551,
+    "fields": {
+        "id_answer": 3248,
+        "text": "Solo será responsable en los casos de datos clasificados como categoría especial",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:53:55.770Z",
+        "updated_at": "2026-11-21T23:53:55.770Z",
+        "question": 658,
+        "history_date": "2026-11-21T23:53:55.786Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3552,
+    "fields": {
+        "id_answer": 3249,
+        "text": "Son obligaciones incompatibles",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:55:02.772Z",
+        "updated_at": "2026-11-21T23:55:02.772Z",
+        "question": 659,
+        "history_date": "2026-11-21T23:55:02.795Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3553,
+    "fields": {
+        "id_answer": 3250,
+        "text": "El deber de confidencialidad sustituye al secreto profesional",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:55:09.340Z",
+        "updated_at": "2026-11-21T23:55:09.340Z",
+        "question": 659,
+        "history_date": "2026-11-21T23:55:09.353Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3554,
+    "fields": {
+        "id_answer": 3251,
+        "text": "El deber de confidencialidad es complementario de los deberes de secreto profesional que establezca la normativa aplicable",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:55:17.864Z",
+        "updated_at": "2026-11-21T23:55:17.864Z",
+        "question": 659,
+        "history_date": "2026-11-21T23:55:17.880Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3555,
+    "fields": {
+        "id_answer": 3252,
+        "text": "El secreto profesional solo se aplica a los funcionarios públicos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:55:23.701Z",
+        "updated_at": "2026-11-21T23:55:23.702Z",
+        "question": 659,
+        "history_date": "2026-11-21T23:55:23.720Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3556,
+    "fields": {
+        "id_answer": 3241,
+        "text": "Solo podrá llevarse a cabo cuando esté amparado por una norma de Derecho de la Unión Europea o una norma con rango de ley, con las garantías adecuadas",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:44:40.749Z",
+        "updated_at": "2026-11-21T23:56:18.879Z",
+        "question": 657,
+        "history_date": "2026-11-21T23:56:18.892Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3557,
+    "fields": {
+        "id_answer": 3253,
+        "text": "Deberá ser autorizado por el delegado o delegada de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:57:20.122Z",
+        "updated_at": "2026-11-21T23:57:20.122Z",
+        "question": 657,
+        "history_date": "2026-11-21T23:57:20.135Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3558,
+    "fields": {
+        "id_answer": 3254,
+        "text": "El tratamiento automatizado de datos personales realizado por una persona física en el ejercicio de una actividad exclusivamente personal o doméstica.",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:10.486Z",
+        "updated_at": "2026-11-22T00:01:10.486Z",
+        "question": 660,
+        "history_date": "2026-11-22T00:01:10.502Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3559,
+    "fields": {
+        "id_answer": 3255,
+        "text": "El tratamiento no automatizado de datos personales contenidos en un fichero",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:19.450Z",
+        "updated_at": "2026-11-22T00:01:19.450Z",
+        "question": 660,
+        "history_date": "2026-11-22T00:01:19.471Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3560,
+    "fields": {
+        "id_answer": 3256,
+        "text": "El tratamiento automatizado de datos personales realizado por una empresa con fines comerciales",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:26.013Z",
+        "updated_at": "2026-11-22T00:01:26.013Z",
+        "question": 660,
+        "history_date": "2026-11-22T00:01:26.033Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3561,
+    "fields": {
+        "id_answer": 3257,
+        "text": "El tratamiento de datos personales contenidos en un fichero destinado a ser incluido en él",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:55.390Z",
+        "updated_at": "2026-11-22T00:01:55.390Z",
+        "question": 660,
+        "history_date": "2026-11-22T00:01:55.411Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3562,
+    "fields": {
+        "id_answer": 3254,
+        "text": "El tratamiento automatizado de datos personales realizado por una persona física en el ejercicio de una actividad exclusivamente personal o doméstica.",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:01:10.486Z",
+        "updated_at": "2026-11-22T00:02:03.005Z",
+        "question": 660,
+        "history_date": "2026-11-22T00:02:03.017Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3563,
+    "fields": {
+        "id_answer": 3258,
+        "text": "Los herederos podrán acceder a los datos personales del fallecido, salvo que este lo hubiese prohibido expresamente o así lo establezca una ley.",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:07:16.341Z",
+        "updated_at": "2026-11-22T00:07:16.341Z",
+        "question": 661,
+        "history_date": "2026-11-22T00:07:16.360Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3564,
+    "fields": {
+        "id_answer": 3259,
+        "text": "Las personas o instituciones a las que el fallecido hubiese designado expresamente podrán solicitar el acceso, rectificación o supresión de sus datos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:07:28.243Z",
+        "updated_at": "2026-11-22T00:07:28.243Z",
+        "question": 661,
+        "history_date": "2026-11-22T00:07:28.261Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3565,
+    "fields": {
+        "id_answer": 3260,
+        "text": "Cuando el fallecido hubiese prohibido expresamente el acceso a sus datos, dicha prohibición impedirá también el acceso de los herederos a los datos de carácter patrimonial",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:07:42.389Z",
+        "updated_at": "2026-11-22T00:07:42.389Z",
+        "question": 661,
+        "history_date": "2026-11-22T00:07:42.408Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3566,
+    "fields": {
+        "id_answer": 3258,
+        "text": "Los herederos podrán acceder a los datos personales del fallecido, salvo que este lo hubiese prohibido expresamente o así lo establezca una ley.",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:07:16.341Z",
+        "updated_at": "2026-11-22T00:07:51.707Z",
+        "question": 661,
+        "history_date": "2026-11-22T00:07:51.727Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3567,
+    "fields": {
+        "id_answer": 3261,
+        "text": "Las personas vinculadas al fallecido por razones familiares o de hecho podrán solicitar el acceso a sus datos, salvo que exista prohibición expresa o una ley lo impida",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:08:06.829Z",
+        "updated_at": "2026-11-22T00:08:06.830Z",
+        "question": 661,
+        "history_date": "2026-11-22T00:08:06.848Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3568,
+    "fields": {
+        "id_answer": 3262,
+        "text": "Solo podrán acceder mediante el visto bueno de Ministerio Fiscal",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:10:36.714Z",
+        "updated_at": "2026-11-22T00:10:36.714Z",
+        "question": 661,
+        "history_date": "2026-11-22T00:10:36.733Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3569,
+    "fields": {
+        "id_answer": 3263,
+        "text": "El responsable será siempre imputable por cualquier inexactitud, incluso cuando hubiera adoptado todas las medidas razonables para corregirla",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:12:26.411Z",
+        "updated_at": "2026-11-22T00:12:26.411Z",
+        "question": 662,
+        "history_date": "2026-11-22T00:12:26.428Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3570,
+    "fields": {
+        "id_answer": 3264,
+        "text": "No será imputable al responsable la inexactitud de los datos obtenidos directamente del afectado si ha adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:12:42.258Z",
+        "updated_at": "2026-11-22T00:12:42.258Z",
+        "question": 662,
+        "history_date": "2026-11-22T00:12:42.268Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3571,
+    "fields": {
+        "id_answer": 3265,
+        "text": "El responsable únicamente debe garantizar la exactitud de los datos obtenidos indirectamente",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:12:50.343Z",
+        "updated_at": "2026-11-22T00:12:50.343Z",
+        "question": 662,
+        "history_date": "2026-11-22T00:12:50.354Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3572,
+    "fields": {
+        "id_answer": 3266,
+        "text": "Los datos personales no necesitan actualizarse cuando el tratamiento se base en el consentimiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:13:02.165Z",
+        "updated_at": "2026-11-22T00:13:02.165Z",
+        "question": 662,
+        "history_date": "2026-11-22T00:13:02.189Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3573,
+    "fields": {
+        "id_answer": 3267,
+        "text": "El responsable únicamente debe garantizar la exactitud de los datos obtenidos de un registro público",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:14:23.159Z",
+        "updated_at": "2026-11-22T00:14:23.159Z",
+        "question": 662,
+        "history_date": "2026-11-22T00:14:23.180Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3574,
+    "fields": {
+        "id_answer": 3268,
+        "text": "Se mantendrá únicamente mientras exista una relación contractual entre el responsable y el encargado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:15:27.243Z",
+        "updated_at": "2026-11-22T00:15:27.243Z",
+        "question": 663,
+        "history_date": "2026-11-22T00:15:27.264Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3575,
+    "fields": {
+        "id_answer": 3269,
+        "text": "Se mantendrá incluso cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:15:35.167Z",
+        "updated_at": "2026-11-22T00:15:35.167Z",
+        "question": 663,
+        "history_date": "2026-11-22T00:15:35.178Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3576,
+    "fields": {
+        "id_answer": 3270,
+        "text": "Se mantendrá  hasta 5 años desde que hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:16:04.932Z",
+        "updated_at": "2026-11-22T00:16:04.932Z",
+        "question": 663,
+        "history_date": "2026-11-22T00:16:04.944Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3577,
+    "fields": {
+        "id_answer": 3271,
+        "text": "Se extinguirá cuando el interesado ejerza su derecho de supresión",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:16:14.200Z",
+        "updated_at": "2026-11-22T00:16:14.200Z",
+        "question": 663,
+        "history_date": "2026-11-22T00:16:14.222Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3578,
+    "fields": {
+        "id_answer": 3269,
+        "text": "Se mantendrá incluso cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:15:35.167Z",
+        "updated_at": "2026-11-22T00:16:21.050Z",
+        "question": 663,
+        "history_date": "2026-11-22T00:16:21.062Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3579,
+    "fields": {
+        "id_answer": 3272,
+        "text": "Afectará exclusivamente a quienes tengan acceso directo a los datos personales",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:16:36.116Z",
+        "updated_at": "2026-11-22T00:16:36.116Z",
+        "question": 663,
+        "history_date": "2026-11-22T00:16:36.138Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3580,
+    "fields": {
+        "id_answer": 3273,
+        "text": "El consentimiento es válido porque existe una manifestación formal de voluntad",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:18:10.839Z",
+        "updated_at": "2026-11-22T00:18:10.839Z",
+        "question": 664,
+        "history_date": "2026-11-22T00:18:10.861Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3581,
+    "fields": {
+        "id_answer": 3274,
+        "text": "El consentimiento es válido si se ha informado previamente al interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:18:18.907Z",
+        "updated_at": "2026-11-22T00:18:18.907Z",
+        "question": 664,
+        "history_date": "2026-11-22T00:18:18.920Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3582,
+    "fields": {
+        "id_answer": 3275,
+        "text": "El consentimiento no reúne el requisito de una clara acción afirmativa",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:18:27.572Z",
+        "updated_at": "2026-11-22T00:18:27.572Z",
+        "question": 664,
+        "history_date": "2026-11-22T00:18:27.592Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3583,
+    "fields": {
+        "id_answer": 3276,
+        "text": "El consentimiento es válido siempre que no exista oposición posterior del interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:18:37.837Z",
+        "updated_at": "2026-11-22T00:18:37.837Z",
+        "question": 664,
+        "history_date": "2026-11-22T00:18:37.857Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3584,
+    "fields": {
+        "id_answer": 3277,
+        "text": "El consentimiento es perfectamente válido",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:19:38.173Z",
+        "updated_at": "2026-11-22T00:19:38.173Z",
+        "question": 664,
+        "history_date": "2026-11-22T00:19:38.192Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3585,
+    "fields": {
+        "id_answer": 3278,
+        "text": "El consentimiento es válido porque el menor tiene más de 12 años",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:11.281Z",
+        "updated_at": "2026-11-22T00:47:11.281Z",
+        "question": 665,
+        "history_date": "2026-11-22T00:47:11.298Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3586,
+    "fields": {
+        "id_answer": 3279,
+        "text": "El consentimiento es válido siempre que el tratamiento no implique datos especialmente protegidos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:17.672Z",
+        "updated_at": "2026-11-22T00:47:17.672Z",
+        "question": 665,
+        "history_date": "2026-11-22T00:47:17.689Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3587,
+    "fields": {
+        "id_answer": 3280,
+        "text": "El consentimiento no es válido por sí solo, al no haber alcanzado el menor la edad de 14 años establecida en la legislación española",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:47:27.755Z",
+        "updated_at": "2026-11-22T00:47:27.755Z",
+        "question": 665,
+        "history_date": "2026-11-22T00:47:27.769Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3588,
+    "fields": {
+        "id_answer": 3281,
+        "text": "El consentimiento es válido si el responsable del tratamiento considera que el menor tiene madurez suficiente",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:36.253Z",
+        "updated_at": "2026-11-22T00:47:36.253Z",
+        "question": 665,
+        "history_date": "2026-11-22T00:47:36.265Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3589,
+    "fields": {
+        "id_answer": 3282,
+        "text": "El consentimiento es válido",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:43.046Z",
+        "updated_at": "2026-11-22T00:47:43.046Z",
+        "question": 665,
+        "history_date": "2026-11-22T00:47:43.062Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3590,
+    "fields": {
+        "id_answer": 3282,
+        "text": "El consentimiento es válido si los datos personales son exactos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:43.046Z",
+        "updated_at": "2026-11-22T00:49:02.567Z",
+        "question": 665,
+        "history_date": "2026-11-22T00:49:02.583Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3591,
+    "fields": {
+        "id_answer": 3283,
+        "text": "Basta con que exista una disposición reglamentaria que lo autorice",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:50:35.714Z",
+        "updated_at": "2026-11-22T00:50:35.714Z",
+        "question": 666,
+        "history_date": "2026-11-22T00:50:35.733Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3592,
+    "fields": {
+        "id_answer": 3284,
+        "text": "Debe estar previsto en una norma de Derecho de la Unión Europea o en una norma con rango de ley",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:50:42.240Z",
+        "updated_at": "2026-11-22T00:50:42.240Z",
+        "question": 666,
+        "history_date": "2026-11-22T00:50:42.261Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3593,
+    "fields": {
+        "id_answer": 3285,
+        "text": "Es imprescindible el consentimiento expreso del interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:50:48.430Z",
+        "updated_at": "2026-11-22T00:50:48.430Z",
+        "question": 666,
+        "history_date": "2026-11-22T00:50:48.448Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3594,
+    "fields": {
+        "id_answer": 3286,
+        "text": "Puede fundamentarse en cualquier instrucción administrativa interna",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:51:15.019Z",
+        "updated_at": "2026-11-22T00:51:15.019Z",
+        "question": 666,
+        "history_date": "2026-11-22T00:51:15.039Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3595,
+    "fields": {
+        "id_answer": 3284,
+        "text": "Debe estar previsto en una norma de Derecho de la Unión Europea o en una norma con rango de ley",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:50:42.240Z",
+        "updated_at": "2026-11-22T00:51:31.064Z",
+        "question": 666,
+        "history_date": "2026-11-22T00:51:31.082Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3596,
+    "fields": {
+        "id_answer": 3287,
+        "text": "No podrá nunca incluir datos clasificados dentro de alguna de las categorías especiales de datos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:53:26.935Z",
+        "updated_at": "2026-11-22T00:53:26.935Z",
+        "question": 666,
+        "history_date": "2026-11-22T00:53:26.955Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3597,
+    "fields": {
+        "id_answer": 3288,
+        "text": "Puede fundamentarse en cualquier instrucción administrativa interna",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:54:08.931Z",
+        "updated_at": "2026-11-22T00:54:08.931Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:54:08.944Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3598,
+    "fields": {
+        "id_answer": 3288,
+        "text": "El consentimiento explícito del interesado siempre permite tratar datos personales cuya finalidad principal sea identificar su ideología o creencias",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:54:08.931Z",
+        "updated_at": "2026-11-22T00:54:16.993Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:54:17.003Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3599,
+    "fields": {
+        "id_answer": 3289,
+        "text": "El mero consentimiento del afectado basta para levantar la prohibición de tratamiento de cualquier categoría especial de datos.",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:54:37.218Z",
+        "updated_at": "2026-11-22T00:54:37.218Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:54:37.236Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3600,
+    "fields": {
+        "id_answer": 3289,
+        "text": "El mero consentimiento del afectado basta para levantar la prohibición de tratamiento de cualquier categoría especial de datos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:54:37.218Z",
+        "updated_at": "2026-11-22T00:54:43.921Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:54:43.935Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3601,
+    "fields": {
+        "id_answer": 3290,
+        "text": "El consentimiento del afectado no basta por sí solo para levantar la prohibición de tratamiento cuando la finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:54:55.281Z",
+        "updated_at": "2026-11-22T00:54:55.281Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:54:55.295Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3602,
+    "fields": {
+        "id_answer": 3291,
+        "text": "Los datos relativos a la salud no tienen la consideración de categorías especiales a estos efectos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:55:04.779Z",
+        "updated_at": "2026-11-22T00:55:04.780Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:55:04.799Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3603,
+    "fields": {
+        "id_answer": 3292,
+        "text": "Los datos relativos a origen racial o étnico no tienen la consideración de categorías especiales a estos efectos.",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:55:25.625Z",
+        "updated_at": "2026-11-22T00:55:25.625Z",
+        "question": 667,
+        "history_date": "2026-11-22T00:55:25.641Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3604,
+    "fields": {
+        "id_answer": 3293,
+        "text": "El tratamiento es necesariamente ilícito porque todo tratamiento de datos personales exige consentimiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:57:30.055Z",
+        "updated_at": "2026-11-22T00:57:30.055Z",
+        "question": 668,
+        "history_date": "2026-11-22T00:57:30.068Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3605,
+    "fields": {
+        "id_answer": 3294,
+        "text": "El tratamiento puede estar legitimado por el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos, sin que sea necesario basarlo en el consentimiento",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:57:53.353Z",
+        "updated_at": "2026-11-22T00:57:53.353Z",
+        "question": 668,
+        "history_date": "2026-11-22T00:57:53.373Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3606,
+    "fields": {
+        "id_answer": 3295,
+        "text": "El tratamiento solo será legítimo si el interesado firma una autorización expresa",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:58:02.414Z",
+        "updated_at": "2026-11-22T00:58:02.414Z",
+        "question": 668,
+        "history_date": "2026-11-22T00:58:02.432Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3607,
+    "fields": {
+        "id_answer": 3296,
+        "text": "El tratamiento únicamente puede realizarse cuando exista una relación contractual entre la Administración y el interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:58:11.866Z",
+        "updated_at": "2026-11-22T00:58:11.866Z",
+        "question": 668,
+        "history_date": "2026-11-22T00:58:11.891Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -115318,6 +119197,1634 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 3149,
+    "fields": {
+        "question": 641,
+        "text": "Regular exclusivamente el tratamiento de datos por las Administraciones Públicas",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:51:38.732Z",
+        "updated_at": "2026-11-21T18:51:38.732Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3150,
+    "fields": {
+        "question": 641,
+        "text": "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679 y garantizar los derechos digitales de la ciudadanía",
+        "is_correct": true,
+        "created_at": "2026-11-21T18:51:49.623Z",
+        "updated_at": "2026-11-21T18:51:49.623Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3151,
+    "fields": {
+        "question": 641,
+        "text": "Sustituir íntegramente el Reglamento General de Protección de Datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:51:59.736Z",
+        "updated_at": "2026-11-21T18:51:59.736Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3152,
+    "fields": {
+        "question": 641,
+        "text": "Regular únicamente el derecho al honor y a la intimidad personal.",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:52:09.714Z",
+        "updated_at": "2026-11-21T18:52:09.714Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3153,
+    "fields": {
+        "question": 641,
+        "text": "Regular únicamente los derechos digitales del ciudadano",
+        "is_correct": false,
+        "created_at": "2026-11-21T18:52:30.501Z",
+        "updated_at": "2026-11-21T18:52:30.501Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3154,
+    "fields": {
+        "question": 642,
+        "text": "Artículo 14",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:18:03.248Z",
+        "updated_at": "2026-11-21T19:18:03.248Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3155,
+    "fields": {
+        "question": 642,
+        "text": "Artículo 16",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:18:07.951Z",
+        "updated_at": "2026-11-21T19:18:07.951Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3156,
+    "fields": {
+        "question": 642,
+        "text": "Artículo 18.4",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:18:14.597Z",
+        "updated_at": "2026-11-21T19:18:14.597Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3157,
+    "fields": {
+        "question": 642,
+        "text": "Artículo 20",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:18:20.891Z",
+        "updated_at": "2026-11-21T19:18:20.891Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3158,
+    "fields": {
+        "question": 642,
+        "text": "Artículo 18",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:18:30.643Z",
+        "updated_at": "2026-11-21T19:18:30.643Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3159,
+    "fields": {
+        "question": 643,
+        "text": "Exclusivamente a los tratamientos automatizados",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:20:00.681Z",
+        "updated_at": "2026-11-21T19:20:00.681Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3160,
+    "fields": {
+        "question": 643,
+        "text": "A cualquier tratamiento total o parcialmente automatizado de datos personales y a los no automatizados contenidos o destinados a incluirse en un fichero",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:20:13.841Z",
+        "updated_at": "2026-11-21T19:20:13.841Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3161,
+    "fields": {
+        "question": 643,
+        "text": "Exclusivamente a los tratamientos realizados por empresas privadas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:20:20.624Z",
+        "updated_at": "2026-11-21T19:20:20.625Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3162,
+    "fields": {
+        "question": 643,
+        "text": "Exclusivamente a los tratamientos realizados por empresas públicas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:20:29.084Z",
+        "updated_at": "2026-11-21T19:20:29.085Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3163,
+    "fields": {
+        "question": 643,
+        "text": "Exclusivamente a los tratamientos realizados por las administraciones públicas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:21:01.144Z",
+        "updated_at": "2026-11-21T19:21:01.145Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3164,
+    "fields": {
+        "question": 643,
+        "text": "Únicamente a los tratamientos que requieren consentimiento expreso",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:21:09.665Z",
+        "updated_at": "2026-11-21T19:21:09.665Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3165,
+    "fields": {
+        "question": 643,
+        "text": "A los tratamientos sometidos a la normativa sobre protección de materias clasificadas",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:30:46.498Z",
+        "updated_at": "2026-11-21T19:30:46.498Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3166,
+    "fields": {
+        "question": 644,
+        "text": "Exclusivamente sus herederos legales",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:33:25.114Z",
+        "updated_at": "2026-11-21T19:33:25.115Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3167,
+    "fields": {
+        "question": 644,
+        "text": "Cualquier persona que demuestre interés legítimo",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:33:32.930Z",
+        "updated_at": "2026-11-21T19:33:32.930Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3168,
+    "fields": {
+        "question": 644,
+        "text": "Las personas vinculadas al fallecido por razones familiares o de hecho, así como sus herederos",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:33:40.738Z",
+        "updated_at": "2026-11-21T19:33:40.738Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3169,
+    "fields": {
+        "question": 644,
+        "text": "Exclusivamente el cónyuge superviviente",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:33:49.212Z",
+        "updated_at": "2026-11-21T19:33:49.212Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3170,
+    "fields": {
+        "question": 644,
+        "text": "Cualquier ciudadano de un país miembro de la Comunidad Económica Europea (CEE)",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:34:50.924Z",
+        "updated_at": "2026-11-21T19:34:50.924Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3171,
+    "fields": {
+        "question": 644,
+        "text": "Únicamente las personas o instituciones a las que el fallecido hubiese designado\r\nexpresamente",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:36:54.471Z",
+        "updated_at": "2026-11-21T19:36:54.471Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3172,
+    "fields": {
+        "question": 645,
+        "text": "Los familiares pueden acceder siempre que acrediten parentesco",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:39:23.564Z",
+        "updated_at": "2026-11-21T19:39:23.564Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3173,
+    "fields": {
+        "question": 645,
+        "text": "No se podrá acceder a sus datos ni solicitar su rectificación o supresión, sin perjuicio del derecho de los herederos a acceder a los datos patrimoniales",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:39:32.790Z",
+        "updated_at": "2026-11-21T19:39:32.790Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3174,
+    "fields": {
+        "question": 645,
+        "text": "Los herederos podrán acceder libremente a todos sus datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:39:39.846Z",
+        "updated_at": "2026-11-21T19:39:39.846Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3175,
+    "fields": {
+        "question": 645,
+        "text": "La prohibición solamente afecta a los datos económicos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:39:45.307Z",
+        "updated_at": "2026-11-21T19:39:45.307Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3176,
+    "fields": {
+        "question": 645,
+        "text": "No se podrá acceder, rectificar o suprimir sus datos bajo ninguna circunstancia",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:40:41.593Z",
+        "updated_at": "2026-11-21T19:40:41.593Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3177,
+    "fields": {
+        "question": 646,
+        "text": "Públicos y accesibles",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:42:34.653Z",
+        "updated_at": "2026-11-21T19:42:34.653Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3178,
+    "fields": {
+        "question": 646,
+        "text": "Exactos y, si fuera necesario, actualizados",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:42:42.177Z",
+        "updated_at": "2026-11-21T19:42:42.177Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3179,
+    "fields": {
+        "question": 646,
+        "text": "Conservados permanentemente",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:42:48.085Z",
+        "updated_at": "2026-11-21T19:42:48.085Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3180,
+    "fields": {
+        "question": 646,
+        "text": "Comunicados a todos los interesados",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:42:53.190Z",
+        "updated_at": "2026-11-21T19:42:53.190Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3181,
+    "fields": {
+        "question": 646,
+        "text": "Digitalizados",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:43:02.159Z",
+        "updated_at": "2026-11-21T19:43:02.160Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3182,
+    "fields": {
+        "question": 646,
+        "text": "Secretos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:43:27.174Z",
+        "updated_at": "2026-11-21T19:43:27.174Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3183,
+    "fields": {
+        "question": 647,
+        "text": "Que únicamente afecta al responsable del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:45:52.799Z",
+        "updated_at": "2026-11-21T19:45:52.799Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3184,
+    "fields": {
+        "question": 647,
+        "text": "Que solo afecta a los empleados públicos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:45:59.063Z",
+        "updated_at": "2026-11-21T19:45:59.063Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3185,
+    "fields": {
+        "question": 647,
+        "text": "Que afecta a responsables, encargados y todas las personas que intervengan en cualquier fase del tratamiento",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:46:06.403Z",
+        "updated_at": "2026-11-21T19:46:06.403Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3186,
+    "fields": {
+        "question": 647,
+        "text": "Que desaparece cuando finaliza la relación laboral",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:46:14.202Z",
+        "updated_at": "2026-11-21T19:46:14.202Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3187,
+    "fields": {
+        "question": 647,
+        "text": "Que desaparece en cuanto finaliza la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:47:56.642Z",
+        "updated_at": "2026-11-21T19:47:56.642Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3188,
+    "fields": {
+        "question": 648,
+        "text": "Cuando finaliza la relación laboral",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:22.319Z",
+        "updated_at": "2026-11-21T19:49:22.319Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3189,
+    "fields": {
+        "question": 648,
+        "text": "Cuando el interesado retira su consentimiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:30.819Z",
+        "updated_at": "2026-11-21T19:49:30.819Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3190,
+    "fields": {
+        "question": 648,
+        "text": "No desaparece por el mero hecho de finalizar la relación con el responsable o encargado",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:49:41.456Z",
+        "updated_at": "2026-11-21T19:49:41.456Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3191,
+    "fields": {
+        "question": 648,
+        "text": "Cuando se actualizan los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:49:49.296Z",
+        "updated_at": "2026-11-21T19:51:45.386Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3192,
+    "fields": {
+        "question": 648,
+        "text": "30 años a contar desde el registro inicial de los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:50:23.556Z",
+        "updated_at": "2026-11-21T19:50:23.556Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3193,
+    "fields": {
+        "question": 648,
+        "text": "Cuando se suprimen los datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:51:29.554Z",
+        "updated_at": "2026-11-21T19:51:29.554Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3194,
+    "fields": {
+        "question": 649,
+        "text": "Presunto y tácito",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:53:08.932Z",
+        "updated_at": "2026-11-21T19:53:08.932Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3195,
+    "fields": {
+        "question": 649,
+        "text": "Libre, específico, informado e inequívoco, mediante una declaración o una clara acción afirmativa",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:53:24.223Z",
+        "updated_at": "2026-11-21T19:53:24.223Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3196,
+    "fields": {
+        "question": 649,
+        "text": "Exclusivamente verbal",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:53:35.466Z",
+        "updated_at": "2026-11-21T19:53:35.466Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3197,
+    "fields": {
+        "question": 649,
+        "text": "Obligatoriamente notarial",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:53:41.007Z",
+        "updated_at": "2026-11-21T19:53:41.007Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3198,
+    "fields": {
+        "question": 649,
+        "text": "Neutro e imparcial",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:54:13.164Z",
+        "updated_at": "2026-11-21T19:54:13.164Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3199,
+    "fields": {
+        "question": 650,
+        "text": "El consentimiento debe entenderse otorgado para todas las finalidades",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:55:26.447Z",
+        "updated_at": "2026-11-21T19:55:26.447Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3200,
+    "fields": {
+        "question": 650,
+        "text": "El interesado debe prestar un consentimiento global e irrevocable",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:55:32.430Z",
+        "updated_at": "2026-11-21T19:55:32.430Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3201,
+    "fields": {
+        "question": 650,
+        "text": "Debe constar de manera específica e inequívoca para cada una de las finalidades",
+        "is_correct": true,
+        "created_at": "2026-11-21T19:55:40.652Z",
+        "updated_at": "2026-11-21T19:55:40.652Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3202,
+    "fields": {
+        "question": 650,
+        "text": "No es necesario informar de las finalidades",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:55:48.023Z",
+        "updated_at": "2026-11-21T19:55:48.023Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3203,
+    "fields": {
+        "question": 650,
+        "text": "El interesado debe ser advertido verbalmente de esta circunstancia",
+        "is_correct": false,
+        "created_at": "2026-11-21T19:56:44.320Z",
+        "updated_at": "2026-11-21T19:56:44.320Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3204,
+    "fields": {
+        "question": 650,
+        "text": "No es necesario el consentimiento expreso siempre y cuando los datos personales se usen con finalidades mercantiles o publicitarias",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:00:33.131Z",
+        "updated_at": "2026-11-21T20:00:33.131Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3205,
+    "fields": {
+        "question": 651,
+        "text": "12 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:14.491Z",
+        "updated_at": "2026-11-21T20:02:14.491Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3206,
+    "fields": {
+        "question": 651,
+        "text": "13 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:20.477Z",
+        "updated_at": "2026-11-21T20:02:20.477Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3207,
+    "fields": {
+        "question": 651,
+        "text": "14 años",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:02:26.397Z",
+        "updated_at": "2026-11-21T20:02:26.398Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3208,
+    "fields": {
+        "question": 651,
+        "text": "16 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:33.425Z",
+        "updated_at": "2026-11-21T20:02:33.425Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3209,
+    "fields": {
+        "question": 651,
+        "text": "21 años",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:02:40.263Z",
+        "updated_at": "2026-11-21T20:02:40.263Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3210,
+    "fields": {
+        "question": 652,
+        "text": "El propio menor, en todo caso",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:03:44.363Z",
+        "updated_at": "2026-11-21T20:03:44.363Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3211,
+    "fields": {
+        "question": 652,
+        "text": "Quienes ostenten la patria potestad o tutela",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:03:51.275Z",
+        "updated_at": "2026-11-21T20:03:51.275Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3212,
+    "fields": {
+        "question": 652,
+        "text": "El Ministerio Fiscal",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:03:59.457Z",
+        "updated_at": "2026-11-21T20:03:59.457Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3213,
+    "fields": {
+        "question": 652,
+        "text": "El delegado de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:04:06.757Z",
+        "updated_at": "2026-11-21T20:04:06.757Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3214,
+    "fields": {
+        "question": 652,
+        "text": "Cualquier familiar en primer o segundo grado de consanguinidad",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:06:43.094Z",
+        "updated_at": "2026-11-21T20:06:43.094Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3215,
+    "fields": {
+        "question": 652,
+        "text": "Cualquier familiar en primer o segundo grado de afinidad",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:08:13.291Z",
+        "updated_at": "2026-11-21T20:08:13.291Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3216,
+    "fields": {
+        "question": 653,
+        "text": "En cualquier contrato privado",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:13:27.348Z",
+        "updated_at": "2026-11-21T20:13:27.348Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3217,
+    "fields": {
+        "question": 653,
+        "text": "En una norma de Derecho de la Unión Europea o en una norma con rango de ley",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:13:34.491Z",
+        "updated_at": "2026-11-21T20:13:34.491Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3218,
+    "fields": {
+        "question": 653,
+        "text": "En una instrucción interna de la empresa",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:13:43.781Z",
+        "updated_at": "2026-11-21T20:13:43.782Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3219,
+    "fields": {
+        "question": 653,
+        "text": "En una decisión verbal del responsable del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:13:50.303Z",
+        "updated_at": "2026-11-21T20:13:50.303Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3220,
+    "fields": {
+        "question": 654,
+        "text": "Que exista una norma con rango de ley que atribuya la competencia correspondiente",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:15:23.014Z",
+        "updated_at": "2026-11-21T20:15:23.014Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3221,
+    "fields": {
+        "question": 654,
+        "text": "Que el interesado preste siempre consentimiento expreso",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:15:30.404Z",
+        "updated_at": "2026-11-21T20:15:30.404Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3222,
+    "fields": {
+        "question": 654,
+        "text": "Que lo autorice un notario en escritura pública",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:15:38.162Z",
+        "updated_at": "2026-11-21T20:16:35.996Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3223,
+    "fields": {
+        "question": 654,
+        "text": "Que lo autorice la Agencia Española de Protección de Datos (AEPD)",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:16:19.322Z",
+        "updated_at": "2026-11-21T20:16:19.322Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3224,
+    "fields": {
+        "question": 654,
+        "text": "Que el tratamiento sea gratuito",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:16:43.429Z",
+        "updated_at": "2026-11-21T20:16:43.429Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3225,
+    "fields": {
+        "question": 655,
+        "text": "Dirección postal",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:18:44.313Z",
+        "updated_at": "2026-11-21T20:18:44.313Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3226,
+    "fields": {
+        "question": 655,
+        "text": "Número de teléfono",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:18:51.447Z",
+        "updated_at": "2026-11-21T20:18:51.447Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3227,
+    "fields": {
+        "question": 655,
+        "text": "Datos relativos a la salud",
+        "is_correct": true,
+        "created_at": "2026-11-21T20:19:01.494Z",
+        "updated_at": "2026-11-21T20:19:01.495Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3228,
+    "fields": {
+        "question": 655,
+        "text": "Matrícula de un vehículo",
+        "is_correct": false,
+        "created_at": "2026-11-21T20:19:09.889Z",
+        "updated_at": "2026-11-21T20:19:09.889Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3229,
+    "fields": {
+        "question": 655,
+        "text": "Datos relativos a la orientación sexual",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:33:40.393Z",
+        "updated_at": "2026-11-21T23:33:40.393Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3230,
+    "fields": {
+        "question": 655,
+        "text": "Datos relativos a la afiliación sindical",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:34:05.626Z",
+        "updated_at": "2026-11-21T23:34:05.626Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3231,
+    "fields": {
+        "question": 655,
+        "text": "Números de cuenta bancaria",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:34:23.563Z",
+        "updated_at": "2026-11-21T23:34:23.563Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3232,
+    "fields": {
+        "question": 655,
+        "text": "Correo electrónico",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:34:55.709Z",
+        "updated_at": "2026-11-21T23:34:55.709Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3233,
+    "fields": {
+        "question": 656,
+        "text": "Sí, siempre",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:15.933Z",
+        "updated_at": "2026-11-21T23:37:15.933Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3234,
+    "fields": {
+        "question": 656,
+        "text": "No, el consentimiento por sí solo no basta para levantar dicha prohibición",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:37:21.657Z",
+        "updated_at": "2026-11-21T23:37:21.657Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3235,
+    "fields": {
+        "question": 656,
+        "text": "Sí, siempre que sea verbal",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:31.264Z",
+        "updated_at": "2026-11-21T23:37:31.264Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3236,
+    "fields": {
+        "question": 656,
+        "text": "Sí, cuando el responsable sea una administración pública",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:37:38.674Z",
+        "updated_at": "2026-11-21T23:38:55.202Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3237,
+    "fields": {
+        "question": 656,
+        "text": "Sí, cuando el responsable sea una empresa privada",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:38:47.299Z",
+        "updated_at": "2026-11-21T23:38:47.299Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3238,
+    "fields": {
+        "question": 656,
+        "text": "Si, siempre y cuando esté de acuerdo el delegado o delegada de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:40:48.261Z",
+        "updated_at": "2026-11-21T23:40:48.261Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3239,
+    "fields": {
+        "question": 656,
+        "text": "Si, siempre que sea por escrito",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:43:15.743Z",
+        "updated_at": "2026-11-21T23:43:15.743Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3240,
+    "fields": {
+        "question": 657,
+        "text": "Puede realizarse libremente con consentimiento tácito",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:44:32.392Z",
+        "updated_at": "2026-11-21T23:44:32.392Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3241,
+    "fields": {
+        "question": 657,
+        "text": "Solo podrá llevarse a cabo cuando esté amparado por una norma de Derecho de la Unión Europea o una norma con rango de ley, con las garantías adecuadas",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:44:40.749Z",
+        "updated_at": "2026-11-21T23:56:18.879Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3242,
+    "fields": {
+        "question": 657,
+        "text": "Está siempre prohibido sin excepción",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:44:48.427Z",
+        "updated_at": "2026-11-21T23:44:48.427Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3243,
+    "fields": {
+        "question": 657,
+        "text": "No está sujeto a la normativa de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:44:56.607Z",
+        "updated_at": "2026-11-21T23:44:56.607Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3244,
+    "fields": {
+        "question": 658,
+        "text": "Será siempre responsable de la inexactitud",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:16.334Z",
+        "updated_at": "2026-11-21T23:48:16.334Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3245,
+    "fields": {
+        "question": 658,
+        "text": "No será imputable la inexactitud al responsable si ha adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:48:26.308Z",
+        "updated_at": "2026-11-21T23:48:30.006Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3246,
+    "fields": {
+        "question": 658,
+        "text": "Podrá conservarlos indefinidamente",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:35.201Z",
+        "updated_at": "2026-11-21T23:48:35.201Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3247,
+    "fields": {
+        "question": 658,
+        "text": "Deberá comunicar los datos inexactos a terceros",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:48:42.131Z",
+        "updated_at": "2026-11-21T23:48:42.131Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3248,
+    "fields": {
+        "question": 658,
+        "text": "Solo será responsable en los casos de datos clasificados como categoría especial",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:53:55.770Z",
+        "updated_at": "2026-11-21T23:53:55.770Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3249,
+    "fields": {
+        "question": 659,
+        "text": "Son obligaciones incompatibles",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:55:02.772Z",
+        "updated_at": "2026-11-21T23:55:02.772Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3250,
+    "fields": {
+        "question": 659,
+        "text": "El deber de confidencialidad sustituye al secreto profesional",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:55:09.340Z",
+        "updated_at": "2026-11-21T23:55:09.340Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3251,
+    "fields": {
+        "question": 659,
+        "text": "El deber de confidencialidad es complementario de los deberes de secreto profesional que establezca la normativa aplicable",
+        "is_correct": true,
+        "created_at": "2026-11-21T23:55:17.864Z",
+        "updated_at": "2026-11-21T23:55:17.864Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3252,
+    "fields": {
+        "question": 659,
+        "text": "El secreto profesional solo se aplica a los funcionarios públicos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:55:23.701Z",
+        "updated_at": "2026-11-21T23:55:23.702Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3253,
+    "fields": {
+        "question": 657,
+        "text": "Deberá ser autorizado por el delegado o delegada de protección de datos",
+        "is_correct": false,
+        "created_at": "2026-11-21T23:57:20.122Z",
+        "updated_at": "2026-11-21T23:57:20.122Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3254,
+    "fields": {
+        "question": 660,
+        "text": "El tratamiento automatizado de datos personales realizado por una persona física en el ejercicio de una actividad exclusivamente personal o doméstica.",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:01:10.486Z",
+        "updated_at": "2026-11-22T00:02:03.005Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3255,
+    "fields": {
+        "question": 660,
+        "text": "El tratamiento no automatizado de datos personales contenidos en un fichero",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:19.450Z",
+        "updated_at": "2026-11-22T00:01:19.450Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3256,
+    "fields": {
+        "question": 660,
+        "text": "El tratamiento automatizado de datos personales realizado por una empresa con fines comerciales",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:26.013Z",
+        "updated_at": "2026-11-22T00:01:26.013Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3257,
+    "fields": {
+        "question": 660,
+        "text": "El tratamiento de datos personales contenidos en un fichero destinado a ser incluido en él",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:01:55.390Z",
+        "updated_at": "2026-11-22T00:01:55.390Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3258,
+    "fields": {
+        "question": 661,
+        "text": "Los herederos podrán acceder a los datos personales del fallecido, salvo que este lo hubiese prohibido expresamente o así lo establezca una ley.",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:07:16.341Z",
+        "updated_at": "2026-11-22T00:07:51.707Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3259,
+    "fields": {
+        "question": 661,
+        "text": "Las personas o instituciones a las que el fallecido hubiese designado expresamente podrán solicitar el acceso, rectificación o supresión de sus datos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:07:28.243Z",
+        "updated_at": "2026-11-22T00:07:28.243Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3260,
+    "fields": {
+        "question": 661,
+        "text": "Cuando el fallecido hubiese prohibido expresamente el acceso a sus datos, dicha prohibición impedirá también el acceso de los herederos a los datos de carácter patrimonial",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:07:42.389Z",
+        "updated_at": "2026-11-22T00:07:42.389Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3261,
+    "fields": {
+        "question": 661,
+        "text": "Las personas vinculadas al fallecido por razones familiares o de hecho podrán solicitar el acceso a sus datos, salvo que exista prohibición expresa o una ley lo impida",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:08:06.829Z",
+        "updated_at": "2026-11-22T00:08:06.830Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3262,
+    "fields": {
+        "question": 661,
+        "text": "Solo podrán acceder mediante el visto bueno de Ministerio Fiscal",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:10:36.714Z",
+        "updated_at": "2026-11-22T00:10:36.714Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3263,
+    "fields": {
+        "question": 662,
+        "text": "El responsable será siempre imputable por cualquier inexactitud, incluso cuando hubiera adoptado todas las medidas razonables para corregirla",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:12:26.411Z",
+        "updated_at": "2026-11-22T00:12:26.411Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3264,
+    "fields": {
+        "question": 662,
+        "text": "No será imputable al responsable la inexactitud de los datos obtenidos directamente del afectado si ha adoptado todas las medidas razonables para suprimirlos o rectificarlos sin dilación",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:12:42.258Z",
+        "updated_at": "2026-11-22T00:12:42.258Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3265,
+    "fields": {
+        "question": 662,
+        "text": "El responsable únicamente debe garantizar la exactitud de los datos obtenidos indirectamente",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:12:50.343Z",
+        "updated_at": "2026-11-22T00:12:50.343Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3266,
+    "fields": {
+        "question": 662,
+        "text": "Los datos personales no necesitan actualizarse cuando el tratamiento se base en el consentimiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:13:02.165Z",
+        "updated_at": "2026-11-22T00:13:02.165Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3267,
+    "fields": {
+        "question": 662,
+        "text": "El responsable únicamente debe garantizar la exactitud de los datos obtenidos de un registro público",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:14:23.159Z",
+        "updated_at": "2026-11-22T00:14:23.159Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3268,
+    "fields": {
+        "question": 663,
+        "text": "Se mantendrá únicamente mientras exista una relación contractual entre el responsable y el encargado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:15:27.243Z",
+        "updated_at": "2026-11-22T00:15:27.243Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3269,
+    "fields": {
+        "question": 663,
+        "text": "Se mantendrá incluso cuando hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:15:35.167Z",
+        "updated_at": "2026-11-22T00:16:21.050Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3270,
+    "fields": {
+        "question": 663,
+        "text": "Se mantendrá  hasta 5 años desde que hubiese finalizado la relación del obligado con el responsable o encargado del tratamiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:16:04.932Z",
+        "updated_at": "2026-11-22T00:16:04.932Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3271,
+    "fields": {
+        "question": 663,
+        "text": "Se extinguirá cuando el interesado ejerza su derecho de supresión",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:16:14.200Z",
+        "updated_at": "2026-11-22T00:16:14.200Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3272,
+    "fields": {
+        "question": 663,
+        "text": "Afectará exclusivamente a quienes tengan acceso directo a los datos personales",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:16:36.116Z",
+        "updated_at": "2026-11-22T00:16:36.116Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3273,
+    "fields": {
+        "question": 664,
+        "text": "El consentimiento es válido porque existe una manifestación formal de voluntad",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:18:10.839Z",
+        "updated_at": "2026-11-22T00:18:10.839Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3274,
+    "fields": {
+        "question": 664,
+        "text": "El consentimiento es válido si se ha informado previamente al interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:18:18.907Z",
+        "updated_at": "2026-11-22T00:18:18.907Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3275,
+    "fields": {
+        "question": 664,
+        "text": "El consentimiento no reúne el requisito de una clara acción afirmativa",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:18:27.572Z",
+        "updated_at": "2026-11-22T00:18:27.572Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3276,
+    "fields": {
+        "question": 664,
+        "text": "El consentimiento es válido siempre que no exista oposición posterior del interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:18:37.837Z",
+        "updated_at": "2026-11-22T00:18:37.837Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3277,
+    "fields": {
+        "question": 664,
+        "text": "El consentimiento es perfectamente válido",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:19:38.173Z",
+        "updated_at": "2026-11-22T00:19:38.173Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3278,
+    "fields": {
+        "question": 665,
+        "text": "El consentimiento es válido porque el menor tiene más de 12 años",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:11.281Z",
+        "updated_at": "2026-11-22T00:47:11.281Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3279,
+    "fields": {
+        "question": 665,
+        "text": "El consentimiento es válido siempre que el tratamiento no implique datos especialmente protegidos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:17.672Z",
+        "updated_at": "2026-11-22T00:47:17.672Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3280,
+    "fields": {
+        "question": 665,
+        "text": "El consentimiento no es válido por sí solo, al no haber alcanzado el menor la edad de 14 años establecida en la legislación española",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:47:27.755Z",
+        "updated_at": "2026-11-22T00:47:27.755Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3281,
+    "fields": {
+        "question": 665,
+        "text": "El consentimiento es válido si el responsable del tratamiento considera que el menor tiene madurez suficiente",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:36.253Z",
+        "updated_at": "2026-11-22T00:47:36.253Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3282,
+    "fields": {
+        "question": 665,
+        "text": "El consentimiento es válido si los datos personales son exactos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:47:43.046Z",
+        "updated_at": "2026-11-22T00:49:02.567Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3283,
+    "fields": {
+        "question": 666,
+        "text": "Basta con que exista una disposición reglamentaria que lo autorice",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:50:35.714Z",
+        "updated_at": "2026-11-22T00:50:35.714Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3284,
+    "fields": {
+        "question": 666,
+        "text": "Debe estar previsto en una norma de Derecho de la Unión Europea o en una norma con rango de ley",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:50:42.240Z",
+        "updated_at": "2026-11-22T00:51:31.064Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3285,
+    "fields": {
+        "question": 666,
+        "text": "Es imprescindible el consentimiento expreso del interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:50:48.430Z",
+        "updated_at": "2026-11-22T00:50:48.430Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3286,
+    "fields": {
+        "question": 666,
+        "text": "Puede fundamentarse en cualquier instrucción administrativa interna",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:51:15.019Z",
+        "updated_at": "2026-11-22T00:51:15.019Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3287,
+    "fields": {
+        "question": 666,
+        "text": "No podrá nunca incluir datos clasificados dentro de alguna de las categorías especiales de datos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:53:26.935Z",
+        "updated_at": "2026-11-22T00:53:26.935Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3288,
+    "fields": {
+        "question": 667,
+        "text": "El consentimiento explícito del interesado siempre permite tratar datos personales cuya finalidad principal sea identificar su ideología o creencias",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:54:08.931Z",
+        "updated_at": "2026-11-22T00:54:16.993Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3289,
+    "fields": {
+        "question": 667,
+        "text": "El mero consentimiento del afectado basta para levantar la prohibición de tratamiento de cualquier categoría especial de datos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:54:37.218Z",
+        "updated_at": "2026-11-22T00:54:43.921Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3290,
+    "fields": {
+        "question": 667,
+        "text": "El consentimiento del afectado no basta por sí solo para levantar la prohibición de tratamiento cuando la finalidad principal sea identificar su ideología, afiliación sindical, religión, orientación sexual, creencias u origen racial o étnico",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:54:55.281Z",
+        "updated_at": "2026-11-22T00:54:55.281Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3291,
+    "fields": {
+        "question": 667,
+        "text": "Los datos relativos a la salud no tienen la consideración de categorías especiales a estos efectos",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:55:04.779Z",
+        "updated_at": "2026-11-22T00:55:04.780Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3292,
+    "fields": {
+        "question": 667,
+        "text": "Los datos relativos a origen racial o étnico no tienen la consideración de categorías especiales a estos efectos.",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:55:25.625Z",
+        "updated_at": "2026-11-22T00:55:25.625Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3293,
+    "fields": {
+        "question": 668,
+        "text": "El tratamiento es necesariamente ilícito porque todo tratamiento de datos personales exige consentimiento",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:57:30.055Z",
+        "updated_at": "2026-11-22T00:57:30.055Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3294,
+    "fields": {
+        "question": 668,
+        "text": "El tratamiento puede estar legitimado por el cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos, sin que sea necesario basarlo en el consentimiento",
+        "is_correct": true,
+        "created_at": "2026-11-22T00:57:53.353Z",
+        "updated_at": "2026-11-22T00:57:53.353Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3295,
+    "fields": {
+        "question": 668,
+        "text": "El tratamiento solo será legítimo si el interesado firma una autorización expresa",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:58:02.414Z",
+        "updated_at": "2026-11-22T00:58:02.414Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3296,
+    "fields": {
+        "question": 668,
+        "text": "El tratamiento únicamente puede realizarse cuando exista una relación contractual entre la Administración y el interesado",
+        "is_correct": false,
+        "created_at": "2026-11-22T00:58:11.866Z",
+        "updated_at": "2026-11-22T00:58:11.866Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -123785,6 +129292,174 @@
         "failures": 0,
         "created_at": "2026-11-19T11:23:11.171Z",
         "updated_at": "2026-11-19T11:23:11.171Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 606,
+    "fields": {
+        "user": [
+            "euribates"
+        ],
+        "question": 640,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-11-21T18:46:57.516Z",
+        "updated_at": "2026-11-21T18:46:57.516Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 607,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 643,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T19:31:00.080Z",
+        "updated_at": "2026-11-21T19:31:07.019Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 608,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 644,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T19:37:10.396Z",
+        "updated_at": "2026-11-21T19:37:16.018Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 609,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 645,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T19:41:02.757Z",
+        "updated_at": "2026-11-21T19:41:10.368Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 610,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 646,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T19:43:43.975Z",
+        "updated_at": "2026-11-21T19:43:51.300Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 611,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 651,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T20:02:56.135Z",
+        "updated_at": "2026-11-21T20:02:59.712Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 612,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 652,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-11-21T20:08:26.489Z",
+        "updated_at": "2026-11-21T20:08:26.489Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 613,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 655,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T23:35:06.074Z",
+        "updated_at": "2026-11-21T23:35:16.436Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 614,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 656,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T23:43:26.367Z",
+        "updated_at": "2026-11-21T23:43:30.175Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 615,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 658,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-21T23:50:59.343Z",
+        "updated_at": "2026-11-21T23:51:02.773Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 616,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 661,
+        "tries": 2,
+        "failures": 0,
+        "created_at": "2026-11-22T00:10:50.375Z",
+        "updated_at": "2026-11-22T00:10:55.960Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 617,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 665,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-22T00:49:13.958Z",
+        "updated_at": "2026-11-22T00:49:16.966Z"
     }
 }
 ]
