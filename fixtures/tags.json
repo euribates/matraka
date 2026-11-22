@@ -412,5 +412,14 @@
         "color": "#E35838",
         "description": "Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 47,
+    "fields": {
+        "name": "golang",
+        "color": "#E8EC2C",
+        "description": "Go Language"
+    }
 }
 ]

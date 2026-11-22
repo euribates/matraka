@@ -13788,6 +13788,125 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 843,
+    "fields": {
+        "id_question": 669,
+        "text": "Cual de las siguientes afirmaciones de Go **no** es cierta?",
+        "source": "Propia",
+        "created_at": "2026-11-22T14:03:39.508Z",
+        "updated_at": "2026-11-22T14:03:39.508Z",
+        "history_date": "2026-11-22T14:03:39.520Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 844,
+    "fields": {
+        "id_question": 670,
+        "text": "¿Qué son las interfaces  en Go?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:17:42.872Z",
+        "updated_at": "2026-11-22T14:17:42.872Z",
+        "history_date": "2026-11-22T14:17:42.887Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 845,
+    "fields": {
+        "id_question": 671,
+        "text": "¿Cómo gestiona Go las importaciones de paquetes y evita las dependencias circulares?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:26:18.697Z",
+        "updated_at": "2026-11-22T14:26:18.697Z",
+        "history_date": "2026-11-22T14:26:18.710Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 846,
+    "fields": {
+        "id_question": 672,
+        "text": "¿Qué son los mutex y cuándo deberías usarlos en Go?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:31:49.149Z",
+        "updated_at": "2026-11-22T14:31:49.149Z",
+        "history_date": "2026-11-22T14:31:49.163Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 847,
+    "fields": {
+        "id_question": 672,
+        "text": "¿Qué son los *mutex* y cuándo deberías usarlos en Go?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:31:49.149Z",
+        "updated_at": "2026-11-22T14:32:02.820Z",
+        "history_date": "2026-11-22T14:32:02.833Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 848,
+    "fields": {
+        "id_question": 673,
+        "text": "¿Cuáles son las características más destacadas de Golang?",
+        "source": "Propia",
+        "created_at": "2026-11-22T14:48:29.153Z",
+        "updated_at": "2026-11-22T14:48:29.153Z",
+        "history_date": "2026-11-22T14:48:29.172Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 849,
+    "fields": {
+        "id_question": 674,
+        "text": "En Go, la declaración de una variable como ``byte`` es equivalente a declararlo como:",
+        "source": "Propia",
+        "created_at": "2026-11-22T16:48:30.642Z",
+        "updated_at": "2026-11-22T16:48:30.642Z",
+        "history_date": "2026-11-22T16:48:30.658Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -21994,6 +22113,90 @@
             43,
             46,
             23
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 669,
+    "fields": {
+        "text": "Cual de las siguientes afirmaciones de Go **no** es cierta?",
+        "source": "Propia",
+        "created_at": "2026-11-22T14:03:39.508Z",
+        "updated_at": "2026-11-22T14:03:39.508Z",
+        "tags": [
+            47,
+            18
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 670,
+    "fields": {
+        "text": "¿Qué son las interfaces  en Go?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:17:42.872Z",
+        "updated_at": "2026-11-22T14:17:42.872Z",
+        "tags": [
+            47,
+            18
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 671,
+    "fields": {
+        "text": "¿Cómo gestiona Go las importaciones de paquetes y evita las dependencias circulares?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:26:18.697Z",
+        "updated_at": "2026-11-22T14:26:18.697Z",
+        "tags": [
+            47,
+            18
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 672,
+    "fields": {
+        "text": "¿Qué son los *mutex* y cuándo deberías usarlos en Go?",
+        "source": "https://www.guru99.com/es/golang-interview-questions.html",
+        "created_at": "2026-11-22T14:31:49.149Z",
+        "updated_at": "2026-11-22T14:32:02.820Z",
+        "tags": [
+            47,
+            18
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 673,
+    "fields": {
+        "text": "¿Cuáles son las características más destacadas de Golang?",
+        "source": "Propia",
+        "created_at": "2026-11-22T14:48:29.153Z",
+        "updated_at": "2026-11-22T14:48:29.153Z",
+        "tags": [
+            47,
+            18
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 674,
+    "fields": {
+        "text": "En Go, la declaración de una variable como ``byte`` es equivalente a declararlo como:",
+        "source": "Propia",
+        "created_at": "2026-11-22T16:48:30.642Z",
+        "updated_at": "2026-11-22T16:48:30.642Z",
+        "tags": [
+            47,
+            18
         ]
     }
 },
@@ -84580,6 +84783,1050 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3608,
+    "fields": {
+        "id_answer": 3297,
+        "text": "Las comillas dobles y las comillas simples son intercambiables, como en Python",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:04:53.104Z",
+        "updated_at": "2026-11-22T14:04:53.104Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:04:53.121Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3609,
+    "fields": {
+        "id_answer": 3298,
+        "text": "Todos los valores numéricos son en coma flotante, como en Javascript",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:05:33.926Z",
+        "updated_at": "2026-11-22T14:05:33.926Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:05:33.949Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3610,
+    "fields": {
+        "id_answer": 3299,
+        "text": "Para cada tipo de datos, Go define un *Zero Value*, esto es, el valor asignado a una variable cuando es declarada, pero no se le asigna un valor",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:07:09.126Z",
+        "updated_at": "2026-11-22T14:07:09.126Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:07:09.143Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3611,
+    "fields": {
+        "id_answer": 3300,
+        "text": "El lenguaje Go también es conocido como Golang",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:08:28.718Z",
+        "updated_at": "2026-11-22T14:08:28.718Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:08:28.729Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3612,
+    "fields": {
+        "id_answer": 3301,
+        "text": "Go fue diseñado en Google, por Robert Griesemer, Rob Pike y Ken Thompson",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:09:13.589Z",
+        "updated_at": "2026-11-22T14:09:13.589Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:09:13.603Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3613,
+    "fields": {
+        "id_answer": 3302,
+        "text": "El compilador genera un ejecutable para cada sistema operativo, normalmente un único archivo sin dependencias externas, lo que simplifica el despliegue",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:09:57.040Z",
+        "updated_at": "2026-11-22T14:09:57.040Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:09:57.051Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3614,
+    "fields": {
+        "id_answer": 3302,
+        "text": "El compilador genera un ejecutable para cada plataforma, normalmente un único archivo sin dependencias externas, lo que simplifica el despliegue",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:09:57.040Z",
+        "updated_at": "2026-11-22T14:10:13.754Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:10:13.767Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3615,
+    "fields": {
+        "id_answer": 3303,
+        "text": "las *goroutines* son funciones que se ejecutan de forma concurrente y son mucho más ligeras que los hilos del sistema operativo",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:10:48.777Z",
+        "updated_at": "2026-11-22T14:10:48.777Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:10:48.793Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3616,
+    "fields": {
+        "id_answer": 3304,
+        "text": "Los canales permiten las *goroutines* se comuniquen entre sí de forma segura, y la sentencia ``select` permite esperar en varios canales a la vez",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:11:27.092Z",
+        "updated_at": "2026-11-22T14:11:27.092Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:11:27.103Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3617,
+    "fields": {
+        "id_answer": 3305,
+        "text": "Es un lenguaje con tipado estático, con inferencia",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:12:00.366Z",
+        "updated_at": "2026-11-22T14:12:00.366Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:12:00.379Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3618,
+    "fields": {
+        "id_answer": 3306,
+        "text": "Funciona en Linux, macOS y Windows, entre otras plataformas",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:12:45.893Z",
+        "updated_at": "2026-11-22T14:12:45.893Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:12:45.903Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3619,
+    "fields": {
+        "id_answer": 3307,
+        "text": "Go no utiliza un recolector de basura; el programador debe gestionar la memoria",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:14:19.466Z",
+        "updated_at": "2026-11-22T14:14:19.466Z",
+        "question": 669,
+        "history_date": "2026-11-22T14:14:19.485Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3620,
+    "fields": {
+        "id_answer": 3308,
+        "text": "Un conjunto de firmas de métodos que un tipo debe implementar",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:18:39.381Z",
+        "updated_at": "2026-11-22T14:18:39.381Z",
+        "question": 670,
+        "history_date": "2026-11-22T14:18:39.405Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3621,
+    "fields": {
+        "id_answer": 3309,
+        "text": "El mecanismo de comunicaciones entre canales",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:19:06.282Z",
+        "updated_at": "2026-11-22T14:19:06.282Z",
+        "question": 670,
+        "history_date": "2026-11-22T14:19:06.296Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3622,
+    "fields": {
+        "id_answer": 3310,
+        "text": "La definición de una determinada plataforma (Sistema operativo más *hardware* subyacente) para la cual Go puede compilar un binario",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:20:20.947Z",
+        "updated_at": "2026-11-22T14:20:20.947Z",
+        "question": 670,
+        "history_date": "2026-11-22T14:20:20.961Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3623,
+    "fields": {
+        "id_answer": 3311,
+        "text": "El editor o IDE usado para editar programas escritos en Go",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:20:43.772Z",
+        "updated_at": "2026-11-22T14:20:43.772Z",
+        "question": 670,
+        "history_date": "2026-11-22T14:20:43.784Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3624,
+    "fields": {
+        "id_answer": 3312,
+        "text": "Es exactamente el mismo concepto que las clases en OOP clásica, pero con otro nombre",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:21:33.590Z",
+        "updated_at": "2026-11-22T14:21:33.590Z",
+        "question": 670,
+        "history_date": "2026-11-22T14:21:33.602Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3625,
+    "fields": {
+        "id_answer": 3313,
+        "text": "La forma de definir las variables en Go de forma que se puede inferir su tipo a partir de su valor",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:22:22.133Z",
+        "updated_at": "2026-11-22T14:22:22.133Z",
+        "question": 670,
+        "history_date": "2026-11-22T14:22:22.153Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3626,
+    "fields": {
+        "id_answer": 3314,
+        "text": "Go hace cumplir reglas estrictas de dependencia de paquetes. Las importaciones circulares (A → B → A) son errores de compilación",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:26:54.039Z",
+        "updated_at": "2026-11-22T14:26:54.039Z",
+        "question": 671,
+        "history_date": "2026-11-22T14:26:54.058Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3627,
+    "fields": {
+        "id_answer": 3315,
+        "text": "Go hace cumplir reglas opcionales de dependencia de paquetes. Las importaciones circulares (A → B → A) son *warnings* de compilación",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:27:10.424Z",
+        "updated_at": "2026-11-22T14:27:10.424Z",
+        "question": 671,
+        "history_date": "2026-11-22T14:27:10.445Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3628,
+    "fields": {
+        "id_answer": 3316,
+        "text": "No lo gestiona, es responsabilidad del programador",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:27:56.408Z",
+        "updated_at": "2026-11-22T14:27:56.408Z",
+        "question": 671,
+        "history_date": "2026-11-22T14:27:56.420Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3629,
+    "fields": {
+        "id_answer": 3317,
+        "text": "Se soluciona mediante el recolector de basura",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:29:09.161Z",
+        "updated_at": "2026-11-22T14:29:09.161Z",
+        "question": 671,
+        "history_date": "2026-11-22T14:29:09.177Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3630,
+    "fields": {
+        "id_answer": 3318,
+        "text": "No se pueden producir dependencia circulares al ser un lenguaje fuertemente tipado",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:29:46.156Z",
+        "updated_at": "2026-11-22T14:29:46.156Z",
+        "question": 671,
+        "history_date": "2026-11-22T14:29:46.174Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3631,
+    "fields": {
+        "id_answer": 3319,
+        "text": "Un *mutex* (bloqueo de exclusión mutua) impide el acceso simultáneo a recursos compartidos. Debe utilizarse cuando se pueden producir una condición de carrera (*race condition*)",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:34:14.981Z",
+        "updated_at": "2026-11-22T14:34:14.981Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:34:15.004Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3632,
+    "fields": {
+        "id_answer": 3320,
+        "text": "El mutex es necesario para que diferentes hilos de ejecución no tengan que esperar para acceder a un recurso compartido",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:39:03.583Z",
+        "updated_at": "2026-11-22T14:39:03.583Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:39:03.594Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3633,
+    "fields": {
+        "id_answer": 3321,
+        "text": "EL *mutex* impide que las goroutinas se puedan comunicar entre si",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:39:54.443Z",
+        "updated_at": "2026-11-22T14:39:54.443Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:39:54.461Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3634,
+    "fields": {
+        "id_answer": 3320,
+        "text": "El *mutex* es necesario para que diferentes hilos de ejecución no tengan que esperar para acceder a un recurso compartido",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:39:03.583Z",
+        "updated_at": "2026-11-22T14:40:02.761Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:40:02.779Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3635,
+    "fields": {
+        "id_answer": 3322,
+        "text": "El *mutex* es el paquete de Golang usado para trabajar con ficheros de audio",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:40:31.547Z",
+        "updated_at": "2026-11-22T14:40:31.547Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:40:31.566Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3636,
+    "fields": {
+        "id_answer": 3323,
+        "text": "El *mutex* es el paquete de Golang usado para trabajar con ficheros de vídeo",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:40:40.693Z",
+        "updated_at": "2026-11-22T14:40:40.693Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:40:40.710Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3637,
+    "fields": {
+        "id_answer": 3319,
+        "text": "Un *mutex* (bloqueo de exclusión mutua) impide el acceso simultáneo a recursos compartidos. Debe utilizarse cuando se pueden producir una condición de carrera (*race condition*)",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:34:14.981Z",
+        "updated_at": "2026-11-22T14:40:47.231Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:40:47.245Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3638,
+    "fields": {
+        "id_answer": 3319,
+        "text": "Un *mutex* (bloqueo de exclusión mutua) impide el acceso simultáneo a recursos compartidos.",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:34:14.981Z",
+        "updated_at": "2026-11-22T14:41:02.859Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:41:02.878Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3639,
+    "fields": {
+        "id_answer": 3324,
+        "text": "Los *mutex* deben utilizarse cuando se pueda producir una condición de carrera (*race condition*)",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:41:41.148Z",
+        "updated_at": "2026-11-22T14:41:41.149Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:41:41.164Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3640,
+    "fields": {
+        "id_answer": 3325,
+        "text": "El Golang no hace falta usar *mutex*, porque se evita gracias a la compilación cruzada nativa *out of the box*",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:43:57.714Z",
+        "updated_at": "2026-11-22T14:43:57.714Z",
+        "question": 672,
+        "history_date": "2026-11-22T14:43:57.731Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3641,
+    "fields": {
+        "id_answer": 3326,
+        "text": "Compilación y ejecución rápidas",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:48:44.757Z",
+        "updated_at": "2026-11-22T14:48:44.757Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:48:44.774Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3642,
+    "fields": {
+        "id_answer": 3327,
+        "text": "Implementación completa del paradigma de orientación a objetos (POO)",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:49:35.084Z",
+        "updated_at": "2026-11-22T14:49:35.084Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:49:35.097Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3643,
+    "fields": {
+        "id_answer": 3328,
+        "text": "Excelente concurrencia (goroutines)",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:49:44.889Z",
+        "updated_at": "2026-11-22T14:49:44.889Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:49:44.909Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3644,
+    "fields": {
+        "id_answer": 3329,
+        "text": "Sintaxis simple",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:49:56.574Z",
+        "updated_at": "2026-11-22T14:49:56.574Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:49:56.588Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3645,
+    "fields": {
+        "id_answer": 3330,
+        "text": "Promueve la máxima flexibilidad en lo que respecta al formateo del código fuente",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:50:40.286Z",
+        "updated_at": "2026-11-22T14:50:40.286Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:50:40.302Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3646,
+    "fields": {
+        "id_answer": 3331,
+        "text": "binarios multiplataforma",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:50:51.324Z",
+        "updated_at": "2026-11-22T14:50:51.324Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:50:51.337Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3647,
+    "fields": {
+        "id_answer": 3332,
+        "text": "Soporte de excepciones",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:51:04.740Z",
+        "updated_at": "2026-11-22T14:51:04.740Z",
+        "question": 673,
+        "history_date": "2026-11-22T14:51:04.758Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3648,
+    "fields": {
+        "id_answer": 3333,
+        "text": "Solo usa 25 palabras reservas",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:12:59.405Z",
+        "updated_at": "2026-11-22T16:12:59.405Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:12:59.421Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3649,
+    "fields": {
+        "id_answer": 3334,
+        "text": "Desde la versión 1.18, soporte para genéricos",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:15:04.720Z",
+        "updated_at": "2026-11-22T16:15:04.720Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:15:04.736Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3650,
+    "fields": {
+        "id_answer": 3335,
+        "text": "Permite el uso de aritmética de punteros",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:16:07.072Z",
+        "updated_at": "2026-11-22T16:16:07.072Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:16:07.090Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3651,
+    "fields": {
+        "id_answer": 3336,
+        "text": "La distribución principal de Go **no** incluye herramientas de pruebas, análisis de la calidad del código ni utilidades de formateo de código, todo eso esta proporcionado por librerías de terceros",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:18:54.738Z",
+        "updated_at": "2026-11-22T16:18:54.738Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:18:54.753Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3652,
+    "fields": {
+        "id_answer": 3334,
+        "text": "Desde la versión 1.18, tiene soporte para genéricos",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:15:04.720Z",
+        "updated_at": "2026-11-22T16:19:07.964Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:19:07.988Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3653,
+    "fields": {
+        "id_answer": 3337,
+        "text": "Go es software libre, con licencia BSD",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:21:33.880Z",
+        "updated_at": "2026-11-22T16:21:33.881Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:21:33.899Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3654,
+    "fields": {
+        "id_answer": 3338,
+        "text": "Su diseño se inspira sobre todo en C++",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:23:17.168Z",
+        "updated_at": "2026-11-22T16:23:17.168Z",
+        "question": 673,
+        "history_date": "2026-11-22T16:23:17.184Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3655,
+    "fields": {
+        "id_answer": 3339,
+        "text": "``int`",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:48:41.628Z",
+        "updated_at": "2026-11-22T16:48:41.628Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:48:41.643Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3656,
+    "fields": {
+        "id_answer": 3339,
+        "text": "``int``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:48:41.628Z",
+        "updated_at": "2026-11-22T16:48:48.199Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:48:48.211Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3657,
+    "fields": {
+        "id_answer": 3340,
+        "text": "``uint8``",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:49:12.009Z",
+        "updated_at": "2026-11-22T16:49:12.009Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:49:12.022Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3658,
+    "fields": {
+        "id_answer": 3341,
+        "text": "``int8``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:21.805Z",
+        "updated_at": "2026-11-22T16:49:21.805Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:49:21.819Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3659,
+    "fields": {
+        "id_answer": 3342,
+        "text": "``word``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:30.769Z",
+        "updated_at": "2026-11-22T16:49:30.769Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:49:30.781Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3660,
+    "fields": {
+        "id_answer": 3343,
+        "text": "``int32``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:42.408Z",
+        "updated_at": "2026-11-22T16:49:42.408Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:49:42.418Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3661,
+    "fields": {
+        "id_answer": 3344,
+        "text": "``uint32`",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:49.870Z",
+        "updated_at": "2026-11-22T16:49:49.870Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:49:49.887Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3662,
+    "fields": {
+        "id_answer": 3344,
+        "text": "``uint32``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:49.870Z",
+        "updated_at": "2026-11-22T16:50:07.761Z",
+        "question": 674,
+        "history_date": "2026-11-22T16:50:07.776Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3663,
+    "fields": {
+        "id_answer": 3345,
+        "text": "``bool``",
+        "is_correct": false,
+        "created_at": "2026-11-22T20:12:13.779Z",
+        "updated_at": "2026-11-22T20:12:13.779Z",
+        "question": 674,
+        "history_date": "2026-11-22T20:12:13.794Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3664,
+    "fields": {
+        "id_answer": 3346,
+        "text": "``string``",
+        "is_correct": false,
+        "created_at": "2026-11-22T20:12:34.453Z",
+        "updated_at": "2026-11-22T20:12:34.453Z",
+        "question": 674,
+        "history_date": "2026-11-22T20:12:34.467Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3665,
+    "fields": {
+        "id_answer": 3347,
+        "text": "``rune``",
+        "is_correct": false,
+        "created_at": "2026-11-22T20:12:57.924Z",
+        "updated_at": "2026-11-22T20:12:57.924Z",
+        "question": 674,
+        "history_date": "2026-11-22T20:12:57.935Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -120825,6 +122072,567 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 3297,
+    "fields": {
+        "question": 669,
+        "text": "Las comillas dobles y las comillas simples son intercambiables, como en Python",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:04:53.104Z",
+        "updated_at": "2026-11-22T14:04:53.104Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3298,
+    "fields": {
+        "question": 669,
+        "text": "Todos los valores numéricos son en coma flotante, como en Javascript",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:05:33.926Z",
+        "updated_at": "2026-11-22T14:05:33.926Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3299,
+    "fields": {
+        "question": 669,
+        "text": "Para cada tipo de datos, Go define un *Zero Value*, esto es, el valor asignado a una variable cuando es declarada, pero no se le asigna un valor",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:07:09.126Z",
+        "updated_at": "2026-11-22T14:07:09.126Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3300,
+    "fields": {
+        "question": 669,
+        "text": "El lenguaje Go también es conocido como Golang",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:08:28.718Z",
+        "updated_at": "2026-11-22T14:08:28.718Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3301,
+    "fields": {
+        "question": 669,
+        "text": "Go fue diseñado en Google, por Robert Griesemer, Rob Pike y Ken Thompson",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:09:13.589Z",
+        "updated_at": "2026-11-22T14:09:13.589Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3302,
+    "fields": {
+        "question": 669,
+        "text": "El compilador genera un ejecutable para cada plataforma, normalmente un único archivo sin dependencias externas, lo que simplifica el despliegue",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:09:57.040Z",
+        "updated_at": "2026-11-22T14:10:13.754Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3303,
+    "fields": {
+        "question": 669,
+        "text": "las *goroutines* son funciones que se ejecutan de forma concurrente y son mucho más ligeras que los hilos del sistema operativo",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:10:48.777Z",
+        "updated_at": "2026-11-22T14:10:48.777Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3304,
+    "fields": {
+        "question": 669,
+        "text": "Los canales permiten las *goroutines* se comuniquen entre sí de forma segura, y la sentencia ``select` permite esperar en varios canales a la vez",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:11:27.092Z",
+        "updated_at": "2026-11-22T14:11:27.092Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3305,
+    "fields": {
+        "question": 669,
+        "text": "Es un lenguaje con tipado estático, con inferencia",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:12:00.366Z",
+        "updated_at": "2026-11-22T14:12:00.366Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3306,
+    "fields": {
+        "question": 669,
+        "text": "Funciona en Linux, macOS y Windows, entre otras plataformas",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:12:45.893Z",
+        "updated_at": "2026-11-22T14:12:45.893Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3307,
+    "fields": {
+        "question": 669,
+        "text": "Go no utiliza un recolector de basura; el programador debe gestionar la memoria",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:14:19.466Z",
+        "updated_at": "2026-11-22T14:14:19.466Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3308,
+    "fields": {
+        "question": 670,
+        "text": "Un conjunto de firmas de métodos que un tipo debe implementar",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:18:39.381Z",
+        "updated_at": "2026-11-22T14:18:39.381Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3309,
+    "fields": {
+        "question": 670,
+        "text": "El mecanismo de comunicaciones entre canales",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:19:06.282Z",
+        "updated_at": "2026-11-22T14:19:06.282Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3310,
+    "fields": {
+        "question": 670,
+        "text": "La definición de una determinada plataforma (Sistema operativo más *hardware* subyacente) para la cual Go puede compilar un binario",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:20:20.947Z",
+        "updated_at": "2026-11-22T14:20:20.947Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3311,
+    "fields": {
+        "question": 670,
+        "text": "El editor o IDE usado para editar programas escritos en Go",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:20:43.772Z",
+        "updated_at": "2026-11-22T14:20:43.772Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3312,
+    "fields": {
+        "question": 670,
+        "text": "Es exactamente el mismo concepto que las clases en OOP clásica, pero con otro nombre",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:21:33.590Z",
+        "updated_at": "2026-11-22T14:21:33.590Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3313,
+    "fields": {
+        "question": 670,
+        "text": "La forma de definir las variables en Go de forma que se puede inferir su tipo a partir de su valor",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:22:22.133Z",
+        "updated_at": "2026-11-22T14:22:22.133Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3314,
+    "fields": {
+        "question": 671,
+        "text": "Go hace cumplir reglas estrictas de dependencia de paquetes. Las importaciones circulares (A → B → A) son errores de compilación",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:26:54.039Z",
+        "updated_at": "2026-11-22T14:26:54.039Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3315,
+    "fields": {
+        "question": 671,
+        "text": "Go hace cumplir reglas opcionales de dependencia de paquetes. Las importaciones circulares (A → B → A) son *warnings* de compilación",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:27:10.424Z",
+        "updated_at": "2026-11-22T14:27:10.424Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3316,
+    "fields": {
+        "question": 671,
+        "text": "No lo gestiona, es responsabilidad del programador",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:27:56.408Z",
+        "updated_at": "2026-11-22T14:27:56.408Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3317,
+    "fields": {
+        "question": 671,
+        "text": "Se soluciona mediante el recolector de basura",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:29:09.161Z",
+        "updated_at": "2026-11-22T14:29:09.161Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3318,
+    "fields": {
+        "question": 671,
+        "text": "No se pueden producir dependencia circulares al ser un lenguaje fuertemente tipado",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:29:46.156Z",
+        "updated_at": "2026-11-22T14:29:46.156Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3319,
+    "fields": {
+        "question": 672,
+        "text": "Un *mutex* (bloqueo de exclusión mutua) impide el acceso simultáneo a recursos compartidos.",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:34:14.981Z",
+        "updated_at": "2026-11-22T14:41:02.859Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3320,
+    "fields": {
+        "question": 672,
+        "text": "El *mutex* es necesario para que diferentes hilos de ejecución no tengan que esperar para acceder a un recurso compartido",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:39:03.583Z",
+        "updated_at": "2026-11-22T14:40:02.761Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3321,
+    "fields": {
+        "question": 672,
+        "text": "EL *mutex* impide que las goroutinas se puedan comunicar entre si",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:39:54.443Z",
+        "updated_at": "2026-11-22T14:39:54.443Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3322,
+    "fields": {
+        "question": 672,
+        "text": "El *mutex* es el paquete de Golang usado para trabajar con ficheros de audio",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:40:31.547Z",
+        "updated_at": "2026-11-22T14:40:31.547Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3323,
+    "fields": {
+        "question": 672,
+        "text": "El *mutex* es el paquete de Golang usado para trabajar con ficheros de vídeo",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:40:40.693Z",
+        "updated_at": "2026-11-22T14:40:40.693Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3324,
+    "fields": {
+        "question": 672,
+        "text": "Los *mutex* deben utilizarse cuando se pueda producir una condición de carrera (*race condition*)",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:41:41.148Z",
+        "updated_at": "2026-11-22T14:41:41.149Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3325,
+    "fields": {
+        "question": 672,
+        "text": "El Golang no hace falta usar *mutex*, porque se evita gracias a la compilación cruzada nativa *out of the box*",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:43:57.714Z",
+        "updated_at": "2026-11-22T14:43:57.714Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3326,
+    "fields": {
+        "question": 673,
+        "text": "Compilación y ejecución rápidas",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:48:44.757Z",
+        "updated_at": "2026-11-22T14:48:44.757Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3327,
+    "fields": {
+        "question": 673,
+        "text": "Implementación completa del paradigma de orientación a objetos (POO)",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:49:35.084Z",
+        "updated_at": "2026-11-22T14:49:35.084Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3328,
+    "fields": {
+        "question": 673,
+        "text": "Excelente concurrencia (goroutines)",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:49:44.889Z",
+        "updated_at": "2026-11-22T14:49:44.889Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3329,
+    "fields": {
+        "question": 673,
+        "text": "Sintaxis simple",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:49:56.574Z",
+        "updated_at": "2026-11-22T14:49:56.574Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3330,
+    "fields": {
+        "question": 673,
+        "text": "Promueve la máxima flexibilidad en lo que respecta al formateo del código fuente",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:50:40.286Z",
+        "updated_at": "2026-11-22T14:50:40.286Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3331,
+    "fields": {
+        "question": 673,
+        "text": "binarios multiplataforma",
+        "is_correct": true,
+        "created_at": "2026-11-22T14:50:51.324Z",
+        "updated_at": "2026-11-22T14:50:51.324Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3332,
+    "fields": {
+        "question": 673,
+        "text": "Soporte de excepciones",
+        "is_correct": false,
+        "created_at": "2026-11-22T14:51:04.740Z",
+        "updated_at": "2026-11-22T14:51:04.740Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3333,
+    "fields": {
+        "question": 673,
+        "text": "Solo usa 25 palabras reservas",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:12:59.405Z",
+        "updated_at": "2026-11-22T16:12:59.405Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3334,
+    "fields": {
+        "question": 673,
+        "text": "Desde la versión 1.18, tiene soporte para genéricos",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:15:04.720Z",
+        "updated_at": "2026-11-22T16:19:07.964Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3335,
+    "fields": {
+        "question": 673,
+        "text": "Permite el uso de aritmética de punteros",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:16:07.072Z",
+        "updated_at": "2026-11-22T16:16:07.072Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3336,
+    "fields": {
+        "question": 673,
+        "text": "La distribución principal de Go **no** incluye herramientas de pruebas, análisis de la calidad del código ni utilidades de formateo de código, todo eso esta proporcionado por librerías de terceros",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:18:54.738Z",
+        "updated_at": "2026-11-22T16:18:54.738Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3337,
+    "fields": {
+        "question": 673,
+        "text": "Go es software libre, con licencia BSD",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:21:33.880Z",
+        "updated_at": "2026-11-22T16:21:33.881Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3338,
+    "fields": {
+        "question": 673,
+        "text": "Su diseño se inspira sobre todo en C++",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:23:17.168Z",
+        "updated_at": "2026-11-22T16:23:17.168Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3339,
+    "fields": {
+        "question": 674,
+        "text": "``int``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:48:41.628Z",
+        "updated_at": "2026-11-22T16:48:48.199Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3340,
+    "fields": {
+        "question": 674,
+        "text": "``uint8``",
+        "is_correct": true,
+        "created_at": "2026-11-22T16:49:12.009Z",
+        "updated_at": "2026-11-22T16:49:12.009Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3341,
+    "fields": {
+        "question": 674,
+        "text": "``int8``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:21.805Z",
+        "updated_at": "2026-11-22T16:49:21.805Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3342,
+    "fields": {
+        "question": 674,
+        "text": "``word``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:30.769Z",
+        "updated_at": "2026-11-22T16:49:30.769Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3343,
+    "fields": {
+        "question": 674,
+        "text": "``int32``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:42.408Z",
+        "updated_at": "2026-11-22T16:49:42.408Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3344,
+    "fields": {
+        "question": 674,
+        "text": "``uint32``",
+        "is_correct": false,
+        "created_at": "2026-11-22T16:49:49.870Z",
+        "updated_at": "2026-11-22T16:50:07.761Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3345,
+    "fields": {
+        "question": 674,
+        "text": "``bool``",
+        "is_correct": false,
+        "created_at": "2026-11-22T20:12:13.779Z",
+        "updated_at": "2026-11-22T20:12:13.779Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3346,
+    "fields": {
+        "question": 674,
+        "text": "``string``",
+        "is_correct": false,
+        "created_at": "2026-11-22T20:12:34.453Z",
+        "updated_at": "2026-11-22T20:12:34.453Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3347,
+    "fields": {
+        "question": 674,
+        "text": "``rune``",
+        "is_correct": false,
+        "created_at": "2026-11-22T20:12:57.924Z",
+        "updated_at": "2026-11-22T20:12:57.924Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -129460,6 +131268,76 @@
         "failures": 1,
         "created_at": "2026-11-22T00:49:13.958Z",
         "updated_at": "2026-11-22T00:49:16.966Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 618,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 669,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-22T14:14:42.216Z",
+        "updated_at": "2026-11-22T14:14:47.560Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 619,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 670,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-22T14:22:37.439Z",
+        "updated_at": "2026-11-22T14:22:42.173Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 620,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 672,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-22T14:46:38.780Z",
+        "updated_at": "2026-11-22T14:46:58.100Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 621,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 673,
+        "tries": 3,
+        "failures": 1,
+        "created_at": "2026-11-22T16:23:35.167Z",
+        "updated_at": "2026-11-22T16:23:48.198Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 622,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 674,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-22T16:50:15.353Z",
+        "updated_at": "2026-11-22T16:50:18.638Z"
     }
 }
 ]
