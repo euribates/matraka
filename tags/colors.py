@@ -16,6 +16,7 @@ def get_rgb_from_hex(value: str) -> Tuple[int, int, int]:
     return red, green, blue
 
 
+
 @dataclass(frozen=True)
 class Color:
     """A class to work with colors.
@@ -36,6 +37,15 @@ class Color:
         red = random.randrange(0, 256)
         green = random.randrange(0, 256)
         blue = random.randrange(0, 256)
+        return Cls(red, green, blue)
+
+    @classmethod
+    def from_rgb(Cls, red: int, green: int, blue: int):
+        return Cls(red, green, blue)
+
+    @classmethod
+    def from_hex(Cls, hex_color: str):
+        red, green, blue = get_rgb_from_hex(hex_color)
         return Cls(red, green, blue)
 
     def replace(self, red=None, green=None, blue=None):
@@ -59,3 +69,4 @@ class Color:
 BLACK = Color(0, 0, 0)
 WHITE = Color(255, 255, 255)
 SILVER = Color(192, 192, 192)
+

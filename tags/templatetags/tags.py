@@ -4,20 +4,21 @@ from django.utils.safestring import mark_safe
 from django import template
 from django.urls import reverse
 
+from tags.colors import Color
 
 register = template.Library()
 
 
 @register.filter
 def as_tag(tag):
-    fg_color = tag.color.foreground_color()
-    bg_color = tag.color.background_color()
+    luminance = tag.color.luminance()
+    b_klass = 'badge-light' if luminance > 0.5 else 'badge-dark'
     url = reverse('tags:view_tag', kwargs={'tag_name': tag.name})  
     return mark_safe(
         '<span class="tag is-info"'
         f' title="{tag.description}"'
-        f' style="color: {fg_color}; background-color: {bg_color}">'
-        f'<a class="badge" href="{url}">'
+        f' style="background-color: {tag.color}">'
+        f'<a class="badge {b_klass}" href="{url}">'
         f'{tag.name}'
         f'</a>'
         '</span>'
