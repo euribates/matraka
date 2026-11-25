@@ -13907,6 +13907,516 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 850,
+    "fields": {
+        "id_question": 675,
+        "text": "En un sistema de mensajería, como puede ser Apache Kafka, MQTT o RabbitMQ, obtenemos un sistema con:",
+        "source": "Propia",
+        "created_at": "2026-11-23T12:34:11.064Z",
+        "updated_at": "2026-11-23T12:34:11.064Z",
+        "history_date": "2026-11-23T12:34:11.077Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 851,
+    "fields": {
+        "id_question": 675,
+        "text": "En un sistema de mensajería, como puede ser Apache Kafka, MQTT o RabbitMQ, obtenemos un sistema con:",
+        "source": "Propia",
+        "created_at": "2026-11-23T12:34:11.064Z",
+        "updated_at": "2026-11-23T12:36:44.275Z",
+        "history_date": "2026-11-23T12:36:44.286Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 852,
+    "fields": {
+        "id_question": 675,
+        "text": "En un sistema de mensajería, como puede ser Apache Kafka, MQTT o RabbitMQ, por lo general obtenemos un sistema con:",
+        "source": "Propia",
+        "created_at": "2026-11-23T12:34:11.064Z",
+        "updated_at": "2026-11-23T13:04:17.411Z",
+        "history_date": "2026-11-23T13:04:17.422Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 853,
+    "fields": {
+        "id_question": 675,
+        "text": "En un sistema de mensajería, como puede ser Apache Kafka, MQTT o RabbitMQ, por lo general obtenemos un sistema:",
+        "source": "Propia",
+        "created_at": "2026-11-23T12:34:11.064Z",
+        "updated_at": "2026-11-23T13:16:48.359Z",
+        "history_date": "2026-11-23T13:16:48.372Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 854,
+    "fields": {
+        "id_question": 676,
+        "text": "¿En qué año se modificó la vigente Constitución Española para sustituir la antigua terminología constitucional relativa a la discapacidad?",
+        "source": "https://escapa.es/temario-comun-tema-1",
+        "created_at": "2026-11-23T19:24:50.892Z",
+        "updated_at": "2026-11-23T19:24:50.892Z",
+        "history_date": "2026-11-23T19:24:50.906Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 855,
+    "fields": {
+        "id_question": 677,
+        "text": "¿En qué año se modificó la vigente Constitución Española para declarar Formentera como circunscripción propia?",
+        "source": "https://escapa.es/temario-comun-tema-1",
+        "created_at": "2026-11-23T19:28:01.378Z",
+        "updated_at": "2026-11-23T19:28:01.378Z",
+        "history_date": "2026-11-23T19:28:01.390Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 856,
+    "fields": {
+        "id_question": 678,
+        "text": "Indica cuál de los siguientes órganos **no** es un órgano superior de la administración del Cabildo Insular de Tenerife",
+        "source": "Propia",
+        "created_at": "2026-11-24T12:49:30.513Z",
+        "updated_at": "2026-11-24T12:49:30.513Z",
+        "history_date": "2026-11-24T12:49:30.529Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 857,
+    "fields": {
+        "id_question": 679,
+        "text": "¿Cuáles de los siguientes órganos son considerados órganos directivos dentro de la organización interna del Cabildo Insular de tenerife?",
+        "source": "Propia",
+        "created_at": "2026-11-24T12:54:45.345Z",
+        "updated_at": "2026-11-24T12:54:45.345Z",
+        "history_date": "2026-11-24T12:54:45.358Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 858,
+    "fields": {
+        "id_question": 680,
+        "text": "El número total de miembros del Consejo de Gobierno Insular del CAbildo Insular de Tenerife no podrá ser mayor que:",
+        "source": "Propia",
+        "created_at": "2026-11-24T13:04:40.273Z",
+        "updated_at": "2026-11-24T13:04:40.273Z",
+        "history_date": "2026-11-24T13:04:40.289Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 859,
+    "fields": {
+        "id_question": 680,
+        "text": "El número total de miembros del Consejo de Gobierno Insular del Cabildo Insular de Tenerife no podrá ser mayor que:",
+        "source": "Propia",
+        "created_at": "2026-11-24T13:04:40.273Z",
+        "updated_at": "2026-11-24T13:06:29.343Z",
+        "history_date": "2026-11-24T13:06:29.357Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 860,
+    "fields": {
+        "id_question": 681,
+        "text": "Son órgano de Gobierno del Cabildo Insular de Tenerife:",
+        "source": "Propia",
+        "created_at": "2026-11-24T13:10:22.093Z",
+        "updated_at": "2026-11-24T13:10:22.093Z",
+        "history_date": "2026-11-24T13:10:22.107Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 861,
+    "fields": {
+        "id_question": 682,
+        "text": "¿Cuál es el principal objetivo de las metodologías ágiles?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T20:53:32.167Z",
+        "updated_at": "2026-11-24T20:53:32.167Z",
+        "history_date": "2026-11-24T20:53:32.188Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 862,
+    "fields": {
+        "id_question": 683,
+        "text": "¿Cual de los siguientes valores **no** es un valor principal de Agile?",
+        "source": "Propia",
+        "created_at": "2026-11-24T20:57:37.019Z",
+        "updated_at": "2026-11-24T20:57:37.019Z",
+        "history_date": "2026-11-24T20:57:37.036Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 863,
+    "fields": {
+        "id_question": 683,
+        "text": "¿Cual de las siguientes afirmaciones es un valor principal de Agile?",
+        "source": "Propia",
+        "created_at": "2026-11-24T20:57:37.019Z",
+        "updated_at": "2026-11-24T21:00:15.925Z",
+        "history_date": "2026-11-24T21:00:15.939Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 864,
+    "fields": {
+        "id_question": 684,
+        "text": "¿Cuántos principios fundamentales recoge el Manifiesto Ágil?",
+        "source": "",
+        "created_at": "2026-11-24T21:03:28.611Z",
+        "updated_at": "2026-11-24T21:03:28.611Z",
+        "history_date": "2026-11-24T21:03:28.627Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 865,
+    "fields": {
+        "id_question": 684,
+        "text": "¿Cuántos principios fundamentales recoge el Manifiesto Ágil?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:03:28.611Z",
+        "updated_at": "2026-11-24T21:04:22.593Z",
+        "history_date": "2026-11-24T21:04:22.606Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 866,
+    "fields": {
+        "id_question": 685,
+        "text": "¿Qué significa el principio ágil de priorizar a las personas y sus interacciones sobre los procesos y herramientas?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:04:50.726Z",
+        "updated_at": "2026-11-24T21:04:50.726Z",
+        "history_date": "2026-11-24T21:04:50.739Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 867,
+    "fields": {
+        "id_question": 686,
+        "text": "¿Qué caracteriza principalmente al desarrollo iterativo e incremental?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:08:41.874Z",
+        "updated_at": "2026-11-24T21:08:41.874Z",
+        "history_date": "2026-11-24T21:08:41.887Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 868,
+    "fields": {
+        "id_question": 687,
+        "text": "¿Cuál de las siguientes opciones representa una ventaja del desarrollo ágil?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:10:52.971Z",
+        "updated_at": "2026-11-24T21:10:52.971Z",
+        "history_date": "2026-11-24T21:10:52.985Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 869,
+    "fields": {
+        "id_question": 688,
+        "text": "¿Qué es Scrum?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:12:35.734Z",
+        "updated_at": "2026-11-24T21:12:35.734Z",
+        "history_date": "2026-11-24T21:12:35.745Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 870,
+    "fields": {
+        "id_question": 689,
+        "text": "En Scrum, ¿quién es responsable de maximizar el valor del producto y gestionar eficazmente el *Product Backlog*?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:19:10.720Z",
+        "updated_at": "2026-11-24T21:19:10.720Z",
+        "history_date": "2026-11-24T21:19:10.732Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 871,
+    "fields": {
+        "id_question": 689,
+        "text": "En Scrum, ¿quién es responsable de maximizar el valor del producto y gestionar eficazmente el *Product Backlog*?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:19:10.720Z",
+        "updated_at": "2026-11-24T21:19:15.092Z",
+        "history_date": "2026-11-24T21:19:15.105Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 872,
+    "fields": {
+        "id_question": 690,
+        "text": "¿Cuál es la función principal del Scrum Master?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:23:52.180Z",
+        "updated_at": "2026-11-24T21:23:52.180Z",
+        "history_date": "2026-11-24T21:23:52.196Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 873,
+    "fields": {
+        "id_question": 691,
+        "text": "¿Qué es un Sprint en Scrum?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:25:39.161Z",
+        "updated_at": "2026-11-24T21:25:39.161Z",
+        "history_date": "2026-11-24T21:25:39.174Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 874,
+    "fields": {
+        "id_question": 692,
+        "text": "¿Cuál es el principal objetivo del método Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:29:22.174Z",
+        "updated_at": "2026-11-24T21:29:22.174Z",
+        "history_date": "2026-11-24T21:29:22.187Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 875,
+    "fields": {
+        "id_question": 693,
+        "text": "¿Qué representa una columna en un tablero Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:32:14.724Z",
+        "updated_at": "2026-11-24T21:32:14.724Z",
+        "history_date": "2026-11-24T21:32:14.741Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 876,
+    "fields": {
+        "id_question": 694,
+        "text": "¿Qué significa limitar el WIP (*Work In Progress*) en Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:34:51.208Z",
+        "updated_at": "2026-11-24T21:34:51.208Z",
+        "history_date": "2026-11-24T21:34:51.223Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 877,
+    "fields": {
+        "id_question": 695,
+        "text": "¿Qué ventaja ofrece la visualización del flujo de trabajo en Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:36:52.911Z",
+        "updated_at": "2026-11-24T21:36:52.911Z",
+        "history_date": "2026-11-24T21:36:52.924Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 878,
+    "fields": {
+        "id_question": 696,
+        "text": "¿Cuál es una diferencia importante entre Scrum y Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:40:12.362Z",
+        "updated_at": "2026-11-24T21:40:12.362Z",
+        "history_date": "2026-11-24T21:40:12.374Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 879,
+    "fields": {
+        "id_question": 697,
+        "text": "¿Cuál de los siguientes NO es uno de los tres pilares del empirismo en Scrum?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:42:46.305Z",
+        "updated_at": "2026-11-24T21:42:46.306Z",
+        "history_date": "2026-11-24T21:42:46.343Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -22197,6 +22707,338 @@
         "tags": [
             47,
             18
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 675,
+    "fields": {
+        "text": "En un sistema de mensajería, como puede ser Apache Kafka, MQTT o RabbitMQ, por lo general obtenemos un sistema:",
+        "source": "Propia",
+        "created_at": "2026-11-23T12:34:11.064Z",
+        "updated_at": "2026-11-23T13:16:48.359Z",
+        "tags": [
+            25,
+            29,
+            12,
+            48,
+            45,
+            33,
+            39,
+            38
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 676,
+    "fields": {
+        "text": "¿En qué año se modificó la vigente Constitución Española para sustituir la antigua terminología constitucional relativa a la discapacidad?",
+        "source": "https://escapa.es/temario-comun-tema-1",
+        "created_at": "2026-11-23T19:24:50.892Z",
+        "updated_at": "2026-11-23T19:24:50.892Z",
+        "tags": [
+            1,
+            6
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 677,
+    "fields": {
+        "text": "¿En qué año se modificó la vigente Constitución Española para declarar Formentera como circunscripción propia?",
+        "source": "https://escapa.es/temario-comun-tema-1",
+        "created_at": "2026-11-23T19:28:01.378Z",
+        "updated_at": "2026-11-23T19:28:01.378Z",
+        "tags": [
+            1,
+            21
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 678,
+    "fields": {
+        "text": "Indica cuál de los siguientes órganos **no** es un órgano superior de la administración del Cabildo Insular de Tenerife",
+        "source": "Propia",
+        "created_at": "2026-11-24T12:49:30.513Z",
+        "updated_at": "2026-11-24T12:49:30.513Z",
+        "tags": [
+            43,
+            2,
+            44
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 679,
+    "fields": {
+        "text": "¿Cuáles de los siguientes órganos son considerados órganos directivos dentro de la organización interna del Cabildo Insular de tenerife?",
+        "source": "Propia",
+        "created_at": "2026-11-24T12:54:45.345Z",
+        "updated_at": "2026-11-24T12:54:45.345Z",
+        "tags": [
+            43,
+            2,
+            44
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 680,
+    "fields": {
+        "text": "El número total de miembros del Consejo de Gobierno Insular del Cabildo Insular de Tenerife no podrá ser mayor que:",
+        "source": "Propia",
+        "created_at": "2026-11-24T13:04:40.273Z",
+        "updated_at": "2026-11-24T13:06:29.343Z",
+        "tags": [
+            43,
+            2,
+            44
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 681,
+    "fields": {
+        "text": "Son órgano de Gobierno del Cabildo Insular de Tenerife:",
+        "source": "Propia",
+        "created_at": "2026-11-24T13:10:22.093Z",
+        "updated_at": "2026-11-24T13:10:22.093Z",
+        "tags": [
+            43,
+            2,
+            44
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 682,
+    "fields": {
+        "text": "¿Cuál es el principal objetivo de las metodologías ágiles?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T20:53:32.167Z",
+        "updated_at": "2026-11-24T20:53:32.167Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 683,
+    "fields": {
+        "text": "¿Cual de las siguientes afirmaciones es un valor principal de Agile?",
+        "source": "Propia",
+        "created_at": "2026-11-24T20:57:37.019Z",
+        "updated_at": "2026-11-24T21:00:15.925Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 684,
+    "fields": {
+        "text": "¿Cuántos principios fundamentales recoge el Manifiesto Ágil?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:03:28.611Z",
+        "updated_at": "2026-11-24T21:04:22.593Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 685,
+    "fields": {
+        "text": "¿Qué significa el principio ágil de priorizar a las personas y sus interacciones sobre los procesos y herramientas?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:04:50.726Z",
+        "updated_at": "2026-11-24T21:04:50.726Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 686,
+    "fields": {
+        "text": "¿Qué caracteriza principalmente al desarrollo iterativo e incremental?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:08:41.874Z",
+        "updated_at": "2026-11-24T21:08:41.874Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 687,
+    "fields": {
+        "text": "¿Cuál de las siguientes opciones representa una ventaja del desarrollo ágil?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:10:52.971Z",
+        "updated_at": "2026-11-24T21:10:52.971Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 688,
+    "fields": {
+        "text": "¿Qué es Scrum?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:12:35.734Z",
+        "updated_at": "2026-11-24T21:12:35.734Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 689,
+    "fields": {
+        "text": "En Scrum, ¿quién es responsable de maximizar el valor del producto y gestionar eficazmente el *Product Backlog*?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:19:10.720Z",
+        "updated_at": "2026-11-24T21:19:15.092Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 690,
+    "fields": {
+        "text": "¿Cuál es la función principal del Scrum Master?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:23:52.180Z",
+        "updated_at": "2026-11-24T21:23:52.180Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 691,
+    "fields": {
+        "text": "¿Qué es un Sprint en Scrum?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:25:39.161Z",
+        "updated_at": "2026-11-24T21:25:39.161Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 692,
+    "fields": {
+        "text": "¿Cuál es el principal objetivo del método Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:29:22.174Z",
+        "updated_at": "2026-11-24T21:29:22.174Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 693,
+    "fields": {
+        "text": "¿Qué representa una columna en un tablero Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:32:14.724Z",
+        "updated_at": "2026-11-24T21:32:14.724Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 694,
+    "fields": {
+        "text": "¿Qué significa limitar el WIP (*Work In Progress*) en Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:34:51.208Z",
+        "updated_at": "2026-11-24T21:34:51.208Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 695,
+    "fields": {
+        "text": "¿Qué ventaja ofrece la visualización del flujo de trabajo en Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:36:52.911Z",
+        "updated_at": "2026-11-24T21:36:52.911Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 696,
+    "fields": {
+        "text": "¿Cuál es una diferencia importante entre Scrum y Kanban?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:40:12.362Z",
+        "updated_at": "2026-11-24T21:40:12.362Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 697,
+    "fields": {
+        "text": "¿Cuál de los siguientes NO es uno de los tres pilares del empirismo en Scrum?",
+        "source": "ChatGPT",
+        "created_at": "2026-11-24T21:42:46.305Z",
+        "updated_at": "2026-11-24T21:42:46.306Z",
+        "tags": [
+            40,
+            43
         ]
     }
 },
@@ -85827,6 +86669,3444 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3666,
+    "fields": {
+        "id_answer": 3348,
+        "text": "Alta latencia, bajo acoplamiento",
+        "is_correct": true,
+        "created_at": "2026-11-23T12:34:43.250Z",
+        "updated_at": "2026-11-23T12:34:43.250Z",
+        "question": 675,
+        "history_date": "2026-11-23T12:34:43.261Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3667,
+    "fields": {
+        "id_answer": 3349,
+        "text": "Baja latencia, bajo acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:34:54.652Z",
+        "updated_at": "2026-11-23T12:34:54.652Z",
+        "question": 675,
+        "history_date": "2026-11-23T12:34:54.667Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3668,
+    "fields": {
+        "id_answer": 3350,
+        "text": "Alta latencia, alto acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:35:06.405Z",
+        "updated_at": "2026-11-23T12:35:06.406Z",
+        "question": 675,
+        "history_date": "2026-11-23T12:35:06.423Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3669,
+    "fields": {
+        "id_answer": 3351,
+        "text": "Baja latencia, alto acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:35:42.070Z",
+        "updated_at": "2026-11-23T12:35:42.070Z",
+        "question": 675,
+        "history_date": "2026-11-23T12:35:42.093Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3670,
+    "fields": {
+        "id_answer": 3348,
+        "text": "Facilidad de escalado, bajo acoplamiento",
+        "is_correct": true,
+        "created_at": "2026-11-23T12:34:43.250Z",
+        "updated_at": "2026-11-23T13:08:10.039Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:08:10.054Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3671,
+    "fields": {
+        "id_answer": 3349,
+        "text": "Dificultad en el escalado, bajo acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:34:54.652Z",
+        "updated_at": "2026-11-23T13:08:38.937Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:08:38.951Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3672,
+    "fields": {
+        "id_answer": 3350,
+        "text": "Fácil de escalar y con alto acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:35:06.405Z",
+        "updated_at": "2026-11-23T13:09:13.298Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:09:13.309Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3673,
+    "fields": {
+        "id_answer": 3351,
+        "text": "Difícil de escalar y con alto acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:35:42.070Z",
+        "updated_at": "2026-11-23T13:09:36.049Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:09:36.066Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3674,
+    "fields": {
+        "id_answer": 3349,
+        "text": "Difícil de escalar, con bajo acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:34:54.652Z",
+        "updated_at": "2026-11-23T13:09:56.249Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:09:56.265Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3675,
+    "fields": {
+        "id_answer": 3348,
+        "text": "Facil de escalar, con bajo acoplamiento",
+        "is_correct": true,
+        "created_at": "2026-11-23T12:34:43.250Z",
+        "updated_at": "2026-11-23T13:10:12.795Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:10:12.807Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3676,
+    "fields": {
+        "id_answer": 3348,
+        "text": "Fácil de escalar, con bajo acoplamiento",
+        "is_correct": true,
+        "created_at": "2026-11-23T12:34:43.250Z",
+        "updated_at": "2026-11-23T13:10:18.960Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:10:18.984Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3677,
+    "fields": {
+        "id_answer": 3348,
+        "text": "Fácil de escalar y con bajo acoplamiento",
+        "is_correct": true,
+        "created_at": "2026-11-23T12:34:43.250Z",
+        "updated_at": "2026-11-23T13:10:47.586Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:10:47.605Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3678,
+    "fields": {
+        "id_answer": 3349,
+        "text": "Difícil de escalar y con bajo acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:34:54.652Z",
+        "updated_at": "2026-11-23T13:10:53.845Z",
+        "question": 675,
+        "history_date": "2026-11-23T13:10:53.858Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3679,
+    "fields": {
+        "id_answer": 3352,
+        "text": "Que no afecta ni a la escalabilidad ni al acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:22:30.917Z",
+        "updated_at": "2026-11-23T19:22:30.917Z",
+        "question": 675,
+        "history_date": "2026-11-23T19:22:30.929Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3680,
+    "fields": {
+        "id_answer": 3353,
+        "text": "En 1992",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:02.263Z",
+        "updated_at": "2026-11-23T19:25:02.263Z",
+        "question": 676,
+        "history_date": "2026-11-23T19:25:02.275Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3681,
+    "fields": {
+        "id_answer": 3354,
+        "text": "En 2011",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:09.850Z",
+        "updated_at": "2026-11-23T19:25:09.850Z",
+        "question": 676,
+        "history_date": "2026-11-23T19:25:09.866Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3682,
+    "fields": {
+        "id_answer": 3355,
+        "text": "En 2024",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:23.727Z",
+        "updated_at": "2026-11-23T19:25:23.727Z",
+        "question": 676,
+        "history_date": "2026-11-23T19:25:23.744Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3683,
+    "fields": {
+        "id_answer": 3356,
+        "text": "En 2026",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:32.930Z",
+        "updated_at": "2026-11-23T19:25:32.930Z",
+        "question": 676,
+        "history_date": "2026-11-23T19:25:32.940Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3684,
+    "fields": {
+        "id_answer": 3357,
+        "text": "En 1978",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:47.877Z",
+        "updated_at": "2026-11-23T19:25:47.877Z",
+        "question": 676,
+        "history_date": "2026-11-23T19:25:47.895Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3685,
+    "fields": {
+        "id_answer": 3355,
+        "text": "En 2024",
+        "is_correct": true,
+        "created_at": "2026-11-23T19:25:23.727Z",
+        "updated_at": "2026-11-23T19:25:58.327Z",
+        "question": 676,
+        "history_date": "2026-11-23T19:25:58.337Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3686,
+    "fields": {
+        "id_answer": 3358,
+        "text": "En 1978",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:20.743Z",
+        "updated_at": "2026-11-23T19:28:20.743Z",
+        "question": 677,
+        "history_date": "2026-11-23T19:28:20.755Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3687,
+    "fields": {
+        "id_answer": 3359,
+        "text": "En 2011",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:28.292Z",
+        "updated_at": "2026-11-23T19:28:28.292Z",
+        "question": 677,
+        "history_date": "2026-11-23T19:28:28.310Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3688,
+    "fields": {
+        "id_answer": 3360,
+        "text": "En 2024",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:37.133Z",
+        "updated_at": "2026-11-23T19:28:37.133Z",
+        "question": 677,
+        "history_date": "2026-11-23T19:28:37.145Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3689,
+    "fields": {
+        "id_answer": 3361,
+        "text": "Em 1992",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:42.482Z",
+        "updated_at": "2026-11-23T19:28:42.482Z",
+        "question": 677,
+        "history_date": "2026-11-23T19:28:42.495Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3690,
+    "fields": {
+        "id_answer": 3361,
+        "text": "En 1992",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:42.482Z",
+        "updated_at": "2026-11-23T19:28:50.073Z",
+        "question": 677,
+        "history_date": "2026-11-23T19:28:50.085Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3691,
+    "fields": {
+        "id_answer": 3362,
+        "text": "En 2026",
+        "is_correct": true,
+        "created_at": "2026-11-23T19:28:59.123Z",
+        "updated_at": "2026-11-23T19:28:59.123Z",
+        "question": 677,
+        "history_date": "2026-11-23T19:28:59.138Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3692,
+    "fields": {
+        "id_answer": 3363,
+        "text": "La Presidencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:49:45.754Z",
+        "updated_at": "2026-11-24T12:49:45.754Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:49:45.768Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3693,
+    "fields": {
+        "id_answer": 3364,
+        "text": "Las Consejerías Insulares que tengan funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:49:55.350Z",
+        "updated_at": "2026-11-24T12:49:55.350Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:49:55.368Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3694,
+    "fields": {
+        "id_answer": 3365,
+        "text": "Las Consejerías con delegación dentro de un área ejecutiva",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:50:03.048Z",
+        "updated_at": "2026-11-24T12:50:03.049Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:50:03.060Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3695,
+    "fields": {
+        "id_answer": 3366,
+        "text": "La Secretaría General del Pleno",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:20.615Z",
+        "updated_at": "2026-11-24T12:50:20.615Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:50:20.628Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3696,
+    "fields": {
+        "id_answer": 3367,
+        "text": "La Vicesecretaría General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:34.264Z",
+        "updated_at": "2026-11-24T12:50:34.264Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:50:34.283Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3697,
+    "fields": {
+        "id_answer": 3368,
+        "text": "La Asesoría Jurídica",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:50:45.058Z",
+        "updated_at": "2026-11-24T12:50:45.058Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:50:45.078Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3698,
+    "fields": {
+        "id_answer": 3369,
+        "text": "La Intervención General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:54.949Z",
+        "updated_at": "2026-11-24T12:50:54.949Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:50:54.961Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3699,
+    "fields": {
+        "id_answer": 3368,
+        "text": "La Asesoría Jurídica",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:45.058Z",
+        "updated_at": "2026-11-24T12:50:58.258Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:50:58.271Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3700,
+    "fields": {
+        "id_answer": 3370,
+        "text": "La Tesorería Insular",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:51:08.587Z",
+        "updated_at": "2026-11-24T12:51:08.587Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:51:08.602Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3701,
+    "fields": {
+        "id_answer": 3370,
+        "text": "La Tesorería Insular",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:51:08.587Z",
+        "updated_at": "2026-11-24T12:51:11.957Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:51:11.969Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3702,
+    "fields": {
+        "id_answer": 3371,
+        "text": "La Oficina de Contabilidad",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:51:25.819Z",
+        "updated_at": "2026-11-24T12:51:25.819Z",
+        "question": 678,
+        "history_date": "2026-11-24T12:51:25.832Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3703,
+    "fields": {
+        "id_answer": 3372,
+        "text": "Las coordinaciones Insulares",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:55:02.996Z",
+        "updated_at": "2026-11-24T12:55:02.996Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:55:03.012Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3704,
+    "fields": {
+        "id_answer": 3373,
+        "text": "Las Direcciones Insulares",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:55:10.168Z",
+        "updated_at": "2026-11-24T12:55:10.168Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:55:10.180Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3705,
+    "fields": {
+        "id_answer": 3374,
+        "text": "La Secretaría General del Plen",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:55:28.460Z",
+        "updated_at": "2026-11-24T12:55:28.460Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:55:28.477Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3706,
+    "fields": {
+        "id_answer": 3375,
+        "text": "La Vicesecretaría General",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:55:36.034Z",
+        "updated_at": "2026-11-24T12:55:36.034Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:55:36.054Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3707,
+    "fields": {
+        "id_answer": 3376,
+        "text": "La Asesoría Jurídica",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:55:46.483Z",
+        "updated_at": "2026-11-24T12:55:46.483Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:55:46.496Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3708,
+    "fields": {
+        "id_answer": 3377,
+        "text": "La Intervención General",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:55:55.233Z",
+        "updated_at": "2026-11-24T12:55:55.233Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:55:55.245Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3709,
+    "fields": {
+        "id_answer": 3378,
+        "text": "La Tesorería Insular",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:56:05.326Z",
+        "updated_at": "2026-11-24T12:56:05.326Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:56:05.343Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3710,
+    "fields": {
+        "id_answer": 3379,
+        "text": "La Oficina de Contabilidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:56:15.201Z",
+        "updated_at": "2026-11-24T12:56:15.201Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:56:15.215Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3711,
+    "fields": {
+        "id_answer": 3380,
+        "text": "Todas las otras opciones son co0rrectas",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:56:42.237Z",
+        "updated_at": "2026-11-24T12:56:42.237Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:56:42.258Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3712,
+    "fields": {
+        "id_answer": 3380,
+        "text": "La Presidencia",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:56:42.237Z",
+        "updated_at": "2026-11-24T12:57:12.819Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:12.835Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3713,
+    "fields": {
+        "id_answer": 3380,
+        "text": "La Presidencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:56:42.237Z",
+        "updated_at": "2026-11-24T12:57:20.364Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:20.377Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3714,
+    "fields": {
+        "id_answer": 3372,
+        "text": "Las coordinaciones Insulares",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:02.996Z",
+        "updated_at": "2026-11-24T12:57:23.408Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:23.427Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3715,
+    "fields": {
+        "id_answer": 3373,
+        "text": "Las Direcciones Insulares",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:10.168Z",
+        "updated_at": "2026-11-24T12:57:25.715Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:25.730Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3716,
+    "fields": {
+        "id_answer": 3374,
+        "text": "La Secretaría General del Plen",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:28.460Z",
+        "updated_at": "2026-11-24T12:57:28.386Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:28.398Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3717,
+    "fields": {
+        "id_answer": 3375,
+        "text": "La Vicesecretaría General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:36.034Z",
+        "updated_at": "2026-11-24T12:57:31.488Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:31.506Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3718,
+    "fields": {
+        "id_answer": 3376,
+        "text": "La Asesoría Jurídica",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:46.483Z",
+        "updated_at": "2026-11-24T12:57:34.507Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:34.520Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3719,
+    "fields": {
+        "id_answer": 3377,
+        "text": "La Intervención General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:55.233Z",
+        "updated_at": "2026-11-24T12:57:40.735Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:40.755Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3720,
+    "fields": {
+        "id_answer": 3378,
+        "text": "La Tesorería Insular",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:56:05.326Z",
+        "updated_at": "2026-11-24T12:57:54.251Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:54.272Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3721,
+    "fields": {
+        "id_answer": 3379,
+        "text": "La Oficina de Contabilidad",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:56:15.201Z",
+        "updated_at": "2026-11-24T12:57:58.218Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:57:58.231Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3722,
+    "fields": {
+        "id_answer": 3381,
+        "text": "Aquellos que desarrollan funciones directivas profesionales, entendiendo por tales aquellas que se desarrollen en ámbitos materiales de especial complejidad y especialización",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:58:32.153Z",
+        "updated_at": "2026-11-24T12:58:32.153Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:58:32.169Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3723,
+    "fields": {
+        "id_answer": 3382,
+        "text": "Las Consejerías Insulares que tengan funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:58:45.935Z",
+        "updated_at": "2026-11-24T12:58:45.935Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:58:45.950Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3724,
+    "fields": {
+        "id_answer": 3383,
+        "text": "Las Consejerías con delegación dentro de un área ejecutiva",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:58:52.859Z",
+        "updated_at": "2026-11-24T12:58:52.859Z",
+        "question": 679,
+        "history_date": "2026-11-24T12:58:52.880Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3725,
+    "fields": {
+        "id_answer": 3384,
+        "text": "La o las vicepresidencias",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:00:29.525Z",
+        "updated_at": "2026-11-24T13:00:29.525Z",
+        "question": 679,
+        "history_date": "2026-11-24T13:00:29.539Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3726,
+    "fields": {
+        "id_answer": 3385,
+        "text": "Un cuarto del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:20.939Z",
+        "updated_at": "2026-11-24T13:05:20.939Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:05:20.955Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3727,
+    "fields": {
+        "id_answer": 3386,
+        "text": "Un tercio del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:30.643Z",
+        "updated_at": "2026-11-24T13:05:30.643Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:05:30.655Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3728,
+    "fields": {
+        "id_answer": 3387,
+        "text": "La mitad más uno del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:47.383Z",
+        "updated_at": "2026-11-24T13:05:47.383Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:05:47.399Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3729,
+    "fields": {
+        "id_answer": 3386,
+        "text": "Un tercio del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:05:30.643Z",
+        "updated_at": "2026-11-24T13:05:52.053Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:05:52.066Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3730,
+    "fields": {
+        "id_answer": 3388,
+        "text": "23",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:56.177Z",
+        "updated_at": "2026-11-24T13:05:56.177Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:05:56.189Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3731,
+    "fields": {
+        "id_answer": 3389,
+        "text": "5",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:06:05.322Z",
+        "updated_at": "2026-11-24T13:06:05.322Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:06:05.343Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3732,
+    "fields": {
+        "id_answer": 3390,
+        "text": "El reglamento del Cabildo Insular de Tenerife no establece ningún límite",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:07:01.021Z",
+        "updated_at": "2026-11-24T13:07:01.021Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:07:01.036Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3733,
+    "fields": {
+        "id_answer": 3391,
+        "text": "27",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:07:43.041Z",
+        "updated_at": "2026-11-24T13:07:43.041Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:07:43.053Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3734,
+    "fields": {
+        "id_answer": 3392,
+        "text": "18",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:07:50.235Z",
+        "updated_at": "2026-11-24T13:07:50.235Z",
+        "question": 680,
+        "history_date": "2026-11-24T13:07:50.245Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3735,
+    "fields": {
+        "id_answer": 3393,
+        "text": "El Pleno",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:10:43.015Z",
+        "updated_at": "2026-11-24T13:10:43.015Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:10:43.024Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3736,
+    "fields": {
+        "id_answer": 3394,
+        "text": "La Presidencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:10:49.586Z",
+        "updated_at": "2026-11-24T13:10:49.586Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:10:49.597Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3737,
+    "fields": {
+        "id_answer": 3395,
+        "text": "La o las Vicepresidencias",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:10:55.736Z",
+        "updated_at": "2026-11-24T13:10:55.737Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:10:55.748Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3738,
+    "fields": {
+        "id_answer": 3394,
+        "text": "La Presidencia",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:10:49.586Z",
+        "updated_at": "2026-11-24T13:10:58.457Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:10:58.471Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3739,
+    "fields": {
+        "id_answer": 3396,
+        "text": "El Consejo de Gobierno Insular",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:11:05.533Z",
+        "updated_at": "2026-11-24T13:11:05.533Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:11:05.551Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3740,
+    "fields": {
+        "id_answer": 3396,
+        "text": "El Consejo de Gobierno Insular",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:11:05.533Z",
+        "updated_at": "2026-11-24T13:11:09.774Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:11:09.785Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3741,
+    "fields": {
+        "id_answer": 3397,
+        "text": "Las Consejerías Insulares con funciones ejecutivas",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:11:19.538Z",
+        "updated_at": "2026-11-24T13:11:19.538Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:11:19.559Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3742,
+    "fields": {
+        "id_answer": 3398,
+        "text": "Las Consejerías Insulares sin funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:13:17.081Z",
+        "updated_at": "2026-11-24T13:13:17.081Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:13:17.098Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3743,
+    "fields": {
+        "id_answer": 3399,
+        "text": "El departamento de Tecnologías de la Información",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:13:45.936Z",
+        "updated_at": "2026-11-24T13:13:45.936Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:13:45.950Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3744,
+    "fields": {
+        "id_answer": 3400,
+        "text": "La Tesoreria",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:13:53.887Z",
+        "updated_at": "2026-11-24T13:13:53.887Z",
+        "question": 681,
+        "history_date": "2026-11-24T13:13:53.907Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3745,
+    "fields": {
+        "id_answer": 3401,
+        "text": "Completar todo el proyecto antes de mostrar resultados al cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:53:38.846Z",
+        "updated_at": "2026-11-24T20:53:38.846Z",
+        "question": 682,
+        "history_date": "2026-11-24T20:53:38.860Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3746,
+    "fields": {
+        "id_answer": 3402,
+        "text": "Adaptarse al cambio y entregar valor al cliente de forma continua",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:53:48.262Z",
+        "updated_at": "2026-11-24T20:53:48.262Z",
+        "question": 682,
+        "history_date": "2026-11-24T20:53:48.275Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3747,
+    "fields": {
+        "id_answer": 3403,
+        "text": "Eliminar la planificación y la documentación de los proyectos",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:53:57.199Z",
+        "updated_at": "2026-11-24T20:53:57.199Z",
+        "question": 682,
+        "history_date": "2026-11-24T20:53:57.213Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3748,
+    "fields": {
+        "id_answer": 3404,
+        "text": "Reducir al mínimo la comunicación entre los miembros del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:54:06.644Z",
+        "updated_at": "2026-11-24T20:54:06.644Z",
+        "question": 682,
+        "history_date": "2026-11-24T20:54:06.656Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3749,
+    "fields": {
+        "id_answer": 3405,
+        "text": "Que el desarrollo siempre se realice usando *pair programming*",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:55:38.351Z",
+        "updated_at": "2026-11-24T20:55:38.351Z",
+        "question": 682,
+        "history_date": "2026-11-24T20:55:38.368Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3750,
+    "fields": {
+        "id_answer": 3406,
+        "text": "Las personas y las interacciones son más importantes que las herramientas y los procesos",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:57:51.702Z",
+        "updated_at": "2026-11-24T20:57:51.702Z",
+        "question": 683,
+        "history_date": "2026-11-24T20:57:51.716Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3751,
+    "fields": {
+        "id_answer": 3407,
+        "text": "las herramientas y los procesos son más importantes que las personas y las interacciones",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:58:16.776Z",
+        "updated_at": "2026-11-24T20:58:16.776Z",
+        "question": 683,
+        "history_date": "2026-11-24T20:58:16.800Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3752,
+    "fields": {
+        "id_answer": 3408,
+        "text": "El software funcional es más importante que la documentación",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:58:24.258Z",
+        "updated_at": "2026-11-24T20:58:24.258Z",
+        "question": 683,
+        "history_date": "2026-11-24T20:58:24.277Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3753,
+    "fields": {
+        "id_answer": 3409,
+        "text": "La documentación correcta es más importante que el software funcional",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:58:59.950Z",
+        "updated_at": "2026-11-24T20:58:59.950Z",
+        "question": 683,
+        "history_date": "2026-11-24T20:58:59.968Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3754,
+    "fields": {
+        "id_answer": 3410,
+        "text": "La negociación de contratos es más importante que la colaboración con el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:59:31.921Z",
+        "updated_at": "2026-11-24T20:59:31.921Z",
+        "question": 683,
+        "history_date": "2026-11-24T20:59:31.945Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3755,
+    "fields": {
+        "id_answer": 3410,
+        "text": "La negociación de contratos es más importante que la colaboración con el cliente",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:59:31.921Z",
+        "updated_at": "2026-11-24T20:59:36.273Z",
+        "question": 683,
+        "history_date": "2026-11-24T20:59:36.299Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3756,
+    "fields": {
+        "id_answer": 3406,
+        "text": "Las personas y las interacciones son más importantes que las herramientas y los procesos",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:57:51.702Z",
+        "updated_at": "2026-11-24T21:00:19.984Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:00:19.997Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3757,
+    "fields": {
+        "id_answer": 3406,
+        "text": "Las personas y las interacciones son más importantes que las herramientas y los procesos",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:57:51.702Z",
+        "updated_at": "2026-11-24T21:00:28.904Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:00:28.927Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3758,
+    "fields": {
+        "id_answer": 3407,
+        "text": "las herramientas y los procesos son más importantes que las personas y las interacciones",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:58:16.776Z",
+        "updated_at": "2026-11-24T21:00:32.910Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:00:32.931Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3759,
+    "fields": {
+        "id_answer": 3408,
+        "text": "El software funcional es más importante que la documentación",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:58:24.258Z",
+        "updated_at": "2026-11-24T21:00:42.832Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:00:42.849Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3760,
+    "fields": {
+        "id_answer": 3409,
+        "text": "La documentación correcta es más importante que el software funcional",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:58:59.950Z",
+        "updated_at": "2026-11-24T21:00:47.815Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:00:47.833Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3761,
+    "fields": {
+        "id_answer": 3410,
+        "text": "La negociación de contratos es más importante que la colaboración con el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:59:31.921Z",
+        "updated_at": "2026-11-24T21:00:53.400Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:00:53.423Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3762,
+    "fields": {
+        "id_answer": 3411,
+        "text": "La colaboración con el cliente es más importante que la negociación de contratos",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:01:02.020Z",
+        "updated_at": "2026-11-24T21:01:02.020Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:01:02.037Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3763,
+    "fields": {
+        "id_answer": 3412,
+        "text": "Responder al cambio es más importante que simplemente seguir un plan",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:01:12.143Z",
+        "updated_at": "2026-11-24T21:01:12.143Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:01:12.163Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3764,
+    "fields": {
+        "id_answer": 3413,
+        "text": "Seguir el plan sin poner objeciones es mejor que responder al cambio",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:01:45.362Z",
+        "updated_at": "2026-11-24T21:01:45.362Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:01:45.382Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3765,
+    "fields": {
+        "id_answer": 3414,
+        "text": "Seguir el plan sin plantear dudas es la mejor manera de responder al cambio",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:02:17.764Z",
+        "updated_at": "2026-11-24T21:02:17.764Z",
+        "question": 683,
+        "history_date": "2026-11-24T21:02:17.781Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3766,
+    "fields": {
+        "id_answer": 3415,
+        "text": "4",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:34.856Z",
+        "updated_at": "2026-11-24T21:03:34.856Z",
+        "question": 684,
+        "history_date": "2026-11-24T21:03:34.867Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3767,
+    "fields": {
+        "id_answer": 3416,
+        "text": "8",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:37.707Z",
+        "updated_at": "2026-11-24T21:03:37.707Z",
+        "question": 684,
+        "history_date": "2026-11-24T21:03:37.721Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3768,
+    "fields": {
+        "id_answer": 3417,
+        "text": "12",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:43.645Z",
+        "updated_at": "2026-11-24T21:03:43.646Z",
+        "question": 684,
+        "history_date": "2026-11-24T21:03:43.656Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3769,
+    "fields": {
+        "id_answer": 3417,
+        "text": "12",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:03:43.645Z",
+        "updated_at": "2026-11-24T21:03:47.337Z",
+        "question": 684,
+        "history_date": "2026-11-24T21:03:47.348Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3770,
+    "fields": {
+        "id_answer": 3418,
+        "text": "16",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:52.323Z",
+        "updated_at": "2026-11-24T21:03:52.323Z",
+        "question": 684,
+        "history_date": "2026-11-24T21:03:52.337Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3771,
+    "fields": {
+        "id_answer": 3419,
+        "text": "24",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:57.558Z",
+        "updated_at": "2026-11-24T21:03:57.558Z",
+        "question": 684,
+        "history_date": "2026-11-24T21:03:57.570Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3772,
+    "fields": {
+        "id_answer": 3420,
+        "text": "Que las herramientas de gestión no deben utilizarse",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:04:56.835Z",
+        "updated_at": "2026-11-24T21:04:56.835Z",
+        "question": 685,
+        "history_date": "2026-11-24T21:04:56.847Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3773,
+    "fields": {
+        "id_answer": 3421,
+        "text": "Que la comunicación y colaboración entre personas son fundamentales para el éxito del proyecto",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:05:16.295Z",
+        "updated_at": "2026-11-24T21:05:16.295Z",
+        "question": 685,
+        "history_date": "2026-11-24T21:05:16.309Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3774,
+    "fields": {
+        "id_answer": 3422,
+        "text": "Que cada miembro del equipo debe trabajar de manera independiente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:05:23.520Z",
+        "updated_at": "2026-11-24T21:05:23.520Z",
+        "question": 685,
+        "history_date": "2026-11-24T21:05:23.530Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3775,
+    "fields": {
+        "id_answer": 3423,
+        "text": "Que los procesos deben eliminarse completamente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:05:59.843Z",
+        "updated_at": "2026-11-24T21:05:59.843Z",
+        "question": 685,
+        "history_date": "2026-11-24T21:05:59.861Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3776,
+    "fields": {
+        "id_answer": 3424,
+        "text": "Que cada miembro del equipo debe comunicar a todos los demás, con todo lujo de detalles, que hace cada día",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:07:44.023Z",
+        "updated_at": "2026-11-24T21:07:44.023Z",
+        "question": 685,
+        "history_date": "2026-11-24T21:07:44.039Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3777,
+    "fields": {
+        "id_answer": 3425,
+        "text": "El desarrollo del producto se realiza en una única fase",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:08:51.625Z",
+        "updated_at": "2026-11-24T21:08:51.625Z",
+        "question": 686,
+        "history_date": "2026-11-24T21:08:51.640Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3778,
+    "fields": {
+        "id_answer": 3426,
+        "text": "Se entrega el producto únicamente cuando está completamente terminado",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:08:59.223Z",
+        "updated_at": "2026-11-24T21:08:59.223Z",
+        "question": 686,
+        "history_date": "2026-11-24T21:08:59.238Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3779,
+    "fields": {
+        "id_answer": 3427,
+        "text": "El producto se desarrolla mediante ciclos sucesivos, incorporando mejoras y funcionalidades progresivamente",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:09:06.630Z",
+        "updated_at": "2026-11-24T21:09:06.630Z",
+        "question": 686,
+        "history_date": "2026-11-24T21:09:06.643Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3780,
+    "fields": {
+        "id_answer": 3428,
+        "text": "Se evita la revisión del producto durante su desarrollo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:09:14.332Z",
+        "updated_at": "2026-11-24T21:09:14.332Z",
+        "question": 686,
+        "history_date": "2026-11-24T21:09:14.345Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3781,
+    "fields": {
+        "id_answer": 3429,
+        "text": "Para acelerar el desarrollo, se prescinde totalmente de las pruebas unitarias",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:09:38.004Z",
+        "updated_at": "2026-11-24T21:09:38.004Z",
+        "question": 686,
+        "history_date": "2026-11-24T21:09:38.014Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3782,
+    "fields": {
+        "id_answer": 3430,
+        "text": "El uso de prototipos está expresamente prohibido",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:10:06.020Z",
+        "updated_at": "2026-11-24T21:10:06.020Z",
+        "question": 686,
+        "history_date": "2026-11-24T21:10:06.036Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3783,
+    "fields": {
+        "id_answer": 3431,
+        "text": "La imposibilidad de modificar los requisitos una vez iniciado el proyecto.",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:03.278Z",
+        "updated_at": "2026-11-24T21:11:03.278Z",
+        "question": 687,
+        "history_date": "2026-11-24T21:11:03.291Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3784,
+    "fields": {
+        "id_answer": 3431,
+        "text": "La imposibilidad de modificar los requisitos una vez iniciado el proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:03.278Z",
+        "updated_at": "2026-11-24T21:11:09.534Z",
+        "question": 687,
+        "history_date": "2026-11-24T21:11:09.547Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3785,
+    "fields": {
+        "id_answer": 3432,
+        "text": "La detección temprana de problemas y la adaptación a nuevas necesidades",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:11:16.932Z",
+        "updated_at": "2026-11-24T21:11:16.932Z",
+        "question": 687,
+        "history_date": "2026-11-24T21:11:16.943Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3786,
+    "fields": {
+        "id_answer": 3433,
+        "text": "La eliminación de la participación del cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:24.603Z",
+        "updated_at": "2026-11-24T21:11:24.603Z",
+        "question": 687,
+        "history_date": "2026-11-24T21:11:24.615Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3787,
+    "fields": {
+        "id_answer": 3434,
+        "text": "La necesidad de definir todos los detalles antes de comenzar",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:33.678Z",
+        "updated_at": "2026-11-24T21:11:33.678Z",
+        "question": 687,
+        "history_date": "2026-11-24T21:11:33.692Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3788,
+    "fields": {
+        "id_answer": 3435,
+        "text": "El contar en todo momento con la documentación actualizada y finalizada",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:12:17.242Z",
+        "updated_at": "2026-11-24T21:12:17.242Z",
+        "question": 687,
+        "history_date": "2026-11-24T21:12:17.258Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3789,
+    "fields": {
+        "id_answer": 3436,
+        "text": "Una herramienta informática para programar aplicaciones",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:12:44.041Z",
+        "updated_at": "2026-11-24T21:12:44.041Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:12:44.057Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3790,
+    "fields": {
+        "id_answer": 3437,
+        "text": "Un modelo de Inteligencia Generativa especializada en código fuente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:13:20.120Z",
+        "updated_at": "2026-11-24T21:13:20.120Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:13:20.136Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3791,
+    "fields": {
+        "id_answer": 3438,
+        "text": "Un marco de trabajo ágil que permite desarrollar productos complejos de forma iterativa e incremental",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:13:32.401Z",
+        "updated_at": "2026-11-24T21:13:32.401Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:13:32.418Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3792,
+    "fields": {
+        "id_answer": 3439,
+        "text": "Una metodología basada exclusivamente en diagramas de Gantt",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:13:39.694Z",
+        "updated_at": "2026-11-24T21:13:39.694Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:13:39.708Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3793,
+    "fields": {
+        "id_answer": 3440,
+        "text": "Un sistema de gestión financiera de proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:13:51.373Z",
+        "updated_at": "2026-11-24T21:13:51.373Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:13:51.385Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3794,
+    "fields": {
+        "id_answer": 3441,
+        "text": "Un cargador de arranque múltiple, que permite elegir qué sistema operativo arrancar de entre los instalados",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:15:45.396Z",
+        "updated_at": "2026-11-24T21:15:45.396Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:15:45.412Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3795,
+    "fields": {
+        "id_answer": 3442,
+        "text": "Un *framework* o marco de trabajo que define un conjunto de eventos, prácticas y roles, y que puede tomarse como conjunto base para definir el proceso de producción que se usará en un equipo de trabajo o dentro de un proyecto",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:17:19.827Z",
+        "updated_at": "2026-11-24T21:17:19.827Z",
+        "question": 688,
+        "history_date": "2026-11-24T21:17:19.844Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3796,
+    "fields": {
+        "id_answer": 3443,
+        "text": "El *Scrum Master*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:19:37.243Z",
+        "updated_at": "2026-11-24T21:19:37.243Z",
+        "question": 689,
+        "history_date": "2026-11-24T21:19:37.257Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3797,
+    "fields": {
+        "id_answer": 3444,
+        "text": "Los desarrolladores",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:19:46.652Z",
+        "updated_at": "2026-11-24T21:19:46.652Z",
+        "question": 689,
+        "history_date": "2026-11-24T21:19:46.670Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3798,
+    "fields": {
+        "id_answer": 3445,
+        "text": "El *Product Owner*",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:20:09.883Z",
+        "updated_at": "2026-11-24T21:20:09.883Z",
+        "question": 689,
+        "history_date": "2026-11-24T21:20:09.897Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3799,
+    "fields": {
+        "id_answer": 3446,
+        "text": "El *Project Manager*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:20:26.032Z",
+        "updated_at": "2026-11-24T21:20:26.032Z",
+        "question": 689,
+        "history_date": "2026-11-24T21:20:26.043Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3800,
+    "fields": {
+        "id_answer": 3447,
+        "text": "Los *Stakeholders*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:20:59.801Z",
+        "updated_at": "2026-11-24T21:20:59.801Z",
+        "question": 689,
+        "history_date": "2026-11-24T21:20:59.818Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3801,
+    "fields": {
+        "id_answer": 3448,
+        "text": "El equipo, en su totalidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:21:22.900Z",
+        "updated_at": "2026-11-24T21:21:22.900Z",
+        "question": 689,
+        "history_date": "2026-11-24T21:21:22.917Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3802,
+    "fields": {
+        "id_answer": 3449,
+        "text": "Asignar individualmente las tareas a cada desarrollador",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:02.727Z",
+        "updated_at": "2026-11-24T21:24:02.727Z",
+        "question": 690,
+        "history_date": "2026-11-24T21:24:02.742Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3803,
+    "fields": {
+        "id_answer": 3450,
+        "text": "Asegurarse de que Scrum se comprenda y se aplique correctamente, facilitando su efectividad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:10.902Z",
+        "updated_at": "2026-11-24T21:24:10.902Z",
+        "question": 690,
+        "history_date": "2026-11-24T21:24:10.916Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3804,
+    "fields": {
+        "id_answer": 3450,
+        "text": "Asegurarse de que Scrum se comprenda y se aplique correctamente, facilitando su efectividad",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:24:10.902Z",
+        "updated_at": "2026-11-24T21:24:15.653Z",
+        "question": 690,
+        "history_date": "2026-11-24T21:24:15.666Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3805,
+    "fields": {
+        "id_answer": 3451,
+        "text": "Decidir todas las funcionalidades que tendrá el producto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:23.710Z",
+        "updated_at": "2026-11-24T21:24:23.710Z",
+        "question": 690,
+        "history_date": "2026-11-24T21:24:23.723Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3806,
+    "fields": {
+        "id_answer": 3452,
+        "text": "Aprobar el presupuesto de cada *Sprint*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:39.843Z",
+        "updated_at": "2026-11-24T21:24:39.843Z",
+        "question": 690,
+        "history_date": "2026-11-24T21:24:39.854Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3807,
+    "fields": {
+        "id_answer": 3453,
+        "text": "Decidir quien puede ir y quien no al *daily scrum*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:25:10.250Z",
+        "updated_at": "2026-11-24T21:25:10.250Z",
+        "question": 690,
+        "history_date": "2026-11-24T21:25:10.267Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3808,
+    "fields": {
+        "id_answer": 3454,
+        "text": "Una reunión diaria de seguimiento",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:25:45.035Z",
+        "updated_at": "2026-11-24T21:25:45.035Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:25:45.045Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3809,
+    "fields": {
+        "id_answer": 3455,
+        "text": "Un periodo de tiempo fijo durante el cual se crea un incremento de producto",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:25:52.418Z",
+        "updated_at": "2026-11-24T21:25:52.418Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:25:52.429Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3810,
+    "fields": {
+        "id_answer": 3456,
+        "text": "Una lista de errores pendientes de solucionar",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:00.320Z",
+        "updated_at": "2026-11-24T21:26:00.320Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:26:00.331Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3811,
+    "fields": {
+        "id_answer": 3457,
+        "text": "Una reunión exclusiva entre el Product Owner y el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:06.828Z",
+        "updated_at": "2026-11-24T21:26:06.828Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:26:06.841Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3812,
+    "fields": {
+        "id_answer": 3458,
+        "text": "Cualquier reunión no programada de antemano",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:29.573Z",
+        "updated_at": "2026-11-24T21:26:29.573Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:26:29.590Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3813,
+    "fields": {
+        "id_answer": 3459,
+        "text": "Es otro nombre para el *Backlog*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:27:26.157Z",
+        "updated_at": "2026-11-24T21:27:26.157Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:27:26.168Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3814,
+    "fields": {
+        "id_answer": 3460,
+        "text": "El período en el cual se lleva a cabo el trabajo en sí",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:27:56.522Z",
+        "updated_at": "2026-11-24T21:27:56.522Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:27:56.536Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3815,
+    "fields": {
+        "id_answer": 3457,
+        "text": "Una reunión exclusiva entre el *Product Owner* y el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:06.828Z",
+        "updated_at": "2026-11-24T21:28:46.827Z",
+        "question": 691,
+        "history_date": "2026-11-24T21:28:46.839Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3816,
+    "fields": {
+        "id_answer": 3461,
+        "text": "Organizar el trabajo mediante flujos visuales y optimizar su circulación",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:29:26.959Z",
+        "updated_at": "2026-11-24T21:29:26.959Z",
+        "question": 692,
+        "history_date": "2026-11-24T21:29:26.970Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3817,
+    "fields": {
+        "id_answer": 3462,
+        "text": "Establecer iteraciones obligatorias de dos semanas",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:29:32.908Z",
+        "updated_at": "2026-11-24T21:29:32.908Z",
+        "question": 692,
+        "history_date": "2026-11-24T21:29:32.926Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3818,
+    "fields": {
+        "id_answer": 3463,
+        "text": "Eliminar la necesidad de priorizar tareas",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:29:39.793Z",
+        "updated_at": "2026-11-24T21:29:39.794Z",
+        "question": 692,
+        "history_date": "2026-11-24T21:29:39.808Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3819,
+    "fields": {
+        "id_answer": 3464,
+        "text": "Asignar un responsable diferente a cada tarea de manera obligatoria",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:29:46.210Z",
+        "updated_at": "2026-11-24T21:29:46.210Z",
+        "question": 692,
+        "history_date": "2026-11-24T21:29:46.221Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3820,
+    "fields": {
+        "id_answer": 3465,
+        "text": "La forma de distribuir la mínima cantidad de trabajo a cada uno de los componentes del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:03.035Z",
+        "updated_at": "2026-11-24T21:32:03.035Z",
+        "question": 692,
+        "history_date": "2026-11-24T21:32:03.053Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3821,
+    "fields": {
+        "id_answer": 3466,
+        "text": "Un miembro del equipo",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:32:21.612Z",
+        "updated_at": "2026-11-24T21:32:21.612Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:32:21.629Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3822,
+    "fields": {
+        "id_answer": 3467,
+        "text": "Una fase o estado por el que pasa una tarea dentro del flujo de trabajo",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:32:28.591Z",
+        "updated_at": "2026-11-24T21:32:28.591Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:32:28.604Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3823,
+    "fields": {
+        "id_answer": 3466,
+        "text": "Un miembro del equipo",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:32:21.612Z",
+        "updated_at": "2026-11-24T21:32:32.046Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:32:32.058Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3824,
+    "fields": {
+        "id_answer": 3466,
+        "text": "Un miembro del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:21.612Z",
+        "updated_at": "2026-11-24T21:32:35.540Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:32:35.551Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3825,
+    "fields": {
+        "id_answer": 3468,
+        "text": "El presupuesto asignado a una tarea",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:43.486Z",
+        "updated_at": "2026-11-24T21:32:43.486Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:32:43.497Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3826,
+    "fields": {
+        "id_answer": 3469,
+        "text": "Las franjas horarias de trabajo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:55.704Z",
+        "updated_at": "2026-11-24T21:32:55.704Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:32:55.715Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3827,
+    "fields": {
+        "id_answer": 3470,
+        "text": "La duración total del proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:33:02.278Z",
+        "updated_at": "2026-11-24T21:33:02.279Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:33:02.293Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3828,
+    "fields": {
+        "id_answer": 3471,
+        "text": "La cantidad de trabajo que queda por hacer",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:33:17.042Z",
+        "updated_at": "2026-11-24T21:33:17.042Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:33:17.054Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3829,
+    "fields": {
+        "id_answer": 3472,
+        "text": "La cantidad de trabajo hecha",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:33:27.658Z",
+        "updated_at": "2026-11-24T21:33:27.658Z",
+        "question": 693,
+        "history_date": "2026-11-24T21:33:27.674Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3830,
+    "fields": {
+        "id_answer": 3473,
+        "text": "Limitar el número de tareas que pueden estar en curso simultáneamente",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:34:59.014Z",
+        "updated_at": "2026-11-24T21:34:59.014Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:34:59.024Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3831,
+    "fields": {
+        "id_answer": 3474,
+        "text": "Limitar el número de personas que pueden participar en el proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:04.878Z",
+        "updated_at": "2026-11-24T21:35:04.878Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:04.891Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3832,
+    "fields": {
+        "id_answer": 3475,
+        "text": "Establecer una fecha límite para finalizar todas las tareas",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:09.881Z",
+        "updated_at": "2026-11-24T21:35:09.881Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:09.892Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3833,
+    "fields": {
+        "id_answer": 3476,
+        "text": "Evitar que se incorporen nuevas tareas al tablero",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:21.288Z",
+        "updated_at": "2026-11-24T21:35:21.288Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:21.305Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3834,
+    "fields": {
+        "id_answer": 3473,
+        "text": "Limitar el número de tareas que pueden estar en curso simultáneamente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:34:59.014Z",
+        "updated_at": "2026-11-24T21:35:34.455Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:34.469Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3835,
+    "fields": {
+        "id_answer": 3476,
+        "text": "Evitar que se incorporen nuevas tareas al tablero",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:35:21.288Z",
+        "updated_at": "2026-11-24T21:35:38.345Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:38.358Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3836,
+    "fields": {
+        "id_answer": 3476,
+        "text": "Evitar que se incorporen nuevas tareas al tablero",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:21.288Z",
+        "updated_at": "2026-11-24T21:35:49.233Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:49.246Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3837,
+    "fields": {
+        "id_answer": 3473,
+        "text": "Limitar el número de tareas que pueden estar en curso simultáneamente",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:34:59.014Z",
+        "updated_at": "2026-11-24T21:35:54.088Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:35:54.100Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3838,
+    "fields": {
+        "id_answer": 3477,
+        "text": "El máximo de horas seguidas que se permite trabajar en un proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:36:23.604Z",
+        "updated_at": "2026-11-24T21:36:23.604Z",
+        "question": 694,
+        "history_date": "2026-11-24T21:36:23.621Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3839,
+    "fields": {
+        "id_answer": 3478,
+        "text": "Permite eliminar todas las reuniones del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:37:00.545Z",
+        "updated_at": "2026-11-24T21:37:00.545Z",
+        "question": 695,
+        "history_date": "2026-11-24T21:37:00.561Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3840,
+    "fields": {
+        "id_answer": 3479,
+        "text": "Facilita identificar cuellos de botella y conocer el estado de las tareas",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:37:08.627Z",
+        "updated_at": "2026-11-24T21:37:08.627Z",
+        "question": 695,
+        "history_date": "2026-11-24T21:37:08.638Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3841,
+    "fields": {
+        "id_answer": 3480,
+        "text": "Garantiza que todas las tareas tengan la misma duración",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:37:16.721Z",
+        "updated_at": "2026-11-24T21:37:16.721Z",
+        "question": 695,
+        "history_date": "2026-11-24T21:37:16.731Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3842,
+    "fields": {
+        "id_answer": 3481,
+        "text": "Evita que los miembros del equipo cambien de actividad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:37:23.656Z",
+        "updated_at": "2026-11-24T21:37:23.656Z",
+        "question": 695,
+        "history_date": "2026-11-24T21:37:23.668Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3843,
+    "fields": {
+        "id_answer": 3482,
+        "text": "Saber quien está trabajado y quien está en una reunión con el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:39:56.973Z",
+        "updated_at": "2026-11-24T21:39:56.973Z",
+        "question": 695,
+        "history_date": "2026-11-24T21:39:56.988Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3844,
+    "fields": {
+        "id_answer": 3483,
+        "text": "Scrum utiliza roles y Sprints definidos, mientras que Kanban se centra en visualizar y optimizar el flujo de trabajo",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:40:22.642Z",
+        "updated_at": "2026-11-24T21:40:22.642Z",
+        "question": 696,
+        "history_date": "2026-11-24T21:40:22.654Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3845,
+    "fields": {
+        "id_answer": 3484,
+        "text": "Kanban requiere Sprints obligatorios y Scrum no permite iteraciones",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:40:31.792Z",
+        "updated_at": "2026-11-24T21:40:31.792Z",
+        "question": 696,
+        "history_date": "2026-11-24T21:40:31.816Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3846,
+    "fields": {
+        "id_answer": 3485,
+        "text": "Scrum no permite cambios en los requisitos y Kanban sí",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:40:38.079Z",
+        "updated_at": "2026-11-24T21:40:38.079Z",
+        "question": 696,
+        "history_date": "2026-11-24T21:40:38.097Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3847,
+    "fields": {
+        "id_answer": 3486,
+        "text": "Kanban requiere un Scrum Master y Scrum no contempla ningún tipo de facilitador",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:40:51.638Z",
+        "updated_at": "2026-11-24T21:40:51.638Z",
+        "question": 696,
+        "history_date": "2026-11-24T21:40:51.651Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3848,
+    "fields": {
+        "id_answer": 3487,
+        "text": "Kanban es un *framewok* de pago, mientras que Scrum es libre",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:41:28.700Z",
+        "updated_at": "2026-11-24T21:41:28.700Z",
+        "question": 696,
+        "history_date": "2026-11-24T21:41:28.714Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3849,
+    "fields": {
+        "id_answer": 3488,
+        "text": "Scrum es un *framewok* de pago, mientras que Kanban es libre",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:41:40.950Z",
+        "updated_at": "2026-11-24T21:41:40.950Z",
+        "question": 696,
+        "history_date": "2026-11-24T21:41:40.961Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3850,
+    "fields": {
+        "id_answer": 3489,
+        "text": "Transparencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:42:48.775Z",
+        "updated_at": "2026-11-24T21:42:48.775Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:42:48.812Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3851,
+    "fields": {
+        "id_answer": 3490,
+        "text": "Inspección",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:42:52.043Z",
+        "updated_at": "2026-11-24T21:42:52.043Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:42:52.170Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3852,
+    "fields": {
+        "id_answer": 3491,
+        "text": "Adaptación",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:42:55.834Z",
+        "updated_at": "2026-11-24T21:42:55.834Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:42:55.848Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3853,
+    "fields": {
+        "id_answer": 3492,
+        "text": "Planificación",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:43:01.496Z",
+        "updated_at": "2026-11-24T21:43:01.496Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:43:01.515Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3854,
+    "fields": {
+        "id_answer": 3493,
+        "text": "No repudio",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:43:34.785Z",
+        "updated_at": "2026-11-24T21:43:34.785Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:43:34.798Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3855,
+    "fields": {
+        "id_answer": 3494,
+        "text": "Conformidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:43:46.465Z",
+        "updated_at": "2026-11-24T21:43:46.465Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:43:46.478Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3856,
+    "fields": {
+        "id_answer": 3495,
+        "text": "Unanimidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:44:00.551Z",
+        "updated_at": "2026-11-24T21:44:00.551Z",
+        "question": 697,
+        "history_date": "2026-11-24T21:44:00.566Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -122633,6 +126913,1634 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 3348,
+    "fields": {
+        "question": 675,
+        "text": "Fácil de escalar y con bajo acoplamiento",
+        "is_correct": true,
+        "created_at": "2026-11-23T12:34:43.250Z",
+        "updated_at": "2026-11-23T13:10:47.586Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3349,
+    "fields": {
+        "question": 675,
+        "text": "Difícil de escalar y con bajo acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:34:54.652Z",
+        "updated_at": "2026-11-23T13:10:53.845Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3350,
+    "fields": {
+        "question": 675,
+        "text": "Fácil de escalar y con alto acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:35:06.405Z",
+        "updated_at": "2026-11-23T13:09:13.298Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3351,
+    "fields": {
+        "question": 675,
+        "text": "Difícil de escalar y con alto acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T12:35:42.070Z",
+        "updated_at": "2026-11-23T13:09:36.049Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3352,
+    "fields": {
+        "question": 675,
+        "text": "Que no afecta ni a la escalabilidad ni al acoplamiento",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:22:30.917Z",
+        "updated_at": "2026-11-23T19:22:30.917Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3353,
+    "fields": {
+        "question": 676,
+        "text": "En 1992",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:02.263Z",
+        "updated_at": "2026-11-23T19:25:02.263Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3354,
+    "fields": {
+        "question": 676,
+        "text": "En 2011",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:09.850Z",
+        "updated_at": "2026-11-23T19:25:09.850Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3355,
+    "fields": {
+        "question": 676,
+        "text": "En 2024",
+        "is_correct": true,
+        "created_at": "2026-11-23T19:25:23.727Z",
+        "updated_at": "2026-11-23T19:25:58.327Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3356,
+    "fields": {
+        "question": 676,
+        "text": "En 2026",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:32.930Z",
+        "updated_at": "2026-11-23T19:25:32.930Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3357,
+    "fields": {
+        "question": 676,
+        "text": "En 1978",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:25:47.877Z",
+        "updated_at": "2026-11-23T19:25:47.877Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3358,
+    "fields": {
+        "question": 677,
+        "text": "En 1978",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:20.743Z",
+        "updated_at": "2026-11-23T19:28:20.743Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3359,
+    "fields": {
+        "question": 677,
+        "text": "En 2011",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:28.292Z",
+        "updated_at": "2026-11-23T19:28:28.292Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3360,
+    "fields": {
+        "question": 677,
+        "text": "En 2024",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:37.133Z",
+        "updated_at": "2026-11-23T19:28:37.133Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3361,
+    "fields": {
+        "question": 677,
+        "text": "En 1992",
+        "is_correct": false,
+        "created_at": "2026-11-23T19:28:42.482Z",
+        "updated_at": "2026-11-23T19:28:50.073Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3362,
+    "fields": {
+        "question": 677,
+        "text": "En 2026",
+        "is_correct": true,
+        "created_at": "2026-11-23T19:28:59.123Z",
+        "updated_at": "2026-11-23T19:28:59.123Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3363,
+    "fields": {
+        "question": 678,
+        "text": "La Presidencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:49:45.754Z",
+        "updated_at": "2026-11-24T12:49:45.754Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3364,
+    "fields": {
+        "question": 678,
+        "text": "Las Consejerías Insulares que tengan funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:49:55.350Z",
+        "updated_at": "2026-11-24T12:49:55.350Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3365,
+    "fields": {
+        "question": 678,
+        "text": "Las Consejerías con delegación dentro de un área ejecutiva",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:50:03.048Z",
+        "updated_at": "2026-11-24T12:50:03.049Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3366,
+    "fields": {
+        "question": 678,
+        "text": "La Secretaría General del Pleno",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:20.615Z",
+        "updated_at": "2026-11-24T12:50:20.615Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3367,
+    "fields": {
+        "question": 678,
+        "text": "La Vicesecretaría General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:34.264Z",
+        "updated_at": "2026-11-24T12:50:34.264Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3368,
+    "fields": {
+        "question": 678,
+        "text": "La Asesoría Jurídica",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:45.058Z",
+        "updated_at": "2026-11-24T12:50:58.258Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3369,
+    "fields": {
+        "question": 678,
+        "text": "La Intervención General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:50:54.949Z",
+        "updated_at": "2026-11-24T12:50:54.949Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3370,
+    "fields": {
+        "question": 678,
+        "text": "La Tesorería Insular",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:51:08.587Z",
+        "updated_at": "2026-11-24T12:51:11.957Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3371,
+    "fields": {
+        "question": 678,
+        "text": "La Oficina de Contabilidad",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:51:25.819Z",
+        "updated_at": "2026-11-24T12:51:25.819Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3372,
+    "fields": {
+        "question": 679,
+        "text": "Las coordinaciones Insulares",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:02.996Z",
+        "updated_at": "2026-11-24T12:57:23.408Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3373,
+    "fields": {
+        "question": 679,
+        "text": "Las Direcciones Insulares",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:10.168Z",
+        "updated_at": "2026-11-24T12:57:25.715Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3374,
+    "fields": {
+        "question": 679,
+        "text": "La Secretaría General del Plen",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:28.460Z",
+        "updated_at": "2026-11-24T12:57:28.386Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3375,
+    "fields": {
+        "question": 679,
+        "text": "La Vicesecretaría General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:36.034Z",
+        "updated_at": "2026-11-24T12:57:31.488Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3376,
+    "fields": {
+        "question": 679,
+        "text": "La Asesoría Jurídica",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:46.483Z",
+        "updated_at": "2026-11-24T12:57:34.507Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3377,
+    "fields": {
+        "question": 679,
+        "text": "La Intervención General",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:55:55.233Z",
+        "updated_at": "2026-11-24T12:57:40.735Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3378,
+    "fields": {
+        "question": 679,
+        "text": "La Tesorería Insular",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:56:05.326Z",
+        "updated_at": "2026-11-24T12:57:54.251Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3379,
+    "fields": {
+        "question": 679,
+        "text": "La Oficina de Contabilidad",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:56:15.201Z",
+        "updated_at": "2026-11-24T12:57:58.218Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3380,
+    "fields": {
+        "question": 679,
+        "text": "La Presidencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:56:42.237Z",
+        "updated_at": "2026-11-24T12:57:20.364Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3381,
+    "fields": {
+        "question": 679,
+        "text": "Aquellos que desarrollan funciones directivas profesionales, entendiendo por tales aquellas que se desarrollen en ámbitos materiales de especial complejidad y especialización",
+        "is_correct": true,
+        "created_at": "2026-11-24T12:58:32.153Z",
+        "updated_at": "2026-11-24T12:58:32.153Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3382,
+    "fields": {
+        "question": 679,
+        "text": "Las Consejerías Insulares que tengan funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:58:45.935Z",
+        "updated_at": "2026-11-24T12:58:45.935Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3383,
+    "fields": {
+        "question": 679,
+        "text": "Las Consejerías con delegación dentro de un área ejecutiva",
+        "is_correct": false,
+        "created_at": "2026-11-24T12:58:52.859Z",
+        "updated_at": "2026-11-24T12:58:52.859Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3384,
+    "fields": {
+        "question": 679,
+        "text": "La o las vicepresidencias",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:00:29.525Z",
+        "updated_at": "2026-11-24T13:00:29.525Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3385,
+    "fields": {
+        "question": 680,
+        "text": "Un cuarto del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:20.939Z",
+        "updated_at": "2026-11-24T13:05:20.939Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3386,
+    "fields": {
+        "question": 680,
+        "text": "Un tercio del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:05:30.643Z",
+        "updated_at": "2026-11-24T13:05:52.053Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3387,
+    "fields": {
+        "question": 680,
+        "text": "La mitad más uno del número legal de miembros del Pleno del Cabildo Insular de Tenerife",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:47.383Z",
+        "updated_at": "2026-11-24T13:05:47.383Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3388,
+    "fields": {
+        "question": 680,
+        "text": "23",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:05:56.177Z",
+        "updated_at": "2026-11-24T13:05:56.177Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3389,
+    "fields": {
+        "question": 680,
+        "text": "5",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:06:05.322Z",
+        "updated_at": "2026-11-24T13:06:05.322Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3390,
+    "fields": {
+        "question": 680,
+        "text": "El reglamento del Cabildo Insular de Tenerife no establece ningún límite",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:07:01.021Z",
+        "updated_at": "2026-11-24T13:07:01.021Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3391,
+    "fields": {
+        "question": 680,
+        "text": "27",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:07:43.041Z",
+        "updated_at": "2026-11-24T13:07:43.041Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3392,
+    "fields": {
+        "question": 680,
+        "text": "18",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:07:50.235Z",
+        "updated_at": "2026-11-24T13:07:50.235Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3393,
+    "fields": {
+        "question": 681,
+        "text": "El Pleno",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:10:43.015Z",
+        "updated_at": "2026-11-24T13:10:43.015Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3394,
+    "fields": {
+        "question": 681,
+        "text": "La Presidencia",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:10:49.586Z",
+        "updated_at": "2026-11-24T13:10:58.457Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3395,
+    "fields": {
+        "question": 681,
+        "text": "La o las Vicepresidencias",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:10:55.736Z",
+        "updated_at": "2026-11-24T13:10:55.737Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3396,
+    "fields": {
+        "question": 681,
+        "text": "El Consejo de Gobierno Insular",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:11:05.533Z",
+        "updated_at": "2026-11-24T13:11:09.774Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3397,
+    "fields": {
+        "question": 681,
+        "text": "Las Consejerías Insulares con funciones ejecutivas",
+        "is_correct": true,
+        "created_at": "2026-11-24T13:11:19.538Z",
+        "updated_at": "2026-11-24T13:11:19.538Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3398,
+    "fields": {
+        "question": 681,
+        "text": "Las Consejerías Insulares sin funciones ejecutivas",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:13:17.081Z",
+        "updated_at": "2026-11-24T13:13:17.081Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3399,
+    "fields": {
+        "question": 681,
+        "text": "El departamento de Tecnologías de la Información",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:13:45.936Z",
+        "updated_at": "2026-11-24T13:13:45.936Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3400,
+    "fields": {
+        "question": 681,
+        "text": "La Tesoreria",
+        "is_correct": false,
+        "created_at": "2026-11-24T13:13:53.887Z",
+        "updated_at": "2026-11-24T13:13:53.887Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3401,
+    "fields": {
+        "question": 682,
+        "text": "Completar todo el proyecto antes de mostrar resultados al cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:53:38.846Z",
+        "updated_at": "2026-11-24T20:53:38.846Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3402,
+    "fields": {
+        "question": 682,
+        "text": "Adaptarse al cambio y entregar valor al cliente de forma continua",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:53:48.262Z",
+        "updated_at": "2026-11-24T20:53:48.262Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3403,
+    "fields": {
+        "question": 682,
+        "text": "Eliminar la planificación y la documentación de los proyectos",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:53:57.199Z",
+        "updated_at": "2026-11-24T20:53:57.199Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3404,
+    "fields": {
+        "question": 682,
+        "text": "Reducir al mínimo la comunicación entre los miembros del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:54:06.644Z",
+        "updated_at": "2026-11-24T20:54:06.644Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3405,
+    "fields": {
+        "question": 682,
+        "text": "Que el desarrollo siempre se realice usando *pair programming*",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:55:38.351Z",
+        "updated_at": "2026-11-24T20:55:38.351Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3406,
+    "fields": {
+        "question": 683,
+        "text": "Las personas y las interacciones son más importantes que las herramientas y los procesos",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:57:51.702Z",
+        "updated_at": "2026-11-24T21:00:28.904Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3407,
+    "fields": {
+        "question": 683,
+        "text": "las herramientas y los procesos son más importantes que las personas y las interacciones",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:58:16.776Z",
+        "updated_at": "2026-11-24T21:00:32.910Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3408,
+    "fields": {
+        "question": 683,
+        "text": "El software funcional es más importante que la documentación",
+        "is_correct": true,
+        "created_at": "2026-11-24T20:58:24.258Z",
+        "updated_at": "2026-11-24T21:00:42.832Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3409,
+    "fields": {
+        "question": 683,
+        "text": "La documentación correcta es más importante que el software funcional",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:58:59.950Z",
+        "updated_at": "2026-11-24T21:00:47.815Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3410,
+    "fields": {
+        "question": 683,
+        "text": "La negociación de contratos es más importante que la colaboración con el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T20:59:31.921Z",
+        "updated_at": "2026-11-24T21:00:53.400Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3411,
+    "fields": {
+        "question": 683,
+        "text": "La colaboración con el cliente es más importante que la negociación de contratos",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:01:02.020Z",
+        "updated_at": "2026-11-24T21:01:02.020Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3412,
+    "fields": {
+        "question": 683,
+        "text": "Responder al cambio es más importante que simplemente seguir un plan",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:01:12.143Z",
+        "updated_at": "2026-11-24T21:01:12.143Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3413,
+    "fields": {
+        "question": 683,
+        "text": "Seguir el plan sin poner objeciones es mejor que responder al cambio",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:01:45.362Z",
+        "updated_at": "2026-11-24T21:01:45.362Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3414,
+    "fields": {
+        "question": 683,
+        "text": "Seguir el plan sin plantear dudas es la mejor manera de responder al cambio",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:02:17.764Z",
+        "updated_at": "2026-11-24T21:02:17.764Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3415,
+    "fields": {
+        "question": 684,
+        "text": "4",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:34.856Z",
+        "updated_at": "2026-11-24T21:03:34.856Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3416,
+    "fields": {
+        "question": 684,
+        "text": "8",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:37.707Z",
+        "updated_at": "2026-11-24T21:03:37.707Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3417,
+    "fields": {
+        "question": 684,
+        "text": "12",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:03:43.645Z",
+        "updated_at": "2026-11-24T21:03:47.337Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3418,
+    "fields": {
+        "question": 684,
+        "text": "16",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:52.323Z",
+        "updated_at": "2026-11-24T21:03:52.323Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3419,
+    "fields": {
+        "question": 684,
+        "text": "24",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:03:57.558Z",
+        "updated_at": "2026-11-24T21:03:57.558Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3420,
+    "fields": {
+        "question": 685,
+        "text": "Que las herramientas de gestión no deben utilizarse",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:04:56.835Z",
+        "updated_at": "2026-11-24T21:04:56.835Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3421,
+    "fields": {
+        "question": 685,
+        "text": "Que la comunicación y colaboración entre personas son fundamentales para el éxito del proyecto",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:05:16.295Z",
+        "updated_at": "2026-11-24T21:05:16.295Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3422,
+    "fields": {
+        "question": 685,
+        "text": "Que cada miembro del equipo debe trabajar de manera independiente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:05:23.520Z",
+        "updated_at": "2026-11-24T21:05:23.520Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3423,
+    "fields": {
+        "question": 685,
+        "text": "Que los procesos deben eliminarse completamente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:05:59.843Z",
+        "updated_at": "2026-11-24T21:05:59.843Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3424,
+    "fields": {
+        "question": 685,
+        "text": "Que cada miembro del equipo debe comunicar a todos los demás, con todo lujo de detalles, que hace cada día",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:07:44.023Z",
+        "updated_at": "2026-11-24T21:07:44.023Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3425,
+    "fields": {
+        "question": 686,
+        "text": "El desarrollo del producto se realiza en una única fase",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:08:51.625Z",
+        "updated_at": "2026-11-24T21:08:51.625Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3426,
+    "fields": {
+        "question": 686,
+        "text": "Se entrega el producto únicamente cuando está completamente terminado",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:08:59.223Z",
+        "updated_at": "2026-11-24T21:08:59.223Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3427,
+    "fields": {
+        "question": 686,
+        "text": "El producto se desarrolla mediante ciclos sucesivos, incorporando mejoras y funcionalidades progresivamente",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:09:06.630Z",
+        "updated_at": "2026-11-24T21:09:06.630Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3428,
+    "fields": {
+        "question": 686,
+        "text": "Se evita la revisión del producto durante su desarrollo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:09:14.332Z",
+        "updated_at": "2026-11-24T21:09:14.332Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3429,
+    "fields": {
+        "question": 686,
+        "text": "Para acelerar el desarrollo, se prescinde totalmente de las pruebas unitarias",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:09:38.004Z",
+        "updated_at": "2026-11-24T21:09:38.004Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3430,
+    "fields": {
+        "question": 686,
+        "text": "El uso de prototipos está expresamente prohibido",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:10:06.020Z",
+        "updated_at": "2026-11-24T21:10:06.020Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3431,
+    "fields": {
+        "question": 687,
+        "text": "La imposibilidad de modificar los requisitos una vez iniciado el proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:03.278Z",
+        "updated_at": "2026-11-24T21:11:09.534Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3432,
+    "fields": {
+        "question": 687,
+        "text": "La detección temprana de problemas y la adaptación a nuevas necesidades",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:11:16.932Z",
+        "updated_at": "2026-11-24T21:11:16.932Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3433,
+    "fields": {
+        "question": 687,
+        "text": "La eliminación de la participación del cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:24.603Z",
+        "updated_at": "2026-11-24T21:11:24.603Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3434,
+    "fields": {
+        "question": 687,
+        "text": "La necesidad de definir todos los detalles antes de comenzar",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:11:33.678Z",
+        "updated_at": "2026-11-24T21:11:33.678Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3435,
+    "fields": {
+        "question": 687,
+        "text": "El contar en todo momento con la documentación actualizada y finalizada",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:12:17.242Z",
+        "updated_at": "2026-11-24T21:12:17.242Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3436,
+    "fields": {
+        "question": 688,
+        "text": "Una herramienta informática para programar aplicaciones",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:12:44.041Z",
+        "updated_at": "2026-11-24T21:12:44.041Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3437,
+    "fields": {
+        "question": 688,
+        "text": "Un modelo de Inteligencia Generativa especializada en código fuente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:13:20.120Z",
+        "updated_at": "2026-11-24T21:13:20.120Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3438,
+    "fields": {
+        "question": 688,
+        "text": "Un marco de trabajo ágil que permite desarrollar productos complejos de forma iterativa e incremental",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:13:32.401Z",
+        "updated_at": "2026-11-24T21:13:32.401Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3439,
+    "fields": {
+        "question": 688,
+        "text": "Una metodología basada exclusivamente en diagramas de Gantt",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:13:39.694Z",
+        "updated_at": "2026-11-24T21:13:39.694Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3440,
+    "fields": {
+        "question": 688,
+        "text": "Un sistema de gestión financiera de proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:13:51.373Z",
+        "updated_at": "2026-11-24T21:13:51.373Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3441,
+    "fields": {
+        "question": 688,
+        "text": "Un cargador de arranque múltiple, que permite elegir qué sistema operativo arrancar de entre los instalados",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:15:45.396Z",
+        "updated_at": "2026-11-24T21:15:45.396Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3442,
+    "fields": {
+        "question": 688,
+        "text": "Un *framework* o marco de trabajo que define un conjunto de eventos, prácticas y roles, y que puede tomarse como conjunto base para definir el proceso de producción que se usará en un equipo de trabajo o dentro de un proyecto",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:17:19.827Z",
+        "updated_at": "2026-11-24T21:17:19.827Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3443,
+    "fields": {
+        "question": 689,
+        "text": "El *Scrum Master*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:19:37.243Z",
+        "updated_at": "2026-11-24T21:19:37.243Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3444,
+    "fields": {
+        "question": 689,
+        "text": "Los desarrolladores",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:19:46.652Z",
+        "updated_at": "2026-11-24T21:19:46.652Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3445,
+    "fields": {
+        "question": 689,
+        "text": "El *Product Owner*",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:20:09.883Z",
+        "updated_at": "2026-11-24T21:20:09.883Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3446,
+    "fields": {
+        "question": 689,
+        "text": "El *Project Manager*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:20:26.032Z",
+        "updated_at": "2026-11-24T21:20:26.032Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3447,
+    "fields": {
+        "question": 689,
+        "text": "Los *Stakeholders*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:20:59.801Z",
+        "updated_at": "2026-11-24T21:20:59.801Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3448,
+    "fields": {
+        "question": 689,
+        "text": "El equipo, en su totalidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:21:22.900Z",
+        "updated_at": "2026-11-24T21:21:22.900Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3449,
+    "fields": {
+        "question": 690,
+        "text": "Asignar individualmente las tareas a cada desarrollador",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:02.727Z",
+        "updated_at": "2026-11-24T21:24:02.727Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3450,
+    "fields": {
+        "question": 690,
+        "text": "Asegurarse de que Scrum se comprenda y se aplique correctamente, facilitando su efectividad",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:24:10.902Z",
+        "updated_at": "2026-11-24T21:24:15.653Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3451,
+    "fields": {
+        "question": 690,
+        "text": "Decidir todas las funcionalidades que tendrá el producto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:23.710Z",
+        "updated_at": "2026-11-24T21:24:23.710Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3452,
+    "fields": {
+        "question": 690,
+        "text": "Aprobar el presupuesto de cada *Sprint*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:24:39.843Z",
+        "updated_at": "2026-11-24T21:24:39.843Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3453,
+    "fields": {
+        "question": 690,
+        "text": "Decidir quien puede ir y quien no al *daily scrum*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:25:10.250Z",
+        "updated_at": "2026-11-24T21:25:10.250Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3454,
+    "fields": {
+        "question": 691,
+        "text": "Una reunión diaria de seguimiento",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:25:45.035Z",
+        "updated_at": "2026-11-24T21:25:45.035Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3455,
+    "fields": {
+        "question": 691,
+        "text": "Un periodo de tiempo fijo durante el cual se crea un incremento de producto",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:25:52.418Z",
+        "updated_at": "2026-11-24T21:25:52.418Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3456,
+    "fields": {
+        "question": 691,
+        "text": "Una lista de errores pendientes de solucionar",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:00.320Z",
+        "updated_at": "2026-11-24T21:26:00.320Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3457,
+    "fields": {
+        "question": 691,
+        "text": "Una reunión exclusiva entre el *Product Owner* y el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:06.828Z",
+        "updated_at": "2026-11-24T21:28:46.827Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3458,
+    "fields": {
+        "question": 691,
+        "text": "Cualquier reunión no programada de antemano",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:26:29.573Z",
+        "updated_at": "2026-11-24T21:26:29.573Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3459,
+    "fields": {
+        "question": 691,
+        "text": "Es otro nombre para el *Backlog*",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:27:26.157Z",
+        "updated_at": "2026-11-24T21:27:26.157Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3460,
+    "fields": {
+        "question": 691,
+        "text": "El período en el cual se lleva a cabo el trabajo en sí",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:27:56.522Z",
+        "updated_at": "2026-11-24T21:27:56.522Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3461,
+    "fields": {
+        "question": 692,
+        "text": "Organizar el trabajo mediante flujos visuales y optimizar su circulación",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:29:26.959Z",
+        "updated_at": "2026-11-24T21:29:26.959Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3462,
+    "fields": {
+        "question": 692,
+        "text": "Establecer iteraciones obligatorias de dos semanas",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:29:32.908Z",
+        "updated_at": "2026-11-24T21:29:32.908Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3463,
+    "fields": {
+        "question": 692,
+        "text": "Eliminar la necesidad de priorizar tareas",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:29:39.793Z",
+        "updated_at": "2026-11-24T21:29:39.794Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3464,
+    "fields": {
+        "question": 692,
+        "text": "Asignar un responsable diferente a cada tarea de manera obligatoria",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:29:46.210Z",
+        "updated_at": "2026-11-24T21:29:46.210Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3465,
+    "fields": {
+        "question": 692,
+        "text": "La forma de distribuir la mínima cantidad de trabajo a cada uno de los componentes del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:03.035Z",
+        "updated_at": "2026-11-24T21:32:03.035Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3466,
+    "fields": {
+        "question": 693,
+        "text": "Un miembro del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:21.612Z",
+        "updated_at": "2026-11-24T21:32:35.540Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3467,
+    "fields": {
+        "question": 693,
+        "text": "Una fase o estado por el que pasa una tarea dentro del flujo de trabajo",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:32:28.591Z",
+        "updated_at": "2026-11-24T21:32:28.591Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3468,
+    "fields": {
+        "question": 693,
+        "text": "El presupuesto asignado a una tarea",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:43.486Z",
+        "updated_at": "2026-11-24T21:32:43.486Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3469,
+    "fields": {
+        "question": 693,
+        "text": "Las franjas horarias de trabajo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:32:55.704Z",
+        "updated_at": "2026-11-24T21:32:55.704Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3470,
+    "fields": {
+        "question": 693,
+        "text": "La duración total del proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:33:02.278Z",
+        "updated_at": "2026-11-24T21:33:02.279Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3471,
+    "fields": {
+        "question": 693,
+        "text": "La cantidad de trabajo que queda por hacer",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:33:17.042Z",
+        "updated_at": "2026-11-24T21:33:17.042Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3472,
+    "fields": {
+        "question": 693,
+        "text": "La cantidad de trabajo hecha",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:33:27.658Z",
+        "updated_at": "2026-11-24T21:33:27.658Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3473,
+    "fields": {
+        "question": 694,
+        "text": "Limitar el número de tareas que pueden estar en curso simultáneamente",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:34:59.014Z",
+        "updated_at": "2026-11-24T21:35:54.088Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3474,
+    "fields": {
+        "question": 694,
+        "text": "Limitar el número de personas que pueden participar en el proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:04.878Z",
+        "updated_at": "2026-11-24T21:35:04.878Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3475,
+    "fields": {
+        "question": 694,
+        "text": "Establecer una fecha límite para finalizar todas las tareas",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:09.881Z",
+        "updated_at": "2026-11-24T21:35:09.881Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3476,
+    "fields": {
+        "question": 694,
+        "text": "Evitar que se incorporen nuevas tareas al tablero",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:35:21.288Z",
+        "updated_at": "2026-11-24T21:35:49.233Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3477,
+    "fields": {
+        "question": 694,
+        "text": "El máximo de horas seguidas que se permite trabajar en un proyecto",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:36:23.604Z",
+        "updated_at": "2026-11-24T21:36:23.604Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3478,
+    "fields": {
+        "question": 695,
+        "text": "Permite eliminar todas las reuniones del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:37:00.545Z",
+        "updated_at": "2026-11-24T21:37:00.545Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3479,
+    "fields": {
+        "question": 695,
+        "text": "Facilita identificar cuellos de botella y conocer el estado de las tareas",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:37:08.627Z",
+        "updated_at": "2026-11-24T21:37:08.627Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3480,
+    "fields": {
+        "question": 695,
+        "text": "Garantiza que todas las tareas tengan la misma duración",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:37:16.721Z",
+        "updated_at": "2026-11-24T21:37:16.721Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3481,
+    "fields": {
+        "question": 695,
+        "text": "Evita que los miembros del equipo cambien de actividad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:37:23.656Z",
+        "updated_at": "2026-11-24T21:37:23.656Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3482,
+    "fields": {
+        "question": 695,
+        "text": "Saber quien está trabajado y quien está en una reunión con el cliente",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:39:56.973Z",
+        "updated_at": "2026-11-24T21:39:56.973Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3483,
+    "fields": {
+        "question": 696,
+        "text": "Scrum utiliza roles y Sprints definidos, mientras que Kanban se centra en visualizar y optimizar el flujo de trabajo",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:40:22.642Z",
+        "updated_at": "2026-11-24T21:40:22.642Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3484,
+    "fields": {
+        "question": 696,
+        "text": "Kanban requiere Sprints obligatorios y Scrum no permite iteraciones",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:40:31.792Z",
+        "updated_at": "2026-11-24T21:40:31.792Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3485,
+    "fields": {
+        "question": 696,
+        "text": "Scrum no permite cambios en los requisitos y Kanban sí",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:40:38.079Z",
+        "updated_at": "2026-11-24T21:40:38.079Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3486,
+    "fields": {
+        "question": 696,
+        "text": "Kanban requiere un Scrum Master y Scrum no contempla ningún tipo de facilitador",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:40:51.638Z",
+        "updated_at": "2026-11-24T21:40:51.638Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3487,
+    "fields": {
+        "question": 696,
+        "text": "Kanban es un *framewok* de pago, mientras que Scrum es libre",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:41:28.700Z",
+        "updated_at": "2026-11-24T21:41:28.700Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3488,
+    "fields": {
+        "question": 696,
+        "text": "Scrum es un *framewok* de pago, mientras que Kanban es libre",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:41:40.950Z",
+        "updated_at": "2026-11-24T21:41:40.950Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3489,
+    "fields": {
+        "question": 697,
+        "text": "Transparencia",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:42:48.775Z",
+        "updated_at": "2026-11-24T21:42:48.775Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3490,
+    "fields": {
+        "question": 697,
+        "text": "Inspección",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:42:52.043Z",
+        "updated_at": "2026-11-24T21:42:52.043Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3491,
+    "fields": {
+        "question": 697,
+        "text": "Adaptación",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:42:55.834Z",
+        "updated_at": "2026-11-24T21:42:55.834Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3492,
+    "fields": {
+        "question": 697,
+        "text": "Planificación",
+        "is_correct": true,
+        "created_at": "2026-11-24T21:43:01.496Z",
+        "updated_at": "2026-11-24T21:43:01.496Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3493,
+    "fields": {
+        "question": 697,
+        "text": "No repudio",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:43:34.785Z",
+        "updated_at": "2026-11-24T21:43:34.785Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3494,
+    "fields": {
+        "question": 697,
+        "text": "Conformidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:43:46.465Z",
+        "updated_at": "2026-11-24T21:43:46.465Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3495,
+    "fields": {
+        "question": 697,
+        "text": "Unanimidad",
+        "is_correct": false,
+        "created_at": "2026-11-24T21:44:00.551Z",
+        "updated_at": "2026-11-24T21:44:00.551Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -128828,10 +134736,10 @@
             "root"
         ],
         "question": 249,
-        "tries": 1,
+        "tries": 2,
         "failures": 0,
         "created_at": "2024-10-09T18:43:10.195Z",
-        "updated_at": "2024-10-09T18:43:10.196Z"
+        "updated_at": "2026-11-23T19:29:47.914Z"
     }
 },
 {
@@ -131338,6 +137246,160 @@
         "failures": 1,
         "created_at": "2026-11-22T16:50:15.353Z",
         "updated_at": "2026-11-22T16:50:18.638Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 623,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 676,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-23T19:26:06.051Z",
+        "updated_at": "2026-11-23T19:26:14.135Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 624,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 642,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-11-23T19:29:25.822Z",
+        "updated_at": "2026-11-23T19:29:25.822Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 625,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 678,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T12:53:03.388Z",
+        "updated_at": "2026-11-24T12:53:06.797Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 626,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 679,
+        "tries": 1,
+        "failures": 0,
+        "created_at": "2026-11-24T13:02:52.504Z",
+        "updated_at": "2026-11-24T13:02:52.505Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 627,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 680,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T13:07:22.703Z",
+        "updated_at": "2026-11-24T13:07:26.916Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 628,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 683,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T21:02:50.585Z",
+        "updated_at": "2026-11-24T21:02:57.980Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 629,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 685,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T21:07:55.851Z",
+        "updated_at": "2026-11-24T21:07:59.348Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 630,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 688,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T21:17:33.001Z",
+        "updated_at": "2026-11-24T21:17:46.062Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 631,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 691,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T21:28:11.188Z",
+        "updated_at": "2026-11-24T21:28:14.114Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 632,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 693,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T21:33:35.184Z",
+        "updated_at": "2026-11-24T21:33:38.536Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 633,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 696,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-24T21:41:55.865Z",
+        "updated_at": "2026-11-24T21:41:58.365Z"
     }
 }
 ]

@@ -421,5 +421,14 @@
         "color": "#E8EC2C",
         "description": "Go Language"
     }
+},
+{
+    "model": "tags.tag",
+    "pk": 48,
+    "fields": {
+        "name": "kafka",
+        "color": "#8A2694",
+        "description": "Apache Kafka"
+    }
 }
 ]
