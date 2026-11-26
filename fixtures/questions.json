@@ -14417,6 +14417,159 @@
     }
 },
 {
+    "model": "questions.historicalquestion",
+    "pk": 880,
+    "fields": {
+        "id_question": 698,
+        "text": "En kanban, las tarjetas que se visualizan en el tableros se corresponden a:",
+        "source": "Propia",
+        "created_at": "2026-11-25T12:20:22.547Z",
+        "updated_at": "2026-11-25T12:20:22.547Z",
+        "history_date": "2026-11-25T12:20:22.564Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 881,
+    "fields": {
+        "id_question": 699,
+        "text": "¿Cuál es uno de los principios fundamentales de Kanban?",
+        "source": "Propia",
+        "created_at": "2026-11-25T13:34:19.347Z",
+        "updated_at": "2026-11-25T13:34:19.348Z",
+        "history_date": "2026-11-25T13:34:19.360Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 882,
+    "fields": {
+        "id_question": 700,
+        "text": "En un tablero de Kanban, las terjetas normalmente se mueven",
+        "source": "Propia",
+        "created_at": "2026-11-25T16:22:20.718Z",
+        "updated_at": "2026-11-25T16:22:20.718Z",
+        "history_date": "2026-11-25T16:22:20.730Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 883,
+    "fields": {
+        "id_question": 701,
+        "text": "En el lenguaje de programación Go, la gestión de la memoria es:",
+        "source": "",
+        "created_at": "2026-11-25T17:17:03.387Z",
+        "updated_at": "2026-11-25T17:17:03.387Z",
+        "history_date": "2026-11-25T17:17:03.401Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 884,
+    "fields": {
+        "id_question": 702,
+        "text": "El servicio de gestión de Notificaciones Notific@ permite las siguientes vías de salida",
+        "source": "Propia",
+        "created_at": "2026-11-26T12:54:16.671Z",
+        "updated_at": "2026-11-26T12:54:16.671Z",
+        "history_date": "2026-11-26T12:54:16.690Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 885,
+    "fields": {
+        "id_question": 703,
+        "text": "El servicio de gestión de Notificaciones Notific@ permite a los organismos relacionarse con la plataforma mediante:",
+        "source": "Propia",
+        "created_at": "2026-11-26T12:57:24.707Z",
+        "updated_at": "2026-11-26T12:57:24.707Z",
+        "history_date": "2026-11-26T12:57:24.720Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 886,
+    "fields": {
+        "id_question": 703,
+        "text": "El servicio de gestión de Notificaciones Notific@ permite a los organismos relacionarse con la plataforma:",
+        "source": "Propia",
+        "created_at": "2026-11-26T12:57:24.707Z",
+        "updated_at": "2026-11-26T14:49:44.342Z",
+        "history_date": "2026-11-26T14:49:44.357Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 887,
+    "fields": {
+        "id_question": 704,
+        "text": "Según el artículo 39 de la Constitución Española, los poderes públicos aseguran:",
+        "source": "",
+        "created_at": "2026-11-26T22:13:49.862Z",
+        "updated_at": "2026-11-26T22:13:49.862Z",
+        "history_date": "2026-11-26T22:13:49.883Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalquestion",
+    "pk": 888,
+    "fields": {
+        "id_question": 705,
+        "text": "Según el capítulo tercero de la Constitución Española, de los principios rectores de la política social y económica, los poderes públicos promoverán:",
+        "source": "",
+        "created_at": "2026-11-26T22:34:04.904Z",
+        "updated_at": "2026-11-26T22:34:04.904Z",
+        "history_date": "2026-11-26T22:34:04.926Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.question",
     "pk": 1,
     "fields": {
@@ -23039,6 +23192,129 @@
         "tags": [
             40,
             43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 698,
+    "fields": {
+        "text": "En kanban, las tarjetas que se visualizan en el tableros se corresponden a:",
+        "source": "Propia",
+        "created_at": "2026-11-25T12:20:22.547Z",
+        "updated_at": "2026-11-25T12:20:22.547Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 699,
+    "fields": {
+        "text": "¿Cuál es uno de los principios fundamentales de Kanban?",
+        "source": "Propia",
+        "created_at": "2026-11-25T13:34:19.347Z",
+        "updated_at": "2026-11-25T13:34:19.348Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 700,
+    "fields": {
+        "text": "En un tablero de Kanban, las terjetas normalmente se mueven",
+        "source": "Propia",
+        "created_at": "2026-11-25T16:22:20.718Z",
+        "updated_at": "2026-11-25T16:22:20.718Z",
+        "tags": [
+            40,
+            43
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 701,
+    "fields": {
+        "text": "En el lenguaje de programación Go, la gestión de la memoria es:",
+        "source": "",
+        "created_at": "2026-11-25T17:17:03.387Z",
+        "updated_at": "2026-11-25T17:17:03.387Z",
+        "tags": [
+            43,
+            47,
+            18,
+            24
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 702,
+    "fields": {
+        "text": "El servicio de gestión de Notificaciones Notific@ permite las siguientes vías de salida",
+        "source": "Propia",
+        "created_at": "2026-11-26T12:54:16.671Z",
+        "updated_at": "2026-11-26T12:54:16.671Z",
+        "tags": [
+            42,
+            43,
+            32,
+            35,
+            38,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 703,
+    "fields": {
+        "text": "El servicio de gestión de Notificaciones Notific@ permite a los organismos relacionarse con la plataforma:",
+        "source": "Propia",
+        "created_at": "2026-11-26T12:57:24.707Z",
+        "updated_at": "2026-11-26T14:49:44.342Z",
+        "tags": [
+            42,
+            43,
+            32,
+            35,
+            38,
+            4
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 704,
+    "fields": {
+        "text": "Según el artículo 39 de la Constitución Española, los poderes públicos aseguran:",
+        "source": "",
+        "created_at": "2026-11-26T22:13:49.862Z",
+        "updated_at": "2026-11-26T22:13:49.862Z",
+        "tags": [
+            42,
+            43,
+            1
+        ]
+    }
+},
+{
+    "model": "questions.question",
+    "pk": 705,
+    "fields": {
+        "text": "Según el capítulo tercero de la Constitución Española, de los principios rectores de la política social y económica, los poderes públicos promoverán:",
+        "source": "",
+        "created_at": "2026-11-26T22:34:04.904Z",
+        "updated_at": "2026-11-26T22:34:04.904Z",
+        "tags": [
+            42,
+            1
         ]
     }
 },
@@ -90107,6 +90383,1284 @@
     }
 },
 {
+    "model": "questions.historicalanswer",
+    "pk": 3857,
+    "fields": {
+        "id_answer": 3496,
+        "text": "Personas del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:20:32.327Z",
+        "updated_at": "2026-11-25T12:20:32.327Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:20:32.364Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3858,
+    "fields": {
+        "id_answer": 3497,
+        "text": "Una representación de una tarea",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:20:51.773Z",
+        "updated_at": "2026-11-25T12:20:51.773Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:20:51.784Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3859,
+    "fields": {
+        "id_answer": 3498,
+        "text": "Un riesgo potencial",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:05.906Z",
+        "updated_at": "2026-11-25T12:21:05.906Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:21:05.923Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3860,
+    "fields": {
+        "id_answer": 3497,
+        "text": "Una representación de una tarea",
+        "is_correct": true,
+        "created_at": "2026-11-25T12:20:51.773Z",
+        "updated_at": "2026-11-25T12:21:09.979Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:21:09.994Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3861,
+    "fields": {
+        "id_answer": 3499,
+        "text": "Un riesgo real",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:16.004Z",
+        "updated_at": "2026-11-25T12:21:16.004Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:21:16.024Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3862,
+    "fields": {
+        "id_answer": 3500,
+        "text": "Una etapa",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:49.186Z",
+        "updated_at": "2026-11-25T12:21:49.186Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:21:49.200Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3863,
+    "fields": {
+        "id_answer": 3500,
+        "text": "Un cuello de botella",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:49.186Z",
+        "updated_at": "2026-11-25T12:22:20.408Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:22:20.423Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3864,
+    "fields": {
+        "id_answer": 3501,
+        "text": "Una petición del *Scrum master*",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:22:43.368Z",
+        "updated_at": "2026-11-25T12:22:43.368Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:22:43.389Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3865,
+    "fields": {
+        "id_answer": 3496,
+        "text": "El identificador de una o más ersonas del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:20:32.327Z",
+        "updated_at": "2026-11-25T12:23:16.076Z",
+        "question": 698,
+        "history_date": "2026-11-25T12:23:16.090Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3866,
+    "fields": {
+        "id_answer": 3502,
+        "text": "Requiere cambios radicales en los procesos existentes",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:34:34.980Z",
+        "updated_at": "2026-11-25T13:34:34.980Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:34:34.993Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3867,
+    "fields": {
+        "id_answer": 3503,
+        "text": "Se enfoca en mejorar gradualmente el flujo de trabajo actual",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:34:53.530Z",
+        "updated_at": "2026-11-25T13:34:53.530Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:34:53.541Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3868,
+    "fields": {
+        "id_answer": 3504,
+        "text": "Promueve cambios grandes y rápidos, para reducir el riesgo y la resistencia al cambio",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:35:56.104Z",
+        "updated_at": "2026-11-25T13:35:56.104Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:35:56.118Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3869,
+    "fields": {
+        "id_answer": 3505,
+        "text": "Persigue el cambio incremental y evolutivo",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:36:30.219Z",
+        "updated_at": "2026-11-25T13:36:30.219Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:36:30.233Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3870,
+    "fields": {
+        "id_answer": 3506,
+        "text": "Respeta los procesos, roles y responsabilidades actuales",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:36:40.058Z",
+        "updated_at": "2026-11-25T13:36:40.058Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:36:40.095Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3871,
+    "fields": {
+        "id_answer": 3507,
+        "text": "Se busca alterar la estructura organizativa existente, para mejorar la eficiencia dentro del marco actual",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:37:03.977Z",
+        "updated_at": "2026-11-25T13:37:03.977Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:37:03.993Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3872,
+    "fields": {
+        "id_answer": 3508,
+        "text": "Fomenta el liderazgo en todos los niveles",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:37:16.063Z",
+        "updated_at": "2026-11-25T13:37:16.063Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:37:16.077Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3873,
+    "fields": {
+        "id_answer": 3509,
+        "text": "Se anima a todos los miembros del equipo a tomar la iniciativa y contribuir a la mejora continua",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:37:34.208Z",
+        "updated_at": "2026-11-25T13:37:34.208Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:37:34.218Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3874,
+    "fields": {
+        "id_answer": 3510,
+        "text": "LA responsabilidad del liderazgo y de la toma de iniciativas está claramente centralizada",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:37:59.766Z",
+        "updated_at": "2026-11-25T13:37:59.766Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:37:59.778Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3875,
+    "fields": {
+        "id_answer": 3509,
+        "text": "Se anima a todos los miembros del equipo a tomar la iniciativa y contribuir a la mejora continua",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:37:34.208Z",
+        "updated_at": "2026-11-25T13:38:03.459Z",
+        "question": 699,
+        "history_date": "2026-11-25T13:38:03.479Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3876,
+    "fields": {
+        "id_answer": 3511,
+        "text": "De una columna a otra",
+        "is_correct": true,
+        "created_at": "2026-11-25T16:22:30.716Z",
+        "updated_at": "2026-11-25T16:22:30.716Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:22:30.734Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3877,
+    "fields": {
+        "id_answer": 3512,
+        "text": "A lo largo de una columna",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:22:42.455Z",
+        "updated_at": "2026-11-25T16:22:42.455Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:22:42.470Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3878,
+    "fields": {
+        "id_answer": 3513,
+        "text": "De un tablero a otro",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:22:49.934Z",
+        "updated_at": "2026-11-25T16:22:49.934Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:22:49.955Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3879,
+    "fields": {
+        "id_answer": 3514,
+        "text": "En cualquier dirección, excepto hacia arriba",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:23:29.680Z",
+        "updated_at": "2026-11-25T16:23:29.680Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:23:29.696Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3880,
+    "fields": {
+        "id_answer": 3515,
+        "text": "En cualquier dirección, excepto hacia la derecha",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:23:47.548Z",
+        "updated_at": "2026-11-25T16:23:47.548Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:23:47.565Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3881,
+    "fields": {
+        "id_answer": 3516,
+        "text": "En cualquier dirección, excepto hacia la izquierda",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:23:55.918Z",
+        "updated_at": "2026-11-25T16:23:55.918Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:23:55.933Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3882,
+    "fields": {
+        "id_answer": 3517,
+        "text": "En cualquier dirección, excepto hacia abajo",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:24:12.732Z",
+        "updated_at": "2026-11-25T16:24:12.732Z",
+        "question": 700,
+        "history_date": "2026-11-25T16:24:12.746Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3883,
+    "fields": {
+        "id_answer": 3518,
+        "text": "Gestionada manualmente, con llamadas a ``malloc()`` o ``calloc()``",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:17:37.260Z",
+        "updated_at": "2026-11-25T17:17:37.260Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:17:37.273Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3884,
+    "fields": {
+        "id_answer": 3519,
+        "text": "Gestionada manualmente, con llamadas a ``new`` y ``delete``",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:18:45.565Z",
+        "updated_at": "2026-11-25T17:18:45.565Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:18:45.578Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3885,
+    "fields": {
+        "id_answer": 3518,
+        "text": "Gestionada manualmente, con llamadas a ``malloc()`` o ``calloc()`` y ``free()``",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:17:37.260Z",
+        "updated_at": "2026-11-25T17:18:58.774Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:18:58.785Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3886,
+    "fields": {
+        "id_answer": 3520,
+        "text": "Gestionada automática con recolector de basura",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:33:57.830Z",
+        "updated_at": "2026-11-25T17:33:57.830Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:33:57.841Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3887,
+    "fields": {
+        "id_answer": 3521,
+        "text": "Siempre usa una pila o ``Stack`` para las variables, por lo que la liberación de la memoria es implícita",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:34:48.309Z",
+        "updated_at": "2026-11-25T17:34:48.309Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:34:48.322Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3888,
+    "fields": {
+        "id_answer": 3522,
+        "text": "En Go es obligatorio el uso del patrón **RAII** (*Resource Acquisition Is Initialization*)",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:40:01.619Z",
+        "updated_at": "2026-11-25T17:40:01.619Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:40:01.636Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3889,
+    "fields": {
+        "id_answer": 3520,
+        "text": "Gestionada automática con recolector de basura",
+        "is_correct": true,
+        "created_at": "2026-11-25T17:33:57.830Z",
+        "updated_at": "2026-11-25T17:40:06.532Z",
+        "question": 701,
+        "history_date": "2026-11-25T17:40:06.548Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3890,
+    "fields": {
+        "id_answer": 3523,
+        "text": "Puesta a disposición por medios electrónicos a través de la Dirección Electrónica Habilitada única (DEHú)",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:54:30.975Z",
+        "updated_at": "2026-11-26T12:54:30.975Z",
+        "question": 702,
+        "history_date": "2026-11-26T12:54:30.986Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3891,
+    "fields": {
+        "id_answer": 3524,
+        "text": "Puesta a disposición en la sede electrónica o sede electrónica asociada del organismo emisor, cuando esta se encuentre integrada con la plataforma",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:54:46.567Z",
+        "updated_at": "2026-11-26T12:54:46.567Z",
+        "question": 702,
+        "history_date": "2026-11-26T12:54:46.584Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3892,
+    "fields": {
+        "id_answer": 3525,
+        "text": "Entrega en soporte papel mediante los centros de impresión y ensobrado y los operadores postales integrados",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:54:54.976Z",
+        "updated_at": "2026-11-26T12:54:54.976Z",
+        "question": 702,
+        "history_date": "2026-11-26T12:54:54.991Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3893,
+    "fields": {
+        "id_answer": 3526,
+        "text": "Todas las otras respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-26T12:55:08.090Z",
+        "updated_at": "2026-11-26T12:55:08.090Z",
+        "question": 702,
+        "history_date": "2026-11-26T12:55:08.108Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3894,
+    "fields": {
+        "id_answer": 3527,
+        "text": "Unicamente mediante una aplicación Web",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:57:45.863Z",
+        "updated_at": "2026-11-26T12:57:45.863Z",
+        "question": 703,
+        "history_date": "2026-11-26T12:57:45.888Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3895,
+    "fields": {
+        "id_answer": 3528,
+        "text": "Unicamente mediante servicio Web",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:57:58.213Z",
+        "updated_at": "2026-11-26T12:57:58.213Z",
+        "question": 703,
+        "history_date": "2026-11-26T12:57:58.235Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3896,
+    "fields": {
+        "id_answer": 3529,
+        "text": "Solo mediante la utilización de servicios de terceros",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:58:24.827Z",
+        "updated_at": "2026-11-26T12:58:24.827Z",
+        "question": 703,
+        "history_date": "2026-11-26T12:58:24.844Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3897,
+    "fields": {
+        "id_answer": 3530,
+        "text": "Mediante una plataforma Web o mediante un servicio Web",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:59:11.020Z",
+        "updated_at": "2026-11-26T12:59:11.020Z",
+        "question": 703,
+        "history_date": "2026-11-26T12:59:11.039Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3898,
+    "fields": {
+        "id_answer": 3530,
+        "text": "Mediante una plataforma Web o mediante un servicio Web",
+        "is_correct": true,
+        "created_at": "2026-11-26T12:59:11.020Z",
+        "updated_at": "2026-11-26T12:59:48.191Z",
+        "question": 703,
+        "history_date": "2026-11-26T12:59:48.206Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3899,
+    "fields": {
+        "id_answer": 3531,
+        "text": "Correo postal exclusivamente",
+        "is_correct": false,
+        "created_at": "2026-11-26T13:00:04.229Z",
+        "updated_at": "2026-11-26T13:00:04.229Z",
+        "question": 703,
+        "history_date": "2026-11-26T13:00:04.244Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3900,
+    "fields": {
+        "id_answer": 3532,
+        "text": "Correo electrónico exclusivamente",
+        "is_correct": false,
+        "created_at": "2026-11-26T13:00:19.791Z",
+        "updated_at": "2026-11-26T13:00:19.791Z",
+        "question": 703,
+        "history_date": "2026-11-26T13:00:19.806Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3901,
+    "fields": {
+        "id_answer": 3531,
+        "text": "Mediante correo postal exclusivamente",
+        "is_correct": false,
+        "created_at": "2026-11-26T13:00:04.229Z",
+        "updated_at": "2026-11-26T14:49:16.297Z",
+        "question": 703,
+        "history_date": "2026-11-26T14:49:16.312Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3902,
+    "fields": {
+        "id_answer": 3532,
+        "text": "Mediante correo electrónico exclusivamente",
+        "is_correct": false,
+        "created_at": "2026-11-26T13:00:19.791Z",
+        "updated_at": "2026-11-26T14:49:26.635Z",
+        "question": 703,
+        "history_date": "2026-11-26T14:49:26.647Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3903,
+    "fields": {
+        "id_answer": 3533,
+        "text": "Solo la protección social",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:14:11.473Z",
+        "updated_at": "2026-11-26T22:14:11.474Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:14:11.486Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3904,
+    "fields": {
+        "id_answer": 3534,
+        "text": "la protección social y económica de la familia, pero no la jurídica",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:14:52.773Z",
+        "updated_at": "2026-11-26T22:14:52.773Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:14:52.792Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3905,
+    "fields": {
+        "id_answer": 3535,
+        "text": "la protección jurídica de la familia, pero no la social ni la económica",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:15:19.045Z",
+        "updated_at": "2026-11-26T22:15:19.045Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:15:19.063Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3906,
+    "fields": {
+        "id_answer": 3536,
+        "text": "La protección social, económica y jurídica de la familia",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:15:35.050Z",
+        "updated_at": "2026-11-26T22:15:35.050Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:15:35.072Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3907,
+    "fields": {
+        "id_answer": 3535,
+        "text": "La protección jurídica de la familia, pero no la social ni la económica",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:15:19.045Z",
+        "updated_at": "2026-11-26T22:15:42.407Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:15:42.421Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3908,
+    "fields": {
+        "id_answer": 3534,
+        "text": "La protección social y económica de la familia, pero no la jurídica",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:14:52.773Z",
+        "updated_at": "2026-11-26T22:15:51.107Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:15:51.123Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3909,
+    "fields": {
+        "id_answer": 3537,
+        "text": "La protección social, económica y jurídica de la familia, solo si los progenitores están casados legalmente",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:18:05.673Z",
+        "updated_at": "2026-11-26T22:18:05.673Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:18:05.684Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3910,
+    "fields": {
+        "id_answer": 3538,
+        "text": "La protección social, económica y jurídica de la familia, excluyendo a los hijos nacidos fuera del matrimonio",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:18:46.465Z",
+        "updated_at": "2026-11-26T22:18:46.465Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:18:46.482Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3911,
+    "fields": {
+        "id_answer": 3537,
+        "text": "La protección de la familia, solo si los progenitores están casados legalmente",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:18:05.673Z",
+        "updated_at": "2026-11-26T22:19:22.174Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:19:22.187Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3912,
+    "fields": {
+        "id_answer": 3538,
+        "text": "La protección de la familia, excluyendo a los hijos nacidos fuera del matrimonio",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:18:46.465Z",
+        "updated_at": "2026-11-26T22:19:33.737Z",
+        "question": 704,
+        "history_date": "2026-11-26T22:19:33.752Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3913,
+    "fields": {
+        "id_answer": 3539,
+        "text": "Las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:34:38.151Z",
+        "updated_at": "2026-11-26T22:34:38.151Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:34:38.166Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3914,
+    "fields": {
+        "id_answer": 3540,
+        "text": "El derecho de los españoles a emigrar",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:36:01.203Z",
+        "updated_at": "2026-11-26T22:36:01.203Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:36:01.228Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3915,
+    "fields": {
+        "id_answer": 3541,
+        "text": "La ciencia y la investigación científica y técnica en beneficio del interés general",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:36:36.413Z",
+        "updated_at": "2026-11-26T22:36:36.413Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:36:36.426Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3916,
+    "fields": {
+        "id_answer": 3542,
+        "text": "La enseñanza de las distintas escuelas filosofícas como eje principal de la educación",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:37:24.739Z",
+        "updated_at": "2026-11-26T22:37:24.739Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:37:24.761Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3917,
+    "fields": {
+        "id_answer": 3543,
+        "text": "Las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo el derecho a disfrutar de una vivienda digna y adecuada",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:38:43.860Z",
+        "updated_at": "2026-11-26T22:38:43.860Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:38:43.876Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3918,
+    "fields": {
+        "id_answer": 3543,
+        "text": "Las condiciones necesarias y establecerán las normas pertinentes para hacer efectivo el derecho a disfrutar de una vivienda digna y adecuada",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:38:43.860Z",
+        "updated_at": "2026-11-26T22:38:47.852Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:38:47.865Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3919,
+    "fields": {
+        "id_answer": 3544,
+        "text": "Las condiciones para la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:39:08.713Z",
+        "updated_at": "2026-11-26T22:39:08.713Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:39:08.733Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3920,
+    "fields": {
+        "id_answer": 3545,
+        "text": "Una televisión pública veraz, imparcial y democrática",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:40:49.585Z",
+        "updated_at": "2026-11-26T22:40:49.586Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:40:49.602Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3921,
+    "fields": {
+        "id_answer": 3546,
+        "text": "El uso de la zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales por parte de empresas particulares, en beneficio del interés general",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:54:01.508Z",
+        "updated_at": "2026-11-26T22:54:01.508Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:54:01.523Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3922,
+    "fields": {
+        "id_answer": 3541,
+        "text": "La ciencia y la investigación científica y técnica en beneficio del interés general",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:36:36.413Z",
+        "updated_at": "2026-11-26T22:54:47.181Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:54:47.193Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3923,
+    "fields": {
+        "id_answer": 3543,
+        "text": "Las condiciones necesarias para hacer efectivo el derecho a disfrutar de una vivienda digna y adecuada",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:38:43.860Z",
+        "updated_at": "2026-11-26T22:55:17.878Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:55:17.893Z",
+        "history_change_reason": null,
+        "history_type": "~",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3924,
+    "fields": {
+        "id_answer": 3547,
+        "text": "El acceso a la cultura, a la que todos tienen derecho",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:55:38.789Z",
+        "updated_at": "2026-11-26T22:55:38.789Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:55:38.809Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3925,
+    "fields": {
+        "id_answer": 3548,
+        "text": "La utilización del suelo para fomentar la especulación",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:57:27.152Z",
+        "updated_at": "2026-11-26T22:57:27.152Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:57:27.177Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3926,
+    "fields": {
+        "id_answer": 3549,
+        "text": "Las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:59:14.628Z",
+        "updated_at": "2026-11-26T22:59:14.628Z",
+        "question": 705,
+        "history_date": "2026-11-26T22:59:14.643Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
+    "model": "questions.historicalanswer",
+    "pk": 3927,
+    "fields": {
+        "id_answer": 3550,
+        "text": "La retroactividad de las disposiciones sancionadoras restrictivas de derechos individuales",
+        "is_correct": false,
+        "created_at": "2026-11-26T23:00:34.514Z",
+        "updated_at": "2026-11-26T23:00:34.514Z",
+        "question": 705,
+        "history_date": "2026-11-26T23:00:34.530Z",
+        "history_change_reason": null,
+        "history_type": "+",
+        "history_user": [
+            "root"
+        ]
+    }
+},
+{
     "model": "questions.answer",
     "pk": 1,
     "fields": {
@@ -128541,6 +130095,611 @@
     }
 },
 {
+    "model": "questions.answer",
+    "pk": 3496,
+    "fields": {
+        "question": 698,
+        "text": "El identificador de una o más ersonas del equipo",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:20:32.327Z",
+        "updated_at": "2026-11-25T12:23:16.076Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3497,
+    "fields": {
+        "question": 698,
+        "text": "Una representación de una tarea",
+        "is_correct": true,
+        "created_at": "2026-11-25T12:20:51.773Z",
+        "updated_at": "2026-11-25T12:21:09.979Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3498,
+    "fields": {
+        "question": 698,
+        "text": "Un riesgo potencial",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:05.906Z",
+        "updated_at": "2026-11-25T12:21:05.906Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3499,
+    "fields": {
+        "question": 698,
+        "text": "Un riesgo real",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:16.004Z",
+        "updated_at": "2026-11-25T12:21:16.004Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3500,
+    "fields": {
+        "question": 698,
+        "text": "Un cuello de botella",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:21:49.186Z",
+        "updated_at": "2026-11-25T12:22:20.408Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3501,
+    "fields": {
+        "question": 698,
+        "text": "Una petición del *Scrum master*",
+        "is_correct": false,
+        "created_at": "2026-11-25T12:22:43.368Z",
+        "updated_at": "2026-11-25T12:22:43.368Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3502,
+    "fields": {
+        "question": 699,
+        "text": "Requiere cambios radicales en los procesos existentes",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:34:34.980Z",
+        "updated_at": "2026-11-25T13:34:34.980Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3503,
+    "fields": {
+        "question": 699,
+        "text": "Se enfoca en mejorar gradualmente el flujo de trabajo actual",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:34:53.530Z",
+        "updated_at": "2026-11-25T13:34:53.530Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3504,
+    "fields": {
+        "question": 699,
+        "text": "Promueve cambios grandes y rápidos, para reducir el riesgo y la resistencia al cambio",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:35:56.104Z",
+        "updated_at": "2026-11-25T13:35:56.104Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3505,
+    "fields": {
+        "question": 699,
+        "text": "Persigue el cambio incremental y evolutivo",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:36:30.219Z",
+        "updated_at": "2026-11-25T13:36:30.219Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3506,
+    "fields": {
+        "question": 699,
+        "text": "Respeta los procesos, roles y responsabilidades actuales",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:36:40.058Z",
+        "updated_at": "2026-11-25T13:36:40.058Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3507,
+    "fields": {
+        "question": 699,
+        "text": "Se busca alterar la estructura organizativa existente, para mejorar la eficiencia dentro del marco actual",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:37:03.977Z",
+        "updated_at": "2026-11-25T13:37:03.977Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3508,
+    "fields": {
+        "question": 699,
+        "text": "Fomenta el liderazgo en todos los niveles",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:37:16.063Z",
+        "updated_at": "2026-11-25T13:37:16.063Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3509,
+    "fields": {
+        "question": 699,
+        "text": "Se anima a todos los miembros del equipo a tomar la iniciativa y contribuir a la mejora continua",
+        "is_correct": true,
+        "created_at": "2026-11-25T13:37:34.208Z",
+        "updated_at": "2026-11-25T13:38:03.459Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3510,
+    "fields": {
+        "question": 699,
+        "text": "LA responsabilidad del liderazgo y de la toma de iniciativas está claramente centralizada",
+        "is_correct": false,
+        "created_at": "2026-11-25T13:37:59.766Z",
+        "updated_at": "2026-11-25T13:37:59.766Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3511,
+    "fields": {
+        "question": 700,
+        "text": "De una columna a otra",
+        "is_correct": true,
+        "created_at": "2026-11-25T16:22:30.716Z",
+        "updated_at": "2026-11-25T16:22:30.716Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3512,
+    "fields": {
+        "question": 700,
+        "text": "A lo largo de una columna",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:22:42.455Z",
+        "updated_at": "2026-11-25T16:22:42.455Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3513,
+    "fields": {
+        "question": 700,
+        "text": "De un tablero a otro",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:22:49.934Z",
+        "updated_at": "2026-11-25T16:22:49.934Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3514,
+    "fields": {
+        "question": 700,
+        "text": "En cualquier dirección, excepto hacia arriba",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:23:29.680Z",
+        "updated_at": "2026-11-25T16:23:29.680Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3515,
+    "fields": {
+        "question": 700,
+        "text": "En cualquier dirección, excepto hacia la derecha",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:23:47.548Z",
+        "updated_at": "2026-11-25T16:23:47.548Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3516,
+    "fields": {
+        "question": 700,
+        "text": "En cualquier dirección, excepto hacia la izquierda",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:23:55.918Z",
+        "updated_at": "2026-11-25T16:23:55.918Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3517,
+    "fields": {
+        "question": 700,
+        "text": "En cualquier dirección, excepto hacia abajo",
+        "is_correct": false,
+        "created_at": "2026-11-25T16:24:12.732Z",
+        "updated_at": "2026-11-25T16:24:12.732Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3518,
+    "fields": {
+        "question": 701,
+        "text": "Gestionada manualmente, con llamadas a ``malloc()`` o ``calloc()`` y ``free()``",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:17:37.260Z",
+        "updated_at": "2026-11-25T17:18:58.774Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3519,
+    "fields": {
+        "question": 701,
+        "text": "Gestionada manualmente, con llamadas a ``new`` y ``delete``",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:18:45.565Z",
+        "updated_at": "2026-11-25T17:18:45.565Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3520,
+    "fields": {
+        "question": 701,
+        "text": "Gestionada automática con recolector de basura",
+        "is_correct": true,
+        "created_at": "2026-11-25T17:33:57.830Z",
+        "updated_at": "2026-11-25T17:40:06.532Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3521,
+    "fields": {
+        "question": 701,
+        "text": "Siempre usa una pila o ``Stack`` para las variables, por lo que la liberación de la memoria es implícita",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:34:48.309Z",
+        "updated_at": "2026-11-25T17:34:48.309Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3522,
+    "fields": {
+        "question": 701,
+        "text": "En Go es obligatorio el uso del patrón **RAII** (*Resource Acquisition Is Initialization*)",
+        "is_correct": false,
+        "created_at": "2026-11-25T17:40:01.619Z",
+        "updated_at": "2026-11-25T17:40:01.619Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3523,
+    "fields": {
+        "question": 702,
+        "text": "Puesta a disposición por medios electrónicos a través de la Dirección Electrónica Habilitada única (DEHú)",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:54:30.975Z",
+        "updated_at": "2026-11-26T12:54:30.975Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3524,
+    "fields": {
+        "question": 702,
+        "text": "Puesta a disposición en la sede electrónica o sede electrónica asociada del organismo emisor, cuando esta se encuentre integrada con la plataforma",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:54:46.567Z",
+        "updated_at": "2026-11-26T12:54:46.567Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3525,
+    "fields": {
+        "question": 702,
+        "text": "Entrega en soporte papel mediante los centros de impresión y ensobrado y los operadores postales integrados",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:54:54.976Z",
+        "updated_at": "2026-11-26T12:54:54.976Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3526,
+    "fields": {
+        "question": 702,
+        "text": "Todas las otras respuestas son correctas",
+        "is_correct": true,
+        "created_at": "2026-11-26T12:55:08.090Z",
+        "updated_at": "2026-11-26T12:55:08.090Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3527,
+    "fields": {
+        "question": 703,
+        "text": "Unicamente mediante una aplicación Web",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:57:45.863Z",
+        "updated_at": "2026-11-26T12:57:45.863Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3528,
+    "fields": {
+        "question": 703,
+        "text": "Unicamente mediante servicio Web",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:57:58.213Z",
+        "updated_at": "2026-11-26T12:57:58.213Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3529,
+    "fields": {
+        "question": 703,
+        "text": "Solo mediante la utilización de servicios de terceros",
+        "is_correct": false,
+        "created_at": "2026-11-26T12:58:24.827Z",
+        "updated_at": "2026-11-26T12:58:24.827Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3530,
+    "fields": {
+        "question": 703,
+        "text": "Mediante una plataforma Web o mediante un servicio Web",
+        "is_correct": true,
+        "created_at": "2026-11-26T12:59:11.020Z",
+        "updated_at": "2026-11-26T12:59:48.191Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3531,
+    "fields": {
+        "question": 703,
+        "text": "Mediante correo postal exclusivamente",
+        "is_correct": false,
+        "created_at": "2026-11-26T13:00:04.229Z",
+        "updated_at": "2026-11-26T14:49:16.297Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3532,
+    "fields": {
+        "question": 703,
+        "text": "Mediante correo electrónico exclusivamente",
+        "is_correct": false,
+        "created_at": "2026-11-26T13:00:19.791Z",
+        "updated_at": "2026-11-26T14:49:26.635Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3533,
+    "fields": {
+        "question": 704,
+        "text": "Solo la protección social",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:14:11.473Z",
+        "updated_at": "2026-11-26T22:14:11.474Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3534,
+    "fields": {
+        "question": 704,
+        "text": "La protección social y económica de la familia, pero no la jurídica",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:14:52.773Z",
+        "updated_at": "2026-11-26T22:15:51.107Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3535,
+    "fields": {
+        "question": 704,
+        "text": "La protección jurídica de la familia, pero no la social ni la económica",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:15:19.045Z",
+        "updated_at": "2026-11-26T22:15:42.407Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3536,
+    "fields": {
+        "question": 704,
+        "text": "La protección social, económica y jurídica de la familia",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:15:35.050Z",
+        "updated_at": "2026-11-26T22:15:35.050Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3537,
+    "fields": {
+        "question": 704,
+        "text": "La protección de la familia, solo si los progenitores están casados legalmente",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:18:05.673Z",
+        "updated_at": "2026-11-26T22:19:22.174Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3538,
+    "fields": {
+        "question": 704,
+        "text": "La protección de la familia, excluyendo a los hijos nacidos fuera del matrimonio",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:18:46.465Z",
+        "updated_at": "2026-11-26T22:19:33.737Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3539,
+    "fields": {
+        "question": 705,
+        "text": "Las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:34:38.151Z",
+        "updated_at": "2026-11-26T22:34:38.151Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3540,
+    "fields": {
+        "question": 705,
+        "text": "El derecho de los españoles a emigrar",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:36:01.203Z",
+        "updated_at": "2026-11-26T22:36:01.203Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3541,
+    "fields": {
+        "question": 705,
+        "text": "La ciencia y la investigación científica y técnica en beneficio del interés general",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:36:36.413Z",
+        "updated_at": "2026-11-26T22:54:47.181Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3542,
+    "fields": {
+        "question": 705,
+        "text": "La enseñanza de las distintas escuelas filosofícas como eje principal de la educación",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:37:24.739Z",
+        "updated_at": "2026-11-26T22:37:24.739Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3543,
+    "fields": {
+        "question": 705,
+        "text": "Las condiciones necesarias para hacer efectivo el derecho a disfrutar de una vivienda digna y adecuada",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:38:43.860Z",
+        "updated_at": "2026-11-26T22:55:17.878Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3544,
+    "fields": {
+        "question": 705,
+        "text": "Las condiciones para la participación libre y eficaz de la juventud en el desarrollo político, social, económico y cultural",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:39:08.713Z",
+        "updated_at": "2026-11-26T22:39:08.713Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3545,
+    "fields": {
+        "question": 705,
+        "text": "Una televisión pública veraz, imparcial y democrática",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:40:49.585Z",
+        "updated_at": "2026-11-26T22:40:49.586Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3546,
+    "fields": {
+        "question": 705,
+        "text": "El uso de la zona marítimo-terrestre, las playas, el mar territorial y los recursos naturales por parte de empresas particulares, en beneficio del interés general",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:54:01.508Z",
+        "updated_at": "2026-11-26T22:54:01.508Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3547,
+    "fields": {
+        "question": 705,
+        "text": "El acceso a la cultura, a la que todos tienen derecho",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:55:38.789Z",
+        "updated_at": "2026-11-26T22:55:38.789Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3548,
+    "fields": {
+        "question": 705,
+        "text": "La utilización del suelo para fomentar la especulación",
+        "is_correct": false,
+        "created_at": "2026-11-26T22:57:27.152Z",
+        "updated_at": "2026-11-26T22:57:27.152Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3549,
+    "fields": {
+        "question": 705,
+        "text": "Las condiciones favorables para el progreso social y económico y para una distribución de la renta regional y personal más equitativa",
+        "is_correct": true,
+        "created_at": "2026-11-26T22:59:14.628Z",
+        "updated_at": "2026-11-26T22:59:14.628Z"
+    }
+},
+{
+    "model": "questions.answer",
+    "pk": 3550,
+    "fields": {
+        "question": 705,
+        "text": "La retroactividad de las disposiciones sancionadoras restrictivas de derechos individuales",
+        "is_correct": false,
+        "created_at": "2026-11-26T23:00:34.514Z",
+        "updated_at": "2026-11-26T23:00:34.514Z"
+    }
+},
+{
     "model": "questions.score",
     "pk": 1,
     "fields": {
@@ -137400,6 +139559,104 @@
         "failures": 1,
         "created_at": "2026-11-24T21:41:55.865Z",
         "updated_at": "2026-11-24T21:41:58.365Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 634,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 698,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-25T12:23:29.239Z",
+        "updated_at": "2026-11-25T12:23:36.534Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 635,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 699,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-25T13:38:46.413Z",
+        "updated_at": "2026-11-25T13:38:54.802Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 636,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 700,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-25T16:24:21.920Z",
+        "updated_at": "2026-11-25T16:24:24.498Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 637,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 701,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-25T17:40:30.335Z",
+        "updated_at": "2026-11-25T17:40:36.568Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 638,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 703,
+        "tries": 3,
+        "failures": 1,
+        "created_at": "2026-11-26T13:00:33.597Z",
+        "updated_at": "2026-11-26T23:09:05.276Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 639,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 704,
+        "tries": 2,
+        "failures": 1,
+        "created_at": "2026-11-26T22:32:33.427Z",
+        "updated_at": "2026-11-26T22:32:38.367Z"
+    }
+},
+{
+    "model": "questions.score",
+    "pk": 640,
+    "fields": {
+        "user": [
+            "root"
+        ],
+        "question": 705,
+        "tries": 4,
+        "failures": 2,
+        "created_at": "2026-11-26T22:54:32.401Z",
+        "updated_at": "2026-11-26T23:01:19.564Z"
     }
 }
 ]
